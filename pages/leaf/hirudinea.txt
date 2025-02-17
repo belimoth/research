@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Annelida / Hirudinea
+-----------------------------------------------------------------------------------------------------
+http://en.wikipedia.org/wiki/Leech
+-----------------------------------------------------------------------------------------------------
+         |[ Hirudinea ]                                         leeches (parasitic)
+         |- ◦ Acanthobdella peledina                          ◦ --
+         |[ Euhriudinea ]                                       true leeches
+         |- Arhynchobdellida                                    proboscis-less leeches
+         |    |- • Americobdella valdiviana                   • --
+         |    |- Erpobdelliformes                               (not parisitic)
+         |    |    |- Erpobdellidae                             --
+         |    |    |    |- Dina                                 --
+         |    |    |    |- Erpobdella                           --
+         |    |    |    |- Motobdella                           --
+         |    |    |    |- Trocheta                             --
+         |    |    |- Gastrostomobdellidae                      --
+         |    |    |    |- Gastrostomobdella                    --
+         |    |    |    |- Kumabdella                           --
+         |    |    |- Orobdellidae                           14 --
+         |    |    |    |- ◦ Orobdella dolichopharynx         ◦ --
+         |    |    |    |- ◦ Orobdella esulcata               ◦ --
+         |    |    |    |- ◦ Orobdella ghilarovi              ◦ --
+         |    |    |    |- ◦ Orobdella ijimai                 ◦ --
+         |    |    |    |- ◦ Orobdella kawakatsuorum          ◦ --
+         |    |    |    |- ◦ Orobdella koikei                 ◦ --
+         |    |    |    |- ◦ Orobdella ketagalan              ◦ --
+         |    |    |    |- ◦ Orobdella koikei                 ◦ --
+         |    |    |    |- ◦ Orobdella masaakikuroiwai        ◦ --
+         |    |    |    |- ◦ Orobdella mononoke               ◦ --
+         |    |    |    |- ◦ Orobdella octonaria              ◦ --
+         |    |    |    |- ◦ Orobdella shimadae               ◦ --
+         |    |    |    |- ◦ Orobdella tsushimensis           ◦ --
+         |    |    |    |- ◦ Orobdella whitmani               ◦ --
+         |    |    |- Salifidae                                 --
+         |    |    |    |- Barbronia                          4 --
+         |    |    |    |    |- ◦ Barbronia assiuti           ◦ --
+         |    |    |    |    |- ◦ Barbronia delicata          ◦ --
+         |    |    |    |    |- ◦ Barbronia gwalagwalensis    ◦ --
+         |    |    |    |    |- • Barbronia weberi            • --
+         |    |    |    |- Linta                                --
+         |    |    |    |- Lumbricobdella                       --
+         |    |    |    |- Mimobdella                           --
+         |    |    |    |- Odontobdella                         --
+         |    |    |    |- Salifa                               --
+         |    |- Hirudiniformes                                 --
+         |- Rhynchobdellida                                     jawless leeches; freshwater leeches; proboscis leeches
+         |    |- Glossiphoniidae                                leaf leeches / freshwater jwaless leeches
+         |[ Oceanobdelliformes ]                                --
+         |- Piscicolidae                                        -- (ectoparasitic)
+         |- Ozobranchidae                                       --

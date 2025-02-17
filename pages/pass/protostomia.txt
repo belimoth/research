@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia
+-----------------------------------------------------------------------------------------------------
+         |[ Protostomia ]                                       protostomes
+ 663 mya |- * Ecdysozoa                                         ecdysozoans
+ 649 mya |[ Spiralia ]                                          --
+         |- Mesozoa                                             --
+         |- Platyzoa                                            --
+         |    |- Gastrotricha                                   --
+         |    |[ Gnathifera ]                                   --
+         |    |- Gnathostomalida                                --
+         |    |- Chaetognatha                                   --
+         |    |[ Rotifera ]                                     --
+         |    |- Acathrocephala                                 --
+ 550 mya |[ Lophoctrozoa ]                                      --
+         |- Cycliophora / Symbion                               --
+         |- Parenchymia                                         --
+         |    |- Platyhelminthes                                --
+         |    |- Nemertea                                       --
+         |- Lophophorata                                        --
+         |    |- Brachioza                                      --
+         |    |    |- Phoronida                                 --
+         |    |    |- Brachiopoda                               --
+         |    |- Endoprocta                                     bryozoa 1
+         |    |[ Tetraneuralia ]                                --
+         |    |- Ectoprocta                                     bryozoa 2
+ 543 mya |    |- * Mollusca                                     molluscs
+ 483 mya |- * Annelida                                          annelids / segmented worms

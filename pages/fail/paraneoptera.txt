@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Paraneoptera
+-----------------------------------------------------------------------------------------------------
+ 353 mya |[ Paraneoptera ]                                      --
+ 301 mya |- Psocodea                                     11,000 bark lice, book lice, parasitic lice
+         |    |- Trogiomorpha                                   --
+         |    |    |- Atropetae                                 --
+         |    |    |- Psyllipsocidae                            --
+         |    |    |[ Prionoglaridetae ]                        --
+         |    |- Psocomorpha                                    --
+         |    |    |- Homilopsocidea                            --
+         |    |    |- Caeciliusetae                             --
+         |    |    |- Psocetae                                  --
+         |    |    |- Epipsocetae                               --
+         |    |    |- Philotarsetae                             --
+         |    |    |- Archipsocetae                             --
+         |    |- Troctomorpha                                   --
+         |    |    |- Amphientometae                            --
+         |    |    |[ Nanopsocetae ]                            --
+         |    |    |- Pachytroctidae                            --
+         |    |    |- Sphaeropsocidae                           --
+         |    |    |- Liposcelididae                            --
+         |    |    |[ Phthiraptera ]                            parasitic lice
+         |    |    |- Philopteridae                             --
+ 105 mya |    |    |- Anoplura                                  --
+         |    |    |- Rhynchophthirina                          --
+         |    |    |- Trichodectidae                            --
+         |    |    |- Amblycera                                 --
+         |- Hemiptera                                   103,590 true bugs
+         |- Thysanoptera                                  5,864 thrips

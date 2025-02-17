@@ -1,0 +1,95 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Lagomorpha
+-----------------------------------------------------------------------------------------------------
+  51 mya |[ Lagomorpha ]                                    111 lagomorphs; rabbits, hares, pikas
+         |- Ochotonidae                                      37 pika family
+         |    |- † Prolagus                                   † sardinian pika
+         |    |- Ochotona                                    37 pikas
+  18 mya |[ Leporidae ]                                      74 leporids; rabbit, hare family
+         |- • Brachylagus idahoensis                          • pygmy rabbit
+         |- • Bunolagus monticularis                          • riverine rabbit
+         |- • Caprolagus hispidus                             • hispid hare / assam rabbit / bristly rabbit
+         |- • Oryctolagus                                     • european rabbit / domestic rabbit (domesticated)
+         |- • Pentalagus furnessi                             • amami rabbit
+         |- • Poelagus marjorita                              • bunyoro rabbit
+         |- • Romerolagus diazi                               • volcano rabbit / teporingo / zacatuche
+         |- Nesolagus                                         2 striped rabbits
+         |    |- • Nesolagus netscheri                        • sumatran striped rabbit
+         |    |- • Nesolagus timminsi                         • annamite striped rabbit
+  11 mya |- Sylvilagus                                       27 cottontail rabbits
+         |    |- • Sylvilagus bachmani                        • brush rabbit
+         |    |- • Sylvilagus audubonii                       • desert cottontail
+         |    |- • Sylvilagus cunicularius                    • mexican cottontail
+         |    |- • Sylvilagus floridanus                      • eastern cottontail
+         |    |- • Sylvilagus graysoni                        • tres marias cottontail
+         |    |- • Sylvilagus nuttallii                       • mountain cottontail
+         |    |- • Sylvilagus obscurus                        • appalachian cottontail
+         |    |- • Sylvilagus holzneri                        • robust cottontail
+         |    |- • Sylvilagus transitionalis                  • new england cottontail
+         |    |- • Sylvilagus andinus                         • andean tapeti
+         |    |- • Sylvilagus apollinaris                     • bogota tapeti
+         |    |- • Sylvilagus aquaticus                       • swamp rabbit
+         |    |- • Sylvilagus brasiliensis                    • common tapeti
+         |    |- • Sylvilagus daulensis                       • ecuadorian tapeti
+         |    |- • Sylvilagus dicei                           • dice's cottontail
+         |    |- • Sylvilagus fulvescens                      • fulvous tapeti
+         |    |- • Sylvilagus gabbi                           • central american tapeti
+         |    |- • Sylvilagus incitatus                       • northern tapeti
+         |    |- • Sylvilagus insonus                         • omilteme cottontail
+         |    |- • Sylvilagus nicefori                        • nicefor's tapeti
+         |    |- • Sylvilagus palustris                       • marsh rabbit
+         |    |- • Sylvilagus parentum                        • suriname tapeti
+         |    |- • Sylvilagus salentus                        • colombian tapeti
+         |    |- • Sylvilagus sanctaemartae                   • santa marta tapeti
+         |    |- • Sylvilagus surdaster                       • western tapeti
+         |    |- • Sylvilagus tapetillus                      • coastal tapeti
+         |    |- • Sylvilagus varynaensis                     • venezuelan lowland rabbit
+   6 mya |- Lepus                                            34 hares / jackrabbits
+         |    |- • Lepus altamirae                            • tamaulipas jackrabbit
+         |    |- • Lepus brachyurus                           • japanese hare
+         |    |- • Lepus californicus                         • black-tailed jackrabbit
+         |    |- • Lepus callotis                             • white-sided jackrabbit
+         |    |- • Lepus capensis                             • cape hare
+         |    |- • Lepus corsicanus                           • corsican hare
+         |    |- • Lepus flavigularis                         • tehuantepec jackrabbit
+         |    |- • Lepus granatensis                          • granada hare
+         |    |- • Lepus habessinicus                         • abyssinian hare
+         |    |- • Lepus oiostolus                            • wooly hare
+         |    |- • Lepus saharae                              • west sahara hare
+         |    |- • Lepus saxatilis                            • scrub hare
+         |    |- • Lepus townsendii                           • white-tailed jackrabbit
+         |    |- Macrotolagus                                 1 --
+         |    |    |- • Lepus alleni                          • antelope jackrabbit
+         |    |- Poecilolagus                                 1 --
+         |    |    |- • Lepus americanus                      • snowshoe hare
+         |    |- Lepus                                        3 --
+         |    |    |- • Lepus arcticus                        • artic hare
+         |    |    |- • Lepus othus                           • alaskan hare
+         |    |    |- • Lepus timidus                         • mountain hare
+         |    |- Proeulagus                                   3 --
+         |    |    |- • Lepus insularis                       • black jackrabbit
+         |    |    |- • Lepus tibertanus                      • desert hare
+         |    |    |- • Lepus tolai                           • tolai hare
+         |    |- Eulagos                                      6 --
+         |    |    |- • Lepus castroviejoi                    • broom hare
+         |    |    |- • Lepus comus                           • yunnan hare
+         |    |    |- • Lepus coreanus                        • korean hare
+         |    |    |- • Lepus eurpaeus                        • european hare
+         |    |    |- • Lepus mandshuricus                    • manchurian hare
+         |    |    |- • Lepus starcki                         • ethiopian highland hare
+         |    |- Sabanalagus                                  2 --
+         |    |    |- • Lepus fagani                          • ethiopian hare
+         |    |    |- • Lepus victoriae                       • african savanna hare
+         |    |- Indolagus                                    3 --
+         |    |    |- • Lepus hainanus                        • hainan hare
+         |    |    |- • Lepus nigricollis                     • indian hare
+         |    |    |- • Lepus peguensis                       • burmese hare
+         |    |- Sinolagus                                    1 --
+         |    |    |- • Lepus sinensis                        • chinese hare
+         |    |- Tarimolagus                                  1 --
+         |    |    |- • Lepus yarkandensis                    • yarkand hare
+   5 mya |- Pronolagus                                        4 red rock hares
+         |    |- • Pronolagus crassicadatus                   • natal red rock hare
+         |    |- • Pronolagus randensis                       • jameson's red rock hare
+         |    |- • Pronolagus rupestris                       • smith's red rock hare
+         |    |- • Pronolagus saundersiae                     • hewitt's red rock hare

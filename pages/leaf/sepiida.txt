@@ -1,0 +1,133 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Sepiida
+-----------------------------------------------------------------------------------------------------
+         |[ Sepiida ]                                       116 cuttlefish
+         |- Sepiadariidae                                     8 --
+         |    |- Sepiadarium                                  5 --
+         |    |    |- ◦ Sepiadarium auritum                   ◦ --
+         |    |    |- • Sepiadarium austrinum                 • southern bottletail squid
+         |    |    |- ◦ Sepiadarium gracilis                  ◦ --
+         |    |    |- ◦ Sepiadarium kochi                     ◦ tropical bottletail squid
+         |    |    |- ◦ Sepiadarium nipponianum               ◦ --
+         |    |- Sepioloidea                                  3 --
+         |    |    |- • Sepioloidea lineolata                 • striped pyjama squid / striped dumpling squid
+         |    |    |- ◦ Sepioloidea magna                     ◦ --
+         |    |    |- ◦ Sepioloidea pacifica                  ◦ pacific bobtail squid
+  85 mya |- Sepiidae                                        108 --
+         |    |- Metasepia                                    2 --
+         |    |    |- • Metasepia pfefferi                    • flamboyant cuttlefish
+         |    |    |- • Metasepia tullbergi                   • paintpot cuttlefish
+         |    |- Sepiella                                     7 --
+         |    |    |- ◦ Sepiella cyanea                       ◦ --
+         |    |    |- ◦ Sepiella inermis                      ◦ spineless cuttlefish
+         |    |    |- ◦ Sepiella japonica                     ◦ japanese spineless cuttlefish
+         |    |    |- ◦ Sepiella mangkangunga                 ◦ --
+         |    |    |- ◦ Sepiella ocellata                     ◦ --
+         |    |    |- ◦ Sepiella ornata                       ◦ ornate cuttlefish
+         |    |    |- ◦ Sepiella weberi                       ◦ --
+         |    |- Sepia                                       99 --
+         |    |    |- ◦ Sepia filibrachia                     ◦ --
+         |    |    |- ◦ Sepia mira                            ◦ --
+         |    |    |- ◦ Sepia plana                           ◦ --
+         |    |    |- ◦ Sepia senta                           ◦ --
+         |    |    |- ◦ Sepia subplana                        ◦ --
+         |    |    |- Acanthosepion                          12 --
+         |    |    |    |- ◦ Sepia aculeata                   ◦ needle cuttlefish
+         |    |    |    |- ◦ Sepia brevimana                  ◦ shortclub cuttlefish
+         |    |    |    |- • Sepia esculenta                  • golden cuttlefish
+         |    |    |    |- • Sepia lycidas                    • kisslip cuttlefish
+         |    |    |    |- • Sepia prashadi                   • hooded cuttlefish
+         |    |    |    |- ◦ Sepia recurvirostra              ◦ curvespine cuttlefish
+         |    |    |    |- ◦ Sepia savignyi                   ◦ broadback cuttlefish
+         |    |    |    |- ◦ Sepia smithi                     ◦ Smith's cuttlefish
+         |    |    |    |- ◦ Sepia stellifera                 ◦ --
+         |    |    |    |- ◦ Sepia thurstoni                  ◦ --
+         |    |    |    |- ◦ Sepia vecchioni                  ◦ --
+         |    |    |    |- ◦ Sepia zanzibarica                ◦ zanzibar cuttlefish
+         |    |    |- Anomalosepia                            3 --
+         |    |    |    |- • Sepia australis                  • southern cuttlefish
+         |    |    |    |- ◦ Sepia omani                      ◦ oman cuttlefish
+         |    |    |    |- ◦ Sepia sulcata                    ◦ grooved cuttlefish
+         |    |    |- Doratosepion                           40 --
+         |    |    |    |- ◦ Sepia adami                      ◦ --
+         |    |    |    |- ◦ Sepia andreana                   ◦ andrea cuttlefish
+         |    |    |    |- ◦ Sepia appellofi                  ◦ --
+         |    |    |    |- ◦ Sepia arabica                    ◦ arabian cuttlefish
+         |    |    |    |- ◦ Sepia aureomaculata              ◦ --
+         |    |    |    |- ◦ Sepia bathyalis                  ◦ --
+         |    |    |    |- ◦ Sepia bidhaia                    ◦ --
+         |    |    |    |- ◦ Sepia braggi                     ◦ slender cuttlefish
+         |    |    |    |- ◦ Sepia burnupi                    ◦ --
+         |    |    |    |- ◦ Sepia carinata                   ◦ --
+         |    |    |    |- ◦ Sepia confusa                    ◦ --
+         |    |    |    |- ◦ Sepia cottoni                    ◦ --
+         |    |    |    |- ◦ Sepia elongata                   ◦ --
+         |    |    |    |- ◦ Sepia erostrata                  ◦ --
+         |    |    |    |- ◦ Sepia foliopeza                  ◦ --
+         |    |    |    |- ◦ Sepia incerta                    ◦ --
+         |    |    |    |- ◦ Sepia ivanovi                    ◦ --
+         |    |    |    |- ◦ Sepia joubini                    ◦ --
+         |    |    |    |- ◦ Sepia kobiensis                  ◦ kobi cuttlefish
+         |    |    |    |- ◦ Sepia koilados                   ◦ --
+         |    |    |    |- ◦ Sepia limata                     ◦ --
+         |    |    |    |- ◦ Sepia longipes                   ◦ longarm cuttlefish
+         |    |    |    |- ◦ Sepia lorigera                   ◦ spider cuttlefish
+         |    |    |    |- ◦ Sepia mascarensis                ◦ --
+         |    |    |    |- ◦ Sepia mirabilis                  ◦ --
+         |    |    |    |- ◦ Sepia murrayi                    ◦ frog cuttlefish
+         |    |    |    |- ◦ Sepia pardex                     ◦ --
+         |    |    |    |- ◦ Sepia peterseni                  ◦ --
+         |    |    |    |- ◦ Sepia rhoda                      ◦ --
+         |    |    |    |- ◦ Sepia saya                       ◦ --
+         |    |    |    |- ◦ Sepia sewelli                    ◦ --
+         |    |    |    |- ◦ Sepia sokotriensis               ◦ --
+         |    |    |    |- ◦ Sepia subtenuipes                ◦ --
+         |    |    |    |- ◦ Sepia tala                       ◦ --
+         |    |    |    |- ◦ Sepia tanybracheia               ◦ --
+         |    |    |    |- ◦ Sepia tenuipes                   ◦ --
+         |    |    |    |- ◦ Sepia tokioensis                 ◦ --
+         |    |    |    |- • Sepia trygonina                  • trident cuttlefish
+         |    |    |    |- ◦ Sepia vercoi                     ◦ --
+         |    |    |    |- ◦ Sepia vietnamica                 ◦ --
+         |    |    |- Hemisepius                              5 --
+         |    |    |    |- ◦ Sepia dubia                      ◦ --
+         |    |    |    |- ◦ Sepia faurei                     ◦ --
+         |    |    |    |- ◦ Sepia pulchra                    ◦ --
+         |    |    |    |- ◦ Sepia robsoni                    ◦ --
+         |    |    |    |- ◦ Sepia typica                     ◦ --
+         |    |    |- Rhombosepion                           10 --
+         |    |    |    |- ◦ Sepia acuminata                  ◦ --
+         |    |    |    |- ◦ Sepia cultrata                   ◦ knifebone cuttlefish
+         |    |    |    |- ◦ Sepia elegans                    ◦ elegant cuttlefish
+         |    |    |    |- ◦ Sepia hedleyi                    ◦ hedley's cuttlefish
+         |    |    |    |- ◦ Sepia hieronis                   ◦ --
+         |    |    |    |- ◦ Sepia madokai                    ◦ madokai's cuttlefish
+         |    |    |    |- ◦ Sepia orbignyana                 ◦ pink cuttlefish
+         |    |    |    |- ◦ Sepia reesi                      ◦ --
+         |    |    |    |- ◦ Sepia rex                        ◦ --
+         |    |    |    |- ◦ Sepia vossi                      ◦ --
+         |    |    |- Sepia                                  24 --
+         |    |    |    |- • Sepia apama                      • giant cuttlefish / giant australian cuttlefish
+         |    |    |    |- • Sepia bandensis                  • dwarf cuttlefish /  stumpy-spined cuttlefish
+         |    |    |    |- ◦ Sepia bertheloti                 ◦ african cuttlefish
+         |    |    |    |- ◦ Sepia chirotrema                 ◦ --
+         |    |    |    |- ◦ Sepia dollfusi                   ◦ --
+         |    |    |    |- ◦ Sepia elobyana                   ◦ guinean cuttlefish
+         |    |    |    |- ◦ Sepia gibba                      ◦ --
+         |    |    |    |- • Sepia hierredda                  • giant african cuttlefish
+         |    |    |    |- ◦ Sepia insignis                   ◦ --
+         |    |    |    |- ◦ Sepia irvingi                    ◦ --
+         |    |    |    |- • Sepia latimanus                  • broadclub cuttlefish
+         |    |    |    |- • Sepia mestus                     • red cuttlefish / reaper cuttlefish
+         |    |    |    |- ◦ Sepia novaehollandiae            ◦ new holland cuttlefish
+         |    |    |    |- • Sepia officinalis                • common cuttlefish / european common cuttlefish
+         |    |    |    |- ◦ Sepia papillata                  ◦ --
+         |    |    |    |- ◦ Sepia papuensis                  ◦ papuan cuttlefish
+         |    |    |    |- • Sepia pharaonis                  • pharaoh cuttlefish
+         |    |    |    |- ◦ Sepia plangon                    ◦ mourning cuttlefish
+         |    |    |    |- ◦ Sepia plathyconchalis            ◦ --
+         |    |    |    |- ◦ Sepia ramani                     ◦ --
+         |    |    |    |- ◦ Sepia rozella                    ◦ rosecone cuttlefish
+         |    |    |    |- ◦ Sepia simoniana                  ◦ --
+         |    |    |    |- ◦ Sepia tuberculata                ◦ --
+         |    |    |    |- ◦ Sepia vermiculata                ◦ patchwork cuttlefish

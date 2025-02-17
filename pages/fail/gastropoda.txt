@@ -1,0 +1,159 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Gastropoda
+-----------------------------------------------------------------------------------------------------
+ 476 mya |[ Gastropoda ]                                 80,000 gastropods
+         |- Vetigastropoda                                      --
+         |- Patellogastropoda                                   true limpets
+         |[ Adenogonogastropoda ]                               --
+         |- Neritimorpha                                  2,000 sea snails, limpets, freshwater snails, land snails and slugs, esp nerite snails
+         |[ Apogastropoda ]                                     --
+         |- Caenogastropoda                                     periwinkles, cowries, wentletraps, moon snails, murexes, cone snails and turrids
+ 260 mya |[ Heterobranchia ]                                    --
+         |- Allogastropoda                                      "lower heterobranchia"
+ 242 mya |[ Euthyneura ]                                        --
+         |- Acteonacea                                          --
+         |    |- Rissoelloidea                                  --
+         |    |- Acteonoidea                                    --
+         |- Ringipleura                                         --
+         |    |- Ringiculoidea / Ringiculidae                   --
+>149 mya |    |- Nudipleura                                     --
+         |    |    |- Pleurobranchomorpha / Pleurobranchidae    --
+>149 mya |    |    |- Nudibranchia                        3,000 nudibranchs
+         |    |    |    |- Doridina / Anthobranchia             dorids; dorid nudibranchs
+         |    |    |    |- Dexiarchia                           --
+         |    |    |    |    |- Doridoxida                      dorodoxids; dorodoxid nudibranchs
+         |    |    |    |    |- Cladobranchia                   --
+         |    |    |    |    |    |- Euarminida                 --
+         |    |    |    |    |    |- Dendronotida               --
+         |    |    |    |    |    |- Aeolidida                  aeolids; aeolid nudibranchs
+         |[ Tectipleura ]                                       --
+         |- Euopisthobranchia                                   --
+ 236 mya |[ Panpulmonata ]                                      snails and slugs
+         |- etc                                                 --
+ 189 mya |[ Eupulmonata ]                                       air-breathing snails, mostly terrestrial, some intertidal or coastal
+         |- Ellobiida / Ellobioidea                             --
+         |    |- Ellobiidae                                     hollow-shelled snails
+         |    |- Otinidae / Otina                             1 --
+         |    |- Trimusculidae / Trimusculus                 15 button snails
+ 120 mya |- Systellommatophora                                  primitive air-breathing slugs, marine and terrestrial
+         |    |- Onchidioidea / Onchidiidae                     primarily marine
+         |    |[ Veronicelloidea ]                              primarily terrestrial
+         |    |- Veronicellidae                                 leatherleaf slugs
+         |    |- Rathouisiidae                                  --
+         |[ Stylommatophora ]                            20,500 --
+         |- Elasmognatha                                        --
+         |    |- Succineoidea                                   --
+         |    |- Athoracophoroidea                              --
+         |- Orthurethra                                         --
+         |    |- Partuloidea                                    --
+         |    |- Achatinelloidea                                --
+         |    |- Cochlicopoidea                                 --
+         |    |- Pupilloidea / Enoidea                          small and very small air-breathing terrestrial snails
+         |[ Sigmurethra ]                                       --
+         |- Clausilioidea                                       --
+         |- Orthalicoidea                                       --
+         |- Achatinoidea                                        --
+         |- Aillyoidea                                          --
+         |- Testacelloidea                                      --
+         |- Papillodermatoidea                                  --
+         |- Streptaxoidea                                       --
+         |- Rhytidoidea                                         --
+         |- Acavoidea                                           --
+         |- Punctoidea                                          --
+         |- Sagdoidea                                           --
+         |- Limacoidei                                          --
+         |    |- Staffordioidea                                 --
+         |    |- Dyakioidea                                     --
+         |    |- Gastrodontoidea                                --
+         |    |- Parmacelloidea                                 --
+         |    |- Zonitoidea                                     --
+         |    |- Helicarionoidea                                --
+         |    |- Limacoidea                                     --
+         |- Arionoidea                                          --
+         |- Helicoidea                                          --
+         |    |- Cepolidae                                      --
+         |    |- Labyrinthidae                                  --
+         |    |- Thysanophoridae                                --
+         |    |[ unnamed ]                                      --
+         |    |- Camaenidae                                     --
+         |    |- Polygyridae                                    --
+         |    |- Helicidae                                      --
+         |    |- Elonidae                                       --
+         |    |- Trissexodontidae                               --
+         |    |- Helicodontidae                                 --
+         |    |- Sphincterochilidae                             --
+         |    |- Geomitridae                                    --
+         |    |- Canariellidae                                  --
+         |    |- Hygromiidae                                    --
+         |    |- Pleurodontidae                                 --
+         |    |- Trichodiscinidae                               --
+         |    |- Xanthonychidae                                 air-breathing terrestrial snails
+         |    |    |- Echinichinae                              semi-slugs
+         |    |    |    |- ◦ Echinix ochracea                 ◦ --
+         |    |    |    |- ◦ Echinix granulata                ◦ --
+         |    |    |    |- ◦ Echinix rugosa                   ◦ --
+         |    |    |- Lysinoinae                                --
+         |    |    |- Monadeniinae                              --
+         |    |    |- Humboldtianinae                           --
+         |    |    |- Helminthoglyptinae                        --
+         |    |    |- Epiphragmophorinae                        --
+         |    |    |    |- ◦ Minaselates paradoxa             ◦ --
+         |    |    |    |- Angrandiella                       ? --
+         |    |    |    |- Dinotropis                         ? --
+         |    |    |    |- Doeringina                         ? --
+         |    |    |    |- Pilsbrya                           ? --
+         |    |    |    |[ Epiphragmophora ]                 54 --
+         |    |    |    |- ◦ Epiphragmophora alsophila        ◦ --
+         |    |    |    |- ◦ Epiphragmophora angrandi         ◦ --
+         |    |    |    |- ◦ Epiphragmophora argentina        ◦ --
+         |    |    |    |- ◦ Epiphragmophora atahualpa        ◦ --
+         |    |    |    |- ◦ Epiphragmophora audouini         ◦ --
+         |    |    |    |- ◦ Epiphragmophora basiplanata      ◦ --
+         |    |    |    |- ◦ Epiphragmophora birabeni         ◦ --
+         |    |    |    |- ◦ Epiphragmophora cerrateae        ◦ --
+         |    |    |    |- ◦ Epiphragmophora costellata       ◦ --
+         |    |    |    |- ◦ Epiphragmophora cryptomphala     ◦ --
+         |    |    |    |- ◦ Epiphragmophora clausomphalos    ◦ --
+         |    |    |    |- ◦ Epiphragmophora escoipensis      ◦ --
+         |    |    |    |- ◦ Epiphragmophora estella          ◦ --
+         |    |    |    |- ◦ Epiphragmophora farrisi          ◦ --
+         |    |    |    |- ◦ Epiphragmophora granulosa        ◦ --
+         |    |    |    |- ◦ Epiphragmophora gueinzii         ◦ --
+         |    |    |    |- ◦ Epiphragmophora guevarai         ◦ --
+         |    |    |    |- ◦ Epiphragmophora haasi            ◦ --
+         |    |    |    |- ◦ Epiphragmophora hemiclausa       ◦ --
+         |    |    |    |- ◦ Epiphragmophora hemiophalus      ◦ --
+         |    |    |    |- ◦ Epiphragmophora hieronymi        ◦ --
+         |    |    |    |- ◦ Epiphragmophora higginsi         ◦ --
+         |    |    |    |- ◦ Epiphragmophora huancabambensis  ◦ --
+         |    |    |    |- ◦ Epiphragmophora huanucensis      ◦ --
+         |    |    |    |- ◦ Epiphragmophora jaspidea         ◦ --
+         |    |    |    |- ◦ Epiphragmophora jujuyensis       ◦ --
+         |    |    |    |- ◦ Epiphragmophora lentiformis      ◦ --
+         |    |    |    |- ◦ Epiphragmophora leucobasis       ◦ --
+         |    |    |    |- ◦ Epiphragmophora llaguenica       ◦ --
+         |    |    |    |- ◦ Epiphragmophora macasi           ◦ --
+         |    |    |    |- ◦ Epiphragmophora mirabilis        ◦ --
+         |    |    |    |- ◦ Epiphragmophora olssoni          ◦ --
+         |    |    |    |- ◦ Epiphragmophora ormeai           ◦ --
+         |    |    |    |- ◦ Epiphragmophora orophila         ◦ --
+         |    |    |    |- ◦ Epiphragmophora oroyensis        ◦ --
+         |    |    |    |- ◦ Epiphragmophora oresigena        ◦ --
+         |    |    |    |- ◦ Epiphragmophora parodizi         ◦ --
+         |    |    |    |- ◦ Epiphragmophora proseni          ◦ --
+         |    |    |    |- ◦ Epiphragmophora puella           ◦ --
+         |    |    |    |- ◦ Epiphragmophora puntana          ◦ --
+         |    |    |    |- ◦ Epiphragmophora quirogai         ◦ --
+         |    |    |    |- ◦ Epiphragmophora rhathymos        ◦ --
+         |    |    |    |- ◦ Epiphragmophora saltana          ◦ --
+         |    |    |    |- ◦ Epiphragmophora taulisensis      ◦ --
+         |    |    |    |- ◦ Epiphragmophora tomsici          ◦ --
+         |    |    |    |- ◦ Epiphragmophora trenquelleonis   ◦ --
+         |    |    |    |- ◦ Epiphragmophora trifasciata      ◦ --
+         |    |    |    |- ◦ Epiphragmophora trigrammephora   ◦ --
+         |    |    |    |- ◦ Epiphragmophora tucumanensis     ◦ --
+         |    |    |    |- ◦ Epiphragmophora variegata        ◦ --
+         |    |    |    |- ◦ Epiphragmophora villavilensis    ◦ --
+         |    |    |    |- ◦ Epiphragmophora walshi           ◦ --
+         |    |    |    |- ◦ Epiphragmophora webbi            ◦ --
+         |    |    |    |- ◦ Epiphragmophora zilchi           ◦ --

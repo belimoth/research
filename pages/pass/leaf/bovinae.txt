@@ -1,0 +1,58 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Bovinae
+-----------------------------------------------------------------------------------------------------
+  16 mya |[ Bovinae ]                                        35 bovines
+         |- Bovini                                           14 wild cattle; bisons, buffalos, cattle, etc
+         |    |- Pseudorygina / Pseydoryx                     1 saola / spindlehorn
+         |    |- Bubalina                                     6 true buffalo
+         |    |    |- Syncerus                                1 african buffalo
+         |    |    |    |- † Syncerus antiquus                † african giant buffalo
+         |    |    |    |- • Syncerus caffer                  • cape buffalo
+         |    |    |    |- • Syncerus caffer nanus            • african forest buffalo / dwarf buffalo (subspecies of cape buffalo)
+         |    |    |[ Bubalus ]                               5 anoas and water buffalo
+         |    |    |- • Bubalus depressicornis                • lowland anoa
+         |    |    |- • Bubalus quarlesi                      • mountain anoa
+         |    |    |- • Bubalus mindorensis                   • tamaraw
+         |    |    |- • Bubalus arnee                         • wild water buffalo
+         |    |    |- • Bubalus bubalis                       • domestic water buffalo (domesticated)
+         |    |[ Bovinia ]                                    7 --
+         |    |[ Bos ]                                        7 cattle
+         |    |- • Bos javanicus                              • banteng / tembadau
+         |    |- • Bos gaurus                                 • gaur / indian bison
+         |    |- • Bos sauveli                                • kouprey / forest ox
+         |    |[ unnamed ]                                    4 --
+         |    |- • Bos mutus                                  • wild yak
+         |    |- • Bos mutus grunniens                        • domestic yak (subspecies) (domesticated)
+         |    |- Bison                                        2 bison
+         |    |    |- • Bison bison                           • american bison
+         |    |    |- • Bison bonasus                         • european bison / wisent / zubr
+         |    |- † Bos primigenius                            † auroch
+         |    |- • Bos taurus                                 • domestic cattle (subspecies) (domesticated)
+         |- Boselaphini                                       2 --
+         |    |- • Boselaphus tragocamelus                    • nilgai
+         |    |- • Tetracerus quadricornis                    • four-horned antelope
+         |[ Tragelaphini ]                                   19 spiral-horned antelopes; bushbucks, kudus, elands, nyalas
+         |- Ammelaphus                                        2 lesser kudus
+         |    |- • Ammelaphus imberbis                        • northern lesser kudu
+         |    |- • Ammelaphus australis                       • southern lesser kudu
+         |- • Nyala angasii                                   • lowland nyala
+         |- Taurotragus                                       2 elands
+         |    |- • Taurotragus derbianus                      • giant eland
+         |    |- • Taurotragus oryx                           • common eland
+         |- Strepsiceros                                      4 greater kudus
+         |    |- • Strepsiceros strepsiceros                  • Cape greater kudu
+         |    |- • Strepsiceros zambesiensis                  • Zambezi greater kudu
+         |    |- • Strepsiceros chora                         • northern greater kudu
+         |    |- • Strepsiceros cottoni                       • western greater kudu
+         |[ Tragelaphus ]                                    10 --
+         |- • Tragelaphus scriptus                            • western bushbuck
+         |- • Tragelaphus sylvaticus                          • cape bushbuck
+         |- • Tragelaphus buxtoni                             • mountain nyala
+         |- • Tragelaphus euryceros                           • bongo
+         |[ unnamed ]                                         6 sitatungas
+         |- • Tragelaphus spekii                              • east african sitatunga
+         |- • Tragelaphus sylvestris                          • nkosi island sitatunga
+         |- • Tragelaphus larkenii                            • nile sitatunga
+         |- • Tragelaphus ugallae                             • tanzanian sitatunga
+         |- • Tragelaphus gratus                              • western sitatunga
+         |- • Tragelaphus selousi                             • zambezi sitatunga

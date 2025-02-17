@@ -1,0 +1,322 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Aves
+-----------------------------------------------------------------------------------------------------
+ 108 mya |[ Aves ]                                              birds
+  65 mya |- * Palaeognathae                                  59 paleognaths
+  91 mya |[ Neognatha ]                                  10,000 neognaths
+  83 mya |- * Galloanserae                                      fowl
+         |[ Neoaves ]                                           --
+         |- * Mirandornithes                                    grebes, flamingos
+         |- Columbea                                            --
+         |    |[ Columbaves ]                                   --
+         |    |- Otidimorphae                                   --
+         |    |    |- Musophagiformes                           turacos
+         |    |    |- Otidiformes                               bustards, floricans, korhaans
+  55 mya |    |    |- Cuculiformes                              cuckoos, roadrunners, etc
+         |    |[ Columbimorphae ]                               --
+  24 mya |    |- Pterocliformes                                 sand grouse
+  23 mya |    |- Mesitornithiformes                             mesites
+  46 mya |    |[ Columbiformes / Columbidae ]                   doves and pigeons
+         |    |- Claravinae                                     american ground doves
+         |    |- Raphinae                                       --
+         |    |[ Columbinae ]                                   typical doves and pigeons
+         |    |- Zenaidini                                      quail-doves, etc
+         |    |    |- Geotrygon (10 species)
+         |    |    |- Starnoenas (blue-headed quail-dove)
+         |    |    |- Leptotrygon (olive-backed quail-dove)
+         |    |    |- Leptotila (11 species)
+         |    |    |- Zenaida (7 species)
+         |    |    |- Zentrygon (8 species)
+         |    |[ Columbini ]                                    --
+         |    |- † Ectopistes (passenger pigeon; extinct 1914)
+         |    |- Patagioenas (American pigeons, 17 species)
+         |    |- Reinwardtoena (3 species)
+         |    |- Turacoena (3 species)
+         |    |- Macropygia (typical cuckoo-doves, 15 species)
+         |    |- Streptopelia (turtle doves and collared doves, 13 species)
+         |    |- Spilopelia (2 species)
+         |    |- Nesoenas (3 species)
+  21 mya |    |[ Columba ]                                      old world pigeons
+         |    |-
+         |[ Passerea ]                                          --
+         |- * Elementaves                                       --
+         |[ Telluraves ]                                        land birds
+         |- Afroaves                                            --
+         |    |- Hieraves                                       --
+  67 mya |    |    |- Strigiformes                              owls
+         |    |    |    |- Strigidae                            true owls
+  29 mya |    |    |    |- Tytonidae                         17 bay owls, barn owls
+         |    |    |    |    |- • Phodilus badius             • oriental bay owl
+         |    |    |    |    |- • Phodilus assimilis          • sri lankan bay owl
+  12 mya |    |    |    |    |[ Tyto ]                       15 --
+         |    |    |    |    |- • Tyto inexspectata           • sulawesi owl / sulawesi golden owl / minahasa masked owl
+         |    |    |    |    |- • Tyto longimembris           • eastern grass owl / chinese grass owl / australasian grass owl
+         |    |    |    |    |- • Tyto capensis               • grass owl / african grass owl
+         |    |    |    |    |- • Tyto tenebricosa            • sooty owl / greater sooty owl
+         |    |    |    |    |- • Tyto multipunctata          • lesser sooty owl
+         |    |    |    |    |- • Tyto aurantia               • bismarck owl / bismarck masked owl / golden masked owl
+         |    |    |    |    |- • Tyto sororcula              • lesser masked owl / moluccan masked owl
+         |    |    |    |    |- • Tyto novaehollandiae        • masked owl / australian masked owl / australasian masked owl
+         |    |    |    |    |- • Tyto soumagnei              • red owl / madagascar red owl / lesser grass owl / madagascar grass owl
+         |    |    |    |    |- • Tyto rosenbergii            • sulawesi masked owl
+         |    |    |    |    |- • Tyto javanica               • eastern barn owl
+         |    |    |    |    |- • Tyto nigrobrunnea           • taliabu owl / taliabu masked owl
+         |    |    |    |    |- • Tyto alba                   • western barn owl
+         |    |    |    |    |- • Tyto glaucops               • ashy-faced owl
+         |    |    |    |    |- • Tyto furcata                • american barn owl
+         |    |    |[ Accipitrimorphae ]                        --
+         |    |    |- Cathartiformes                          7 condors / new world vultures
+         |    |    |    |- † Teratornithidae                  † teratorns
+  14 mya |    |    |    |[ Cathartidae ]                      7 --
+         |    |    |    |- • Coragyps atratus                 • black vulture
+         |    |    |    |- • Gymnogyps californianus          • california condor
+         |    |    |    |- • Sarcoramphus papa                • king vulture
+         |    |    |    |- • Vultur gryphus                   • andean condor
+   3 mya |    |    |    |[ Cathartes ]                        3 --
+         |    |    |    |- • Cathartes aura                   • turkey vulture
+         |    |    |    |- • Cathartes burrovianus            • savannah vulture / lesser yellow-headed vulture
+         |    |    |    |- • Cathartes melambrotus            • forest vulture / greater yellow-headed vulture
+         |    |    |- Accipitriformes                           hawks & relatives
+         |    |    |    |- Sagittariidae                      1 --
+         |    |    |    |    |- • Sagittarius serpentarius    • secretary bird
+         |    |    |    |- Pandionidae                        1 --
+         |    |    |    |    |- • Pandion haliaetus           • osprey
+  45 mya |    |    |    |[ Accipitridae ]                       accipitrids
+         |    |    |    |- Elaninae                           6 elanine kites
+         |    |    |    |    |- • Gampsonyx swainsonii        • pearl kite
+         |    |    |    |    |- • Chelictinia riocourii       • scissor-tailed kite
+         |    |    |    |    |[ Elanus ]                      4 --
+         |    |    |    |    |- • Elanus caeruleus            • black-winged kite
+         |    |    |    |    |- • Elanus axillaris            • black-shouldered kite
+         |    |    |    |    |- • Elanus leucurus             • white-tailed kite
+         |    |    |    |    |- • Elanus scriptus             • letter-winged kite
+         |    |    |    |- Polyboroidinae                     2 african harrier-hawks
+         |    |    |    |    |- • Polyboroides typus          • gymnogene / african harrier-hawk
+         |    |    |    |    |- • Polyboroides radiatus       • madagascar harrier-hawk
+         |    |    |    |- Gypaetinae                         3 old world vultures 1
+         |    |    |    |    |- • Gypaetus barbatus           • ossifrage / lammergeier / bearded vulture
+         |    |    |    |    |- • Gypohierax angolensis       • palm-nut vulture / vulturine fish-eagle
+         |    |    |    |    |- • Neophron percnopterus       • egyptian vulture / white scavenger vulture
+         |    |    |    |- Perninae
+         |    |    |    |    |- • Eutriorchis astur                • madagascar serpent eagle
+         |    |    |    |    |- • Elanoides forficatus             • swallow-tailed kite
+         |    |    |    |    |- • Hamirostra melanosternon         • black-breasted buzzard
+         |    |    |    |    |- • Lophoictinia isura               • square-tailed kite
+         |    |    |    |    |- Chondrohierax                      2 --
+         |    |    |    |    |    |- • Chondrohierax uncinatus     • hook-billed kite
+         |    |    |    |    |    |- ◦ Chondrohierax uncinatus     ◦ cuban kite
+         |    |    |    |    |- Leptodon                           2 --
+         |    |    |    |    |    |- • Leptodon cayanensis         • grey-headed kite
+         |    |    |    |    |    |- • Leptodon forbesi            • white-collared kite
+         |    |    |    |    |- Aviceda                              bazas / cuckoo-hawks
+         |    |    |    |    |    |-
+         |    |    |    |    |- Henicopernis                       2 --
+         |    |    |    |    |    |- • Henicopernis longicauda     • long-tailed honey buzzard
+         |    |    |    |    |    |- • Henicopernis infuscatus     • black honey buzzard
+         |    |    |    |    |[ Pernis ]                           4 honey buzzards
+         |    |    |    |    |- • Pernis apivorus                  • european honey buzzard
+         |    |    |    |    |- • Pernis ptilorhynchus             • crested honey buzzard
+         |    |    |    |    |- • Pernis celebensis                • barred honey buzzard
+         |    |    |    |    |- • Pernis steerei                   • philippine honey buzzard
+         |    |    |    |-
+         |    |    |    |-
+         |    |    |    |-
+         |    |    |    |-
+         |    |    |    |-
+         |    |[ Coraciimorphae ]
+         |    |- Coliiformes                                    mousebirds
+         |    |[ Cavitaves ]                                    --
+         |    |- Leptosomiformes                                cuckoo roller
+         |    |[ Eucavitaves ]
+         |    |- Trogoniformes                                  trogons & quetzals
+         |    |[ Picocoraciae ]
+         |    |- Bucerotiformes                                 hornbills & hoopoes
+         |    |[ Picodynastornithes ]
+         |    |- Coraciiformes                                  kingfishers, etc
+         |    |- Piciformes                                     woodpeckers, toucans, barbets, etc
+         |[ Australaves ]                                       --
+         |- Cariamiformes                                       seriemas & terror birds
+         |[ Eufalconimorphae ]                                  --
+         |- Falconiformes                                       falcons
+         |- Psittaciformes                                      parrots
+  40 mya |[ Passeriformes ]                                     passerines / perching birds
+         |- Acanthisitti                                        new zealand wrens
+         |[ Eupasseres ]                                        --
+         |- Tyranni                                       1,000 suboscines
+         |    |- Eurylaimides                                   astites, broadbill
+         |    |[ Tyrannides ]                                   --
+         |    |- Furnariida                                     --
+         |    |    |- Melanopareiidae                         5 crescentchests
+         |    |    |- Conopophagidae                         12 gnateaters
+         |    |    |- Thamnophilidae                        238 antbirds
+         |    |    |- Grallariidae                           68 antpittas
+         |    |    |- Rhinocryptidae                         65 tapaculos
+         |    |    |- Formicariidae                          12 antthrushes
+         |    |    |- Furnariidae                           315 ovenbirds
+         |    |[ Tyrannida ]                                    --
+         |    |- Pipridae                                    55 manakins
+         |    |- Cotingidae                                  66 cotingas
+         |    |- Tityridae                                   45 tityras, becards
+         |    |- Tyrannidae                                 447 tyrant flycatchers
+         |[ Passeri ]                                           oscines / songbirds
+         |- Menuroidea                                          --
+         |    |- Menuridae                                    2 lyrebirds
+         |    |- Atrichornithidae                             2 scrubbirds
+         |- Climacteridae                                     7 australian treecreepers
+         |- Ptilonorhynchidae                                27 bowerbirds
+         |- Meliphagoidea                                       --
+         |    |- Maluridae                                      australasian wrens
+         |    |- Dasyornithidae                                 bristlebirds
+         |    |- Pardalotidae                                   pardalotes
+         |    |- Acanthizidae                                   australasian warblers
+         |    |- Meliphagidae                                   honeyeaters
+         |- Pomatostomidae                                      australasian babblers
+         |- Orthonychidae                                       logrunners
+         |- Corvides                                            --
+         |    |- Cinclosomatidae                                quail-thrushes, jewel-babblers
+         |    |- Campephagidae                                  cuckooshrikes
+         |    |- Mohouidae                                      whitehead & allies
+         |    |- Neosittidae                                    sittellas
+         |    |- Psophodidae                                    whipbirds & allies
+         |    |- Eulacestomidae                                 ploughbill
+         |    |- Falcunculidae                                  shriketits
+         |    |- Oreoicidae                                     australo-papuan bellbirds
+         |    |- Paramythiidae                                  painted berrypickers
+         |    |- Vireonidae                                     vireos
+         |    |- Pachycephalidae                                whistlers
+         |    |- Oriolidae                                      orioles, figbirds
+         |    |- Machaerirhynchidae                             boatbills
+         |    |- Artamidae                                      woodswallows, butcherbirds
+         |    |- Rhagologidae                                   mottled berryhunter
+         |    |- Malaconotidae                                  bush-shrikes, puffbacks
+         |    |- Pityriaseidae                                  bristlehead
+         |    |- Aegithinidae                                   loras
+         |    |- Platysteiridae                                 wattle-eyes, batsies
+         |    |- Vangidae                                       vangas
+         |    |[ Corvoidea ]                                    --
+         |    |- Rhipiduridae                                   fantails
+         |    |- Dicruridae                                     drongos
+         |    |- Monarchidae                                    monarchs
+         |    |- Ifritidae                                      ifrit
+         |    |- Paradisaeidae                                  birds-of-paradise
+         |    |- Corcoracidae                                   australian mudnesters
+         |    |- Melampittidae                                  melampittas
+         |    |- Laniidae                                       shrikes
+         |    |- Platylophidae                                  crested jayshrike
+         |    |[ Corvidae ]                                     corvids
+         |    |- Pyrrhocoracinae / Pyrrhocorax                  choughs
+         |    |- Crypsirininae                                  treepies
+         |    |- Cissinae                                       --
+         |    |    |- Urocissa                                  blue magpies
+         |    |    |- Cissa                                     green magpies
+         |    |- Perisoreinae                                   --
+         |    |    |- Perisoreus                              3 canada jay, siberia jay, sichuan jay
+         |    |    |- Cyanopica                               2 azure magpie, iberia magpie
+         |    |- Cyanocoracinae                                 various jays
+         |    |[ Corvinae ]                                     --
+         |    |- Corvus                                      46 crows, ravens, rooks
+         |    |- Coloeus                                        jackdaws
+         |    |- Nucifraga                                      nutcrackers
+         |    |- Pica                                           holartic magpies
+         |    |- Garrulus                                       --
+         |    |- Podoces                                        ground jays / ground choughs
+         |    |- Ptilostomus                                  1 piapiac
+         |    |- Zavattariornis                               1 bush crow
+         |[ Passerides ]                                        --
+         |- Cnemophilidae                                       satinbirds
+         |- Melanocharitidae                                    berrypeckers
+         |- Callaeidae                                          new zealand wattlebirds
+         |- Notiomystidae                                       stitchbird
+         |- Petroicidae                                         australian robins
+         |- Eupetidae                                           rail-babbler
+         |- Chaetopidae                                         rock-jumpers
+         |- Picathartidae                                       rockfowl
+         |- Sylviida                                            --
+         |    |- Hyliotidae                                     hyliotas
+         |    |- Stenostiridae                                  crested flycatchers
+         |    |- Paridae                                        tits, chickadees
+         |    |- Remizidae                                      penduline tits
+         |    |- Panuridae                                      bearded reedling
+         |    |- Alaudidae                                      larks
+         |    |- Nicatoridae                                    nicators
+         |    |- Macrosphenidae                                 crombecs, african warblers
+         |    |- Cisticolidae                                   cisticolas
+         |    |- Locustelloidea                                 --
+         |    |    |- Acrocephalidae                            acrocephalid warblers
+         |    |    |- Locustellidae                             grassbirds
+         |    |    |- Donacobiidae                              donacobius
+         |    |    |- Bernieridae                               malagasy warblers
+         |    |- Pnoepygidae                                    wren warblers
+         |    |- Hirundinidae                                   martins, swallows
+         |    |- Aegithaloidea                                  --
+         |    |    |- Phylloscopidae                            leaf-warblers and allies
+         |    |    |- Hyliidae                                  hylias
+         |    |    |- Aegithalidae                              long-tailed tits or bushtits
+         |    |    |- Erythrocercidae                           yellow flycatchers
+         |    |    |- Scotocercidae                             streaked scrub warbler
+         |    |    |- Cettiidae                                 cettia bush warblers and allies
+         |    |[ Sylvioidea ]                                   --
+         |    |- Pycnonotidae                                   bulbuls
+         |    |- Paradoxornithidae                              parrotbills, fulvettas
+         |    |- Sylviidae                                      typical warblers, sylviid babblers
+         |    |- Zosteropidae                                   white-eyes
+         |    |- Timaliidae                                     babblers, tit-babblers, scimitar bablers
+         |    |- Leiothrichidae                                 laughingthrushes
+         |    |- Pellorneidae                                   fulvettas, ground babblers
+         |- Muscicapida                                         --
+         |    |- Bombycilloidea                                 --
+         |    |    |- Dulidae                                   palmchat
+         |    |    |- Bombycillidae                             waxwings
+         |    |    |- Ptiliogonatidae                           silky-flycatchers
+         |    |    |- Hylocitreidae                             hylocitrea
+         |    |    |- Hypocoliidae                              hypocolius
+         |    |    |- Mohoidae                                  hawaiian honeyeaters
+         |    |- Muscicapoidea                                  --
+         |    |    |- Elachuridae                               elechura
+         |    |    |- Cinclidae                                 dippers
+         |    |    |- Muscicapidae                              old world flycatchers, chats
+         |    |    |- Turdidae                                  thrushes
+         |    |    |- Buphagidae                                oxpeckers
+         |    |    |- Sturnidae                                 starlings, mynas
+         |    |    |- Mimidae                                   mockingbirds, thrashers
+         |    |- Reguloidea                                     kinglets
+         |    |[ Certhioidea ]                                  --
+         |    |- Tichodromidae                                  wallcreeper
+         |    |- Sittidae                                       nuthatches
+         |    |- Certhiidae                                     treecreepers
+         |    |- Salpornithidae                                 --
+         |    |- Polioptilidae                                  gnatcatchers, gnatwrens
+         |    |- Troglodytidae                                  wrens
+         |[ Passerida ]                                         --
+         |- Promeropidae                                        sugarbirds
+         |- Modulatricidae                                      dapple-throat & allies
+         |- Nectariniidae                                       sunbirds
+         |- Dicaeidae                                           flowerpeckers
+         |- Chloropseidae                                       leafbirds
+         |- Irenidae                                            fairy bluebirds
+         |- Peucedramidae                                       olive warbler
+         |- Urocynchramidae                                     przevalski's finch
+         |- Phoceoidea                                          --
+         |- Ploceidae                                           weavers
+         |- Viduidae                                            indigobirds, whydals
+         |- Estrildidae                                         estrildid finches
+         |- Prunellidae                                         accentors
+         |- Passeridae                                          sparrows
+         |- Motacillidae                                        wagtails, pipits
+         |- Fringillidae                                        finches, euphonias
+         |[ Emberizoidia ]                                      --
+         |- Rhodinocichlidae                                    thrush-tanager
+         |- Calcariidae                                         longspurs, snow buntings
+         |- Emberizidae                                         buntings
+         |- Cardinalidae                                        cardinal grosbeaks
+         |- Mitrospingidae                                      mitrosingus & allies
+         |- Thraupidae                                          tanagers
+         |- Passerellidae                                       american sparrows
+         |- Parulidae                                           wood warblers
+         |- Icteriidae                                          yellow-breasted chat
+         |- Icteridae                                           new world blackbirds
+         |- Calyptophilidae                                     chat-tanagers
+         |- Zeledoniidae                                        wrenthrush
+         |- Nesospingidae                                       puerto rican tanager
+         |- Spindalidae                                         spindalises
+         |- Phaenicophilidae                                    hispaniolan tanagers and allies

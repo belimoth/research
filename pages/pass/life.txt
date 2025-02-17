@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Life
+-----------------------------------------------------------------------------------------------------
+4100 mya |[ Life ]                                              --
+         |- Acytota                                             acellular life
+         |[ Cytota ]                                            cellular life, including LUCA
+3900 mya |[ Prokaryota ]                                        --
+         |- Bacteria / Monera                                   --
+2200 mya |[ Eukaryota ]                                         --
+         |- Excavata                                            --
+         |- * Diphoda / Bikonta                                 --
+         |- * Opimoda / Unikonta                                --

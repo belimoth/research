@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Ambulacraria
+-----------------------------------------------------------------------------------------------------
+         |[ Ambulacraria ]                                      ambulacrarians
+         |- Hemichordata                                        --
+         |    |- Pterobranchia                               25 pterobranchs; small worm-shaped animals; live in secreted tubes on ocean floor
+         |    |    |- Cephalodiscida                         20 small sessile worm-whaped animals
+         |    |    |- Rhabdopleurida                          5 only surviving graptolites
+         |    |- Enteropneusta                               74 acorn worms
+         |    |    |- Harrimanidae                           36 basal acorn worms
+         |    |    |- Ptychoderidae                          38 --
+ 581 mya |[ Echinodermata ]                                     echinoderms
+         |- Crinoidea                                           --
+ 523 mya |[ Eleutherozoa ]                                      --
+ 413 mya |- Echinozoa                                           --
+         |    |- Echinoidea                                     --
+         |    |- Holothuroidea                                  --
+         |- Asterozoa                                           --
+         |    |- Ophiuroidea                                    --
+         |    |- Asteroidea                                     --

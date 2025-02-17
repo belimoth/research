@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Multicrustacea
+-----------------------------------------------------------------------------------------------------
+ 498 mya |[ Multicrustacea ]                                    --
+         |- † Cyclida / Cycloidea                             † cyclidians / cycloids
+         |- Thecostraca                                   2,200 barnacles, etc
+         |- Copepoda                                     13,000 copepods
+ 415 mya |[ Malacostraca ]                               40,000 malacostracans / soft-shelled crustaceans
+         |- Phyllocarida                                        --
+         |    |- † Hymenostraca                                 --
+         |    |- Leptostraca                                    --
+         |- Hoplocarida                                         --
+         |    |- Stomatopoda                                  1 mantis shrimp
+ 399 mya |[ Eumalacostraca ]
+         |- unnamed
+         |    |- Amphionidacea
+         |    |- Decapoda
+         |- unnamed
+         |    |- unnamed
+         |    |    |- Euphausiacea
+         |    |    |[ Peracarida ]
+         |    |    |-
+  55 mya |    |- Syncarida
+  55 mya |    |    |- Anaspidacea
+         |    |    |    |- Anaspididae
+         |    |    |    |- Koonungidae
+         |    |    |    |- Psammaspididae
+         |    |    |    |- Stygocarididae
+         |    |    |- Bathynellacea
+         |    |    |    |- Bathynellidae
+         |    |    |    |- Parabathynellidae

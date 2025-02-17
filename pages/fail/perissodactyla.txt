@@ -1,0 +1,72 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Perissodactyla
+-----------------------------------------------------------------------------------------------------
+  55 mya |[ Perissodactyla ]                                 17 odd-toed ungulates
+         |- † Anthracobunia / Anthracobunidae                 † anthracobunids
+         |    |- † Anthracobune                               † anthracobune
+         |- † Hyopsodontidae                                  † --
+         |- Tapiromorpha                                      9 --
+         |    |- † Isectolophidae                             † --
+         |    |- † Ancylopoda                                 † --
+         |    |    |- † Chalicotherioidea                     † chalicotheres
+         |    |    |- † Lophiodontidae                        † lophiodon
+         |    |[ Ceratomorpha ]                               9 --
+         |    |- Tapiroidea                                   4 --
+         |    |    |- † Helaletidae                           † --
+         |    |    |- Tapiridae                               4 tapirs
+         |    |[ Rhinocerotoidea ]                            5 --
+         |    |- † Amynodontidae                              † --
+         |    |- † Hyracodontidae                             † --
+         |    |- † Paraceratheriidae                          † paraceratherium
+  27 mya |    |[ Rhinocerotidae ]                             5 rhinoceros / rhinos
+         |    |- † Elasmotheriinae                            † elasmotherium
+         |    |[ Rhinocerotinae ]                             5 --
+         |    |- • Ceratotherium simum                        • white rhinoceros
+         |    |- Diceros bicornis                             • black rhinoceros
+         |    |- † Coelodonta antiquitatis                    † wooly rhinoceros
+         |    |- † Stephanorhinus kirchbergensis              † forest rhinoceros
+         |    |- • Dicerorhinus sumatrensis                   • sumatran rhinoceros
+         |    |- • Rhinoceros sondaicus                       • java rhinoceros
+         |    |- • Rhinoceros unicornis                       • indian rhinoceros
+         |[ Hippomorpha ]                                     8 --
+         |- † Brontotherioidea / Brontotheriidae              † brontotheres
+         |[ Equoidea ]                                        8 --
+         |- † Palaeotheriidae                                 † --
+  11 mya |[ Equidae ]                                         8 equids; horse family
+         |- † Eohippus                                        † --
+         |- † Orohippus                                       † --
+         |- † Epihippus                                       † --
+         |- † Mesohippus                                      † --
+         |- † Miohippus                                       † --
+         |- † Kalobatippus                                    † --
+         |- † Anchitherium                                    † --
+         |- † Sinohippus                                      † --
+         |- † Hypohipppus                                     † --
+         |- † Megahippus                                      † --
+         |- † Parahippus                                      † --
+         |[ Equinae ]                                         8 equines
+         |- † Merychippus                                     † --
+         |- † Hipparion                                       † --
+         |[ Equini ]                                          8 --
+         |- † Protohippus                                     † --
+         |- † Calippus                                        † --
+         |[ Equina ]                                          8 --
+         |- † Pliohippus                                      † --
+         |- † Astrohippus                                     † astrohippus; star horse
+         |- † Dinohippus                                      † --
+         |- † Plessippus                                      † --
+         |[ Equus ]                                           8 horses, asses, zebras
+         |- Hippotigris                                       3 zebras
+         |    |- • Equus zebra                                • mountain zebra
+         |    |- • Equus quagga                               • plains zebra
+         |    |- † Equus quagga quagga                        † quagga (subspecies)
+         |    |- • Equus grevyi                               • imperial zebra
+         |- Asinus                                            3 asses
+         |    |- • Equus kiang                                • kiang
+         |    |- • Equus hemionus                             • onager
+         |    |- • Equus africanus                            • african wild ass
+         |    |- • Equus africanus asinus                     • domestic donkey (subspecies) (domesticated)
+         |[ Equus ]                                           2 horses
+         |- • Equus ferus przewalskii                         • tahki / mongolian wild horse / przewalski's horse
+         |- † Equus ferus ferus                               † tarpan / wild horse
+         |- • Equus ferus caballus                            • domestic horse (domesticated)

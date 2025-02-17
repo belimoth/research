@@ -1,0 +1,113 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Afroinsectiphilia
+-----------------------------------------------------------------------------------------------------
+         |[ Afroinsectiphilia ]                              74 --
+         |- Tubulidentata                                     1 --
+ >20 mya |    |- Orycteropodidae                              1 --
+         |    |    |- • Orycteropus afer                      • aardvark
+         |[ Afroinsectivora ]                                73 --
+  47 mya |- Macroscelidea                                    18 --
+  43 mya |    |[ Macroscelididae ]                           18 sengis / elephant shrews
+  >8 mya |    |- Rhynchocyoninae / Rhynchocyon                5 giant sengis
+         |    |    |- • Rhynchocyon chrysopygus               • golden-rumped sengi
+         |    |    |- • Rhynchocyon cirnei                    • chekered sengi
+         |    |    |- • Rhynchocyon stuhlmanni                • stuhlman's sengi
+         |    |    |- • Rhynchocyon petersi                   • black and rufous sengi
+         |    |    |- • Rhynchocyon udzungwensis              • gray-faced sengi
+         |    |[ Macroscelidinae ]                           13 --
+         |    |- Elephantulus                                 6 rock sengis
+         |    |    |- • Elephantulus rupestris                • western rock sengi
+         |    |    |- • Elephantulus intufi                   • bushveld sengi
+         |    |    |- • Elephantulus brachyrhynchus           • short-snouted sengi
+         |    |    |- • Elephantulus edwardii                 • cape rock sengi
+         |    |    |- • Elephantulus pilicaudus               • karoo rock sengi
+         |    |    |- • Elephantulus myurus                   • eastern rock sengi
+         |    |[ Macroscelidini ]                             7 --
+         |    |- Macroscelides                                3 round-eared sengis
+         |    |    |- • Macroscelides flavicaudatus           • namib round-eared sengi
+         |    |    |- • Macroscelides proboscideus            • karoo round-eared sengi
+         |    |    |- • Macroscelides micus                   • etendeka round-eared sengi
+         |    |[ unnamed ]                                    4 --
+         |    |- • Petrosaltator rozeti                       • north african sengi
+         |    |- • Petrodromus tetradactylus                  • four-toed sengi
+         |    |[ Galegeeska ]                                 2 --
+         |    |- • Galegeeska revoilii                        • somali sengi
+         |    |- • Galegeeska rufescens                       • rufous sengi
+         |[ Afrosoricida / Tenrecoidea ]                     55 golden moles, otter shrews, tenrecs
+         |- Tenrecomorpha                                    34 --
+  47 mya |    |- Tenrecidae                                  31 tenrecs
+         |    |    |- • Geogale aurita                        • large-eared tenrec
+         |    |    |- Tenrecinae                              5 --
+         |    |    |    |- Setiferini                         2 --
+         |    |    |    |    |- • Echinops telfairi           • lesser hedgehog tenrec
+         |    |    |    |    |- • Serifer setosus             • greater hedgehog
+         |    |    |    |- Tenrecini                          1 --
+         |    |    |    |    |- • Tenrec ecaudatus            • common tenrec
+         |    |    |    |[ Hemicentetes ]                     2 --
+         |    |    |    |- • Hemicentetes nigriceps           • highland streaked tenrec
+         |    |    |    |- • Hemicentetes semispinosus        • lowland streaked tenrec
+ >27 mya |    |    |- Oryzorictinae                          25 --
+         |    |    |    |- • Oryzorictes hova                 • mole-like rice tenrec
+         |    |    |    |- • Oryzorictes tetradactylus        • four-toed rice tenrec
+         |    |    |    |- • Nesogale dobsoni                 • dobson's shrew tenrec
+         |    |    |    |- • Nesogale talazaci                • talazac's shrew tenrec
+         |    |    |    |[ Microgale ]                       21 --
+         |    |    |    |- • Microgale brevicaudata           • short-tailed shrew tenrec
+         |    |    |    |- • Microgale cowani                 • cowan's shrew tenrec
+         |    |    |    |- • Microgale drouhardi              • drouhard's shrew tenrec
+         |    |    |    |- • Microgale dryas                  • dryad shrew tenrec
+         |    |    |    |- • Microgale fotsifotsy             • pale shrew tenrec
+         |    |    |    |- • Microgale gracilis               • gracile shrew tenrec
+         |    |    |    |- • Microgale grandidieri            • grandidier's shrew tenrec
+         |    |    |    |- • Microgale gymnorhyncha           • naked-nosed shrew tenrec
+         |    |    |    |- • Microgale jenkionsae             • jenkin's shrew tenrec
+         |    |    |    |- • Microgale jobihely               • northern shrew tenrec
+         |    |    |    |- • Microgale longicaudata           • lesser long-tailed shrew tenrec
+         |    |    |    |- • Microgale majori                 • major's long-tailed tenrec
+         |    |    |    |- • Microgale mergulus               • web-footed tenrec
+         |    |    |    |- • Microgale monticola              • montane shrew tenrec
+         |    |    |    |- • Microgale nasoloi                • nasolo's shrew tenrec
+         |    |    |    |- • Microgale parvula                • pygmy shrew tenrec
+         |    |    |    |- • Microgale principula             • greater long-tailed shrew tenrec
+         |    |    |    |- • Microgale pusilla                • least shrew tenrec
+         |    |    |    |- • Microgale soricoides             • shrew-toothed shrew tenrec
+         |    |    |    |- • Microgale taiva                  • taiva's shrew tenrec
+         |    |    |    |- • Microgale thomasi                • thomas's shrew tenrec
+  28 mya |    |- Potamogalidae                                3 otter shrews
+         |    |    |- • Potamogale velox                      • giant otter shrew
+         |    |    |[ Micropotamogale ]                       2 dwarf otter shrews
+         |    |    |- • Micropotamogale lamottei              • nimba otter shrew
+         |    |    |- • Micropotamogale                       • ruwenzori otter shrew
+  23 mya |[ Chrysochloridae ]                                21 chrysochlorids; golden moles
+         |- Amblysominae                                     10 --
+         |    |- • Huetia leucorhina                          • congo golden mole
+  15 mya |    |- Amblysomus                                   5 --
+         |    |    |- • Amblysomus corriae                    • fynbos golden mole
+         |    |    |- • Amblysomus hottentotus                • hottentot golden mole
+         |    |    |- • Amblysomus marleyi                    • marley's golden mole
+         |    |    |- • Amblysomus robustus                   • robust golden mole
+         |    |    |- • Amblysomus septentrionalis            • highveld golden mole
+         |    |- Calcochloris                                 2 --
+         |    |    |- • Calcochloris tytonis                  • somali golden mole
+         |    |    |- • Calcochloris obtusirostris            • yellow golden mole
+         |    |- Neamblysomus                                 2 --
+         |    |    |- • Neamblysomus julianae                 • juliana's golden mole
+         |    |    |- • Neamblysomus gunningi                 • gunning's golden mole
+         |-  Chrysochlorinae                                 11 --
+         |    |- • Carpitalpa arendsi                         • arends's golden mole
+         |    |- • Eremitalpa granti                          • grant's golden mole
+  20 mya |    |- Chlorotalpa                                  2 --
+         |    |    |- • Chlorotalpa duthieae                  • duthie's golden mole
+         |    |    |- • Chlorotalpa sclateri                  • sclater's golden mole
+   9 mya |    |- Chrysochloris                                3 --
+         |    |    |- Chrysochloris                           2 --
+         |    |    |    |- • Chrysochloris asiatica           • cape golden mole
+         |    |    |    |- • Chrysochloris visagiei           • visagie's golden mole
+         |    |    |- Kilimatalpa                             1 --
+         |    |    |    |- • Chrysochloris stuhlmanni         • stuhlmann's golden mole
+  12 mya |    |- Chrysospalax                                 2 --
+         |    |    |- • Chrysospalax trevelyani               • giant golden mole
+         |    |    |- • Chrysospalax villosus                 • rough-haired golden mole
+         |    |- Cryptochloris                                2 --
+         |    |    |- • Cryptochloris wintoni                 • de winton's golden mole
+         |    |    |- • Cryptochloris zyli                    • van zyl's golden mole

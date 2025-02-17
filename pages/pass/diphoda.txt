@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda
+-----------------------------------------------------------------------------------------------------
+         |[ Diphoda ]                                           --
+         |- Chromista                                           --
+         |    |- Hacrobia                                       --
+         |    |    |- Haptista                                  --
+         |    |    |    |- Haptophyta / Haptophytina            haptophytes; haptophyte algae
+         |    |    |    |- Centrohelida                         centrohelids; heliozoa 1
+         |    |    |- Cryptista                                 --
+         |    |[ TSAR ]                                         --
+         |    |- Telonemia                                      --
+1106 mya |    |[ Harosa  / SAR ]                                --
+         |    |- Rhizaria                                       --
+         |    |[ Halvaria ]                                     --
+1040 mya |    |- * Alveolata                                    --
+ 668 mya |    |- * Heterokonta                                  --
+         |- * Archaeplastida                                    --

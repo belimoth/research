@@ -1,0 +1,27 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Mustelinae
+-----------------------------------------------------------------------------------------------------
+         |[ Mustelinae ]                                     19 weasels, minks
+         |- Mustela                                          16 --
+         |    |- • Mustela altaica                            • mountain weasel
+         |    |- • Mustela erminea                            • stoat / beringian ermine
+         |    |- • Mustela eversmannii                        • steppe polecat
+         |    |- • Mustela haidarum                           • haida ermine
+         |    |- • Mustela itatsi                             • japanese weasel
+         |    |- • Mustela kathiah                            • yellow-bellied weasel
+         |    |- • Mustela lutreola                           • european mink
+         |    |- • Mustela lutreolina                         • indonesian mountain weasel
+         |    |- • Mustela nigripes                           • black-footed ferret
+         |    |- • Mustela nivalis                            • least weasel
+         |    |- • Mustela nudipes                            • malayan weasel
+         |    |- • Mustela putorius                           • european polecat
+         |    |- • Mustela putorius furo                      • domestic ferret (domesticated)
+         |    |- • Mustela richardsonii                       • american ermine
+         |    |- • Mustela sibirica                           • siberian weasel
+         |    |- • Mustela strigidorsa                        • back-striped weasel
+         |- Neogale                                           4 --
+         |    |- † Neogale macrodon                           † sea mink
+         |    |- • Neogale africana                           • amazon weasel
+         |    |- • Neogale felipei                            • colombian weasel
+         |    |- • Neogale frenata                            • long-tailed weasel
+         |    |- • Neogale vison                              • american mink

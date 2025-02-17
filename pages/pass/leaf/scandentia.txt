@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Scandentia
+-----------------------------------------------------------------------------------------------------
+         |[ Scandentia ]                                     23 scandentians; treeshrews / banxrings
+         |- • Ptilocercus lowii                               • pen-tailed treeshrew
+  53 mya |[ Tupaiidae ]                                         --
+         |- Anathana                                          1 madras treeshrew
+         |- Dendrogale                                        2 smooth-tailed treeshrews
+         |[ Tupaia ]                                         19 --
+         |- • Tupaia belangeri                                • northern treeshrew
+         |- • Tupaia ferruginea                               • sumatran treeshrew
+         |- • Tupaia glis                                     • common treeshrew
+         |- • Tupaia javanica                                 • horsfield's treeshrew
+         |- • Tupaia minor                                    • pygmy treeshrew
+         |- • Tupaia nicobarica                               • nicobar treeshrew
+         |- 13 more                                          13 more

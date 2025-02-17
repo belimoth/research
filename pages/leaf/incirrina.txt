@@ -1,0 +1,299 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Incirrina
+-----------------------------------------------------------------------------------------------------
+ 136 mya |[ Incirrina ]                                     258 --
+         |- Argonautoidea 1                                   5 argonautoids 1
+         |    |- • Haliphron atlanticus                       • septopus / blob octopus / seven-armed octopus
+         |    |- Tremoctopodidae                              4 blanket octopuses
+         |    |    |- • Tremoctopus violaceus                 • common blanket octopus / violet blanket octopus
+         |    |    |- ◦ Tremoctopus gelatus                   ◦ gelatinous blanket octopus
+         |    |    |- ◦ Tremoctopus gracilis                  ◦ palmate octopus
+         |    |    |- ◦ Tremoctopus robsonianus               ◦ --
+         |[ unnamed ]                                       253 --
+         |- unnamed                                         244 --
+         |    |- Argonautoidea 2                              7 argonautoids 2
+         |    |    |- • Ocythoe tuberculata                   • football octopus / tuberculate pelagic octopus
+         |    |    |- Argonautidae                            6 argonauts / paper nautiluses
+         |    |    |    |- • Argonauta argo                   • greater argonaut
+         |    |    |    |- • Argonauta boettgeri              • böttger's argonaut
+         |    |    |    |- • Argonauta hians                  • winged argonaut / brown paper nautilus
+         |    |    |    |- • Argonauta nodosus                • knobby argonaut
+         |    |    |    |- ◦ Argonauta nouryi                 ◦ noury's argonaur
+         |    |    |    |- ◦ Argonauta pacificus              ◦ pacific argonaut
+         |    |- Octopodoidea                               236 --
+         |    |    |- Bathypolypodidae                        8 --
+         |    |    |    |- • Bathypolypus arcticus            • spoon-arm octopus / deep sea octopus / north atlantic octopus
+         |    |    |    |- • Bathypolypus sponsalis           • globose octopus
+         |    |    |    |- ◦ Bathypolypus rubrostictus        ◦ --
+         |    |    |    |- ◦ Bathypolypus valdiviae           ◦ boxer octopus
+         |    |    |    |- ◦ Bathypolypus bairdii             ◦ --
+         |    |    |    |- ◦ Bathypolypus ergasticus          ◦ --
+         |    |    |    |- ◦ Bathypolypus pugniger            ◦ --
+         |    |    |    |- ◦ Bathypolypus rubrostictus        ◦ --
+         |    |    |- Eledonidae                              8 --
+         |    |    |    |- • Eledone cirrhosa                 • curled octopus
+         |    |    |    |- • Eledone moschata                 • musky octopus
+         |    |    |    |- • Eledone schultzei                • brush-tipped octopus
+         |    |    |    |- ◦ Eledone caparti                  ◦ --
+         |    |    |    |- ◦ Eledone gaucha                   ◦ --
+         |    |    |    |- ◦ Eledone massyae                  ◦ combed octopus
+         |    |    |    |- ◦ Eledone nigra                    ◦ --
+         |    |    |    |- ◦ Eledone palari                   ◦ spongetip octopus
+         |    |    |- Enteroctopodidae                       34 --
+         |    |    |    |- • Vulcanoctopus hydrothermalis     • vent octopus
+         |    |    |    |- ◦ Sasakiopus salebrosus            ◦ rough octopus
+  13 mya |    |    |    |- Enteroctopus                       4 --
+         |    |    |    |    |- • Enteroctopus dofleini       • giant pacific octopus
+         |    |    |    |    |- ◦ Enteroctopus magnificus     ◦ southern giant octopus
+         |    |    |    |    |- • Enteroctopus megalocyathus  • patagonian red octopus
+         |    |    |    |    |- • Enteroctopus zealandicus    • yellow octopus
+         |    |    |    |- Muusoctopus                       28 --
+         |    |    |    |    |- ◦ Muusoctopus abruptus        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus aegir           ◦ --
+         |    |    |    |    |- ◦ Muusoctopus berryi          ◦ --
+         |    |    |    |    |- ◦ Muusoctopus bizikovi        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus canthylus       ◦ --
+         |    |    |    |    |- ◦ Muusoctopus clyderoperi     ◦ --
+         |    |    |    |    |- ◦ Muusoctopus eicomar         ◦ --
+         |    |    |    |    |- ◦ Muusoctopus eureka          ◦ --
+         |    |    |    |    |- ◦ Muusoctopus fuscus          ◦ --
+         |    |    |    |    |- ◦ Muusoctopus hokkaidensis    ◦ --
+         |    |    |    |    |- ◦ Muusoctopus januarii        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus johnsonianus    ◦ --
+         |    |    |    |    |- ◦ Muusoctopus karubar         ◦ --
+         |    |    |    |    |- ◦ Muusoctopus leioderma       ◦ --
+         |    |    |    |    |- ◦ Muusoctopus levis           ◦ --
+         |    |    |    |    |- ◦ Muusoctopus longibrachus    ◦ --
+         |    |    |    |    |- ◦ Muusoctopus oregonae        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus oregonensis     ◦ --
+         |    |    |    |    |- ◦ Muusoctopus profundorum     ◦ --
+         |    |    |    |    |- ◦ Muusoctopus pseudonymus     ◦ --
+         |    |    |    |    |- ◦ Muusoctopus rigbyae         ◦ --
+         |    |    |    |    |- ◦ Muusoctopus robustus        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus sibiricus       ◦ --
+         |    |    |    |    |- ◦ Muusoctopus tangaroa        ◦ --
+         |    |    |    |    |- ◦ Muusoctopus tegginmathae    ◦ --
+         |    |    |    |    |- ◦ Muusoctopus thielei         ◦ --
+         |    |    |    |    |- ◦ Muusoctopus violescens      ◦ --
+         |    |    |    |    |- ◦ Muusoctopus yaquinae        ◦ --
+         |    |    |- Megaleledonidae                        42 --
+         |    |    |    |- ◦ Bathypurpurata profunda          ◦ --
+         |    |    |    |- ◦ Bentheledone rotunda             ◦ --
+         |    |    |    |- ◦ Megaleledone setebos             ◦ giant antarctic octopus
+         |    |    |    |- ◦ Microeledone mangoldi            ◦ sickle-tooth pygmy octopus
+         |    |    |    |- ◦ Praealtus paralbida              ◦ --
+         |    |    |    |- ◦ Tetracheledone spinicirrhus      ◦ spiny-horn octopus
+         |    |    |    |- ◦ Vosseledone charrua              ◦ charrua octopus
+         |    |    |    |- • Velodona togata                  • --
+         |    |    |    |- Adelieledone                       3 --
+         |    |    |    |    |- ◦ Adelieledone adelieana      ◦ --
+         |    |    |    |    |- ◦ Adelieledone piatkowski     ◦ --
+         |    |    |    |    |- ◦ Adelieledone polymorpha     ◦ antarctic knobbed octopus
+         |    |    |    |- Graneledone                        9 --
+         |    |    |    |    |- • Graneledone boreopacifica   • --
+         |    |    |    |    |- ◦ Graneledone antarctica      ◦ --
+         |    |    |    |    |- ◦ Graneledone challengeri     ◦ --
+         |    |    |    |    |- ◦ Graneledone gonzalezi       ◦ --
+         |    |    |    |    |- ◦ Graneledone kubodera        ◦ --
+         |    |    |    |    |- ◦ Graneledone macrotyla       ◦ --
+         |    |    |    |    |- ◦ Graneledone taniwha         ◦ --
+         |    |    |    |    |- ◦ Graneledone verrucosa       ◦ --
+         |    |    |    |    |- ◦ Graneledone yamana          ◦ --
+         |    |    |    |- Pareledone                        16 --
+         |    |    |    |    |- • Pareledone turqueti         • turquet's octopus
+         |    |    |    |    |- ◦ Pareledone adelieana        ◦ --
+         |    |    |    |    |- ◦ Pareledone aequipapillae    ◦ --
+         |    |    |    |    |- ◦ Pareledone albimaculata     ◦ --
+         |    |    |    |    |- ◦ Pareledone antarctica       ◦ --
+         |    |    |    |    |- ◦ Pareledone aurata           ◦ --
+         |    |    |    |    |- ◦ Pareledone charcoti         ◦ --
+         |    |    |    |    |- ◦ Pareledone cornuta          ◦ --
+         |    |    |    |    |- ◦ Pareledone felix            ◦ --
+         |    |    |    |    |- ◦ Pareledone framensis        ◦ --
+         |    |    |    |    |- ◦ Pareledone harrissoni       ◦ --
+         |    |    |    |    |- ◦ Pareledone panchroma        ◦ --
+         |    |    |    |    |- ◦ Pareledone polymorpha       ◦ --
+         |    |    |    |    |- ◦ Pareledone prydzensis       ◦ --
+         |    |    |    |    |- ◦ Pareledone serperastrata    ◦ --
+         |    |    |    |    |- ◦ Pareledone subtilis         ◦ --
+         |    |    |    |- Thaumeledone                       6 --
+         |    |    |    |    |- ◦ Thaumeledone brevis         ◦ --
+         |    |    |    |    |- ◦ Thaumeledone gunteri        ◦ --
+         |    |    |    |    |- ◦ Thaumeledone marshalli      ◦ --
+         |    |    |    |    |- ◦ Thaumeledone peninsulae     ◦ --
+         |    |    |    |    |- ◦ Thaumeledone rotunda        ◦ --
+         |    |    |    |    |- ◦ Thaumeledone zeiss          ◦ --
+         |    |    |- Octopodidae                           144 "majority of known octopus species"
+         |    |    |    |- • Macroctopus maorum               • maori octopus / new zealand octopus
+         |    |    |    |- • Macrotritopus defilippi          • lilliput longarm octopus / atlantic longarm octopus
+         |    |    |    |- • Thaumoctopus mimicus             • mimic octopus
+         |    |    |    |- • Wunderpus photogenicus           • wunderpus octopus
+         |    |    |    |- ◦ Ameloctopus litoralis            ◦ --
+         |    |    |    |- ◦ Galeoctopus lateralis            ◦ sharkclub octopus
+         |    |    |    |- ◦ Grimpella thaumastocheir         ◦ velvet octopus
+         |    |    |    |- ◦ Lepidoctopus joaquini            ◦ --
+         |    |    |    |- ◦ Macrochlaena winckworthi         ◦ winckworth's octopus
+         |    |    |    |- Abdopus                            7 --
+         |    |    |    |    |- • Abdopus abaculus            • mosaic octopus
+         |    |    |    |    |- • Abdopus aculeatus           • algae octopus
+         |    |    |    |    |- ◦ Abdopus capricornicus       ◦ --
+         |    |    |    |    |- ◦ Abdopus horridus            ◦ red sea octopus
+         |    |    |    |    |- ◦ Abdopus tenebricus          ◦ --
+         |    |    |    |    |- ◦ Abdopus tonganus            ◦ --
+         |    |    |    |    |- ◦ Abdopus undulatus           ◦ --
+   3 mya |    |    |    |- Amphioctopus                      14 --
+         |    |    |    |    |- • Amphioctopus aegina         • marbled octopus / sandbird octopus
+         |    |    |    |    |- • Amphioctopus fangsia        • webfoot octopus
+         |    |    |    |    |- • Amphioctopus marginatus     • coconut octopus / veined octopus
+         |    |    |    |    |- ◦ Amphioctopus arenicola      ◦ --
+         |    |    |    |    |- ◦ Amphioctopus burryi         ◦ --
+         |    |    |    |    |- ◦ Amphioctopus exannulatus    ◦ --
+         |    |    |    |    |- ◦ Amphioctopus kagoshimensis  ◦ --
+         |    |    |    |    |- ◦ Amphioctopus mototi         ◦ --
+         |    |    |    |    |- ◦ Amphioctopus neglectus      ◦ --
+         |    |    |    |    |- ◦ Amphioctopus polyzenia      ◦ --
+         |    |    |    |    |- ◦ Amphioctopus rex            ◦ --
+         |    |    |    |    |- ◦ Amphioctopus robsoni        ◦ --
+         |    |    |    |    |- ◦ Amphioctopus siamensis      ◦ --
+         |    |    |    |    |- ◦ Amphioctopus varunae        ◦ --
+         |    |    |    |- Callistoctopus                    12 night octopuses
+         |    |    |    |    |- • Callistoctopus bunurong     • southern white-spot octopus
+         |    |    |    |    |- • Callistoctopus macropus     • atlantic white-spotted octopus
+         |    |    |    |    |- • Callistoctopus ornatus      • ornate octopus
+         |    |    |    |    |- • Callistoctopus rapanui      • rapa nui octopus
+         |    |    |    |    |- ◦ Callistoctopus alpheus      ◦ capricorn night octopus
+         |    |    |    |    |- ◦ Callistoctopus aspilosomatis◦ plainbody night octopus
+         |    |    |    |    |- ◦ Callistoctopus dierythraeus ◦ red-spot night octopus
+         |    |    |    |    |- ◦ Callistoctopus graptus      ◦ scribbled night octopus
+         |    |    |    |    |- ◦ Callistoctopus kermadecensis◦ --
+         |    |    |    |    |- ◦ Callistoctopus lechenaultii ◦ --
+         |    |    |    |    |- ◦ Callistoctopus luteus       ◦ starry night octopus
+         |    |    |    |    |- ◦ Callistoctopus nocturnus    ◦ --
+         |    |    |    |- Cistopus                           4 old-lady octopuses
+         |    |    |    |    |- ◦ Cistopus chinensis          ◦ --
+         |    |    |    |    |- ◦ Cistopus indicus            ◦ --
+         |    |    |    |    |- ◦ Cistopus platinoidus        ◦ --
+         |    |    |    |    |- ◦ Cistopus taiwanicus         ◦ --
+         |    |    |    |- Euaxoctopus                        2 --
+         |    |    |    |    |- ◦ Euaxoctopus panamensis      ◦ crescent octopus
+         |    |    |    |    |- ◦ Euaxoctopus pillsburyae     ◦ map octopus
+         |    |    |    |- Hapalochlaena                      4 blue-ringed octopuses
+         |    |    |    |    |- • Hapalochlaena lunulata      • greater blue-ringed octopus
+         |    |    |    |    |- • Hapalochlaena maculosa      • lesser / southern blue-ringed octopus
+         |    |    |    |    |- • Hapalochlaena fasciata      • blue-lined octopus
+         |    |    |    |    |- ◦ Hapalochlaena nierstraszi   ◦ --
+         |    |    |    |- Histoctopus                        2 --
+         |    |    |    |    |- ◦ Histoctopus discus          ◦ --
+         |    |    |    |    |- ◦ Histoctopus zipkasae        ◦ --
+  14 mya |    |    |    |- Octopus                           74 --
+         |    |    |    |    |- • Octopus australis           • hammer octopus
+         |    |    |    |    |- • Octopus bimaculatus         • verrill's two-spot octopus
+         |    |    |    |    |- • Octopus bimaculoides        • california two-spot octopus
+         |    |    |    |    |- • Octopus bocki               • bock's pygmy octopus
+         |    |    |    |    |- • Octopus briareus            • Caribbean reef octopus
+         |    |    |    |    |- • Octopus californicus        • North Pacific bigeye octopus
+         |    |    |    |    |- • Octopus chierchiae          • lesser Pacific striped octopus
+         |    |    |    |    |- • Octopus conispadiceus       • chestnut octopus
+         |    |    |    |    |- • Octopus cyanea              • big blue octopus or Cyane's octopus
+         |    |    |    |    |- • Octopus hawaiiensis         • --
+         |    |    |    |    |- • Octopus hubbsorum           • hubb's octopus
+         |    |    |    |    |- • Octopus insularis           • --
+         |    |    |    |    |- • Octopus joubini             • atlantic pygmy octopus or small-egg Caribbean pygmy octopus
+         |    |    |    |    |- • Octopus kaurna              • southern sand octopus
+         |    |    |    |    |- • Octopus maya                •  mexican four-eyed octopus
+         |    |    |    |    |- • Octopus mercatoris          • --
+         |    |    |    |    |- • Octopus mimus               • --
+         |    |    |    |    |- • Octopus minor               • --
+         |    |    |    |    |- • Octopus oculifer            • galapagos reef octopus
+         |    |    |    |    |- • Octopus pallidus            • pale octopus
+         |    |    |    |    |- • Octopus parvus              • japanese pygmy octopus
+         |    |    |    |    |- • Octopus rubescens           • east Pacific red octopus
+         |    |    |    |    |- • Octopus salutii             • spider octopus
+         |    |    |    |    |- • Octopus sinensis            • east Asian Common octopus
+         |    |    |    |    |- • Octopus superciliosus       • frilled pygmy octopus
+         |    |    |    |    |- • Octopus tehuelchus          • thuelche or Patagonian octopus
+         |    |    |    |    |- • Octopus tetricus            • gloomy octopus or common Sydney octopus
+         |    |    |    |    |- • Octopus vitiensis           • bighead octopus
+         |    |    |    |    |- • Octopus vulgaris            • common octopus
+         |    |    |    |    |- • Octopus wolfi               • star-sucker pygmy octopus
+         |    |    |    |    |- ◦ Octopus alecto              ◦ --
+         |    |    |    |    |- ◦ Octopus argus               ◦ --
+         |    |    |    |    |- ◦ Octopus balboai             ◦ --
+         |    |    |    |    |- ◦ Octopus berenice            ◦ --
+         |    |    |    |    |- ◦ Octopus berrima             ◦ southern keeled octopus
+         |    |    |    |    |- ◦ Octopus bulbus              ◦ --
+         |    |    |    |    |- ◦ Octopus campbelli           ◦ --
+         |    |    |    |    |- ◦ Octopus diminutus           ◦ --
+         |    |    |    |    |- ◦ Octopus djinda              ◦ --
+         |    |    |    |    |- ◦ Octopus favonius            ◦ --
+         |    |    |    |    |- ◦ Octopus filosus             ◦ --
+         |    |    |    |    |- ◦ Octopus fitchi              ◦ ritch's pygmy octopus
+         |    |    |    |    |- ◦ Octopus gardineri           ◦ --
+         |    |    |    |    |- ◦ Octopus gorgonus            ◦ --
+         |    |    |    |    |- ◦ Octopus harpedon            ◦ --
+         |    |    |    |    |- ◦ Octopus hattai              ◦ --
+         |    |    |    |    |- ◦ Octopus humilis             ◦ --
+         |    |    |    |    |- ◦ Octopus hummelincki         ◦ caribbean two-spot octopus
+         |    |    |    |    |- ◦ Octopus huttoni             ◦ --
+         |    |    |    |    |- ◦ Octopus incella             ◦ --
+         |    |    |    |    |- ◦ Octopus jeraldi             ◦ --
+         |    |    |    |    |- ◦ Octopus kaharoa             ◦ --
+         |    |    |    |    |- ◦ Octopus kermedecensis       ◦ --
+         |    |    |    |    |- ◦ Octopus laqueus             ◦ --
+         |    |    |    |    |- ◦ Octopus mariles             ◦ --
+         |    |    |    |    |- ◦ Octopus mernoo              ◦ --
+         |    |    |    |    |- ◦ Octopus microphthalmus      ◦ --
+         |    |    |    |    |- ◦ Octopus micropyrsus         ◦ california lilliput octopus
+         |    |    |    |    |- ◦ Octopus micros              ◦ --
+         |    |    |    |    |- ◦ Octopus mutilans            ◦ --
+         |    |    |    |    |- ◦ Octopus nanus               ◦ --
+         |    |    |    |    |- ◦ Octopus occidentalis        ◦ --
+         |    |    |    |    |- ◦ Octopus oliveri             ◦ --
+         |    |    |    |    |- ◦ Octopus penicillifer        ◦ --
+         |    |    |    |    |- ◦ Octopus pumilus             ◦ --
+         |    |    |    |    |- ◦ Octopus pyrum               ◦ --
+         |    |    |    |    |- ◦ Octopus sanctaehelenae      ◦ --
+         |    |    |    |    |- ◦ Octopus selene Voss         ◦ moon octopus
+         |    |    |    |    |- ◦ Octopus stictochrus         ◦ --
+         |    |    |    |    |- ◦ Octopus tenebricus          ◦ --
+         |    |    |    |    |- ◦ Octopus veligero            ◦ veiled octopus
+         |    |    |    |    |- ◦ Octopus verrucosus          ◦ --
+         |    |    |    |    |- ◦ Octopus warringa            ◦ club pygmy octopus
+         |    |    |    |    |- ◦ Octopus zonatus             ◦ atlantic banded octopus
+         |    |    |    |- Paroctopus                         2 --
+         |    |    |    |    |- ◦ Paroctopus digueti          ◦ --
+         |    |    |    |    |- ◦ Paroctopus mercatoris       ◦ --
+         |    |    |    |- Pinnoctopus                        2 --
+         |    |    |    |    |- • Pinnoctopus cordiformis     • --
+         |    |    |    |    |- ◦ Pinnoctopus kermadecensis   ◦ kermadec octopus
+         |    |    |    |- Pteroctopus                        3 --
+         |    |    |    |    |- ◦ Pteroctopus hoylei          ◦ pacific fourhorn cctopus
+         |    |    |    |    |- ◦ Pteroctopus schmidti        ◦ dana octopus
+         |    |    |    |    |- ◦ Pteroctopus tetracirrhus    ◦ atlantic fourhorn octopus
+         |    |    |    |- Robsonella                         2 --
+         |    |    |    |    |- ◦ Robsonella fontaniana       ◦ --
+         |    |    |    |    |- ◦ Robsonella huttoni          ◦ --
+         |    |    |    |- Scaeurgus                          5 --
+         |    |    |    |    |- ◦ Scaeurgus jumeau            ◦ --
+         |    |    |    |    |- ◦ Scaeurgus nesis             ◦ --
+         |    |    |    |    |- ◦ Scaeurgus patagiatus        ◦ --
+         |    |    |    |    |- ◦ Scaeurgus tuber             ◦ --
+         |    |    |    |    |- ◦ Scaeurgus unicirrhus        ◦ Atlantic Warty Octopus or Unihorn Octopus
+         |    |    |    |- Teretoctopus                       2 --
+         |    |    |    |    |- ◦ Teretoctopus alcocki        ◦ --
+         |    |    |    |    |- ◦ Teretoctopus indicus        ◦ --
+         |[ Amphitretidae sl ]                                9 --
+   2 mya |- Bolitaenidae / Bolitaeninae                       5 bolitaenids
+         |    |- Bolitaena                                    2 --
+         |    |    |- • Bolitaena pygmaea                     • --
+         |    |    |- ◦ Bolitaena massyae                     ◦ --
+         |    |- Japetella                                    3 --
+         |    |    |- ◦ Japetella diaphana                    ◦ --
+         |    |    |- ◦ Japetella heathi                      ◦ --
+         |    |    |- ◦ Japetella taningi                     ◦ --
+         |- Amphitretidae ss / Amphitretinae                  2 --
+         |    |- • Amphitretus pelagicus                      • telescope cotopus
+         |    |- ◦ Amphitretus thielei                        ◦ --
+         |- Vitreledonellidae / Vitreledonellinae             2 --
+         |    |- • Vitreledonella richardi                    • glass octopus
+         |    |- ◦ Vitreledonella alberti                     ◦ --

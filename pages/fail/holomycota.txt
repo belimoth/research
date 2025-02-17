@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda /  Holomycota
+-----------------------------------------------------------------------------------------------------
+         |[ Holomycota ]                                        --
+         |- Nucleariae / Cristidiscoidea                        --
+         |    |- Parvularia atlantis                            --
+         |    |- Fonticulida                                    --
+         |    |- Nucleariida                                    nucleariids
+ 974 mya |[ Fungi / Zoosporia ]                                 --
+         |- Rozellomyceta                                       --
+         |    |- Rozella                                        --
+         |    |- Nucleophaga                                    internal parasites of amoeba, flagellates, cilliates
+         |    |- Microsporidia                                  --
+         |- Aphelidiomycota                                     --
+         |    |- Aphelidium                                     endoparasites of freshwater green algae
+         |[ Eumycota ]                                          true fungi
+         |- Chytridiomyceta                                     --
+         |    |- Blastocladiomycota                             --
+         |    |    |- Physoderma                                crown wart of alfalfa, crown wart of beet, brown spot of maize
+         |    |    |- Coelomomyces                              obligate parasite of mosquitos and chironomids, sometimes copepods
+         |    |    |- Allomyces                                 --
+         |    |    |- Blastocladia                              --
+         |    |- Neocallimastigomycota                          --
+         |    |- Monoblepharomycota                             --
+         |    |- Chytridiomycota                                --
+         |- Zoopagomyceta                                       --
+         |    |- Basidiobolomycota                              --
+         |    |- Olpidiomycota                                  --
+         |    |- Entomophthoromycota                            --
+         |    |- Kickxellomycota                                --
+         |- Mucoromyceta                                        --
+         |    |- Glomeromycota                                  --
+         |    |- Mortierellomycota                              --
+         |    |- Calcarisporiellomycota                         --
+         |    |- Mucoromycota                                   --
+         |[ Symbiomycota ]                                      --
+         |- Glomeromycota                                       --
+         |- Entorrhizomycota                                    --
+ 642 mya |[ Dikarya ]                                           --
+ 528 mya |- * Ascomycota                                        --
+ 489 mya |- * Basidiomycota                                     --

@@ -1,0 +1,177 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Polyneoptera / Mantodea
+-----------------------------------------------------------------------------------------------------
+http://en.wikipedia.org/wiki/Mantis
+http://en.wikipedia.org/wiki/List_of_mantis_genera_and_species
+-----------------------------------------------------------------------------------------------------
+         |[ Mantodea ]                                    2,400 mantises / praying mantises
+         |- † etc                                             † --
+ 139 mya |[ Eumantodea ]                                        --
+         |- Chaeteessoidea / Chaeteessidae                      --
+         |[ Spinomantodea ]                                     --
+         |- Mantoidoidea / Mantoididawe                         --
+         |[ Schizomantodea ]                                    --
+         |- Metallyticoidea / Metallticidae                     --
+         |[ Artimantodea ]                                      --
+         |- Amerimantodea                                       --
+         |    |- Thespoidea / Thespidae                         --
+         |    |[ Acanthopoidea ]                                --
+         |    |- Angelidae                                      --
+         |    |- Coptopterygidae                                --
+         |    |- Liturgusidae                                   --
+         |    |- Photinaidae                                    --
+         |    |- Acanthopidae                                   --
+         |[ Cernomantodea ]                                     --
+         |- Nanomantodea                                        --
+         |    |- Chroicopteroidea / Chroicopteridae             --
+         |    |- Nanomantoidea                                  --
+         |    |    |- Leptomantellidae                          --
+         |    |    |- Amorphoscelidae                           --
+         |    |    |- Nanomantidae                              --
+         |[ Metamantodea ]                                      --
+         |- Gonypetoidea / Gonypetidae                          --
+         |[ Lobipedia ]                                         --
+         |- Epaphroditoidea                                     --
+         |    |- Epaphroditidae                                 --
+         |    |- Majangidae                                     --
+         |[ Mantimorpha ]                                       --
+         |- Haanioidea / Haaniidae                              --
+         |[ Heteromantodea]                                     --
+         |- Eremiaphiloidea                                     --
+         |    |- Rivetinidae                                    --
+         |    |- Arnelidae                                      --
+         |    |- Eremiaphilidae                                 --
+         |    |- Toxoderidae                                    --
+         |[ Pareymantodea ]                                     --
+         |- Hoplocoryphoidea / Hoplocoryphidae                  --
+         |[ Calomantodea ]                                      --
+         |- Miomantoidea / Miomantidae                          --
+         |[ Promantidea ]                                       --
+         |- Galinthiadoidea / Galinthiadidae                    --
+         |[ Mantidea ]                                          --
+         |- Hymenopodoidea                                      --
+         |    |- Empusidae                                      --
+         |    |- Hymenopodidae                                  --
+         |    |    |- Acromantinae                              --
+         |    |    |    |- Acromantini                          --
+         |    |    |    |    |- Acromantis                   20 boxer mantises / flower mantises
+         |    |    |    |    |    |- ◦ Acromantis australis   ◦ island mantis
+         |    |    |    |    |    |- ◦ Acromantis dyaka       ◦ --
+         |    |    |    |    |    |- ◦ Acromantis elegans     ◦ elegant acromantis
+         |    |    |    |    |    |- ◦ Acromantis formosana   ◦ taiwan flower mantis
+         |    |    |    |    |    |- ◦ Acromantis gestri      ◦ thai boxer mantis / sumatran acromantis
+         |    |    |    |    |    |- ◦ Acromantis grandis     ◦ --
+         |    |    |    |    |    |- ◦ Acromantis hesione     ◦ burmese mantis
+         |    |    |    |    |    |- ◦ Acromantis indica      ◦ burmese mantis
+         |    |    |    |    |    |- ◦ Acromantis insularis   ◦ luzon mantis
+         |    |    |    |    |    |- ◦ Acromantis japonica    ◦ japanese boxer mantis
+         |    |    |    |    |    |- ◦ Acromantis lilii       ◦ --
+         |    |    |    |    |    |- ◦ Acromantis luzonica    ◦ luzon mantis
+         |    |    |    |    |    |- ◦ Acromantis montana     ◦ mountain acromantis
+         |    |    |    |    |    |- ◦ Acromantis moultoni    ◦ borneo acromantis
+         |    |    |    |    |    |- ◦ Acromantis nicobarica  ◦ --
+         |    |    |    |    |    |- ◦ Acromantis oligoneura  ◦ --
+         |    |    |    |    |    |- ◦ Acromantis palauana    ◦ palau acromantis
+         |    |    |    |    |    |- ◦ Acromantis philippina  ◦ phillippines acromantis
+         |    |    |    |    |    |- ◦ Acromantis satsumensis ◦ --
+         |    |    |    |    |    |- ◦ Acromantis siporana    ◦ mentawai mantis
+         |    |    |    |    |- Ambivia                       2 --
+         |    |    |    |    |    |- ◦ Ambivia parapopa       ◦ --
+         |    |    |    |    |    |- ◦ Ambivia popa           ◦ --
+         |    |    |    |    |- Citharomantis                   --
+         |    |    |    |    |- Majangella                    ? --
+         |    |    |    |    |- Metacromantis                 ? --
+         |    |    |    |    |- Oligomantis                   ? --
+         |    |    |    |    |- Parapsychomantis              ? --
+         |    |    |    |    |- Psychomantis                  ? --
+         |    |    |    |    |- Rhomantis                     ? --
+         |    |    |    |- Otomantini                           --
+         |    |    |    |    |- Anasigerpes                     --
+         |    |    |    |    |- Chrysomantis                    --
+         |    |    |    |    |- Otomantis                     ? --
+         |    |    |    |    |- Oxypiloidea                   ? --
+         |    |    |- Hymenopodinae                             --
+         |    |    |    |- Anaxarchini                          --
+         |    |    |    |    |- Anaxarcha                       --
+         |    |    |    |    |- Euantissa                       --
+         |    |    |    |    |- Helomantis                      --
+         |    |    |    |    |- Nemotha                         --
+         |    |    |    |    |- Odontomantis                    --
+         |    |    |    |    |- Werneriana                    ? --
+         |    |    |    |- Hymenopodini                         --
+         |    |    |    |    |- Chlidonoptera                   --
+         |    |    |    |    |- Chloroharpax                    --
+         |    |    |    |    |- Creobroter                      --
+         |    |    |    |    |- Helvia                          --
+         |    |    |    |    |- Hymenopus                       --
+         |    |    |    |    |- Panurgica                     ? --
+         |    |    |    |    |- Pseudocreobotra                 --
+         |    |    |    |    |- Theopropus                      --
+         |    |    |- Oxypilinae                                --
+         |    |    |    |- Hestiasulini                         --
+         |    |    |    |    |- Astyliasula                     --
+         |    |    |    |    |- Catestiasula                    --
+         |    |    |    |    |- Ephestiasula                    --
+         |    |    |    |    |- Hestiasula                      --
+         |    |    |    |    |- Pseudohestiasula              ? --
+         |    |    |    |- Oxypilini                            --
+         |    |    |    |    |- Ceratomantis                  5 --
+         |    |    |    |    |    |- ◦ Ceratomantis ghatei      ◦ --
+         |    |    |    |    |    |- ◦ Ceratomantis gigliotosi  ◦ --
+         |    |    |    |    |    |- ◦ Ceratomantis kimberlae   ◦ --
+         |    |    |    |    |    |- ◦ Ceratomantis saussurii   ◦ --
+         |    |    |    |    |    |- ◦ Ceratomantis yunnanensis ◦ --
+         |    |    |    |    |- Junodia                      11 --
+         |    |    |    |    |    |- ◦ Junodia amoena         ◦ --
+         |    |    |    |    |    |- ◦ Junodia beieri         ◦ --
+         |    |    |    |    |    |- ◦ Junodia congica        ◦ --
+         |    |    |    |    |    |- ◦ Junodia hararensis     ◦ --
+         |    |    |    |    |    |- ◦ Junodia lameyi         ◦ --
+         |    |    |    |    |    |- ◦ Junodia maternaschulzei◦ --
+         |    |    |    |    |    |- ◦ Junodia spinosa        ◦ --
+         |    |    |    |    |    |- ◦ Junodia stiewei        ◦ --
+         |    |    |    |    |    |- ◦ Junodia strigipennis   ◦ --
+         |    |    |    |    |    |- ◦ Junodia vansomereni    ◦ --
+         |    |    |    |    |    |- ◦ Junodia vansoni        ◦ --
+         |    |    |    |    |- Oxypilus                      ? --
+         |    |    |    |    |- Pachymantis                   ? --
+         |    |    |    |    |- Psydoxypilus                  ? --
+         |    |    |- Phyllocraniinae                           --
+         |    |    |    |- Phyllocrania                         --
+         |    |    |    |    |- ◦ Phyllocrania illudens       ◦ --
+         |    |    |    |    |- ◦ Phyllocrania insignis       ◦ --
+         |    |    |    |    |- • Phyllocrania paradoxa       • ghost mantis
+         |    |    |- Phyllothelyinae                           --
+         |    |    |    |- Parablepharini                       --
+         |    |    |    |    |- Parablepharis                   --
+         |    |    |    |- Phyllothelyini                       --
+         |    |    |    |    |- Ceratocrania                    --
+         |    |    |    |    |- Phyllothelys                    --
+         |    |    |- Sibyllinae                                --
+         |    |    |    |- Leptosibylla                       ? --
+         |    |    |    |- Presibylla                         ? --
+  33 mya |    |    |    |[ Sibylla ]                         13 --
+         |    |    |    |- ◦ Sibylla dives                    ◦ --
+         |    |    |    |- ◦ Sibylla dolosa                   ◦ --
+         |    |    |    |- ◦ Sibylla gratiosa                 ◦ --
+         |    |    |    |- ◦ Sibylla limbata                  ◦ --
+         |    |    |    |- ◦ Sibylla maculosa                 ◦ --
+         |    |    |    |- ◦ Sibylla marmorata                ◦ --
+         |    |    |    |- ◦ Sibylla polyacantha              ◦ --
+         |    |    |    |- • Sibylla pretiosa                 • cryptic mantis
+         |    |    |    |[ Sibyllopsis ]                      5 --
+         |    |    |    |- ◦ Sibylla griffinii                ◦ --
+         |    |    |    |- ◦ Sibylla operosa                  ◦ --
+         |    |    |    |- ◦ Sibylla pannulata                ◦ --
+         |    |    |    |- ◦ Sibylla punctata                 ◦ --
+         |    |    |    |- ◦ Sibylla vanderplaetseni          ◦ --
+         |[ Mantoidea ]                                         --
+         |- Dactylopterygidae                                   --
+         |    |- ? Theopompella                               ? --
+         |    |- ? Zouza                                      ? --
+         |    |[ Dactylopteryx ]                              3 --
+         |    |- ◦ Dactylopteryx flexuosa                     ◦ --
+         |    |- ◦ Dactylopteryx intermedia                   ◦ --
+         |    |- ◦ Dactylopteryx orientalis                   ◦ --
+         |- Deroplatyidae                                       --
+         |- Mantidae                                            --

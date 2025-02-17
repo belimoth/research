@@ -1,0 +1,75 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Feliformia / Herpestoidea
+-----------------------------------------------------------------------------------------------------
+         |[ Herpestoidea ]                                   48 herpestoids
+         |- Herpestidae sl                                   44 --
+  19 mya |    |- Eupleridae                                  10 euplerids; malagasy mongooses
+         |    |    |- Galidiinae                              6 --
+         |    |    |    |- • Galidia elegans                  • ring-tailed vontsira
+         |    |    |    |- • Galidictis fasciata              • broad-striped malagasy mongoose
+         |    |    |    |- • Galidictis grandidieri           • grandidier's mongoose
+         |    |    |    |- • Mungotictis decemlineata         • narrow-striped mongoose
+         |    |    |    |- • Salanoia durrelli                • durrell's vontsira
+         |    |    |    |- • Salanoia concolor                • brown-tailed mongoose
+         |    |    |[ Euplerinae ]                            4 malagasy civets
+         |    |    |- † Cryptoprocta spelea                   † giant fossa
+         |    |    |- • Cryptoprocta ferox                    • fossa
+         |    |    |- • Eupleres goudotii                     • eastern falanouc
+         |    |    |- • Eupleres major                        • western falanouc
+         |    |    |- • Fossa fossana                         • malagasy civet
+  18 mya |    |[ Herpestidae ss ]                            34 mongooses
+         |    |- Mungotinae                                  11 --
+         |    |    |- • Suricata suricatta                    • meerkat / suricate
+         |    |    |- • Liberiictis kuhni                     • liberian mongoose
+         |    |    |- • Mungos gambianus                      • gambian mongoose
+         |    |    |- • Mungos mungo                          • banded mongoose
+         |    |    |[ Crossarchus ]                           4 kusimanses
+         |    |    |    |- • Crossarchus alexandri            • alexander's kusimanse
+         |    |    |    |- • Crossarchus ansorgei             • angolan kusimanse
+         |    |    |    |- • Crossarchus platycephalus        • flat-headed kusimanse
+         |    |    |    |- • Crossarchus obscurus             • common kusimanse
+         |    |    |- • Dologale dybowskii                    • pousargues's mongoose
+         |   6 mya |[ Helogale ]                              2 --
+         |    |    |    |- • Helogale parvula                 • common dwarf mongoose
+         |    |    |    |- • Helogale hirtula                 • ethiopian dwarf mongoose
+         |    |- Herpestinae                                 23 --
+         |    |    |- Urva                                    8 asian mongooses
+         |    |    |    |- • Urva brachyura                   • short-tailed mongoose
+         |    |    |    |- • Urva semitorquata                • collared mongoose
+         |    |    |    |- • Urva urva                        • crab-eating mongoose
+         |    |    |    |- • Urva smithii                     • ruddy mongoose
+         |    |    |    |- • Urva vitticolla                  • stripe-necked mongoose
+         |    |    |    |- • Urva fusca                       • indian brown mongoose
+         |    |    |    |- • Urva edwardsii                   • indian gray mongoose
+         |    |    |    |- • Urva javanica                    • small Asian mongoose
+         |    |    | - • Atilax paludinosus                   • marsh mongoose
+         |    |    | - • Xenogale naso                        • long-nosed mongoose
+         |    |    |[ unnamed ]                              12 --
+         |    |    |- Herpestes                               5 slender mongooses
+         |    |    |    |- • Herpestes ichneumon              • egyptian mongoose
+         |    |    |    |- • Herpestes sanguinea              • slender mongoose
+         |    |    |    |- • Herpestes pulverulenta           • cape gray mongoose
+         |    |    |    |- • Herpestes ochracea               • somalian slender mongoose
+         |    |    |    |- • Herpestes flavescens             • angolan slender mongoose
+         |    |    |[ unnamed ]                               7 --
+         |    |    |- • Ichneumia albicauda                   • white-tailed mongoose
+         |    |    |[ unnamed ]                               6 --
+         |    |    |- • Cynictis penicillata                  • yellow mongoose
+         |    |    |- • Paracynictis selousi                  • selous's mongoose
+         |    |    |- • Rhynchogale melleri                   • meller's mongoose
+         |   4 mya |[ Bdeogale ]                              3 --
+         |    |    |- • Bdeogale jacksoni                     • jackson's mongoose
+         |    |    |- • Bdeogale nigripes                     • black-footed mongoose
+         |    |    |- • Bdeogale crassicauda                  • bushy-tailed mongoose
+         |- Hyaenidae sl                                      4 --
+         |    |- † Percrocutidae                              † percrocutids
+         |    |    |- † Dinocrocuta                           † dinocrocuta
+         |    |    |- † Percrocuta                            † percrocuta
+  11 mya |    |[ Hyaenidae ss ]                               4 hyenas
+         |    |- † Ictitherium                                † ictitherium
+         |    |- † Pachycrocuta                               † pachycrocuta; giant short-faced hyena
+         |    |- • Proteles cristatus                         • aardwolf / civet hyena / termite-eating hyena
+         |    |[ Hyaeninae ]                                  3 --
+         |    |- • Crocuta crocuta                            • spotted hyena / laughing hyena
+         |    |- • Hyaena hyaena                              • striped hyena
+         |    |- • Parahyaena brunnea                         • brown hyena / strandwolf

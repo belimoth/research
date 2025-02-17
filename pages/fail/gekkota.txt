@@ -1,0 +1,165 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Gekkota
+-----------------------------------------------------------------------------------------------------
+112 mya |[ Gekkota ]                                           geckos
+ 70 mya |- Phyllodactylidae
+>41 mya |    |- Phyllodactylus
+        |    |-
+ 65 mya |- Sphaerodactylidae
+        |    |-
+        |    |-
+ 36 mya |- Carphodactylidae                                    southern padless geckos
+        |- Diplodactylidae                                     --
+ 13 mya |    |- Pseudothecadactylus                          3 --
+        |    |    |- • Pseudothecadactylus lindneri          • giant cave gecko / northern giant cave gecko
+        |    |    |- ◦ Pseudothecadactylus australis         ◦ cape york pad-tail gecko
+        |    |    |- ◦ Pseudothecadactylus cavaticus         ◦ --
+        |    |- unnamed                                        new caledonian geckos
+        |    |    |- Eurydactylodes
+        |    |    |- Oedodera
+        |    |    |- Dierogekko
+        |    |    |- Correlophus
+        |    |    |- Rhacodactylus
+        |    |    |- Mniarogekko
+        |    |    |- Paniegekko
+        |    |    |- Bavayia
+        |    |[ unnamed ]
+        |    |- Crenadactylus
+        |    |- unnamed                                        new zealand geckos
+        |    |    |- Woodworthia (paraphyletic)
+        |    |    |- Hoplodactylus
+        |    |    |- Tukutuku
+        |    |    |- Dactylocnemis
+        |    |    |- Mokopirirakau
+        |    |    |- Toropuku
+        |    |    |- Naultinus
+        |    |[ unnamed ]
+        |    |- Hesperoedura
+        |    |- Amalosia (paraphyletic)
+        |    |- Nebulifera
+        |    |- Oedura
+        |    |- Strophurus
+        |    |- Rhynchoedura
+        |    |- Lucasium
+        |    |- Diplodactylus
+
+ 30 mya |- Pygopodidae                                         snake lizards / flap-footed lizatds
+ >9 mya |    |- Lialis                                         --
+        |    |-                                                --
+        |- Eublepharidae                                       eyelid geckos
+        |    |- Aeluroscalabotes
+        |    |- Coleonyx
+ 26 mya |    |- Eublepharis
+        |    |- Goniurosaurus
+        |    |- Hemitheconyx
+        |    |- Holodactylus
+        |[ Gekkonidae ]                                        common geckos
+        |- Uroplatinae
+        |    |- Afroedura
+        |    |- Afrogecko
+        |    |- Ailuronyx
+        |    |- Blaesodactylus
+        |    |- Calodactylodes
+        |    |- Christinus
+        |    |- Chondrodactylus
+        |    |- Cnemaspis
+        |    |- Cryptactites
+        |    |- Ebenavia
+        |    |- Elasmodactylus
+        |    |- Geckolepis
+        |    |- Goggia
+        |    |- Homopholis
+        |    |- Kolekanos
+        |    |- Lygodactylus
+        |    |- Matoatoa
+        |    |- Narudasia
+        |    |- Pachydactylus
+        |    |- Paragehyra
+        |    |- Paroedura
+        |    |- Perochirus
+        |    |- Phelsuma
+        |    |- Ptenopus
+        |    |- Ramigekko
+        |    |- Rhoptropella
+        |    |- Rhoptropus
+        |    |- Urocotyledon
+        |    |- Uroplatus
+        |[ Gekkoninae]
+        |- Agamura
+        |    |- • Agamura persica                             • persian spider gecko
+        |    |- ◦ Agamura cruralis                            ◦ --
+        |    |- ◦ Agamura kermanensis                         ◦ --
+        |- Alsophylax (6 species)
+        |- Altiphylax (5 species)
+        |    |- ◦ Altiphylax baturensis                       ◦ batura glacier gecko
+        |    |- ◦ Altiphylax levitoni                         ◦ leviton's gecko
+        |    |- ◦ Altiphylax mintoni                          ◦ --
+        |    |- ◦ Altiphylax stoliczkai                       ◦ --
+        |    |- ◦ Altiphylax tokobajevi                       ◦ --
+        |- Ancylodactylus                                    19 --
+        |    |- ◦ Ancylodactylus africanus                    ◦ african gecko
+        |    |- ◦ Ancylodactylus alantika                     ◦ --
+        |    |- ◦ Ancylodactylus barbouri                     ◦ barbour's gecko
+        |    |- ◦ Ancylodactylus chyuluensis                  ◦ --
+        |    |- ◦ Ancylodactylus dickersonae                  ◦ dickerson's gecko / dickerson's forest gecko / four-lined forest gecko
+        |    |- ◦ Ancylodactylus dilepis                      ◦ two-scaled gecko
+        |    |- ◦ Ancylodactylus elgonensis                   ◦ mount elgon forest gecko
+        |    |- ◦ Ancylodactylus gigas                        ◦ giant forest gecko / perret's nigeria gecko
+        |    |- ◦ Ancylodactylus kenyaensis                   ◦ --
+        |    |- ◦ Ancylodactylus kituiensis                   ◦ --
+        |    |- ◦ Ancylodactylus koehleri                     ◦ koehler's gecko
+        |    |- ◦ Ancylodactylus laikipiensis                 ◦ --
+        |    |- ◦ Ancylodactylus mathewsensis                 ◦ --
+        |    |- ◦ Ancylodactylus occidentalis                 ◦ western gecko
+        |    |- ◦ Ancylodactylus petrodroma                   ◦ nigeria crag gecko / ondo forest gecko
+        |    |- ◦ Ancylodactylus quattuorseriatus             ◦ sternfeld's gecko
+        |    |- ◦ Ancylodactylus spawlsi                      ◦ --
+        |    |- ◦ Ancylodactylus spinicollis                  ◦ --
+        |    |- ◦ Ancylodactylus uzungwae                     ◦ tanzania gecko
+        |- Bunopus                                            3 --
+        |    |- ◦ Bunopus blanfordii                          ◦ blanford's rock gecko
+        |    |- ◦ Bunopus crassicauda                         ◦ thickhead rock gecko / thick-tailed tuberculated gecko
+        |    |- ◦ Bunopus tuberculatus                        ◦ baluch rock gecko / arabian desert gecko / southern tuberculated gecko
+        |- Carinatogecko (2 species)
+        |- Cnemaspis (148 species)
+        |- Crossobamon (1 or 2 species)
+        |- Cryptactites (monotypic)
+        |- Cyrtodactylus (297 species)
+        |- Cyrtopodion (37 species)
+        |- Dixonius (11 species)
+        |- Dravidogecko (7 species)
+        |- Gehyra (68 species)
+        |- Gekko (86 species)
+        |- Gonydactylus (4 species)
+        |- Hemidactylus (190 species)[3]
+        |- Hemiphyllodactylus (51 species)
+        |- Heteronotia (3 species)
+        |- Lepidodactylus (44 species)
+        |- Luperosaurus (8 species)
+        |- Mediodactylus (13 species)
+Lebanese thin-toed gecko, Mediodactylus amictopholis Hoofien, 1967
+Iranian gecko, Mediodactylus aspratilis Anderson, 1973
+Barton's thin-toed gecko, Mediodactylus bartoni (Stepánek, 1934)
+Short-limbed bend-toed gecko, Mediodactylus brachykolon Krysko, Rehman & K. Auffenberg, 2007
+Mediterranean thin-toed gecko, Mediodactylus danilewskii (Strauch, 1887)
+Asia Minor thin-toed gecko, Mediodactylus heterocercus (Blanford, 1874)
+Iraqi gecko, Mediodactylus heteropholis Minton, Anderson, & Anderson, 1970
+Ilamian keel-scaled gecko, Mediodactylus ilamensis (Fathinia, Karamiani, Darvishnia, Heidari & Rastegar-Pouyani, 2011)
+Kotschy's gecko, Mediodactylus kotschyi (Steindachner, 1870)
+Mediodactylus narynensis Eremchenko, Zarinenko & Panfilov, 1999
+Mediodactylus oertzeni (Boettger, 1888)
+Mediodactylus orientalis (Stepánek, 1937)
+Mediodactylus russowi (Strauch, 1887)
+Jaz Murian bent-toed gecko, Mediodactylus sagittifer (Nikolsky, 1900)
+Kopet Dagh bent-toed gecko, Mediodactylus spinicauda (Strauch, 1887)
+Mediodactylus stevenandersoni (Torki, 2011)
+Chitral gecko, Mediodactylus walli (Ingoldby, 1922)
+        |- Nactus (35 species)
+        |- Palmatogecko (2 species)
+        |- Pseudogekko (10 species)
+        |- Rhinogekko (2 species)
+        |- Stenodactylus (10 species)
+        |- Teratolepis (2 species)
+        |- Trachydactylus (2 species)
+        |- Trigonodactylus (3 species)
+        |- Tropiocolotes (15 species)

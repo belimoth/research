@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Alcelaphinae
+-----------------------------------------------------------------------------------------------------
+   6 mya |[ Alcelaphinae ]                                    6 alcelaphines / alcelaphine antelope
+         |- • Beatragus hunteri                               • hirola
+   5 mya |- Damaliscus                                        2 damalisks
+         |    |- • Damaliscus lunatus                         • topi / tiang / tsessebe / sassaby
+         |    |- • Damaliscus pygargus                        • bontebok
+   3 mya |- • Alcelaphus buselaphus                           • hartebeest / kongoni / kaama
+   1 mya |[ Connochaetes ]                                    2 gnus / wildebeests
+         |- • Connochaetes gnou                               • black wildebeest
+         |- • Connochaetes taurinus                           • blue wildebeest

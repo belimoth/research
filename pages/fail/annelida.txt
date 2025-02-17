@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Annelida
+-----------------------------------------------------------------------------------------------------
+ 483 mya |[ Annelida ]                                          annelids; segmented worms
+         |- Oweniidae                                           --
+         |- Magelonidae                                         --
+         |- Chaetopteridae                                      --
+         |- Amphinomida                                         --
+         |- Sipuncula                                           --
+         |[ Pleistoannelida ]                                   --
+         |- Errantia                                            --
+         |    |- Protodriliformia                               --
+         |    |    |- Polygordiidae                             --
+         |    |    |- Protodrilida                              --
+         |    |[ Aciculata ]                                    --
+         |    |- Eunicida                                       --
+         |    |- Phyllodocida                                   --
+         |[  Sedentaria ]                                       --
+         |- Orbiniida                                           --
+         |- Cirratuliformia                                     --
+         |- Siboglinidae                                        -- (pogonophorans)
+         |- Sabellida                                           --
+         |- Spionida                                            --
+         |- Opheliida                                           --
+         |- Capitellida                                         --
+         |    |- Capitellidae                                   --
+         |    |- Echiura                                        --
+         |- Terebelliformia                                     --
+         |- Maldanomorpha                                       --
+ 455 mya |[ Clitellata ]                                        clitellates
+         |- Branchiobdellida                                    -- (ectosymbiotic)
+         |- * Hirudinea                                         leeches (parasitic)
+         |- * Oligochaeta                                       oligochaetes

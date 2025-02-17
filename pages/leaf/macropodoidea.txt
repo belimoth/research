@@ -1,0 +1,98 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Macropodoidea
+-----------------------------------------------------------------------------------------------------
+         |[ Macropodoidea ]                                  76 --
+         |- † Balbaridae / Balbaroo                           † basal quadrupedal kangaroos
+         |- • Hypsiprymnodon moschatus                        • musky rat-kangaroo
+         |- Potoridae / Potorinae                             8 potoroine marsupials
+         |    |- † Caloprymnus                                † oolacunta / desert rat-kangaroo
+         |    |- • Aepyprymnus rufescens                      • rufous bettong / rufous rat-kangaroo
+  14 mya |    |- Potorous                                     3 potoroos
+         |    |    |- † Potorous platyops                     † broad-faced potoroo
+         |    |    |- • Potorous gilbertii                    • gilbert's potoroo
+         |    |    |- • Potorous longipes                     • long-footed potoroo
+         |    |    |- • Potorous tridactylus                  • long-nosed potoroo
+   7 mya |    |[ Bettongia ]                                  4 bettongs
+         |    |- • Bettongia gaimardi                         • eastern bettong / southern bettong / tasmanian bettong
+         |    |- • Bettongia lesueur                          • boodie / burrowing bettong
+         |    |- • Bettongia penicillata                      • woylie / brush-tailed bettong
+         |    |- • Bettongia tropica                          • northern bettong
+  18 mya |- Macropodidae                                     67 --
+         |    |- • Lagostrophus fasciatus                     • banded hare-wallaby
+         |    |[ Macropodinae ]                              66 --
+         |    |- • Setonix brachyurus                         • quokka
+         |    |- • Wallabia bicolor                           • banggarai / swamp wallaby / black wallaby / stinker
+         |    |- Dorcopsis                                    4 forest wallabies
+         |    |    |- • Dorcopsis atrata                      • black dorcopsis
+         |    |    |- • Dorcopsis hageni                      • white-striped dorcopsis
+         |    |    |- • Dorcopsis luctuosa                    • gray dorcopsis
+         |    |    |- • Dorcopsis muelleri                    • brown dorcopsis
+         |    |- Dorcopsulus                                  2 --
+         |    |    |- • Dorcopsulus macleayi                  • macleay's dorcopsis
+         |    |    |- • Dorcopsulus vanheurni                 • small dorcopsis
+   8 mya |    |- Dendrolagus                                 14 tree-kangaroos
+         |    |    |- • Dendrolagus inustus                   • grizzled tree-kangaroo
+         |    |    |- • Dendrolagus lumholtzi                 • lumholtz's tree-kangaroo
+         |    |    |- • Dendrolagus bennettianus              • bennett's tree-kangaroo
+         |    |    |- • Dendrolagus ursinus                   • ursine tree-kangaroo
+         |    |    |- • Dendrolagus matschiei                 • matschie's tree-kangaroo
+         |    |    |- • Dendrolagus dorianus                  • doria's tree-kangaroo
+         |    |    |- • Dendrolagus notatus                   • ifola
+         |    |    |- • Dendrolagus stellarum                 • seri's tree-kangaroo
+         |    |    |- • Dendrolagus goodfellowi               • goodfellow's tree-kangaroo
+         |    |    |- • Dendrolagus pulcherrimus              • golden-mantled tree-kangaroo
+         |    |    |- • Dendrolagus spadix                    • lowlands tree-kangaroo
+         |    |    |- • Dendrolagus mbaiso                    • dingiso
+         |    |    |- • Dendrolagus scottae                   • tenkile
+         |    |    |- • Dendrolagus mayri                     • wondiwoi tree-kangaroo
+   8 mya |    |- Thylogale                                    7 pademelons
+         |    |    |- • Thylogale billardierii                • tasmanian pademelon / red-bellied pademelon
+         |    |    |- • Thylogale browni                      • brown's pademelon
+         |    |    |- • Thylogale brunii                      • dusky pademelon
+         |    |    |- • Thylogale calabyi                     • calaby's pademelon
+         |    |    |- • Thylogale lanatus                     • mountain pademelon
+         |    |    |- • Thylogale stigmatica                  • red-legged pademelon
+         |    |    |- • Thylogale thetis                      • red-necked pademelon
+   7 mya |    |- Petrogale                                   20 rock wallabies
+         |    |    |- • Petrogale brachyotis                  • short-eared rock-wallaby
+         |    |    |- • Petrogale burbidgei                   • monjon
+         |    |    |- • Petrogale concinna                    • nabarlek
+         |    |    |- • Petrogale wilkinsi                    • eastern short-eared rock-wallaby
+         |    |    |- • Petrogale persephone                  • proserpine rock-wallaby
+         |    |    |- • Petrogale rothschildi                 • rothschild's rock-wallaby
+         |    |    |- • Petrogale xanthopus                   • yellow-footed rock-wallaby
+         |    |    |- • Petrogale assimilis                   • allied rock-wallaby
+         |    |    |- • Petrogale coenensis                   • cape york rock-wallaby
+         |    |    |- • Petrogale godmani                     • godman's rock-wallaby
+         |    |    |- • Petrogale herberti                    • herbert's rock-wallaby
+         |    |    |- • Petrogale inornata                    • unadorned rock-wallaby
+         |    |    |- • Petrogale lateralis                   • black-flanked rock-wallaby
+         |    |    |- • Petrogale mareeba                     • mareeba rock-wallaby
+         |    |    |- • Petrogale penicillata                 • brush-tailed rock-wallaby
+         |    |    |- • Petrogale purpureicollis              • purple-necked rock-wallaby
+         |    |    |- • Petrogale sharmani                    • mount claro rock-wallaby
+   5 mya |    |- Notamacropus                                 7 --
+         |    |    |- † Notamacropus greyi                    † toolache wallaby
+         |    |    |- • Notamacropus agilis                   • agile wallaby
+         |    |    |- • Notamacropus dorsalis                 • black-striped wallaby
+         |    |    |- • Notamacropus eugenii                  • tammar wallaby
+         |    |    |- • Notamacropus irma                     • western brush wallaby
+         |    |    |- • Notamacropus parma                    • parma wallaby
+         |    |    |- • Notamacropus parryi                   • pretty-faced wallaby
+         |    |    |- • Notamacropus rufogriseus              • red-necked wallaby
+   3 mya |    |- Lagorchestes                                 2 hare-wallabies
+         |    |    |- † Lagorchestes leporides                † eastern hare-wallaby
+         |    |    |- • Lagorchestes conspicillatus           • spectacled hare-wallaby
+         |    |    |- • Lagorchestes hirsutus                 • rufous hare-wallaby
+   3 mya |    |- Osphranter                                   4 --
+         |    |    |- • Osphranter antilopinus                • antilopine kangaroo
+         |    |    |- • Osphranter bernardus                  • black wallaroo
+         |    |    |- • Osphranter robustus                   • common wallaroo
+         |    |    |- • Osphranter rufus                      • red kangaroo
+   2 mya |    |- Macropus                                     2 --
+         |    |    |- • Macropus fuliginosus                  • western grey kangaroo
+         |    |    |- • Macropus giganteus                    • eastern grey kangaroo
+   1 mya |    |- Onychogalea                                  2 nail-tailed wallabies
+         |    |    |- † Onychogalea lunata                    † crescent nail-tailed wallaby
+         |    |    |- • Onychogalea fraenata                  • bridled nail-tailed wallaby
+         |    |    |- • Onychogalea unguifera                 • northern / sandy nail-tailed wallaby

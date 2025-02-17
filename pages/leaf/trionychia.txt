@@ -1,0 +1,54 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Pantestudines / Cryptodira / Trionychia
+-----------------------------------------------------------------------------------------------------
+ 150 mya |[ Trionychia ]                                     36 softshell turtles / soft-shelled turtles
+         |- Carettochelyidae                                  1 --
+         |    |- • Carettochelys insculpta                    • warrajan / pig-nosed turtle / fly river turtle
+ 100 mya |[ Trionychidae ]                                   35 --
+         |- Cyclanorbinae                                     7 flapshell turtles
+  26 mya |    |- Cyclanorbis                                  2 --
+         |    |    |- ◦ Cyclanorbis elegans                   ◦ nubian flapshell turtle
+         |    |    |- ◦ Cyclanorbis senegalensis              ◦ senegal flapshell turtle
+  20 mya |    |- Cycloderma                                   2 --
+         |    |    |- ◦ Cycloderma aubryi                     ◦ aubry's flapshell turtle
+         |    |    |- ◦ Cycloderma frenatum                   ◦ zambezi flapshell turtle
+  14 mya |    |- Lissemys                                     3 --
+         |    |    |- ◦ Lissemys ceylonensis                  ◦ sri lankan flapshell turtle
+         |    |    |- ◦ Lissemys punctata                     ◦ indian flapshell turtle
+         |    |    |- ◦ Lissemys scutata                      ◦ burmese flapshell turtle
+         |- Trionychinae                                     28 --
+         |    |- ◦ Dogania subplana                           ◦ malayan softshell turtle
+         |    |- ◦ Palea steindachneri                        ◦ wattle-necked softshell turtle
+         |    |- ◦ Trionyx triunguis                          ◦ nile softshell turtle / african softshell turtle
+         |    |- Amyda                                        2 --
+         |    |    |- ◦ Amyda cartilaginea                    ◦ asiatic softshell turtle / black-rayed softshell turtle
+         |    |    |- ◦ Amyda ornata                          ◦ southeast asian softshell turtle
+  21 mya |    |- Rafetus                                      2 --
+         |    |    |- ◦ Rafetus euphraticus                   ◦ euphrates softshell turtle
+         |    |    |- ◦ Rafetus swinhoei                      ◦ yangtze giant softshell turtle
+  19 mya |    |- Apalone                                      3 --
+         |    |    |- • Apalone ferox                         • florida softshell turtle
+         |    |    |- • Apalone mutica                        • smooth softshell turtle
+         |    |    |- • Apalone spinifera                     • spiny softshell turtle
+  17 mya |    |- Pelodiscus                                   7 --
+         |    |    |- ◦ Pelodiscus axenaria                   ◦ Hunan softshell turtle
+         |    |    |- ◦ Pelodiscus huangshanensis             ◦ Huangshan softshell turtle / horse-hoof softshell turtle
+         |    |    |- ◦ Pelodiscus maackii                    ◦ amur softshell turtle / northern chinese softshell turtle
+         |    |    |- ◦ Pelodiscus parviformis                ◦ lesser chinese softshell turtle
+         |    |    |- ◦ Pelodiscus shipian                    ◦ chinese stone slab softshell turtle
+         |    |    |- • Pelodiscus sinensis                   • chinese softshell turtle
+         |    |    |- ◦ Pelodiscus variegatus                 ◦ spotted softshell turtle
+  15 mya |    |- Nilssonia                                    5 --
+         |    |    |- ◦ Nilssonia formosa                     ◦ burmese softshell turtle / burmese peacock softshell turtle
+         |    |    |- ◦ Nilssonia gangetica                   ◦ indian softshell turtle / ganges softshell turtle
+         |    |    |- ◦ Nilssonia hurum                       ◦ indian peacock softshell turtle
+         |    |    |- ◦ Nilssonia leithii                     ◦ nagpur softshell turtle / leith's softshell turtle
+         |    |    |- • Nilssonia nigricans                   • bostami turtle / black softshell turtle
+  10 mya |    |- Chitra                                       3 --
+         |    |    |- ◦ Chitra chitra                         ◦ asian narrow-headed softshell turtle
+         |    |    |- ◦ Chitra indica                         ◦ indian narrow-headed softshell turtle
+         |    |    |- ◦ Chitra vandijki                       ◦ burmese narrow-headed softshell turtle
+   8 mya |    |- Pelochelys                                   3 giant softshell turtles
+         |    |    |- ◦ Pelochelys bibroni                    ◦ southern new guinea giant softshell turtle
+         |    |    |- ◦ Pelochelys cantorii                   ◦ cantor's giant softshell turtle
+         |    |    |- ◦ Pelochelys signifera                  ◦ northern new guinea giant softshell turtle

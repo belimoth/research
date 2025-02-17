@@ -1,0 +1,493 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Muroidea
+-----------------------------------------------------------------------------------------------------
+  48 mya |[ Muroidea ]                                          --
+         |- Platacanthomyidae (spiny dormouse and pygmy dormice)
+         |- Spalacidae (fossorial muroids)
+Subfamily Myospalacinae (zokors)
+Subfamily Rhizomyinae (bamboo rats and root rats)
+Subfamily Spalacinae (blind mole rats)
+
+         |[ Eumuroidea ]                                        --
+Family Calomyscidae
+Subfamily Calomyscinae (mouse-like hamsters)
+
+  25 mya |- Nesomyidae                                          --
+         |    |[ Nesomyinae ]                                   --
+         |    |- Peromyscus                                     deer mice
+         |    |- todo                                           --
+Subfamily Cricetomyinae (pouched rats and mice)
+Subfamily Dendromurinae (African climbing mice, gerbil mice, fat mice and forest mice)
+Subfamily Mystromyinae (white-tailed rat)
+Subfamily Nesomyinae (Malagasy rats and mice)
+Subfamily Petromyscinae (rock mice and the climbing swamp mouse)
+         |- Cricetidae
+Subfamily Arvicolinae (voles, lemmings and muskrat)
+Subfamily Cricetinae (true hamsters)
+Subfamily Neotominae (North American rats and mice)
+Subfamily Sigmodontinae (New World rats and mice)
+Subfamily Tylomyinae (vesper rats and climbing rats)
+  14 mya |[ Muridae ]                                           murids; murid rodents
+  11 mya |- Deomyinae                                           spiny mice, brush furred mice, link rat
+         |    |- ◦ Deomys ferrugineus                         ◦ link rat / congo forest mouse
+         |    |- ◦ Uranomys ruddi                             ◦ white-bellied brush-furred rat / rudd's mouse
+  11 mya |    |- Acomys                                      21 spiny mice
+         |    |    |- ◦ Acomys airensis                       ◦ western Saharan spiny mouse
+         |    |    |- • Acomys cahirinus                      • cairo spiny mouse
+         |    |    |- ◦ Acomys chudeaui                       ◦ chudeau's spiny mouse
+         |    |    |- ◦ Acomys cilicicus                      ◦ asia minor spiny mouse
+         |    |    |- ◦ Acomys cineraceus                     ◦ gray spiny mouse
+         |    |    |- ◦ Acomys dimidiatus                     ◦ eastern spiny mouse
+         |    |    |- ◦ Acomys ignitus                        ◦ fiery spiny mouse
+         |    |    |- ◦ Acomys johannis                       ◦ johan's spiny mouse
+         |    |    |- ◦ Acomys kempi                          ◦ kemp's spiny mouse
+         |    |    |- ◦ Acomys louisae                        ◦ louise's spiny mouse
+         |    |    |- ◦ Acomys minous                         ◦ crete spiny mouse
+         |    |    |- ◦ Acomys mullah                         ◦ mullah spiny mouse
+         |    |    |- ◦ Acomys muzei                          ◦ muze spiny mouse
+         |    |    |- ◦ Acomys nesiotes                       ◦ cyprus spiny mouse
+         |    |    |- ◦ Acomys ngurui                         ◦ nguru spiny mouse
+         |    |    |- ◦ Acomys percivali                      ◦ percival's spiny mouse
+         |    |    |- • Acomys russatus                       • golden spiny mouse
+         |    |    |- ◦ Acomys seurati                        ◦ seurat's spiny mouse
+         |    |    |- ◦ Acomys spinosissimus                  ◦ southern african spiny mouse
+         |    |    |- ◦ Acomys subspinosus                    ◦ cape spiny mouse
+         |    |    |- ◦ Acomys wilsoni                        ◦ wilson's spiny mouse
+   6 mya |    |[ Lophuromys ]                                33 brush-furred mice / brush-furred rats
+         |    |- Kivumys                                      3 --
+         |    |    |- ◦ Lophuromys luteogaster                ◦ yellow-bellied brush-furred rat
+         |    |    |- ◦ Lophuromys medicaudatus               ◦ medium-tailed brush-furred rat
+         |    |    |- ◦ Lophuromys woosnami                   ◦ woosnam's brush-furred rat
+         |    |[ Lophuromys ]                                30 --
+         |    |- ◦ Lophuromys angolensis                      ◦ angolan brush-furred rat
+         |    |- ◦ Lophuromys ansorgei                        ◦ ansorge's brush-furred rat
+         |    |- ◦ Lophuromys aquilus                         ◦ gray brush-furred rat
+         |    |- ◦ Lophuromys brevicaudus                     ◦ short-tailed brush-furred rat
+         |    |- ◦ Lophuromys brunneus                        ◦ thomas's Ethiopian brush-furred rat
+         |    |- ◦ Lophuromys chercherensis                   ◦ mount Chercher brush-furred rat
+         |    |- ◦ Lophuromys chrysopus                       ◦ ethiopian forest brush-furred rat
+         |    |- ◦ Lophuromys dieterleni                      ◦ dieterlen's brush-furred mouse
+         |    |- ◦ Lophuromys dudui                           ◦ dudu's brush-furred rat
+         |    |- ◦ Lophuromys eisentrauti                     ◦ eisentraut's brush-furred rat
+         |    |- ◦ Lophuromys flavopunctatus                  ◦ yellow-spotted brush-furred rat
+         |    |- ◦ Lophuromys huttereri                       ◦ hutterer's brush-furred mouse
+         |    |- ◦ Lophuromys kilonzoi                        ◦ kilonzo's brush furred rat
+         |    |- ◦ Lophuromys laticeps                        ◦ --
+         |    |- ◦ Lophuromys machangui                       ◦ machandu's brush furred rat
+         |    |- ◦ Lophuromys makundii                        ◦ makundi's brush-furred rat
+         |    |- ◦ Lophuromys margarettae                     ◦ --
+         |    |- ◦ Lophuromys melanonyx                       ◦ black-clawed brush-furred rat
+         |    |- ◦ Lophuromys menageshae                      ◦ north western rift brush-furred rat
+         |    |- ◦ Lophuromys nudicaudus                      ◦ fire-bellied brush-furred rat
+         |    |- ◦ Lophuromys pseudosikapusi                  ◦ sheko forest brush-furred rat
+         |    |- ◦ Lophuromys rahmi                           ◦ rahm's brush-furred rat
+         |    |- ◦ Lophuromys rita                            ◦ --
+         |    |- ◦ Lophuromys roseveari                       ◦ mount cameroon brush-furred rat
+         |    |- ◦ Lophuromys sabunii                         ◦ sabuni's brush-furred rat
+         |    |- ◦ Lophuromys sikapusi                        ◦ rusty-bellied brush-furred rat
+         |    |- ◦ Lophuromys simensis                        ◦ --
+         |    |- ◦ Lophuromys stanleyi                        ◦ stanley's brush-furred rat
+         |    |- ◦ Lophuromys verhageni                       ◦ verhagen's brush-furred mouse
+         |    |- ◦ Lophuromys zena                            ◦ zena's brush-furred rat
+         |- Gerbillinae                                         desert rats; gerbils, jirds and sand rats
+         |    |- Genus Ammodillus
+         |    |- Ammodile, Ammodillus imbellis
+         |    |- Tribe Desmodilliscini
+         |    |- Genus Desmodilliscus
+         |    |- Pouched gerbil, Desmodilliscus braueri
+         |    |- Genus Pachyuromys
+         |    |- Fat-tailed gerbil, Pachyuromys duprasi
+         |    |- Tribe Gerbillini
+         |    |- Subtribe Gerbillina
+         |    |- Genus Dipodillus
+         |    |- Botta's gerbil, Dipodillus bottai
+         |    |- North African gerbil, Dipodillus campestris
+         |    |- Wagner's gerbil, Dipodillus dasyurus
+         |    |- Harwood's gerbil, Dipodillus harwoodi
+         |    |- James's gerbil, Dipodillus jamesi
+         |    |- Lowe's gerbil, Dipodillus lowei
+         |    |- Mackilligin's gerbil, Dipodillus mackilligini
+         |    |- Greater short-tailed gerbil, Dipodillus maghrebi
+         |    |- Rupicolous gerbil, Dipodillus rupicola
+         |    |- Lesser short-tailed gerbil, Dipodillus simoni
+         |    |- Somalian gerbil, Dipodillus somalicus
+         |    |- Khartoum gerbil, Dipodillus stigmonyx
+         |    |- Kerkennah Islands gerbil, Dipodillus zakariai
+         |    |- Genus Gerbillus
+         |    |- Subgenus Hendecapleura
+         |    |- Pleasant gerbil, Gerbillus amoenus
+         |    |- Brockman's gerbil, Gerbillus brockmani
+         |    |- Black-tufted gerbil, Gerbillus famulus
+         |    |- Algerian gerbil, Gerbillus garamantis
+         |    |- Grobben's gerbil, Gerbillus grobbeni
+         |    |- Pygmy gerbil, Gerbillus henleyi
+         |    |- Mauritanian gerbil, Gerbillus mauritaniae (sometimes considered a separate genus Monodia)
+         |    |- Harrison's gerbil, Gerbillus mesopotamiae
+         |    |- Darfur gerbil, Gerbillus muriculus
+         |    |- Balochistan gerbil, Gerbillus nanus
+         |    |- Large Aden gerbil, Gerbillus poecilops
+         |    |- Principal gerbil, Gerbillus principulus
+         |    |- Least gerbil, Gerbillus pusillus
+         |    |- Sand gerbil, Gerbillus syrticus
+         |    |- Waters's gerbil, Gerbillus watersi
+         |    |- Subgenus Gerbillus
+         |    |- Berbera gerbil, Gerbillus acticola
+         |    |- Agag gerbil, Gerbillus agag
+         |    |- Anderson's gerbil, Gerbillus andersoni
+         |    |- Swarthy gerbil, Gerbillus aquilus
+         |    |- Burton's gerbil, Gerbillus burtoni
+         |    |- Cheesman's gerbil, Gerbillus cheesmani
+         |    |- Dongola gerbil, Gerbillus dongolanus
+         |    |- Somalia gerbil, Gerbillus dunni
+         |    |- Flower's gerbil, Gerbillus floweri
+         |    |- Lesser Egyptian gerbil, Gerbillus gerbillus
+         |    |- Indian hairy-footed gerbil, Gerbillus gleadowi
+         |    |- Western gerbil, Gergbillus hesperinus
+         |    |- Hoogstraal's gerbil, Gerbillus hoogstraali
+         |    |- Lataste's gerbil, Gerbillus latastei
+         |    |- Sudan gerbil, Gerbillus nancillus
+         |    |- Nigerian gerbil, Gerbillus nigeriae
+         |    |- Occidental gerbil, Gerbillus occiduus
+         |    |- Pale gerbil, Gerbillus perpallidus
+         |    |- Cushioned gerbil, Gerbillus pulvinatus
+         |    |- Greater Egyptian gerbil, Gerbillus pyramidum
+         |    |- Rosalinda gerbil, Gerbillus rosalinda
+         |    |- Tarabul's gerbil, Gerbillus tarabuli
+         |    |- Genus Microdillus
+         |    |- Somali pygmy gerbil, Microdillus peeli
+         |    |- Subtribe Rhombomyina
+         |    |- Genus Brachiones
+         |    |- Przewalski's gerbil, Brachiones przewalskii
+         |    |- Genus Meriones
+         |    |- Subgenus Meriones
+         |    |- Tamarisk jird, Meriones tamariscinus
+         |    |- Subgenus Parameriones
+         |    |- Persian jird, Meriones persicus
+         |    |- King jird, Meriones rex
+         |    |- Subgenus Pallasiomys
+         |    |- Arabian jird, Meriones arimalius
+         |    |- Cheng's jird, Meriones chengi
+         |    |- Sundevall's jird, Meriones crassus
+         |    |- Dahl's jird, Meriones dahli
+         |    |- Moroccan jird, Meriones grandis
+         |    |- Libyan jird, Meriones libycus
+         |    |- Midday jird, Meriones meridianus
+         |    |- Buxton's jird, Meriones sacramenti
+         |    |- Shaw's jird, Meriones shawi
+         |    |- Tristram's jird, Meriones tristrami
+         |    |- Mongolian jird (Mongolian Gerbil), Meriones unguiculatus
+         |    |- Vinogradov's jird, Meriones vinogradovi
+         |    |- Zarudny's jird, Meriones zarudnyi
+         |    |- Subgenus Cheliones
+         |    |- Indian desert jird, Meriones hurrianae
+         |    |- Genus Psammomys
+         |    |- Fat sand rat, Psammomys obesus
+         |    |- Thin sand rat, Psammomys vexillaris
+         |    |- Genus Rhombomys
+         |    |- Great gerbil, Rhombomys opimus
+         |    |- Incertae sedis
+         |    |- Genus Sekeetamys
+         |    |- Bushy-tailed jird, Sekeetamys calurus
+         |    |- Tribe Gerbillurini
+         |    |- Genus Desmodillus
+         |    |- Cape short-eared gerbil, Desmodillus auricularis
+         |    |- Genus Gerbilliscus
+         |    |- Cape gerbil, Gerbilliscus afra
+         |    |- Boehm's gerbil, Gerbilliscus boehmi
+         |    |- Highveld gerbil, Gerbilliscus brantsii
+         |    |- Guinean gerbil, Gerbilliscus guineae
+         |    |- Gorongoza gerbil, Gerbilliscus inclusus
+         |    |- Kemp's gerbil, Gerbilliscus kempi
+         |    |- Bushveld gerbil, Gerbilliscus leucogaster
+         |    |- Black-tailed gerbil, Gerbilliscus nigricaudus
+         |    |- Phillips's gerbil, Gerbilliscus phillipsi
+         |    |- Fringe-tailed gerbil, Gerbilliscus robustus
+         |    |- Savanna gerbil, Gerbilliscus validus
+         |    |- Genus Gerbillurus
+         |    |- Hairy-footed gerbil, Gerbillurus paeba
+         |    |- Namib brush-tailed gerbil, Gerbillurus setzeri
+         |    |- Dune hairy-footed gerbil, Gerbillurus tytonis
+         |    |- Bushy-tailed hairy-footed gerbil, Gerbillurus vallinus
+         |    |- Genus Tatera
+         |    |- Indian gerbil, Tatera indica
+         |    |- Tribe Taterillini
+         |    |- Genus Taterillus
+         |    |- Robbins's tateril, Taterillus arenarius
+         |    |- Congo gerbil, Taterillus congicus
+         |    |- Emin's gerbil, Taterillus emini
+         |    |- Gracile tateril, Taterillus gracilis
+         |    |- Harrington's gerbil, Taterillus harringtoni
+         |    |- Lake Chad gerbil, Taterillus lacustris
+         |    |- Petter's gerbil, Taterillus petteri
+         |    |- Senegal gerbil, Taterillus pygargus
+         |    |- Tranieri's tateril, Taterillus tranieri
+         |- Leimacomyinae                                       togo mouse
+         |- Lophiomyinae                                        crested rat
+         |[ Murinae ]                                           murines; old world rans and mice
+         |- Apodemini                                           --
+         |    |- Apodemus                                       old world field mice
+         |    |- Tokudaia                                       Ryūkyū spiny rats
+         |- Arvicanthini                                        --
+         |    |- Aethomys division                              --
+         |    |    |- Aethomys                                  bush rats
+         |    |    |- Micaelamys                                --
+         |    |- Arvicanthis division                           --
+         |    |    |- Arvicanthis                               unstriped grass mice
+         |    |    |- Desmomys                                  --
+         |    |    |- Lemniscomys                               striped grass mice
+         |    |    |- Mylomys                                   african groove-toothed Rat
+         |    |    |- Pelomys                                   groove-toothed creek rats
+         |    |    |- Rhabdomys                                 four-striped Grass Mouse
+         |    |- Dasymys division                               --
+         |    |    |- Dasymys                                   shaggy swamp rats
+         |    |- Golunda division                               --
+         |    |    |- Golunda                                   indian bush rat
+         |    |- Hybomys division                               --
+         |    |    |- Dephomys                                  defua rats
+         |    |    |- Hybomys                                   hump-nosed mice
+         |    |    |- Stochomys                                 target rat
+         |    |    |- Typomys                                   --
+         |    |- Oenomys division                               --
+         |    |    |- Grammomys                                 --
+         |    |    |- Lamottemys                                --
+         |    |    |- Oenomys                                   rufous-nosed rats
+         |    |    |- Thallomys                                 acacia rats
+         |    |    |- Thamnomys                                 thicket rats
+         |- Hapalomyini
+         |    |- Genus Hapalomys - marmoset rats
+         |- Hydromyini
+         |    |- Chiropodomys division (alternately considered a distinct tribe, Chiropodomyini)
+         |    |- Genus Chiropodomys - pencil-tailed tree mice
+         |    |- Chrotomys division
+         |    |- Genus Apomys
+         |    |- Genus Archboldomys (Mount Isarog shrew rats)
+         |    |- Genus Chrotomys - Luzon striped rats
+         |    |- Genus Soricomys
+         |    |- Genus Rhynchomys - shrew-like rats
+         |    |- Conilurus division
+         |    |- Genus Conilurus - rabbit rats
+         |    |- Genus Leporillus - Australian stick-nest rats
+         |    |- Genus Mesembriomys - tree rats
+         |    |- Haeromys division
+         |    |- Genus Haeromys - pygmy tree mice
+         |    |- Hydromys division
+         |    |- Genus Baiyankamys (formerly in Hydromys)
+         |    |- Genus Crossomys (earless water rat)
+         |    |- Genus Hydromys - water rats
+         |    |- Genus Leptomys
+         |    |- Genus Microhydromys
+         |    |- Genus Mirzamys
+         |    |- Genus Parahydromys
+         |    |- Genus Paraleptomys
+         |    |- Genus Pseudohydromys - New Guinea false water rats
+         |    |- Genus Xeromys (false water rat)
+         |    |- Mallomys division
+         |    |- Genus Abeomelomys
+         |    |- Genus Mallomys - giant tree rats
+         |    |- Genus Mammelomys
+         |    |- Genus Pogonomelomys - Rummler's mosaic tailed rats
+         |    |- Genus Xenuromys (white-tailed New Guinea rat)
+         |    |- Pogonomys division
+         |    |- Genus Anisomys (powerful-toothed rat)
+         |    |- Genus Chiruromys
+         |    |- Genus Hyomys - white-eared rats
+         |    |- Genus Lorentzimys (New Guinea jumping mouse)
+         |    |- Genus Macruromys - New Guinean rats
+         |    |- Genus Pogonomys - prehensile-tailed rats
+         |    |- Pseudomys division
+         |    |- Genus Leggadina
+         |    |- Genus Mastacomys
+         |    |- Genus Notomys - Australian hopping mice
+         |    |- Genus Pseudomys - Australian native mice
+         |    |- Genus Zyzomys - thick-tailed rats
+         |    |- Uromys division
+         |    |- Genus Melomys - banana rats
+         |    |- Genus Paramelomys
+         |    |- Genus Protochromys
+         |    |- Genus Solomys - naked-tailed rats
+         |    |- Genus Uromys - giant naked-tailed rats
+         |    |- Unknown division
+         |    |- Genus Brassomys
+         |    |- Genus Coccymys
+         |- Malacomyini
+         |    |- Genus Malacomys - big-eared swamp rats
+         |- Millardini
+         |    |- Millardia division
+         |    |- Genus Cremnomys
+         |    |- Genus Diomys (Manipur mouse)
+         |    |- Genus Madromys
+         |    |- Genus Millardia - Asian soft-furred rats
+         |    |- Pithecheir division
+         |    |- Genus Pithecheir - monkey-footed rats
+         |    |- Genus Pithecheirops
+         |- Tribe Murini
+         |    |- Genus Mus - true mice
+         |- Tribe Otomyini
+         |    |- Genus Myotomys - African karoo rats (now classified in Otomys)
+         |    |- Genus Otomys - groove-toothed or vlei rats
+         |    |- Genus Parotomys - whistling rats
+         |- Tribe Phloeomyini
+         |    |- Genus Batomys - Luzon and Mindanao forest rats
+         |    |- Genus Carpomys - Luzon rats
+         |    |- Genus Crateromys - cloudrunners
+         |    |- Genus Musseromys - tree mice
+         |    |- Genus Phloeomys - slender-tailed cloud rats
+         |- Tribe Praomyini
+         |    |- Genus Chingawaemys - Chingawa forest rat
+         |    |- Genus Colomys (African wading rat)
+         |    |- Genus Congomys
+         |    |- Genus Heimyscus
+         |    |- Genus Hylomyscus - African wood mice
+         |    |- Genus Mastomys - multimammate mice
+         |    |- Genus Montemys
+         |    |- Genus Myomyscus
+         |    |- Genus Nilopegamys
+         |    |- Genus Ochromyscus - rock mice
+         |    |- Genus Praomys - African soft-furred rats
+         |    |- Genus Serengetimys
+         |    |- Genus Stenocephalemys - Ethiopian narrow-headed rats
+         |    |- Genus Zelotomys - stink mice
+         |- Tribe Rattini
+         |    |- Berylmys division
+         |    |- Genus Berylmys - white-toothed rats
+         |    |- Bunomys division
+         |    |- Genus Bullimus
+         |    |- Genus Bunomys
+         |    |- Genus Eropeplus (Sulawesian soft-furred rat)
+         |    |- Genus Halmaheramys
+         |    |- Genus Komodomys
+         |    |- Genus Lenomys (trefoil-toothed rat)
+         |    |- Genus Papagomys - Flores giant rats
+         |    |- Genus Paruromys (Sulawesian giant rat)
+         |    |- Genus Paulamys
+         |    |- Species "Rattus" timorensis
+         |    |- Genus Sundamys - giant Sunda rats
+         |    |- Genus Taeromys
+         |    |- Dacnomys division
+         |    |- Genus Chiromyscus (Fea's tree rat)
+         |    |- Genus Dacnomys (Large-toothed giant rat)
+         |    |- Genus Lenothrix (grey tree rat)
+         |    |- Genus Leopoldamys - long-tailed giant rats
+         |    |- Genus Margaretamys - margareta rats
+         |    |- Genus Niviventer - white-bellied rats
+         |    |- Genus Saxatilomys
+         |    |- Genus Tonkinomys
+         |    |- Echiothrix division
+         |    |- Genus Echiothrix
+         |    |- Genus Hyorhinomys
+         |    |- Genus Melasmothrix (lesser Sulawesian shrew rat)
+         |    |- Genus Paucidentomys
+         |    |- Genus Sommeromys
+         |    |- Genus Tateomys - greater Sulawesian shrew rats
+         |    |- Genus Waiomys - Sulawesi water rat
+         |    |- Maxomys division
+         |    |- Genus Crunomys - Philippine and Sulawesian shrew rats
+         |    |- Genus Maxomys (rajah rats)
+         |    |- Micromys division (alternately considered a distinct tribe, Micromyini)
+         |    |- Genus Micromys (Old World harvest mice)
+         |    |- Rattus division
+         |    |- Genus Abditomys
+         |    |- Genus Bandicota - bandicoot rats
+         |    |- Genus Diplothrix
+         |    |- Genus Kadarsanomys
+         |    |- Genus Limnomys
+         |    |- Genus Nesokia (short-tailed bandicoot rat)
+         |    |- Genus Nesoromys
+         |    |- Genus Palawanomys (Palawan rat)
+         |    |- Genus Rattus - typical rats
+         |    |- Genus Tarsomys
+         |    |- Genus Tryphomys (Mearn's Luzon rat)
+         |    |- Srilankamys division
+         |    |- Genus Srilankamys (Ceylonese rats)
+         |    |- Unknown division
+         |    |- Genus Anonymomys (Mindoro rat)
+         |- Tribe Vandeleurini
+         |    |- Genus Vandeleuria - long-tailed climbing mice
+         |    |- incertae sedis
+         |    |- Genus †Alormys
+         |    |- Genus †Coryphomys
+         |    |- Genus Hadromys
+         |    |- Genus †Hooijeromys
+         |    |- Genus †Milimonggamys
+         |    |- Genus †Rakasamys
+         |    |- Genus Vernaya (Vernay's Climbing Mouse)
+         |    |- Genus †Spelaeomys
+
+
+   9 mya |- Mus                                                 true mice
+         |- Rattus                                              rats
+incertae sedis
+Enggano rat (Rattus enganus) – Indonesia (potentially extinct)
+Philippine forest rat (Rattus everetti) – the Philippines
+Polynesian rat or kiore (Rattus exulans) – originally native to Bangladesh, Myanmar, Thailand, Cambodia, Laos, Vietnam, Malaysia, and Indonesia, but now introduced throughout the Pacific (including most Polynesian, Melanesian, and Micronesian islands, most notably Fiji, Papua New Guinea, New Zealand, Easter Island and Hawaii), as well as the Philippines, Brunei, and Singapore, origin uncertain in Taiwan
+Hainald's rat (Rattus hainaldi) – Indonesia
+Hoogerwerf's rat (Rattus hoogerwerfi) – Indonesia
+Korinch's rat (Rattus korinchi) – Indonesia
+†Maclear's rat (Rattus macleari) – Christmas Island (now extinct)
+Nillu rat (Rattus montanus) – Sri Lanka
+Molaccan prehensile-tailed rat (Rattus morotaiensis) – Indonesia
+†Bulldog rat (Rattus nativitatis) – Christmas Island (now extinct)
+Kerala rat (Rattus ranjiniae) – India
+New Ireland forest rat (Rattus sanila) (potentially extinct)
+Andaman rat (Rattus stoicus) – the Andaman Islands, India
+Timor rat (Rattus timorensis) – Timor
+R. norvegicus group
+Himalayan field rat (Rattus nitidus) – originally native to Bhutan, China, India, Myanmar, Nepal, Thailand, and Vietnam (presence uncertain in Bangladesh), but now introduced to Indonesia, the Philippines, and Palau
+Brown rat (Rattus norvegicus) – originally native to southeast Siberia, northeast China, and parts of Japan, but now introduced worldwide except Antarctica
+Turkestan rat (Rattus pyctoris; obs. Rattus turkestanicus) – Afghanistan, China, India, Iran, Kyrgyzstan, Nepal and Pakistan
+R. rattus group
+Sunburned rat (Rattus adustus) – Enggano Island, Indonesia
+Sikkim rat (Rattus andamanensis) – Bhutan, Cambodia, China, India, Laos, Myanmar, Nepal, Thailand and Vietnam
+Ricefield rat (Rattus argentiventer) – Southeast Asia
+Summit rat (Rattus baluensis) – Malaysia
+Aceh rat (Rattus blangorum) – Indonesia
+Nonsense rat (Rattus burrus) – Nicobar Islands, India
+Hoffmann's rat (Rattus hoffmanni) – Indonesia
+Koopman's rat (Rattus koopmani) – Indonesia
+Lesser ricefield rat (Rattus losea) – China, Laos, Taiwan, Thailand and Vietnam
+Mentawai rat (Rattus lugens) – Indonesia
+Mindoro black rat (Rattus mindorensis) – the Philippines
+Little soft-furred rat (Rattus mollicomulus) – Indonesia
+Osgood's rat (Rattus osgoodi) – Vietnam
+Palm rat (Rattus palmarum) – Nicobar Islands, India
+Black rat (Rattus rattus) – originally native to western India and Pakistan, but now introduced worldwide except Antarctica
+Little Indochinese field rat (Rattus sakeratensis) – Thailand and Laos
+Sahyadris forest rat (Rattus satarae) – India
+Simalur rat (Rattus simalurensis) – Indonesia
+Tanezumi rat (Rattus tanezumi) – Afghanistan, Bangladesh, Cambodia, China, Cocos (Keeling) Islands, Fiji, India, Indonesia, Japan, North Korea, South Korea, Laos, Malaysia, Myanmar, Nepal, Pakistan, the Philippines, Taiwan, Thailand and Vietnam
+Tawitawi forest rat (Rattus tawitawiensis) – the Philippines
+Malayan field rat (Rattus tiomanicus) – Indonesia, Malaysia, the Philippines and Thailand
+R. xanthurus group
+Bonthain rat (Rattus bontanus; obs. Rattus foramineus) – Indonesia
+Lore Lindu xanthurus rat (Rattus facetus) – Indonesia
+Opossum rat (Rattus marmosurus) – Indonesia
+Peleng rat (Rattus pelurus) – Indonesia
+Southeastern xanthurus rat (Rattus salocco) – Indonesia
+Yellow-tailed rat (Rattus xanthurus) – Indonesia
+R. leucopus group (New Guinean group)
+Vogelkop mountain rat (Rattus arfakiensis)
+Western New Guinea mountain rat (Rattus arrogans)
+Manus Island spiny rat (Rattus detentus) – Papua New Guinea
+Sula rat (Rattus elaphinus) – Indonesia
+Spiny Ceram rat (Rattus feliceus) – Indonesia
+Giluwe rat (Rattus giluwensis) – Papua New Guinea
+Japen rat (Rattus jobiensis) – Indonesia
+Cape York rat (Rattus leucopus) – Australia, Indonesia and Papua New Guinea
+Eastern rat (Rattus mordax) – Papua New Guinea
+Gag Island rat (Rattus nikenii) – Indonesia
+Moss-forest rat (Rattus niobe) – Indonesia and Papua New Guinea
+New Guinean rat (Rattus novaeguineae) – Papua New Guinea
+Arianus's rat (Rattus omichlodes) – Indonesia
+Pocock’s highland rat (Rattus pococki) – Indonesia, Papua New Guinea
+Large New Guinea spiny rat (Rattus praetor) – Indonesia, Papua New Guinea and the Solomon Islands
+Glacier rat (Rattus richardsoni) – Indonesia
+Stein's rat (Rattus steini) – Indonesia and Papua New Guinea
+Van Deusen's rat (Rattus vandeuseni) – Papua New Guinea
+Slender rat (Rattus verecundus) – Indonesia and Papua New Guinea
+R. fuscipes group (Australian group)
+Dusky rat (Rattus colletti) – Australia
+Bush rat (Rattus fuscipes) – Australia
+Australian swamp rat (Rattus lutreolus) – Australia
+Dusky field rat (Rattus sordidus) – Australia, Indonesia and Papua New Guinea
+Pale field rat (Rattus tunneyi) – Australia
+Long-haired rat (Rattus villosissimus) – Australia

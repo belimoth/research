@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Muntiacinae
+-----------------------------------------------------------------------------------------------------
+  10 mya |[ Muntiacinae ]                                    15 muntjacs, etc
+         |[ Muntacini ]                                      15 --
+         |- • Elaphodus cephalophus                           • tufted deer
+         |[ Muntjacus ]                                      14 muntjacs / barking deer
+         |- • Muntjacus atherodes                             • bornean yellow muntjac
+         |- • Muntjacus crinifrons                            • hairy-fronted muntjac / black muntjac
+         |- • Muntjacus feae                                  • fea's muntjac
+         |- • Muntjacus gongshanensis                         • gongshan muntjac
+         |- • Muntjacus malabaricus                           • malabar red muntjac
+         |- • Muntjacus montanus                              • sumatran muntjac
+         |- • Muntjacus ntiacus                               • southern red muntjac (diploid: 7m, 6f)
+         |- • Muntjacus putaoensis                            • leaf muntjac
+         |- • Muntjacus puhoatensis                           • pu hoat muntjac
+         |- • Muntjacus reevesi                               • reeves's muntjac / chinese muntjac (diploid: 46)
+         |- • Muntjacus rooseveltorum                         • roosevelt's muntjac
+         |- • Muntjacus truongsonensis                        • truong son muntja
+         |- • Muntjacus vaginalis                             • northern red muntjac
+         |- • Muntjacus vuquangensis                          • giant muntjac

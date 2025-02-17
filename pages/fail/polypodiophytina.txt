@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Archaeplastida / Polypodiophytina
+-----------------------------------------------------------------------------------------------------
+         |[ Polypodiophytina ]                                   ferns
+         |- Psilotopsida                                      92 whisk ferns, grape ferns, ophioglossoid ferns, moonwort
+         |- Equisetopsida / Equisetales                       15 horsetails
+         |- Marattiopsida / Marattiales                      150 --
+ 370 mya |[ Polypodiopsida ]                               9,000 leptosporangiate ferns
+         |- todo                                                 --

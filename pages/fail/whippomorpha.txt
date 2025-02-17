@@ -1,0 +1,163 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Whippomorpha
+-----------------------------------------------------------------------------------------------------
+  54 mya |[ Whippomorpha ]                                   97 --
+         |- † Indohyus                                        † indohyus
+         |- Hippopotamidae                                    2 hippopotamids; hippopotamus / hippo and pygmy hippo
+         |    |- • Choeropsis liberiensis                     • pygmy hippo
+         |    |[ Hippopotamus ]                               1 true hippos
+         |    |- † Hippopotamus lemerlei                      † malagasy pygmy hippo
+         |    |- • Hippopotamus amphibius                     • hippo / hippopotamus / river hippopotamus
+  34 mya |[ Cetacea ]                                        95 whales, dolphins, porpoises
+         |- † etc                                             † --
+         |[ Neoceti ]                                        95 --
+  33 mya |- Odontoceti                                       79 toothed whales
+         |    |- Physeteroidea                                3 sperm whales
+         |    |    |- † Livyatan                              † --
+ >24 mya |    |    |- Physeteridae                            1 --
+         |    |    |    |- † etc                              † --
+         |    |    |    |- • Physeter macrocephalus           • sperm whale
+ >10 mya |    |    |[ Kogiidae / Kogia ]                      2 small sperm whales
+         |    |    |- • Kogia breviceps                       • pygmy sperm whale
+         |    |    |- • Kogia sima                            • dwarf sperm whale
+         |    |- Platanistidae                                2 --
+         |    |    |- † etc                                   † --
+  >1 mya |    |    |[ Platanista ]                            2 south asian river dolphins
+         |    |    |- • Platanista gangetica                  • ganges river dolphin
+         |    |    |- • Platanista minor                      • indus river dolphin
+  20 mya |    |- Ziphiidae                                   22 beaked whales
+         |    |    |- Berardiinae / Berardius                 3 giant beaked whales
+         |    |    |    |- • Berardius arnuxii                • arnoux's beaked whale
+         |    |    |    |- • Berardius bairdii                • baird's beaked whale
+         |    |    |    |- • Berardius minimus                • sato's beaked whale
+         |    |    |- Hyperoodontinae                        19 --
+         |    |    |    |- • Indopacetus pacificus            • tropical bottlenose whale
+  14 mya |    |    |    |- Mesoplodon                        16 mesoplodont whales
+         |    |    |    |    |- • Mesoplodon bidens           • sowerby's beaked whale
+         |    |    |    |    |- • Mesoplodon bowdoini         • andrews' beaked whale
+         |    |    |    |    |- • Mesoplodon carlhubbsi       • hubbs' beaked whale
+         |    |    |    |    |- • Mesoplodon densirostris     • blainville's beaked whale
+         |    |    |    |    |- • Mesoplodon eueu             • ramari's beaked whale
+         |    |    |    |    |- • Mesoplodon europaeus        • gervais's beaked whale
+         |    |    |    |    |- • Mesoplodon ginkgodens       • ginkgo-toothed beaked whale
+         |    |    |    |    |- • Mesoplodon grayi            • gray's beaked whale
+         |    |    |    |    |- • Mesoplodon hectori          • hector's beaked whale
+         |    |    |    |    |- • Mesoplodon layardii         • strap-toothed whale
+         |    |    |    |    |- • Mesoplodon mirus            • true's beaked whale
+         |    |    |    |    |- • Mesoplodon peruvianus       • pygmy beaked whale
+         |    |    |    |    |- • Mesoplodon perrini          • perrin's beaked whale
+         |    |    |    |    |- • Mesoplodon stejnegeri       • stejneger's beaked whale
+         |    |    |    |    |- • Mesoplodon traversii        • spade-toothed whale
+         |    |    |    |    |- • Mesoplodon hotaula          • deraniyagala's beaked whale
+   7 mya |    |    |    |- Hyperoodon                         2 bottlenose whales
+         |    |    |    |    |- • Hyperoodon ampullatus       • northern bottlenose whale
+         |    |    |    |    |- • Hyperoodon planifrons       • southern bottlenose whale
+         |    |    |- Ziphiinae                               2 --
+         |    |    |    |- • Tasmacetus shepherdi             • Shepherd's beaked whale
+         |    |    |    |- • Ziphius cavirostris              • Cuvier's beaked whale
+         |    |- Inioidea                                     5 --
+         |    |    |- † Lipotidae                             † baiji / yangtze river dolphin
+         |    |    |- • Pontoporia blainvillei                • toninha / la plata dolphin
+         |    |    |- Iniidae / Inia                          4 --
+         |    |    |    |- • Inia araguaiaensis               • araguaian river dolphin
+         |    |    |    |- • Inia boliviensis                 • bolivian river dolphin
+         |    |    |    |- • Inia geoffrensis                 • buto / amazon river dolphin
+         |    |    |    |- • Inia humboldtiana                • orinoco river dolphin
+         |    |[ Delphinoidea ]                              47 --
+ >10 mya |    |- Delphinidae                                 21 true dolphins / oceanic dolphins
+         |    |    |- • Lagenorhynchus acutus                 • atlantic white-sided dolphin
+         |    |    |- • Lagenorhynchus albirostris            • white-beaked dolphin
+         |    |    |- • Lagenorhynchus australis              • peale's dolphin / black-chinned dolphin
+         |    |    |- • Lagenorhynchus cruciger               • hourglass dolphin
+         |    |    |- • Lagenorhynchus obliquidens            • pacific white-sided dolphin / hookfin dolphin
+         |    |    |- • Lagenorhynchus obscurus               • dusky dolphin
+         |    |    |[ Delphininae ]                          15 --
+         |    |    |- • Lagenodelphis hosei                   • fraser's dolphin / sarawak dolphin
+   3 mya |    |    |- Sousa                                   4 humpback dolphins
+         |    |    |    |- • Sousa teuszii                    • atlantic humpback dolphin
+         |    |    |    |- • Sousa chinensis                  • indo-pacific humpback dolphin
+         |    |    |    |- • Sousa plumbea                    • indian ocean humpback dolphin
+         |    |    |    |- • Sousa sahulensis                 • australian humpback dolphin
+   3 mya |    |    |- Sotalia                                 2 --
+         |    |    |    |- • Sotalia fluviatilis              • tucuxi
+         |    |    |    |- • Sotalia guianensis               • costero / guina dolphin
+         |    |    |- Stenella                                5 --
+         |    |    |    |- • Stenella attenuata               • pantropical spotted dolphin
+         |    |    |    |- • Stenella clymene                 • clymene dolphin / short-snouted spinner dolphin
+         |    |    |    |- • Stenella coeruleoalba            • striped dolphin
+         |    |    |    |- • Stenella frontalis               • atlantic spotted dolphin
+         |    |    |    |- • Stenella longirostris            • spinner dolphin
+         |    |    |- Tursiops                                2 bottlenose dolphins
+         |    |    |    |- • Tursiops aduncus                 • indo-pacific bottlenose dolphin
+         |    |    |    |- • Tursiops truncatus               • common bottlenose dolphin
+   1 mya |    |    |- Delphinus                               1 --
+         |    |    |    |- • Delphinus delphis                • common dolphin
+         |    |- Lissodelphininae                             6 --
+         |    |    |- • Cephalorhynchus commersonii           • jacobita / commerson's dolphin / skunk dolphin
+         |    |    |- • Cephalorhynchus eutropia              • tonina / black dolphin / chilean dolphin
+         |    |    |- • Cephalorhynchus heavisidii            • heaviside's dolphin
+         |    |    |- • Cephalorhynchus hectori               • hector's dolphin
+   1 mya |    |    |- Lissodelphis                            2 right whale dolphins
+         |    |    |    |- • Lissodelphis borealis            • northern right whale dolphin
+         |    |    |    |- • Lissodelphis peronii             • southern right whale dolphin
+         |    |- Globicephalinae                              9 --
+         |    |    |- • Feresa attenuata                      • pygmy killer whale
+         |    |    |- • Globicephala macrorhynchus            • short-finned pilot whale
+         |    |    |- • Globicephala melas                    • long-finned pilot whale
+         |    |    |- • Grampus griseus                       • risso's dolphin
+         |    |    |- • Orcaella brevirostris                 • irrawaddy dolphin
+         |    |    |- • Orcaella heinsohni                    • australian snubfin dolphin
+         |    |    |- • Peponocephala electra                 • melon-headed whale
+         |    |    |- • Pseudorca crassidens                  • false killer whale
+         |    |    |- • Steno bredanensis                     • rough-toothed dolphin
+         |    |- Orcininae                                    1 orcines
+         |    |    |- † Platalearostrum                       † blunt-snouted dolphin
+         |    |    |[ Orcinus ]                               1 --
+         |    |    |- • Orcinus orca                          • orca / killer whale
+  >8 mya |    |- Phocoenidae                                  8 porpoises
+         |    |    |- † Semirostrum                           † --
+         |    |    |- • Phocoenoides dalli                    • dall's porpoise
+         |    |    |- Neophocaena                             3 finless porpoises
+         |    |    |    |- • Neophocaena phocaeniodes         • indo-pacific finless porpoise
+         |    |    |    |- • Neophocaena sunameri             • east asian finless porpoise
+         |    |    |    |- • Neophocaena asiaeorientalis      • yangtze finless porpoise
+         |    |    |[ Phocoena ]                              4 --
+         |    |    |- • Phocoena phocoena                     • harbour porpoise
+         |    |    |- • Phocoena sinus                        • vaquita
+         |    |    |- • Phocoena dioptrica                    • spectacled porpoise
+         |    |    |- • Phocoena spinipinnis                  • burmeister's porpoise
+  >6 mya |    |[ Monodontidae ]                               2 --
+         |    |- • Delphinapterus leucas                      • beluga
+         |    |- • Monodon monoceros                          • narwhal
+  27 mya |[ Mysticeti ]                                      16 baleen whales
+         |- † Coronodon                                       † coronodon
+         |- † Mammalodontidae                                 † --
+         |    |- † Janjucetus                                 † janjucetus
+         |    |- † Mammalodon                                 † mammalodon
+         |[ Kinetomenta ]                                    16 --
+         |- † Aetiocetidae                                    † --
+         |    |- † Aetiocetus                                 † aetiocetus
+         |[ Chaeomysticeti ]                                 16 --
+   7 mya |- Balaenidae                                        4 bowhead whale, right whale
+         |    |- • Balaena mysticetus                         • bowhead whale
+   2 mya |    |[ Eubalaena ]                                  3 right whales
+         |    |- • Eubalaena australis                        • southern right whale
+         |    |- • Eubalaena glacialis                        • north Atlantic right whale
+         |    |- • Eubalaena japonica                         • north Pacific right whale
+         |- Cetotheriidae                                     1 --
+         |    |- • Caperea marginata                          • pygmy right whale
+         |[ Balaenopteridae ]                                11 rorquals
+         |- • Megaptera novaeangliae                          • humpback whale
+         |- • Eschrichtius robustus                           • gray whale
+         |[ Balaenoptera ]                                    9 --
+         |- • Balaenoptera physalus                           • fin whale
+         |- • Balaenoptera musculus                           • blue whale
+         |- Pterobalaena                                      2 minke whales
+         |    |- • Pterobalaena acutorostrata                 • common minke whale
+         |    |- • Pterobalaena bonaerensis                   • antarctic minke whale
+         |[ Rorqualus ]                                       5 --
+         |- • Rorqualus borealis                              • sei whale
+         |- • Rorqualus brydei                                • bryde's whale
+         |- • Rorqualus edeni                                 • eden's whale
+         |- • Rorqualus musculus                              • blue whale
+         |- • Rorqualus omurai                                • omura's whale

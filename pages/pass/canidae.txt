@@ -1,0 +1,57 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Canidae
+-----------------------------------------------------------------------------------------------------
+  14 mya |[ Canidae ]                                        38 canids; dogs / dog-like carnivorans
+         |- † Hesperocyoninae                                 † --
+         |- † Borophaginae                                    † --
+         |[ Caninae ]                                        38 canines
+         |- Urocyon                                           2 --
+         |    |- • Urocyon littoralis                         • island fox
+         |    |- • Urocyon cinereoargenteus                   • gray fox
+         |- Vulpini                                          15 fox-like canines
+         |    |- • Otocyon megalotis                          • bat-eared fox
+         |    |- Nyctereutes                                  2 raccoon dogs
+         |    |    |- • Nyctereutes procyonoides              • common racoon dog
+         |    |    |- • Nyctereutes viverrinus                • japanesse raccoon dog
+   7 mya |    |[ Vulpes ]                                    12 true foxes
+         |    |- • Vulpes bengalensis                         • bengal fox
+         |    |- • Vulpes cana                                • blanford's fox
+         |    |- • Vulpes chama                               • cape fox
+         |    |- • Vulpes corsac                              • corsac fox
+         |    |- • Vulpes ferrilata                           • tibetan sand fox
+         |    |- • Vulpes lagopus                             • arctic fox
+         |    |- • Vulpes macrotis                            • kit fox
+         |    |- • Vulpes pallida                             • pale fox
+         |    |- • Vulpes rueppellii                          • ruppell's fox
+         |    |- • Vulpes velox                               • swift fox
+         |    |- • Vulpes vulpes                              • red fox
+         |    |- • Vulpes zerda                               • fennec fox
+         |[ Canini ]                                         21 --
+         |-  Cerdocyonina                                    10 south american canines
+         |    |- • Speothos venaticus                         • bush dog
+         |    |- • Chrysocyon brachyurus                      • maned wolf
+         |    |- † Dusicyon australis                         † falkland islands wolf
+   2 mya |    |- Lycalopex                                    6 south-american foxes
+         |    |    |- • Lycalopex vetulus                     • hoary fox
+         |    |    |- • Lycalopex sechurae                    • sechuran fox / peruvian desert fox
+         |    |    |- • Lycalopex fulvipes                    • darwin's fox
+         |    |    |- • Lycalopex gymnocercus                 • pampas fox
+         |    |    |- • Lycalopex griseus                     • chilla / south american gray fox
+         |    |    |- • Lycalopex culpaeus                    • culpeo / andean fox
+         |    |- • Cerdocyon thous                            • crab-eating fox
+         |    |- • Atelocynus microtis                        • short-eared dog
+         |[ Canina ]                                         11 wolf-like canines
+         |- † Aenocyon dirus                                  † dire wolf
+         |- • Lupulella adusta                                • side-striped jackal
+         |- • Lupulella mesomelas                             • black-backed jackal
+         |- • Lycaon pictus                                   • african wild dog
+         |- • Cuon alpinus                                    • dhole
+         |[ Canis ]                                           7 --
+         |- • Canis rufus                                     • red wolf
+         |- • Canis lycaon                                    • algonquin wolf
+         |- • Canis latrans                                   • coyote
+         |- • Canis lupaster                                  • African wolf
+         |- • Canis simensis                                  • Ethiopian wolf
+         |- • Canis aureus                                    • Golden jackal
+   1 mya |- • Canis lupus                                     • gray wolf
+         |- • Canis lupus familiaris                          • domestic dog (subspecies) (domesticated)

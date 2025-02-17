@@ -1,0 +1,26 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Suidae
+-----------------------------------------------------------------------------------------------------
+  13 mya |[ Suidae ]                                         17 suids / hogs / swine; pigs and relatives
+         |- Sus                                               8 pigs
+         |    |- • Sus ahoenobarbus                           • palawan bearded pig
+         |    |- • Sus barbatus                               • bornean bearded pig
+         |    |- • Sus cebifrons                              • visayan warty pig
+         |    |- • Sus celebensis                             • sulawesi warty pig
+         |    |- • Sus oliveri                                • mindoro warty pig
+         |    |- • Sus phillippensis                          • phillippine warty pig
+         |    |- • Sus scrofa                                 • wild boar
+         |    |- • Sus scrofa domesticus                      • domestic pig (subspecies) (domesticated)
+         |    |- • Sus verrucosus                             • javan warty pig
+         |- • Porcula salvania                                • pygmy hog
+         |- • Hylochoerus meinertzhageni                      • giant forest hog
+   7 mya |- Potamochoerus                                     2 river pigs
+         |    |- • Potamochoerus larvatus                     • bushpig
+         |    |- • Potamochoerus porcus                       • red river hog
+   7 mya |- Phacochoerus                                      2 warthogs
+         |    |- • Phacochoerus africanus                     • common warthog
+         |    |- • Phacochoerus aethiopicus                   • desert warthog
+   1 mya |[ Babyrousa ]                                       3 babirusas / deer-pigs
+         |- • Babyrousa babyrussa                             • buru babirusa
+         |- • Babyrousa celebensis                            • north sulawesi babirusa
+         |- • Babyrousa togeanensis                           • togian babirusa

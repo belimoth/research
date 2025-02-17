@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Laterata / Amphisbaenia
+-----------------------------------------------------------------------------------------------------
+ 119 mya |- Amphisbaenia                                        amphisbaenians; worm lizards
+         |    |- Rhineuridae                                  1 north american worm lizards
+         |    |    |- • Rhineura floridana                    • florida worm lizard
+         |    |- Blanidae                                     7 --
+         |    |    |- ◦ Blanus alexandri                      ◦ --
+         |    |    |- ◦ Blanus aporus                         ◦ --
+         |    |    |- • Blanus cinereus                       • iberian worm lizard / mediterranean worm lizard
+         |    |    |- ◦ Blanus mariae                         ◦ --
+         |    |    |- ◦ Blanus mettetali                      ◦ moroccan worm lizard
+         |    |    |- ◦ Blanus strauchi                       ◦ turkish worm lizard
+         |    |    |- ◦ Blanus tingitanus                     ◦ --
+         |    |- Cadeidae                                     2 --
+         |    |    |- ◦ Cadea blanoides                       ◦ spotted amphisbaena
+         |    |    |- ◦ Cadea palirostrata                    ◦ sharp-nosed amphisbaena / cuban sharp-nosed amphisbaena
+         |    |- Bipedidae                                    3 --
+         |    |    |- • Bipes biporus                         • mexican mole lizard / five-toed worm lizard
+         |    |    |- ◦ Bipes canaliculatus                   ◦ four-toed worm lizard
+         |    |    |- ◦ Bipes tridactylus                     ◦ three-toed worm lizard
+ >39 mya |    |- Trogonophidae                                6 --
+         |    |    |- • Diplometopon zarudnyi                 • zarudny's worm lizard
+         |    |    |- ◦ Pachycalamus brevis                   ◦ short worm lizard
+         |    |    |- • Trogonophis wiegmanni                 • checkerboard worm lizard
+         |    |    |[ Agamodon ]                              3 --
+         |    |    |- ◦ Agamodon anguliceps                   ◦ angled worm lizard
+         |    |    |- ◦ Agamodon arabicus                     ◦ arabian worm lizard
+         |    |    |- ◦ Agamodon compressus                   ◦ flat worm lizard
+         |    |[ Amphisbaenidae ]                               amphisbaenids
+         |    |- Amphisbaena
+         |    |- Ancylocranium
+         |    |- Baikia
+         |    |- Chirindia
+         |    |- Cynisca
+         |    |- Dalophia
+         |    |- Geocalamus
+         |    |- Leposternon
+         |    |- Loveridgea
+         |    |- Mesobaena
+         |    |- Monopeltis
+         |    |- Zygaspis

@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla
+-----------------------------------------------------------------------------------------------------
+  64 mya |[ Artiodactyla ]                                  338 even-toed ungulates
+         |- † Protoceratidae                                  † protoceratids
+         |- * Tylopoda                                        7 --
+         |[ Artiofabula ]                                   331 --
+         |- Cetruminantia / Cetancodontamorpha              311 --
+         |    |- † Andrewsarchus                              † andrewsarchus
+  54 mya |    |- * Whippomorpha                              97 --
+  45 mya |    |- * Ruminantia                               214 ruminants
+  36 mya |[ Suina ]                                          20 --
+  13 mya |- * Suidae                                         17 suids / hogs / swine; pigs and relatives
+  11 mya |- * Tayassuidae                                     3 peccaries

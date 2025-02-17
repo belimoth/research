@@ -1,0 +1,316 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Oegopsida
+-----------------------------------------------------------------------------------------------------
+ 274 mya |[ Oegopsida ]                                     228 squids 4; oegopsids; oegopsid squids; neritic squids
+         |- ◦ Psychroteuthis glacialis                        ◦ glacial squid
+         |- Cranchioidea                                     57 --
+         |    |- Cranchiidae                                 33 glass squids
+         |    |    |- Cranchiinae                            11 --
+         |    |    |    |- • Cranchia scabra                  • --
+         |    |    |    |- Leachia                            8 --
+         |    |    |    |    |- ◦ Leachia atlantica           ◦ --
+         |    |    |    |    |- ◦ Leachia cyclura             ◦ --
+         |    |    |    |    |- ◦ Leachia danae               ◦ --
+         |    |    |    |    |- ◦ Leachia dislocata           ◦ --
+         |    |    |    |    |- ◦ Leachia ellipsoptera        ◦ --
+         |    |    |    |    |- ◦ Leachia lemur               ◦ --
+         |    |    |    |    |- ◦ Leachia pacifica            ◦ --
+         |    |    |    |    |- ◦ Leachia rynchophorus        ◦ --
+         |    |    |    |- Liocranchia                        2 --
+         |    |    |    |    |- ◦ Liocranchia reinhardti      ◦ --
+         |    |    |    |    |- ◦ Liocranchia valdiviae       ◦ --
+         |    |    |- Taoniinae                              22 --
+         |    |    |    |- • Bathothauma lyromma              • lyre cranch squid
+         |    |    |    |- ◦ Egea inermis                     ◦ --
+         |    |    |    |- ◦ Liguriella podophthalma          ◦ --
+         |    |    |    |- • Mesonychoteuthis hamiltoni       • colossal squid / antarctic cranch squid
+         |    |    |    |- • Sandalops melancholicus          • sandal-eyed equid / melancholy cranch squid
+         |    |    |    |- Galiteuthis                        5 --
+         |    |    |    |    |- ◦ Galiteuthis armata          ◦ armed cranch squid
+         |    |    |    |    |- • Galiteuthis glacialis       • --
+         |    |    |    |    |- ◦ Galiteuthis pacifica        ◦ --
+         |    |    |    |    |- ◦ Galiteuthis phyllura        ◦ cockatoo squid
+         |    |    |    |    |- ◦ Galiteuthis suhmi           ◦ --
+         |    |    |    |- Helicocranchia                     3 piglet squids
+         |    |    |    |    |- ◦ Helicocranchia joubini      ◦ --
+         |    |    |    |    |- ◦ Helicocranchia papillata    ◦ --
+         |    |    |    |    |- • Helicocranchia pfefferi     • banded piglet squid
+         |    |    |    |- Megalocranchia                     3 --
+         |    |    |    |    |- ◦ Megalocranchia fisheri      ◦ --
+         |    |    |    |    |- ◦ Megalocranchia maxima       ◦ --
+         |    |    |    |    |- ◦ Megalocranchia oceanica     ◦ --
+         |    |    |    |- Taonius / Belonella                3 --
+         |    |    |    |    |- ◦ Taonius borealis            ◦ --
+         |    |    |    |    |- ◦ Taonius pavo                ◦ --
+         |    |    |    |    |- ◦ Taonius belone              ◦ --
+         |    |    |    |- Teuthowenia                        3 --
+         |    |    |    |    |- ◦ Teuthowenia maculata        ◦ --
+         |    |    |    |    |- • Teuthowenia megalops        • atlantic cranch squid
+         |    |    |    |    |- ◦ Teuthowenia pellucida       ◦ googly-eyed glass squid
+  87 mya |    |- Ommastrephidae                              22 ommastrephids; omastrephid squids; flying squids
+         |    |    |- Illicinae                               4 --
+  17 mya |    |    |    |[ Illex ]                            4 shortfin squids
+         |    |    |    |- • Illex argentinus                 • Argentine shortfin squid
+         |    |    |    |- • Illex coindetii                  • southern shortfin squid
+         |    |    |    |- • Illex illecebrosus               • northern shortfin squid
+         |    |    |    |- ◦ Illex oxygonius                  ◦ sharptail shortfin squid
+         |    |    |- Ommastrephinae                          8 --
+         |    |    |    |- • Dosidicus gigas                  ◦ pota / jibia / humboldt squid / jumbo squid / jumbo flying squid
+         |    |    |    |- • Eucleoteuthis luminosa           ◦ striped flying squid / luminous flying squid
+         |    |    |    |- ◦ Hyaloteuthis pelagica            ◦ glassy flying squid
+         |    |    |    |- • Ommastrephes bartramii           ◦ akaika / red squid / red flying squid / neon flying squid
+  31 mya |    |    |    |- Ornithoteuthis                     2 bird squids
+         |    |    |    |    |- ◦ Ornithoteuthis antillarum   ◦ atlantic bird squid
+         |    |    |    |    |- ◦ Ornithoteuthis volatilis    ◦ shiny bird squid
+  31 mya |    |    |    |- Sthenoteuthis                      2 --
+         |    |    |    |    |- • Sthenoteuthis oualaniensis  • purpleback squid / purpleback flying squid
+         |    |    |    |    |- • Sthenoteuthis pteropus      • orangeback squid / orangeback flying squid
+         |    |    |- Todarodinae                            10 --
+         |    |    |    |- ◦ Martialia hyadesii               ◦ sevenstar flying squid
+         |    |    |    |- Nototodarus                        3 --
+         |    |    |    |    |- • Nototodarus gouldi          • gould's flying squid
+         |    |    |    |    |- ◦ Nototodarus hawaiiensis     ◦ hawaiian flying squid
+         |    |    |    |    |- • Nototodarus sloanii,        • wheketere / new zealand arrow squid / wellington flying squid
+         |    |    |    |- Todarodes                          5 --
+         |    |    |    |    |- ◦ Todarodes angolensis        ◦ angola flying squid
+         |    |    |    |    |- ◦ Todarodes filippovae        ◦ antarctic flying squid
+         |    |    |    |    |- • Todarodes pacificus         • japanese flying squid / japanese common squid
+         |    |    |    |    |- ◦ Todarodes pusillus          ◦ little flying squid
+         |    |    |    |    |- • Todarodes sagittatus        • totano / european flying squid
+         |    |    |    |- Todaropsis                         1 --
+         |    |    |    |    |- • Todaropsis eblanae          • lesser flying squid
+         |    |- Thysanoteuthidae                             2 --
+         |    |    |- ◦ Thysanoteuthis nuchalis               ◦ --
+         |    |    |- • Thysanoteuthis rhombus                • diamond squid / diamondback squid
+         |- Gonatidae                                        17 armhook squids
+         |    |- Berryteuthis                                 2 --
+         |    |    |- ◦ Berryteuthis anonychus                ◦ minimal armhook squid
+         |    |    |- • Berryteuthis magister                 • commander squid / magister armhook squid
+         |    |- Gonatopsis                                   4 --
+         |    |    |- Boreoteuthis                            1 --
+         |    |    |    |- • Gonatopsis borealis              • boreopacific armhook squid
+         |    |    |- Gonatopsis                              3 --
+         |    |    |    |- ◦ Gonatopsis japonicus             ◦ --
+         |    |    |    |- ◦ Gonatopsis makko                 ◦ makko armhook squid
+         |    |    |    |- ◦ Gonatopsis octopedatus           ◦ --
+         |    |- Gonatus                                     11 --
+         |    |    |- ◦ Gonatus antarcticus                   ◦ --
+         |    |    |- ◦ Gonatus berryi                        ◦ berry armhook squid
+         |    |    |- ◦ Gonatus californiensis                ◦ california armhook squid
+         |    |    |- ◦ Gonatus fabricii                      ◦ boreoatlantic armhook squid
+         |    |    |- ◦ Gonatus kamtschaticus                 ◦ --
+         |    |    |- ◦ Gonatus madokai                       ◦ madokai armhook squid
+         |    |    |- • Gonatus onyx                          • clawed armhook squid / black-eyed squid
+         |    |    |- ◦ Gonatus oregonensis                   ◦ oregon armhook squid
+         |    |    |- ◦ Gonatus pyros                         ◦ fiery armhook squid
+         |    |    |- ◦ Gonatus steenstrupi                   ◦ atlantic armhook squid
+         |    |    |- ◦ Gonatus ursabrunae                    ◦ brown bear armhook squid
+         |- Histioteuthidae                                  18 --
+         |    |- Histioteuthis                               15 cock-eyed squids
+         |    |    |- ◦ Histioteuthis atlantica               ◦ --
+         |    |    |- ◦ Histioteuthis berryi                  ◦ --
+         |    |    |- • Histioteuthis bonnellii               ◦ umbrella squid
+         |    |    |- ◦ Histioteuthis celetaria               ◦ --
+         |    |    |- ◦ Histioteuthis cerasina                ◦ --
+         |    |    |- ◦ Histioteuthis corona                  ◦ --
+         |    |    |- ◦ Histioteuthis eltaninae               ◦ --
+         |    |    |- • Histioteuthis heteropsis              ◦ strawberry squid
+         |    |    |- ◦ Histioteuthis inermis                 ◦ --
+         |    |    |- ◦ Histioteuthis macrohista              ◦ --
+         |    |    |- ◦ Histioteuthis meleagroteuthis         ◦ --
+         |    |    |- ◦ Histioteuthis miranda                 ◦ --
+         |    |    |- ◦ Histioteuthis oceani                  ◦ --
+         |    |    |- ◦ Histioteuthis pacifica                ◦ --
+         |    |    |- ◦ Histioteuthis reversa                 ◦ reverse jewel squid / elongate jewel squid
+         |    |- Stigmatoteuthis                              3 --
+         |    |    |- ◦ Stigmatoteuthis arcturi               ◦ jewel squid
+         |    |    |- ◦ Stigmatoteuthis dofleini              ◦ --
+         |    |    |- ◦ Stigmatoteuthis hoylei                ◦ flowervase jewel squid
+         |- Onychoteuthidae                                  22 hooked squids
+         |    |- ◦ Ancistroteuthis lichtensteinii             ◦ angel squid / angel clubhook squid
+         |    |- ◦ Filippovia knipovitchi                     ◦ smooth hooked squid
+         |    |- Onychoteuthis                                7 --
+         |    |    |- • Onychoteuthis banksii                 • common clubhook squid
+         |    |    |- ◦ Onychoteuthis compacta                ◦ --
+         |    |    |- ◦ Onychoteuthis borealijaponica         ◦ boreal clubhook squid
+         |    |    |- ◦ Onychoteuthis meridiopacifica         ◦ --
+         |    |    |- ◦ Onychoteuthis lacrima                 ◦ --
+         |    |    |- ◦ Onychoteuthis prolata                 ◦ --
+         |    |    |- ◦ Onychoteuthis horstkottei             ◦ --
+         |    |- Onykia                                       5 --
+         |    |    |- Onykia                                  4 --
+         |    |    |    |- ◦ Onykia carriboea                 ◦ tropical clubhook squid
+         |    |    |    |- ◦ Onykia robusta                   ◦ robust clubhook squid
+         |    |    |    |- ◦ Onykia loennbergii               ◦ japanese hooked squid
+         |    |    |    |- ◦ Onykia robsoni                   ◦ rugose hooked squid
+         |    |    |- Moroteuthopsis                          1 --
+         |    |    |    |- • Onykia ingens                    • greater hooked squid
+         |    |- Kondakovia                                   2 --
+         |    |    |- ◦ Kondakovia longimana                  ◦ giant warty squid / longarm octopus squid
+         |    |    |- ◦ Kondakovia nigmatullini               ◦ --
+         |    |- Notonykia                                    2 --
+         |    |    |- ◦ Notonykia africanae                   ◦ --
+         |    |    |- ◦ Notonykia nesisi                      ◦ --
+         |    |- Walvisteuthis                                4 --
+         |    |    |- ◦ Walvisteuthis jeremiahi               ◦ --
+         |    |    |- ◦ Walvisteuthis rancureli               ◦ --
+         |    |    |- ◦ Walvisteuthis virilis                 ◦ --
+         |    |    |- ◦ Walvisteuthis youngorum               ◦ --
+         |- Architeuthoidea                                   5 --
+         |    |- Architeuthidae                               1 --
+         |    |    |- • Architeuthis dux                      • giant squid
+         |    |- Neoteuthidae                                 4 --
+         |    |    |- Alluroteuthis antarcticus               ◦ antarctic neosquid
+         |    |    |- Narrowteuthis nesisi                    ◦ --
+         |    |    |- Neoteuthis thielei                      ◦ --
+         |    |    |- Nototeuthis dimegacotyle                ◦ --
+         |- Cycloteuthoidea                                   8 --
+         |    |- Cycloteuthidae                               2 --
+         |    |    |- ◦ Cycloteuthis sirventi                 ◦ --
+         |    |    |- ◦ Discoteuthis laciniosa                ◦ --
+         |    |- Brachioteuthidae                             6 --
+         |    |    |- ◦ Slosarczykovia circumantarctica       ◦ --
+         |    |    |- [ Brachioteuthis ]                      5 --
+         |    |    |- ◦ Brachioteuthis beanii                 ◦ --
+         |    |    |- ◦ Brachioteuthis behnii                 ◦ --
+         |    |    |- ◦ Brachioteuthis picta                  ◦ --
+         |    |    |- ◦ Brachioteuthis riisei                 ◦ --
+         |    |    |- ◦ Brachioteuthis linkovskyi             ◦ --
+         |- Enoploteuthoidea                                 57 enope squids
+         |    |- Ancistrocheiridae                            1 --
+         |    |    |- ◦ Ancistrocheirus lesueurii             ◦ sharpear enope squid
+         |    |- Lampadioteuthidae                            1 --
+         |    |    |- ◦ Lampadioteuthis megaleia              ◦ wonderful firefly squid
+         |    |- Lycoteuthidae                                5 "miracle lamp" squids
+         |    |    |- ◦ Selenoteuthis scintillans             ◦ moon squid
+         |    |    |- Lycoteuthis                             2 --
+         |    |    |    |- ◦ Lycoteuthis lorigera             ◦ --
+         |    |    |    |- ◦ Lycoteuthis springeri            ◦ --
+         |    |    |- Nematolampas                            2 --
+         |    |    |    |- ◦ Nematolampas regalis             ◦ regal firefly squid
+         |    |    |    |- ◦ Nematolampas venezuelensis       ◦ --
+         |    |- Pyroteuthidae                                7 fire squids
+         |    |    |- Pterygioteuthis                         4 --
+         |    |    |    |- ◦ Pterygioteuthis gemmata          ◦ --
+         |    |    |    |- ◦ Pterygioteuthis giardi           ◦ roundear enope squid
+         |    |    |    |- ◦ Pterygioteuthis hoylei           ◦ --
+         |    |    |    |- ◦ Pterygioteuthis microlampas      ◦ --
+         |    |    |- Pyroteuthis                             3 --
+         |    |    |    |- ◦ Pyroteuthis addolux              ◦ --
+         |    |    |    |- ◦ Pyroteuthis margaritifera        ◦ jewel enope squid
+         |    |    |    |- ◦ Pyroteuthis serrata              ◦ --
+         |    |[ Enoploteuthidae ]                           43 enoploteuthids; enoploteuthid squids
+         |    |- Abralia                                     20 --
+         |    |    |- ◦ Abralia andamanica                    ◦ --
+         |    |    |- ◦ Abralia armata                        ◦ --
+         |    |    |- ◦ Abralia astrolineata                  ◦ --
+         |    |    |- ◦ Abralia astrosticta                   ◦ --
+         |    |    |- ◦ Abralia dubia                         ◦ --
+         |    |    |- ◦ Abralia fasciolata                    ◦ --
+         |    |    |- ◦ Abralia grimpei                       ◦ --
+         |    |    |- ◦ Abralia heminuchalis                  ◦ --
+         |    |    |- ◦ Abralia marisarabica                  ◦ --
+         |    |    |- ◦ Abralia multihamata                   ◦ --
+         |    |    |- ◦ Abralia omiae                         ◦ --
+         |    |    |- ◦ Abralia redfieldi                     ◦ --
+         |    |    |- ◦ Abralia renschi                       ◦ --
+         |    |    |- ◦ Abralia robsoni                       ◦ --
+         |    |    |- ◦ Abralia siedleckyi                    ◦ --
+         |    |    |- ◦ Abralia similis                       ◦ --
+         |    |    |- ◦ Abralia spaercki                      ◦ --
+         |    |    |- ◦ Abralia steindachneri                 ◦ --
+         |    |    |- ◦ Abralia trigonura                     ◦ --
+         |    |    |- • Abralia veranyi                       • midwater squid / eye-flash squid / verany's enope squid
+         |    |- Abraliopsis                                 11 --
+         |    |    |- ◦ Abraliopsis affinis                   ◦ --
+         |    |    |- ◦ Abraliopsis atlantica                 ◦ --
+         |    |    |- ◦ Abraliopsis chuni                     ◦ --
+         |    |    |- ◦ Abraliopsis falco                     ◦ --
+         |    |    |- ◦ Abraliopsis felis                     ◦ --
+         |    |    |- ◦ Abraliopsis gilchristi                ◦ --
+         |    |    |- ◦ Abraliopsis hoylei                    ◦ --
+         |    |    |- ◦ Abraliopsis lineata                   ◦ --
+         |    |    |- ◦ Abraliopsis pacificus                 ◦ --
+         |    |    |- ◦ Abraliopsis pfefferi                  ◦ pfeffer's enope squid
+         |    |    |- ◦ Abraliopsis tui                       ◦ --
+         |    |- Enoploteuthis                               11 --
+         |    |    |- ◦ Enoploteuthis anapsis                 ◦ --
+         |    |    |- ◦ Enoploteuthis chunii                  ◦ --
+         |    |    |- ◦ Enoploteuthis galaxias                ◦ --
+         |    |    |- ◦ Enoploteuthis higginsi                ◦ --
+         |    |    |- ◦ Enoploteuthis jonesi                  ◦ --
+         |    |    |- ◦ Enoploteuthis leptura                 ◦ --
+         |    |    |- ◦ Enoploteuthis magnoceani              ◦ --
+         |    |    |- ◦ Enoploteuthis obliqua                 ◦ --
+         |    |    |- ◦ Enoploteuthis octolineata             ◦ --
+         |    |    |- ◦ Enoploteuthis reticulata              ◦ --
+         |    |    |- ◦ Enoploteuthis semilineata             ◦ --
+         |    |- Watasenia                                    1 --
+         |    |    |- • Watasenia scintillans                 • hotaru-iku / firefly squid / sparkling enope squid
+         |- Octopoteuthoidea                                 10 --
+         |    |- Lepidoteuthidae                              1 --
+         |    |    |- ◦ Lepidoteuthis grimaldii               ◦ grimaldi scaled squid
+         |    |- Octopoteuthidae                              9 --
+         |    |    |- Octopoteuthis                           7 --
+         |    |    |    |- ◦ Octopoteuthis danae              ◦ --
+         |    |    |    |- ◦ Octopoteuthis deletron           ◦ --
+         |    |    |    |- ◦ Octopoteuthis longiptera         ◦ --
+         |    |    |    |- ◦ Octopoteuthis megaptera          ◦ --
+         |    |    |    |- ◦ Octopoteuthis nielseni           ◦ --
+         |    |    |    |- ◦ Octopoteuthis rugosa             ◦ --
+         |    |    |    |- ◦ Octopoteuthis sicula             ◦ ruppell's octopus squid
+         |    |    |- Taningia                                2 --
+         |    |    |    |- • Taningia danae                   • dana octopus squid
+         |    |    |    |- ◦ Taningia fimbria                 ◦ --
+         |- Chiroteuthoidea                                  36 --
+         |    |- Chiroteuthidae                              17 chiroteuthids; chiroteuthid squids
+         |    |    |- ◦ Grimalditeuthis bonplandi             ◦ --
+         |    |    |- Asperoteuthis                           4 --
+         |    |    |    |- • Asperoteuthis acanthoderma       • --
+         |    |    |    |- ◦ Asperoteuthis lui                ◦ --
+         |    |    |    |- ◦ Asperoteuthis mangoldae          ◦ --
+         |    |    |    |- ◦ Asperoteuthis nesisi             ◦ --
+         |    |    |- Chiroteuthis                            7 --
+         |    |    |    |- Chiroteuthis                       4 --
+         |    |    |    |    |- ◦ Chiroteuthis calyx          ◦ --
+         |    |    |    |    |- ◦ Chiroteuthis joubini        ◦ --
+         |    |    |    |    |- ◦ Chiroteuthis spoeli         ◦ --
+         |    |    |    |    |- • Chiroteuthis veranyi        • long-armed squid
+         |    |    |    |- Chirothauma                        3 --
+         |    |    |    |    |- ◦ Chiroteuthis imperator      ◦ emperor squid
+         |    |    |    |    |- ◦ Chiroteuthis mega           ◦ --
+         |    |    |    |    |- ◦ Chiroteuthis picteti        ◦ --
+         |    |    |- Planctoteuthis                          5 --
+         |    |    |    |- ◦ Planctoteuthis danae             ◦ --
+         |    |    |    |- ◦ Planctoteuthis exopthalmica      ◦ --
+         |    |    |    |- ◦ Planctoteuthis levimana          ◦ --
+         |    |    |    |- ◦ Planctoteuthis lippula           ◦ --
+         |    |    |    |- ◦ Planctoteuthis oligobessa        ◦ --
+         |    |- Mastigoteuthidae                            15 whiplash squids
+         |    |    |- • Idioteuthis cordiformis               • --
+         |    |    |- ◦ Mastigopsis hjorti                    ◦ --
+         |    |    |- ◦ Mastigotragus pyrodes                 ◦ --
+         |    |    |- Echinoteuthis                           2 --
+         |    |    |    |- ◦ Echinoteuthis atlantica          ◦ --
+         |    |    |    |- ◦ Echinoteuthis famelica           ◦ --
+         |    |    |- Magnoteuthis                            3 --
+         |    |    |    |- ◦ Magnoteuthis magna               ◦ --
+         |    |    |    |- • Magnoteuthis microlucens         • "octosquid"
+         |    |    |    |- ◦ Magnoteuthis osheai              ◦ --
+         |    |    |- Mastigoteuthis                          7 --
+         |    |    |    |- ◦ Mastigoteuthis agassizii         ◦ --
+         |    |    |    |- ◦ Mastigoteuthis dentata           ◦ --
+         |    |    |    |- ◦ Mastigoteuthis flammea           ◦ flaming whiplash squid
+         |    |    |    |- ◦ Mastigoteuthis glaukopis         ◦ --
+         |    |    |    |- ◦ Mastigoteuthis grimaldii         ◦ --
+         |    |    |    |- ◦ Mastigoteuthis psychrophila      ◦ --
+         |    |    |    |- ◦ Mastigoteuthis schmidti          ◦ --
+         |    |- Magnapinnidae                                3 --
+         |    |    |- • Magnapinna atlantica                  • atlantic bigfin squid
+         |    |    |- • Magnapinna pacifica                   • pacific bigfin squid
+         |    |    |- ◦ Magnapinna talismani                  ◦ --
+         |    |- Joubiniteuthidae                             1 --
+         |    |    |- • Joubiniteuthis portieri               • joubin's squid
+         |- Pholidoteuthoidea / Pholidoteuthidae              2 --
+         |    |- ◦ Pholidoteuthis adami                       ◦ --
+         |    |- ◦ Pholidoteuthis massyae                     ◦ coffeebean scaled squid

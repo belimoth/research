@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Idiosepida
+-----------------------------------------------------------------------------------------------------
+         |[ Idiosepida ]                                      7 squids 1; pygmy squids
+         |- ◦ Xipholeptos notoides                            ◦ southern pygmy squid
+         |[ Idiosepius ]                                      6 --
+         |- ◦ Idiosepius hallami                              ◦ --
+         |- ◦ Idiosepius minimus                              ◦ --
+         |- • Idiosepius paradoxus                            • northern pygmy squid
+         |- ◦ Idiosepius picteti                              ◦ --
+         |- • Idiosepius pygmaeus                             • tropical pygmy squid
+         |- ◦ Idiosepius thailandicus                         ◦ thai pygmy squid

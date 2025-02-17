@@ -1,0 +1,68 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Pseudosuchia
+-----------------------------------------------------------------------------------------------------
+         |[ Pseudosuchia ]                                      pseudosuchians; crocodilian-line archosaurs
+         |- † etc                                             † --
+         |[ Suchia ]                                            --
+         |- † etc                                             † --
+         |[ Paracrocodylomorpha ]                               --
+         |- † etc                                             † --
+         |[ Loricata ]                                          --
+         |- † etc                                             † --
+         |[ Crocodylomorpha ]                                   --
+         |- † etc                                             † --
+         |[ Crocodyliformes ]                                   --
+         |- † etc                                             † --
+         |[ Mesoeucrocodylia ]                                  --
+         |- † etc                                             † --
+         |[ Metasuchia ]                                        --
+         |- † etc                                             † --
+         |[ Neosuchia ]                                         --
+         |- † etc                                             † --
+         |[ Eusuchia ]                                          --
+         |- † etc                                             † --
+  87 mya |[ Crocodilia / Crocodylia ]                           crocodilians
+         |- † etc                                             † --
+         |- Alligatoridae                                     8 alligatorids
+         |    |- Caimaninae                                   6 caimans
+         |    |    |- Paleosuchus                             2 --
+         |    |    |    |- • Paleosuchus palpebrosus          • dwarf caiman / musk caiman / wedge-head caiman / cuvier's dwarf caiman
+         |    |    |    |- • Paleosuchus trigonatus           • smooth-fronted caimin / schneider's dwarf caimin
+         |    |    |[ unnamed ]                               4 --
+         |    |    |- • Melanosuchus niger                    • black caiman
+         |    |    |- Caiman                                  3 --
+         |    |    |    |- • Caiman crocodilus                • common caiman / white caiman / speckled caiman / spectacled caiman
+         |    |    |    |- • Caiman latirostris               • broud-snouted caimain
+         |    |    |    |- • Caiman yacare                    • red caiman / yacare caiman / piranha caiman / southern spectacled caiman
+         |    |- Alligatorinae                                2 --
+         |    |    |- † etc                                   † --
+         |    |    |[ Alligator ]                             2 alligators
+         |    |    |- † etc                                   † --
+         |    |    |- • Alligator mississippiensis            • gator / common alligator / american alligator
+         |    |    |- • Alligator sinensis                    • yangtze alligator / chinese alligator
+  51 mya |- Longirostres                                     17 --
+  28 mya |    |- Crocodyloidea / Crocodylidae                15 crocodiles / true crocodiles
+         |    |    |- Osteolaeminae                           3 --
+         |    |    |    |- † Euthecodon                       † euthecodon
+         |    |    |    |- ◦ Mecistops cataphractus           ◦ slender-snouted crocodile / west african slender-snouted crocodile
+         |    |    |    |[ Osetolaemus ]                      2 --
+         |    |    |    |- ◦ Osteolaemus osborni              ◦ osborn’s dwarf crocodile
+         |    |    |    |- • Osteolaemus tetraspis            • bony crocodile / dwarf crocodile / broud-snouted crocodile / african dwarf crocodile
+         |    |    |- Crocodylinae                           12 --
+         |    |    |    |- † Voay                             † voay / madagascar crocodile
+ >14 mya |    |    |    |[ Crocodylus ]                      12 --
+         |    |    |    |- • Crocodylus johnstoni             • freshie / freshwater crocodile / australian freshwater crocodile
+         |    |    |    |- • Crocodylus novaeguineae          • new guinea crocodile
+         |    |    |    |- • Crocodylus mindorensis           • buwaya / bukarot / mindoro crocodile / philippine crocodile / phillippine freshwater crocodile
+         |    |    |    |- • Crocodylus porosus               • saltie / marine crocodile / saltwater crocodile / estuarine crocodile
+         |    |    |    |- • Crocodylus siamensis             • siamese crocodile
+         |    |    |    |- • Crocodylus palustris             • mugger / marsh crocodile / mugger crocodile
+         |    |    |    |- • Crocodylus suchus                • west african crocodile
+         |    |    |    |- • Crocodylus niloticus             • nile crocodile
+         |    |    |    |- • Crocodylus moreletii             • morelet's crocodile
+         |    |    |    |- • Crocodylus rhombifer             • cuban crocodile
+         |    |    |    |- • Crocodylus intermedius           • orinoco crocodile
+         |    |    |    |- • Crocodylus acutus                • american crocodile
+  22 mya |    |- Gabialoidea / Gavialidae                     2 --
+         |    |    |- • Gavialis gangeticus                   • gharial / fish-eating crocodile
+         |    |    |- • Tomistoma schlegelii                  • tomistoma / false gharial / sunda gharial / malayan gharial

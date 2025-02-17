@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia
+-----------------------------------------------------------------------------------------------------
+  45 mya |[ Caniformia ]                                    170 dog-like carnivorans
+         |- † Amphicyonidae                                   † --
+         |- * Canidae                                        38 canids; dogs / dog-like carnivorans
+         |[ Arctoidea ]                                     132 arctoids
+         |- * Ursoidea                                        8 ursoids
+         |[ Mustelida ]                                     124 --
+         |- * Panpinnipedia                                  35 --
+         |[ Musteloidea ]                                    89 --
+         |- * Ailuridae                                       1 red pandas
+  21 mya |- * Procyonidae                                    14 procyonids
+  20 mya |- * Mephitidae                                     12 skunks, stink badgers
+  20 mya |[ Mustelidae ]                                     62 mustelids; weasel family
+  10 mya |- * Lutrinae                                       13 otters
+   9 mya |- * Guloninae                                      11 martens, wolverines
+   4 mya |- * Helictidinae                                   5 ferret-badgers
+   4 mya |- * Melinae                                        7 hog baders and eurasian badgers
+         |- * Ictonychinae                                   7 african polecats and grisons
+         |- * Mellivorinae                                   1 ratel / honey badger
+         |- * Mustelinae                                    19 weasels, minks
+         |- * Taxidiinae                                     1 american badger

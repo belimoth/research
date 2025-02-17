@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Ictonychinae
+-----------------------------------------------------------------------------------------------------
+         |[ Ictonychinae ]                                    7 african polecats and grisons
+   3 mya |- Galictis                                          2 grisons
+         |    |- • Galictis cuja                              • lesser grison
+         |    |- • Galictis vittata                           • greater grison
+         |- • Ictonyx libycus                                 • saharan striped polecat
+         |- • Ictonyx striatus                                • striped polecat
+         |- • Lyncodon patagonicus                            • patagonian weasel
+         |- • Poecilogale albinucha                           • african striped weasel
+         |- • Vormela peregusna                               • marbled polecat

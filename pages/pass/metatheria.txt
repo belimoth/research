@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria
+-----------------------------------------------------------------------------------------------------
+  78 mya |[ Metatheria ]                                    336 metatherians
+         |- † Sparassodonta                                   † sparassodonts
+         |[ Marsupialia ]                                   336 marsupials
+         |- * Ameridelphia                                  105 american marsupials
+         |[ Australidelphia ]                               231 australian marsupials
+         |- * Microbiotheria                                  1 --
+         |[ Eometatheria ]                                  230 --
+  53 mya |- Diprotodontia                                   134 diprotodonts
+         |    |- * Vombatiformes                              4 koala, wombats
+         |    |[ Phalangerida ]                             130 --
+         |    |- * Phalangeriformes ss / Phalangeroidea      33 --
+         |    |[ Macropodiformes ]                           97 macropods
+         |    |- * Petauroidea                               32 --
+         |    |- * Macropodoidea                             76 --
+         |[ Agreodontia ]                                    96 --
+         |- * Notoryctemorphia                                2 marsupial moles
+  38 mya |- * Dasyuromorphia                                 73 --
+  28 mya |- * Permelemorphia                                 21 --

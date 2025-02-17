@@ -1,0 +1,137 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Ameridelphia
+-----------------------------------------------------------------------------------------------------
+         |[ Ameridelphia ]                                  105 american marsupials
+ >27 mya |- Paucituberculata / Caenolestidae                  7 caenolestids; shrew opossums
+         |    |- • Lestoros inca                              • peruvian shrew opossum / incan shrew opossum
+         |    |- • Rhyncholestes raphanurus                   • chilean shrew opossum / long-nosed shrew opossum
+         |    |[ Caenolestes ]                                5 common shrew opossums
+         |    |- • Caenolestes convelatus                     • northern shrew opossum
+         |    |- • Caenolestes fuliginosus                    • dusky caenolestid
+         |    |- • Caenolestes condorensis                    • andean shrew opossum
+         |    |- • Caenolestes caniventer                     • gray-bellied shrew opossum
+         |    |- • Caenolestes sangay                         • eastern shrew opossum
+  32 mya |[ Didelphimorphia / Didelphidae ]                  98 --
+         |- • Glironia venusta                                • bushy-tailed opposum
+         |- • Hyladelphys kalinowskii                         • kalinowski's mouse opossum
+ >27 mya |- Caluromyinae                                      4 --
+         |    |- • Caluromysiops irrupta                      • black-shouldered opossum
+  >4 may |    |[ Caluromys ]                                  3 wooly opossums
+         |    |- • Caluromys derbianus                        • derby's wooly opossum
+         |    |- • Caluromys lanatus                          • brown-eared wooly opossum
+         |    |- • Caluromys philander                        • bare-tailed wooly opossum
+  29 mya |[ Didelphinae ]                                    92 --
+         |- Marmosini                                        57 --
+         |    |- • Tlacuatzin canescens                       • tehuanepec gray mouse opossum
+  24 mya |    |- Monodelphis                                 29 short-tailed opossums
+         |    |    |- Microdelphys                            7 three-striped opossums
+         |    |    |    |- • Monodelphis americana            • northern three-striped opossum
+         |    |    |    |- • Monodelphis gardneri             • gardner's short-tailed opossum
+         |    |    |    |- • Monodelphis iheringi             • ihering's three-striped opossum
+         |    |    |    |- • Monodelphis rubida               • chestnut-striped opossum
+         |    |    |    |- • Monodelphis scalops              • long-nosed short-tailed opossum
+         |    |    |    |- • Monodelphis theresa              • southern three-striped opossum
+         |    |    |    |- • Monodelphis umbristriata         • red three-striped opossum
+         |    |    |- Monodelphiops                           3 --
+         |    |    |    |- • Monodelphis dimidiata            • yellow-sided opossum
+         |    |    |    |- • Monodelphis sorex                • southern red-sided opossum
+         |    |    |    |- • Monodelphis unistriata           • one-striped opossum
+         |    |    |- Monodelphis                             9 --
+         |    |    |    |- • Monodelphis arlindoi             • arlindo's short-tailed opossum
+         |    |    |    |- • Monodelphis brevicaudata         • northern red-sided opossum
+         |    |    |    |- • Monodelphis domestica            • gray short-tailed opossum
+         |    |    |    |- • Monodelphis glirina              • amazonian red-sided opossum
+         |    |    |    |- • Monodelphis maraxina             • marajó short-tailed opossum
+         |    |    |    |- • Monodelphis palliolata           • hooded red-sided opossum
+         |    |    |    |- • Monodelphis sanctaerosae         • santa rosa short-tailed opossum
+         |    |    |    |- • Monodelphis touan                • touan short-tailed opossum
+         |    |    |    |- • Monodelphis vossi                • voss's short-tailed opossum
+         |    |    |- Mygalodelphys                           9 --
+         |    |    |    |- • Monodelphis adusta               • sepia short-tailed opossum
+         |    |    |    |- • Monodelphis handleyi             • handley's short-tailed opossum
+         |    |    |    |- • Monodelphis kunsi                • pygmy short-tailed opossum
+         |    |    |    |- • Monodelphis osgoodi              • osgood's short-tailed opossum
+         |    |    |    |- • Monodelphis peruviana            • peruvian short-tailed opossum
+         |    |    |    |- • Monodelphis pinocchio            • long-nosed short-tailed opossum
+         |    |    |    |- • Monodelphis reigi                • reig's opossum
+         |    |    |    |- • Monodelphis ronaldi              • ronald's opossum
+         |    |    |    |- • Monodelphis saci                 • saci short-tailed opossum
+         |    |    |- Pyrodelphys                             1 --
+         |    |    |    |- • Monodelphis emiliae              • emilia's short-tailed opossum
+ ?34 mya |    |- Marmosa                                     27 mouse opossums
+         |    |    |- Eomarmosa                               1 --
+         |    |    |    |- • Marmosa rubra                    • red mouse opossum
+         |    |    |- Exulomarmosa                            5 --
+         |    |    |    |- • Marmosa isthmica                 • isthmian mous opossum
+         |    |    |    |- • Marmosa mexicana                 • mexican mouse opossum
+         |    |    |    |- • Marmosa simonsi                  • simon's mouse opossum
+         |    |    |    |- • Marmosa xerophila                • guajira mouse opossum
+         |    |    |    |- • Marmosa zeledoni                 • zeledon's mouse opossum
+         |    |    |- Marmosa                                 4 --
+         |    |    |    |- • Marmosa macrotarsus              • quechuan mouse opossum
+         |    |    |    |- • Marmosa murina                   • linnaeus's mouse opossum
+         |    |    |    |- • Marmosa tyleriana                • tyler's mouse opossum
+         |    |    |    |- • Marmosa waterhousei              • waterhouse's mouse opossum
+         |    |    |- Micoureus                              15 wooly mouse opossums
+         |    |    |    |- • Marmosa adleri                   • adler's mouse opossum
+         |    |    |    |- • Marmosa alstoni                  • alston's wooly mouse opossum
+         |    |    |    |- • Marmosa constantiae              • white-bellied wooly mouse opossum
+         |    |    |    |- • Marmosa demerarae                • northeastern wooly mouse opossum
+         |    |    |    |- • Marmosa germana                  • northwestern wooly mouse opossum
+         |    |    |    |- • Marmosa jansae                   • jansa's wooly mouse opossum
+         |    |    |    |- • Marmosa limae                    • brazilian wooly mouse opossum
+         |    |    |    |- • Marmosa meridae                  • merida wooly mouse opossum
+         |    |    |    |- • Marmosa nicaraguae               • nicaraguan wooly mouse opossum
+         |    |    |    |- • Marmosa paraguayana              • tate's wooly mouse opossum
+         |    |    |    |- • Marmosa parda                    • peruvian wooly mouse opossum
+         |    |    |    |- • Marmosa perplexa                 • anthony's wooly mouse opossum
+         |    |    |    |- • Marmosa phaea                    • little wooly mouse opossum
+         |    |    |    |- • Marmosa rapposa                  • bolivian wooly mouse opossum
+         |    |    |    |- • Marmosa rutteri                  • bare-tailed wooly mouse opossum
+         |    |    |- Stegomarmosa                            2 --
+         |    |    |    |- • Marmosa andersoni                • heavy-browed mouse opossum
+         |    |    |    |- • Marmosa lepida                   • rufous mouse opossum
+         |- Thylamyini                                       13 --
+         |    |- Chacodelphys                                 1 --
+         |    |    |- • Chacodelphys formosa                  • chacoan pygmy opossum
+         |    |- Cryptonanus                                  4 --
+         |    |    |- • Cryptonanus agricolai                 • agricola's gracile opossum
+         |    |    |- • Cryptonanus cahcoensis                • chacoan gracile opossum
+         |    |    |- • Cryptonanus guahybae                  • guahiba gracile opossum
+         |    |    |- • Cryptonanus unduaviensis              • Unduavi gracile opossum
+   8 mya |    |- Gracilinanus                                 7 --
+         |    |    |- • Gracilinanus aceramarcae              • aceramarca gracile oppossum
+         |    |    |- • Gracilinanus agilis                   • agile gracile opossum
+         |    |    |- • Gracilinanus dryas                    • wood sprite gracile opossum
+         |    |    |- • Gracilinanus emilae                   • emilia's gracile opossum
+         |    |    |- • Gracilinanus marica                   • northern gracile opossum
+         |    |    |- • Gracilinanus microtarsus              • brazilian gracile opossum
+         |    |    |- • Gracilinanus peruanus                 • peruvian graicle opossum
+         |    |- Lestodelphys                                 1 --
+         |    |    |- • Lestodelphys halli                    • patagonian opossum
+         |- Didelphini                                       22 --
+         |    |- • Chironectes minimus                        • yapok / water opossum
+         |    |- Lutreolina                                   2 lutrine opossums
+         |    |    |- • Lutreolina crassicaudata              • big lutrine opossum / little water opossum
+         |    |    |- • Lutreolina massioia                   • massoia's lutrine opossum
+   6 mya |    |- Didelphis                                    6 large american opossums
+         |    |    |- • Didelphis albiventris                 • timbu / cassaco / saruê / micurê / comadreja overa / white-eared opossum
+         |    |    |- • Didelphis aurita                      • big-eared opossum
+         |    |    |- • Didelphis imperfecta                  • guianan white-eared opossum
+         |    |    |- • Didelphis marsupialis                 • gambá / common opossum / black-eared opossum
+         |    |    |- • Didelphis pernigra                    • andean white-eared opossum
+         |    |    |- • Didelphis virginiana                  • virginia opossum / north american opossum
+   4 mya |    |- Philander                                   13 four-eyed opossums
+         |    |    |- • Philander andersoni                   • anderson's four-eyed opossum
+         |    |    |- • Philander canus                       • common four-eyed opossum
+         |    |    |- • Philander deltae                      • deltaic four-eyed opossum
+         |    |    |- • Philander frenatus                    • southeastern four-eyed opossum
+         |    |    |- • Philander mcilhennyi                  • mcilhenny's four-eyed opossum
+         |    |    |- • Philander melanurus                   • dark four-eyed opossum
+         |    |    |- • Philander mondolfii                   • mondolfi's four-eyed opossum
+         |    |    |- • Philander nigratus                    • black four-eyed opossum
+         |    |    |- • Philander olrogi                      • olrog's four-eyed opossum
+         |    |    |- • Philander opossum                     • gray four-eyed opossum
+         |    |    |- • Philander pebas                       • pebas four-eyed opossum
+         |    |    |- • Philander quica                       • southern four-eyed opossum
+         |    |    |- • Philander vossi                       • northern four-eyed opossum

@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Pholidotamorpha
+-----------------------------------------------------------------------------------------------------
+         |[ Pholidotamorpha ]                                 4 --
+         |- † Palaeanodonta                                   † stem pangolins
+         |    |- † Ernanodon                                  † --
+         |    |- † Eurotamandua                               † --
+         |    |- † Metacheiromys                              † --
+         |    |- † Xenocranium                                † --
+         |[ Pholidota ss ]                                    4 pangolins / scaly anteaters
+         |- † Eurotamandua                                    † --
+         |[ Eupholidota ]                                     4 true pangolins
+         |- † Eomanis                                         † --
+         |[ Manoidea ]                                        4 --
+         |- † Patriomanidae                                   † --
+         |- † Necromanis                                      † --
+         |[ Manidae ]                                         4 --
+         |[ Maninae ]                                         4 --
+         |[ Manis ]                                           4 --
+         |- • Manis pentadactyla                              • --
+         |- • Manis crassicaudata                             • --
+         |[ Paramanis ]                                       2 --
+         |- • Manis culionensis                               • --
+         |- • Manis javanica                                  • --

@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Nautilida
+-----------------------------------------------------------------------------------------------------
+         |[ Nautilida ]                                       9 --
+         |- † etc                                             † --
+         |[ Nautilina ]                                       9 --
+         |- † etc                                             † --
+         |[ Nautilaceae ]                                     9 --
+         |- † etc                                             † --
+ 102 mya |[ Nautilidae ]                                      9 --
+         |- † etc                                             † --
+         |- Allonautilus                                      2 --
+         |    |- • Allonautilus perforatus                    • bali chambered nautilus
+         |    |- • Allonautilus scrobiculatus                 • crusty nautilus / fuzzy nautilus
+         |- Nautilus                                          7 --
+         |    |- † etc                                        † --
+         |    |- • Nautilus belauensis                        • palau nautilus
+         |    |- • Nautilus macromphalus                      • bellybutton nautilus
+         |    |- • Nautilus pompilius                         • pearly nautilus
+         |    |- • Nautilus samoaensis                        • samoan nautlius
+         |    |- • Nautilus stenomphalus                      • white-patch nautilus
+         |    |- ◦ Nautilus vanuatuensis                      • vanuatu nautilus
+         |    |- ◦ Nautilus vitiensis                         ◦ fiji nautilusnau

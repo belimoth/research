@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Archaeplastida
+-----------------------------------------------------------------------------------------------------
+         |[ Archaeplastida / Plantae sl ]                       --
+         |- * Rhodophyta                                        red algae
+         |- * Glaucophyta                                       glaucophyte algae
+ 992 mya |[ Viridiplantae ]                             382,000 plants
+         |- Chlorophyta                                         chlorophyte algae
+ 949 mya |[ Streptophyta ]                                      --
+         |- etc                                                 streptophyte algae
+         |[ Charophyta ]                                        --
+         |- etc                                                 charophyte algae
+ 928 mya |[ Phragmoplastophyta / Streptophytina ]               --
+         |- Charophyceae / Charales                             stoneworts
+         |- Coleochaetophyceae                                  multicellular green algae
+         |- Zygnematophyceae                                    --
+ 484 mya |[ Embryophyta ]                                       land plants; diplobiontic life cycle
+         |- Bryophytes                                          non-vascular land plants
+         |    |- Anthocerotophyta                               hornworts
+         |    |[ Setaphytes ]                                   --
+         |    |- Marchantiophyta                                liverworts
+         |    |- Bryophyta                                      mosses
+         |[ Polysporangiophyta ]                                --
+         |- † Protracheophyta                                   --
+ 429 mya |[ Tracheophyta ]                                      vascular land plants
+         |- * Lycophyta                                         lycophytes
+ 405 mya |[ Euphyllophyta ]                                     --
+         |- * Polypodiophytina                                  ferns
+ 330 mya |[ Spermatophyta ]                             283,000 spermatophytes / seed plants
+ 301 mya |- * Gymnosperms                                       --
+ 196 mya |- * Angiosperms                                       --

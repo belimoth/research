@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia
+-----------------------------------------------------------------------------------------------------
+ 692 mya |[ Deuterostomia ]                                     deuterostomes
+         |- * Ambulacraria / Coelomopora                        ambulacrarians
+ 588 mya |[ Chordata ]                                          chordates
+         |- Cephalochordata                                     lancelets
+         |[ Olfactores ]                                        --
+>447 mya |- Tunicata / Urochordata                        3,051 tunicates
+         |    |- Appendicularia / Larvacea                      appendicularians / larvaceans
+         |    |- Thaliacea                                      --
+         |    |    |- Salpida                                   salps
+         |    |    |- Pyrosomida                                pyrosomes
+         |    |    |- Doliolida                                 doiliolids
+         |    |- Ascidiacea                                     ascidians / sea squirts
+ 563 mya |[ Craniata ]/[ Vertebrata ]                           vertebrates
+         |[ Agnatha ]                                           agnathans / jawless fish
+         |- Cyclostomi                                          --
+         |    |- Myxini                                         hagfish
+         |    |- Hyperoartia                                    lampreys
+ 462 mya |[ Gnathostomata ]                                     jawed fish
+         |- † Placodermi                                      † placoderms
+         |[ Eugnathostomata ]                                   --
+         |- † Osteostraci                                     † ostracoderms
+         |- * Acanthodii                                        acanthodians / spiny sharks / stem cartilaginous fish
+ 429 mya |[ Euteleostomi / Osteichthyes ]                       bony fish / bony vertebrates
+ 415 mya |- * Sarcopterygii                                     lobe-finned fish
+ 396 mya |- * Actinopterygii                                    ray-finned fish

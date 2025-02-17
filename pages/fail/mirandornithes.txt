@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Aves / Mirandornithes
+-----------------------------------------------------------------------------------------------------
+         |[ Mirandornithes ]                                    --
+         |- Phoenicopteriformes                               6 flamingos
+         |    |- † Palaelodidae                               † --
+         |    |[ Phoenicopteridae ]                           6 --
+         |    |- • Phoeniconaias minor                        • lesser flamingo
+         |    |- • Phoenicoparrus andinus                     • Andean flamingo
+         |    |- • Phoenicoparrus james                       • James's flamingo
+         |    |[ Phoenicopterus ]                             3 --
+         |    |- • Phoenicopterus chilensis                   • chilean flamingo
+         |    |- • Phoenicopterus roseus                      • greater flamingo
+         |    |- • Phoenicopterus ruber                       • american flamingo
+  17 mya |- Podicipediformes / Podicipedidae                    grebes
+         |    |- Podilymbus                                   1 --
+         |    |    |- † Podilymbus gigas                      † poc / giant grebe / atitlán grebe / giant pied-billed grebe
+         |    |    |- • Podilymbus podiceps                   • pied-billed grebe
+         |    |- Tachybaptus                                    --
+         |    |    |- † Tachybaptus rufolavatus               † alaotra grebe
+         |    |    |- •
+         |    |    |- •
+         |    |    |- •
+         |    |    |- •
+         |    |    |- •
+         |    |- Poliocephalus
+         |    |- Aechmophorus
+         |    |- Rollandia
+         |    |[ Podiceps ]
+         |    |-

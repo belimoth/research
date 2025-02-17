@@ -1,0 +1,94 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Holomycota / Ascomycota
+-----------------------------------------------------------------------------------------------------
+ 528 mya |[ Ascomycota ]                                        sac fungus
+ 523 mya |[ Saccharomyceta ]                                    --
+         |- Saccharomycotina / Saccharomycetes                  budding yeast
+         |- Taphrinomycotina                                    --
+         |    |- Archaeorhizomycetes / Archaeorhizomyces        --
+         |    |- Neolectomycetes / Neolecta                     --
+         |    |- Pneumocystidomycetes / Pneumocystis            pneumocystis pneumonia
+         |    |- Schizosaccharomycetes / Schizosaccharomyce     fission yeast
+         |    |[ Taphrinomycetes ]                              --
+         |    |- Protomycetaceae                                --
+         |    |    |- Buerenia                                  --
+         |    |    |- Protomyces                                --
+         |    |    |- Protomycopsis                             --
+         |    |    |- Saitoella                                 --
+         |    |    |- Taphridium                                --
+         |    |    |- Volkartia                                 --
+         |    |[ Taphrinaceae ]                                 --
+         |    |- Lalaria                                        --
+         |    |- Taphrina                                       --
+         |[ Pezizomycotina ]                                    filamentous ascomycetes
+         |- Orbiliomycetes                                      --
+         |- Pezizomycetes / Pezizales                           --
+         |    |- Ascobolaceae                                   --
+         |    |    |- Ascobolus                              61 --
+         |    |    |- Ascophanus                             20 --
+         |    |    |- Cleistoiodophanus                       1 --
+         |    |    |- Cubonia                                 3 --
+         |    |    |- Saccobolus                             27 --
+         |    |    |- Thecotheus                             17 --
+         |    |- Ascodesmidaceae                                --
+         |    |    |- Ascodesmis                             11 --
+         |    |    |- Eleutherascus                           4 --
+         |    |    |- Lasiobolus                             21 --
+         |    |- Caloscyphaceae / Caloscypha                  1 golden cup fungus
+         |    |- Carbomycetaceae / Carbomyces                 3 --
+         |    |- Chorioactidaceae                               --
+         |    |    |- Chorioactis                             1 texas star fungus
+         |    |    |- Desmazierella                           5 --
+         |    |    |- Neournula                               2 --
+         |    |    |- Pseudosarcosoma                         1 --
+         |    |    |- Wolfina                                 3 --
+         |    |- Discinaceae                                    --
+         |    |    |- Discina                                21 --
+         |    |    |- Gymnohydnotrya                          3 --
+         |    |    |- Gyromitra                              18 false morels
+         |    |    |- Hydnotrya                              15 --
+         |    |    |- Maublancomyces                            --
+         |    |    |- Pseudorhizina                           3 --
+         |    |- Glaziellaceae                                  --
+         |    |- Helvellaceae                                   --
+         |    |    |- Balsamia                               25 --
+         |    |    |- Barssia                                 2 --
+         |    |    |- Helvella                              105 elfin saddles
+         |    |    |- Underwoodia                               --
+         |    |    |- Wynnella                                  --
+         |    |- Karstenellaceae                                --
+         |    |    |- Costantinella                           7 anamorph
+         |    |    |- Disciotis (terrestrial)                   --
+         |    |    |- Morchella (terrestrial)                70 true morels
+         |    |    |- Verpa (terrestrial)                       --
+         |    |    |- Kalapuya (hypogeous)                    1 --
+         |    |    |- Imaia (hypogeous)                         --
+         |    |    |- Leucangium (hypogeous)                    --
+         |    |    |- Fischerula (hypogeous)                    --
+         |    |- Morchellaceae                                  --
+         |    |- Pezizaceae                                 230 cup fungi
+         |    |- Pyronemataceae                             500 --
+         |    |- Rhizinaceae                                    --
+         |    |- Sarcoscyphaceae                            102 --
+         |    |- Sarcosomataceae                             57 --
+         |    |[ Tuberaceae ]                                   --
+         |    |- Choiromyces                                  5 truffle-like
+         |    |- Dingleya                                       --
+         |    |- Labyrinthomyces                                --
+         |    |- Paradoxa                                       --
+         |    |- Reddellomyces                                  --
+         |    |- Tuber                                          true truffles
+         |[ Leotiomyceta ]                                      --
+         |- Sordariomyceta                                      --
+         |    |- Xylonomycetes                                  --
+         |    |- Geoglossomycetes                               --
+         |    |- Leotiomycetes                                  --
+         |    |- Laboulbeniomycetes                             --
+         |    |- Sordariomycetes                                --
+         |[ Dothideomyceta ]                                    --
+         |- Coniocybomycetes                                    --
+         |- Lichinomycetes                                      --
+         |- Arthoniomycetes                                     --
+         |- Dothideomycetes                                     --
+         |- Eurotiomycetes                                      --
+         |- Lecanoromycetes                                     --

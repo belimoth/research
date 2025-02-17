@@ -1,0 +1,165 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Polyneoptera / Isoptera
+-----------------------------------------------------------------------------------------------------
+ 150 mya |[ Isoptera ]                                    3,173 termites
+ 127 mya |- Mastotermitidae / Mastotermes                       --
+         |    |- • Mastotermes darwiniensis                   • darwin termite / giant northern termite
+         |[ Euisoptera ]                                        --
+         |- Teletisoptera                                       --
+         |    |- Stolotermitidae                                --
+         |    |- Hodotermopsidae                                --
+         |    |- Hodotermitidae                                 --
+         |    |- Archotermopsidae                               --
+         |[ Icoisoptera ]                                       --
+         |- Kalotermitidae                                      --
+         |[ Neoisoptera ]                                       --
+         |- Stylotermitidae                                     --
+         |- Serritermitidae                                     --
+         |- Rhinotermitidae                                 345 subterranean termites
+  27 mya |    |- Coptotermitinae / Coptotermes               15 --
+         |    |    |- • Coptotermes acinaciformis             • --
+         |    |    |- ◦ Coptotermes brunneus                  ◦ --
+         |    |    |- ◦ Coptotermes ceylonicus                ◦ --
+         |    |    |- ◦ Coptotermes curvignathus              ◦ --
+         |    |    |- ◦ Coptotermes elisae                    ◦ papuan plantation termite
+         |    |    |- ◦ Coptotermes emersoni                  ◦ --
+         |    |    |- • Coptotermes formosanus                • super termite / formosan termite / formosan subterranean termite
+         |    |    |- ◦ Coptotermes frenchi                   ◦ australian subterranean termite
+         |    |    |- ◦ Coptotermes gaurii                    ◦ --
+         |    |    |- • Coptotermes gestroi                   • phillippine milk termite / asian subterranean termite
+         |    |    |- ◦ Coptotermes havilandi                 ◦ --
+         |    |    |- ◦ Coptotermes heimi                     ◦ --
+         |    |    |- ◦ Coptotermes kalshoveni                ◦ --
+         |    |    |- ◦ Coptotermes lacteus                   ◦ milk termite
+         |    |    |- ◦ Coptotermes parvulus                  ◦ --
+         |    |- Heterotermitinae                               --
+         |    |    |- Heterotermes                           32 --
+         |    |    |    |- ◦ Heterotermes aethiopicus         ◦ --
+         |    |    |    |- ◦ Heterotermes assu                ◦ --
+         |    |    |    |- ◦ Heterotermes aureus              ◦ desert subterranean termite
+         |    |    |    |- ◦ Heterotermes balwanti            ◦ --
+         |    |    |    |- ◦ Heterotermes brevicatena         ◦ --
+         |    |    |    |- ◦ Heterotermes cardini             ◦ --
+         |    |    |    |- ◦ Heterotermes ceylonicus          ◦ --
+         |    |    |    |- ◦ Heterotermes convexinotatus      ◦ --
+         |    |    |    |- ◦ Heterotermes crinitus            ◦ --
+         |    |    |    |- ◦ Heterotermes eocenicus           ◦ --
+         |    |    |    |- ◦ Heterotermes ferox               ◦ --
+         |    |    |    |- ◦ Heterotermes gertrudae           ◦ --
+         |    |    |    |- ◦ Heterotermes indicola            ◦ --
+         |    |    |    |- ◦ Heterotermes intermedius         ◦ --
+         |    |    |    |- ◦ Heterotermes longicatena         ◦ --
+         |    |    |    |- ◦ Heterotermes longiceps           ◦ --
+         |    |    |    |- ◦ Heterotermes maculatus           ◦ --
+         |    |    |    |- ◦ Heterotermes malabaricus         ◦ --
+         |    |    |    |- ◦ Heterotermes occiduus            ◦ --
+         |    |    |    |- ◦ Heterotermes omanae              ◦ --
+         |    |    |    |- ◦ Heterotermes pamatatensis        ◦ --
+         |    |    |    |- ◦ Heterotermes paradoxus           ◦ --
+         |    |    |    |- ◦ Heterotermes perfidus            ◦ --
+         |    |    |    |- ◦ Heterotermes philippinensis      ◦ --
+         |    |    |    |- ◦ Heterotermes platycephalus       ◦ --
+         |    |    |    |- ◦ Heterotermes primaevus           ◦ --
+         |    |    |    |- ◦ Heterotermes sulcatus            ◦ --
+         |    |    |    |- ◦ Heterotermes tenuior             ◦ --
+         |    |    |    |- ◦ Heterotermes tenuis              ◦ --
+         |    |    |    |- ◦ Heterotermes vagus               ◦ --
+         |    |    |    |- ◦ Heterotermes validus             ◦ --
+         |    |    |    |- ◦ Heterotermes wittmeri            ◦ --
+         |    |    |- Reticulitermes                         25 --
+         |    |    |    |- ◦ Reticulitermes amamianus         ◦ --
+         |    |    |    |- ◦ Reticulitermes arenincola        ◦ --
+         |    |    |    |- ◦ Reticulitermes balkanensis       ◦ --
+         |    |    |    |- ◦ Reticulitermes banyulensis       ◦ --
+         |    |    |    |- ◦ Reticulitermes chinensis         ◦ --
+         |    |    |    |- ◦ Reticulitermes clypeatus         ◦ --
+         |    |    |    |- • Reticulitermes flavipes          • eastern subterranean termite
+         |    |    |    |- ◦ Reticulitermes grassei           ◦ --
+         |    |    |    |- ◦ Reticulitermes guangzhouensis    ◦ --
+         |    |    |    |- ◦ Reticulitermes hageni            ◦ light southeastern subterranean termite
+         |    |    |    |- ◦ Reticulitermes hesperus          ◦ western subterranean termite
+         |    |    |    |- ◦ Reticulitermes kanmonensis       ◦ --
+         |    |    |    |- ◦ Reticulitermes khaoyaiensis      ◦ --
+         |    |    |    |- ◦ Reticulitermes leptomandibularis ◦ --
+         |    |    |    |- ◦ Reticulitermes lucifugus         ◦ --
+         |    |    |    |- ◦ Reticulitermes malletei          ◦ --
+         |    |    |    |- ◦ Reticulitermes miyatakei         ◦ --
+         |    |    |    |- ◦ Reticulitermes nelsonae          ◦ --
+         |    |    |    |- ◦ Reticulitermes okinawanus        ◦ --
+         |    |    |    |- ◦ Reticulitermes santonensis       ◦ --
+         |    |    |    |- ◦ Reticulitermes speratus          ◦ japanese termite
+         |    |    |    |- ◦ Reticulitermes tibialis          ◦ arid-land subterranean termite
+         |    |    |    |- ◦ Reticulitermes urbis             ◦ --
+         |    |    |    |- ◦ Reticulitermes virginicus        ◦ --
+         |    |    |    |- ◦ Reticulitermes yaeyamanus        ◦ --
+         |    |    |- Tsaitermes                              ? --
+         |    |- Prorhinotermitinae                             --
+         |    |    |- Prorhinotermes                            --
+         |    |    |    |- ◦ Prorhinotermes canalifrons       ◦ --
+         |    |    |    |- ◦ Prorhinotermes flavus            ◦ --
+         |    |    |    |- ◦ Prorhinotermes hainanensis       ◦ --
+         |    |    |    |- ◦ Prorhinotermes inopinatus        ◦ --
+         |    |    |    |- ◦ Prorhinotermes molinoi           ◦ --
+         |    |    |    |- ◦ Prorhinotermes oceanicus         ◦ --
+         |    |    |    |- ◦ Prorhinotermes ponapensis        ◦ --
+         |    |    |    |- ◦ Prorhinotermes rugifer           ◦ --
+         |    |    |    |- ◦ Prorhinotermes simplex           ◦ cuban subterranean termite
+         |    |    |    |- ◦ Prorhinotermes spectabilis       ◦ --
+         |    |    |    |- ◦ Prorhinotermes xishaensis        ◦ --
+         |    |- Psammotermitinae                               --
+         |    |    |- Psammotermes                              --
+         |    |    |    |- ◦ Psammotermes allocerus           ◦ --
+         |    |    |    |- ◦ Psammotermes hybostoma           ◦ --
+         |    |    |    |- ◦ Psammotermes prohybostoma        ◦ --
+         |    |    |    |- ◦ Psammotermes rajasthanicus       ◦ --
+         |    |    |    |- ◦ Psammotermes senegalensis        ◦ --
+         |    |    |    |- ◦ Psammotermes voeltzkow           ◦ --
+         |    |- Rhinotermitinae                                --
+         |    |    |- Achorinotermes                          ? --
+         |    |    |- Dolichorhinotermes                      ? --
+         |    |    |- Macrorhinotermes                        ? --
+         |    |    |- Parrhinotermes                          ? --
+         |    |    |- Rhinotermes                             5 --
+         |    |    |    |- ◦ Rhinotermes hispidus             ◦ --
+         |    |    |    |- ◦ Rhinotermes manni                ◦ --
+         |    |    |    |- ◦ Rhinotermes marginalis           ◦ --
+         |    |    |    |- ◦ Rhinotermes nasutus              ◦ --
+         |    |    |    |- ◦ Rhinotermes tarakanensis         ◦ --
+         |    |    |- Scheorhinotermes                       34 --
+         |    |    |    |- ◦ Schedorhinotermes  actuosus      ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  bidentatus    ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  brachyceps    ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  breinli       ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  brevialatus   ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  butteli       ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  derosus       ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  eleanorae     ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  fortignathus  ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  ganlanbaensis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  holmgreni     ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  insolitus     ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  intermedius   ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  lamanianus    ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  leopoldi      ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  longirostris  ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  magnus        ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  makassarensis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  makilingensis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  malaccensis   ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  medioobscurus ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  nancowriensis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  putorius      ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  pyricephalus  ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  rectangularis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  reticulatus   ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  robustior     ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  sanctaecrucis ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  seclusus      ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  solomonensis  ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  tenuis        ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  tiwarii       ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  translucens   ◦ --
+         |    |    |    |- ◦ Schedorhinotermes  umbraticus    ◦ --
+         |    |- Termitogetoninae                             ? --
+         |    |    |- Termitogeton                            ? --
+         |- Termitidae                                    2,105 higher termites

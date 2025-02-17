@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Aves / Galloanserae
+-----------------------------------------------------------------------------------------------------
+  83 mya |[ Galloanserae ]                                      fowl
+  83 mya |- Anseriformes                                        water fowl
+         |    |- Anhimae                                        screamers
+         |    |- Anseranatidae                                  magpie geese
+  35 mya |    |[ Anatidae ]                                     --
+         |    |- Dendrocygninae                                 tree ducks / whistling ducks
+  21 mya |    |- Anserinae                                      swans, true geese etc
+         |    |[ Anatinae ]                                     dabblling ducks
+         |    |-                                                todo
+  68 mya |[ Galliformes ]                                       land fowl
+         |- Megapodiidae                                        bush turkeys & scrub fowl
+         |- Cracidae                                            --
+         |    |- Penelopinae                                    guans
+         |    |- Cracinae                                       curassows
+         |    |- Numididae                                      guinea fowl
+         |- Odontophoridae                                      new-world quail
+         |[ Phasianidae ]                                       --
+         |- Rollulinae                                          --
+         |- Pavoninae                                           --
+         |    |- Coturnicini                                    --
+         |    |- Gallini                                        jungle fowl & francolins
+         |    |- Pavonini                                       peafowl & arguses
+         |    |- Polyplectronini                                peacock pheasants
+         |[ Phasianinae ]                                       --
+         |- Lophophorini                                        tragopans & monals
+         |- Phasianini                                          true pheasants
+         |- Tetraonini                                          turkeys & grouse

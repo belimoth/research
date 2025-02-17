@@ -1,0 +1,16 @@
+
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Reduncinae
+-----------------------------------------------------------------------------------------------------
+   9 mya |[ Reduncinae ]                                      9 kobs, reedbucks, waterbucks etc
+         |- • Pelea capreolus                                 • gray rhebok
+         |- Redunca                                           3 reedbucks
+         |    |- • Redunca arundinum                          • southern reedbuck
+         |    |- • Redunca fulvorufula                        • mountain reedbuck
+         |    |- • Redunca redunca                            • bohor reedbuck
+   4 mya |[ Kobus ]                                           5 --
+         |- • Kobus ellipsiprymnus                            • waterbuck
+         |- • Kobus kob                                       • kob
+         |- • Kobus leche                                     • lechwe / red lechwe / southern lechwe
+         |- • Kobus megaceros                                 • nile lechwe
+         |- • Kobus vardonii                                  • puku

@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Polyneoptera / Caelifera
+-----------------------------------------------------------------------------------------------------
+ 260 mya |[ Caelifera ]                                  11,000 grasshoppesr, etc
+ 203 mya |- Tridactylidea / Tridactyloidea                   50 pygmy mole crickets, etc
+         |    |- Cylindrachetidae                               sandgropers
+         |    |- Ripipterygidae                                 ripipterygids; mud crickets
+         |    |- Tridactylidae                                  pygmy mole crickets
+ 171 mya |[ Acrididea ]                                         --
+         |- Tetrigoidea                                   2,000 groundhoppers, pygmy grasshoppers, pygmy devils, grouse locusts
+         |    |- Batrachideinae                                 --
+         |    |- Cladonotinae                                   --
+         |    |- Discotettiginae                                --
+         |    |- Lophotettiginae                                --
+         |    |- Metrodorinae                                   --
+         |    |- Scelimeninae                                   --
+         |    |- Tetriginae                                     --
+         |    |- Tripetalocerinae                               --
+         |[ Acridomorpha ]                                      grasshoppers
+         |- Eumastacoidea                                       monkey grasshoppers
+         |- Pneumoroidea                                        bladder grasshoppers
+         |- Proscopioidea                                       --
+         |- Pyrgomorphoidea                                     gaudy grasshoppers
+         |- Tanaoceroidea                                       desert long-horned grasshoppers
+         |- Trigonopterygoidea                                  razor-backed bush-hoppers
+         |[ Acridoidea ]                                        most grasshoppers
+         |- Acrididae                                    10,000 short-horned grasshoppers
+         |- Dericorythidae                                      --
+         |- Lathiceridae                                        --
+         |- Lentulidae                                          --
+         |- Ommexechidae                                        --
+         |- Pamphagidae                                         --
+         |- Pamphagodidae                                       --
+         |- Pyrgacrididae                                       --
+         |- Romaleidae                                          --
+         |- Tristiridae                                         --

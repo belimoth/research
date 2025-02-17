@@ -1,0 +1,73 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Eulipotyphla / Talpidae
+-----------------------------------------------------------------------------------------------------
+  50 mya |[ Talpidae ]                                       59 talpids
+  20 mya |- Uropsilus                                         8 asian shrew moles
+         |    |- • Uropsilus aequodonenia                     • equivalent-teeth shrew mole
+         |    |- • Uropsilus andersoni                        • anderson's shrew mole
+         |    |- • Uropsilus atronates                        • black-backed shrew mole
+         |    |- • Uropsilus dabieshanensis                   • dabie mountains shrew mole
+         |    |- • Uropsilus gracilis                         • gracile shrew mole
+         |    |- • Uropsilus  investigator                    • inquisitive shrew mole
+         |    |- • Uropsilus nivatus                          • snow mountain shrew mole
+         |    |- • Uropsilus soricipes                        • chinese shrew mole
+         |- Scalopinae                                       10 new world moles
+         |    |- • Condylura cristata                         • star-nosed mole
+         |    |[ Scalopini ]                                  9 scalopine moles
+         |    |- • Scalopus aquaticus                         • common mole / eastern mole
+         |    |- • Parascalops breweri                        • hairy-tailed mole / brewer's mole
+         |    |- • Scapanulus oweni                           • gansu mole
+         |    |- • Alpiscaptulus medogensis                   • medog mole
+   9 mya |    |[ Scapanus ]                                   5 --
+         |    |- • Scapanus anthonyi                          • mexican mole
+         |    |- • Scapanus latimanus                         • northern broad-footed mole
+         |    |- • Scapanus occultus                          • southern broad-footed mole
+         |    |- • Scapanus orarius                           • coast mole
+         |    |- • Scapanus townsendii                        • townsend's mole
+         |[ Talpinae ]                                       41 --
+         |- • Desmana moschata                                • russian desman
+         |- • Galemys pyrenaicus                              • pyrebeab desman
+         |- • Neurotrichus gibbsii                            • american shrew mole
+         |- • Scaptonyx fusicauda                             • long-tailed mole
+         |- Urotrichini                                       2 --
+         |    |- • Dymecodon pilirostris                      • true's shrew mole / lesser japanese shrew mole
+         |    |- • Urotrichus talpoides                       • himizu / japanese shrew mole / greater japanese shrew mole
+         |[ Talpini ]                                        35 talpine moles / old-world moles
+         |- • Oreoscaptor mizura                              • japanese mountain mole
+         |- • Parascaptor lecura                              • white-talied mole
+         |- • Scaptochirus moschatus                          • short-faced mole
+   9 mya |- Euroscaptor                                      10 --
+         |    |- • Euroscaptor grandis                        • greater chinese mole
+         |    |- • Euroscaptor klossi                         • kloss's mole
+         |    |- • Euroscaptor kuznetsovi                     • kuznetsov's mole
+         |    |- • Euroscaptor longirostris                   • long-nosed mole
+         |    |- • Euroscaptor malayanus                      • malaysian mole
+         |    |- • Euroscaptor micrurus                       • himalayan mole
+         |    |- • Euroscaptor ngoclinhensis                  • ngoc linh mole
+         |    |- • Euroscaptor orlovi                         • orlov's mole
+         |    |- • Euroscaptor parvidens                      • small-toothed mole
+         |    |- • Euroscaptor subanura                       • vietnamese mole
+   6 mya |- Talpa                                            13 --
+         |    |- • Talpa altaica                              • altai mole
+         |    |- • Talpa aquitania                            • aquitanian mole
+         |    |- • Talpa caeca                                • blind mole
+         |    |- • Talpa caucasica                            • caucasian mole
+         |    |- • Talpa davidiana                            • père david's mole
+         |    |- • Talpa europaea                             • european mole
+         |    |- • Talpa levantis                             • levant mole
+         |    |- • Talpa martinorum                           • martino's mole
+         |    |- • Talpa occidentalis                         • spanish mole
+         |    |- • Talpa ognevi                               • ognev's mole
+         |    |- • Talpa romana                               • roman mole
+         |    |- • Talpa stankovici                           • balkan mole
+         |    |- • Talpa talyschensis                         • talysch mole
+   5 mya |[ Mogera ]                                          9 --
+         |- • Mogera etigo                                    • echigo mole
+         |- • Mogera imaizumii                                • small japanese mole
+         |- • Mogera insularis                                • insular mole
+         |- • Mogera kanoana                                  • kano's mole
+         |- • Mogera latouchei                                • la touche's mole
+         |- • Mogera robusta                                  • ussuri mole
+         |- • Mogera tokudae                                  • sado mole
+         |- • Mogera uchidai                                  • senkaku mole
+         |- • Mogera wogura                                   • japanese mole

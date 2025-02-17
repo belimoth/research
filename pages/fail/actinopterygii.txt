@@ -1,0 +1,146 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Actinopterygii
+-----------------------------------------------------------------------------------------------------
+ 396 mya |[ Actinopterygii ]                                    ray-finned fish
+ >47 mya |- Cladistia / Polypteriformes / Polypteridae       14 bichir family
+         |    |- • Erpetoichthys calabaricus                  • reedfish
+         |    |[ Polypterus ]                                13 bichirs
+         |    |- • Polypterus ansorgii                        • guinean bichir
+         |    |- • Polypterus bichir                          • nile bichir
+         |    |- • Polypterus congicus                        • congo bichir
+         |    |- • Polypterus delhezi                         • barred bichir
+         |    |- • Polypterus endlicherii                     • saddled birchir
+         |    |- • Polypterus mokelembembe                    • mokèlé-mbèmbé bichir
+         |    |- • Polypterus ornatipinnis                    • ornate bichir
+         |    |- • Polypterus palmas                          • marbled bichir
+         |    |- • Polypterus polli                           • poll's bichir
+         |    |- • Polypterus retropinnis                     • west african bichir
+         |    |- • Polypterus senegalus                       • gray bichir
+         |    |- • Polypterus teugelsi                        • cross river bichir
+         |    |- • Polypterus weeksii                         • mottled bichir
+ 350 mya |[ Actinopteri ]                                       --
+         |- Chondrostei / Acipenseriformes / Acipenseroidei     --
+         |    |- Polyodontidae                                1 paddlefish
+         |    |    |- • Polyodon spathula                     • american paddlefish
+         |    |    |- † Psephurus gladius                     † chinese paddlefish
+         |    |- Acipenseridae                                  sturgeons
+ 321 mya |[ Neopterygii ]                                       --
+ 297 mya |- Holostei                                            --
+         |    |- Lepisosteiformes                               gars
+         |    |- Amiiformes                                     bowfins
+ 263 mya |[ Teleostei ]                                         teleosts
+         |- Eloposteoglossocephala                              --
+         |    |- Osteoglossomorpha                              --
+>175 mya |    |[ Elopomorpha ]                                  --
+         |    |- Elopiformes                                    tenpounders, tarpons
+         |    |- Albuliformes                                   Japanese gissus and bonefishes
+         |    |- Notacanthiformes                               deep sea spiny eels
+         |    |- Anguilliformes (true eels)                     --
+ 224 mya |[ Clupeocephala ]                                     --
+         |- Otocephala
+         |[ Euteleostei ]
+         |-
+         |-
+         |-
+
+ 205 mya |[ Euteleosteomorpha ]
+
+
+
+ 163 mya |[ Neoteleostei ]
+         |- Ateleopodia / Ateleopodiformes
+         |[ Eurypterygia ]
+         |- Aulopa / Aulopiformes
+ 144 mya |[ Ctenosquamata ]
+         |- Scopelomorpha
+ 139 mya |[ Acanthomorpha ]
+         |- Lampriptergii
+         |- Paracanthopterygii
+         |- Polymixiipterygii
+         |[ Acanthopterygii ]
+         |- Berycimorphaceae
+         |- Holocentrimorphaceae
+         |[ Percomorpha ]
+         |- Ophidiaria / Ophidiiformes                          cusk-eels
+         |[ unnamed ]                                           --
+         |- Batrachoidaria / Batrachoididae                     toadfishes
+         |[ unnamed ]                                           --
+         |- unnamed                                             --
+         |    |- Pelagiaria / Scombriformes                     tunas, mackerel, etc
+         |    |- Syngnatharia / Syngnathiformes                 seahorses, seadragon, etc
+         |- Gobiaria                                            --
+         |    |- Gobiiformes                                    gobies
+         |    |- Kurtiformes                                    nurseryfishes, cardinalfishes
+         |[ unnamed ]
+         |- unnamed
+         |    |- unnamed
+         |    |    |- Anabantaria
+         |    |    |    |- Anabantiformes (snakeheads, Siamese fighting fish, gouramies)
+         |    |    |    |- Synbranchiformes
+         |    |    |[ Carangaria ]
+         |    |    |- Polynemidae (threadfins)
+         |    |    |- Lactariidae (false trevally)
+         |    |    |- Menidae (moonfish)
+  Part of "Carangiformes"
+Nematistiidae (roosterfish)
+Echeneidae (remoras)
+Coryphaenidae (dolphinfish)
+Rachycentridae (cobia)
+Sphyraenidae (barracudas)
+Centropomidae (snooks)
+Pleuronectiformes (flatfish)
+  Part of "Carangiformes"
+Carangidae (jacks)
+Istiophoriformes (billfish)
+Leptobramidae (beachsalmons)
+Toxotidae (archerfish)
+  Ovalentaria
+  Cichlomorphae
+Cichliformes (cichlids, convict blennies)
+Polycentridae (leaffish)
+  Atherinomorphae
+Beloniformes (needlefish, flying fish, halfbeaks)
+Atheriniformes (silversides, rainbowfish, etc.)
+Cyprinodontiformes (tooth-carps)
+Ambassidae (Asiatic glassfishes)
+Congrogadidae (eel blenny)
+Pomacentridae (damselfishes, clownfish)
+Embiotocidae (surfperches)
+  Mugilomorphae
+Mugiliformes (mullets)
+Lipogramma
+Plesiopidae (roundheads)
+Pseudochromidae (dottybacks)
+Grammatidae (basslets)
+Opistognathidae (jawfishes)
+  Blenniimorphae
+Blenniiformes (blennies, clinids, sand stargazers)
+Gobiesociformes (clingfishes)
+|[ Eupercaria ]
+|- Gerreiformes (mojarras)
+|- Uranoscopiformes (stargazers)
+|- Centrogenyidae (false scorpionfish)
+|- Labriformes (wrasses, cales, parrotfish)
+|- Perciformes (perches, sticklebacks, scorpionfishes, etc.)
+|- Centrarchiformes (black basses, temperate perches, etc.)
+|- Pempheriformes (sweepers)
+|- Moronidae (temperate basses)
+|- Sillaginidae (smelt-whitings)
+|- Ephippiformes (spadefishes, batfishes)
+|- Chaetodontiformes (butterflyfishes)
+|- Sciaenidae (drums, croakers)
+|- Acanthuriformes (surgeonfishes, ponyfishes)
+|- Monodactylidae (moonyfishes, fingerfishes)
+|- Emmelichthyidae (rovers)
+|- Pomacanthidae (angelfishes)
+|- Lutjaniformes (snappers)
+|- Callanthiidae (splendid perches)
+|- Malacanthidae (tilefishes)
+|- Lobotiformes (tripletails)
+|- Spariformes
+|- Siganidae (rabbitfishes)
+|- Priacanthiformes (bigeyes, bandfishes)
+|- Scatophagidae (scats)
+|- Caproiformes (boarfishes)
+|- Lophiiformes (anglerfishes)
+|- Tetraodontiformes (pufferfishes, triggerfishes, etc.)

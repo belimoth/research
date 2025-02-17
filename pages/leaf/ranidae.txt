@@ -1,0 +1,250 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Lissamphibia / Anura / Ranidae
+-----------------------------------------------------------------------------------------------------
+  50 mya |[ Ranidae ]                                       396 ranids; ranid frogs; true frogs
+         |- • Pterorana khare                                 • indian flying frog
+         |- • Pseudorana weiningensis                         • weining frog
+         |- • Huia cavitympanum                               • hole-in-the-head frog
+  39 mya |- Amolops                                          60 cascade frogs / sucker frogs
+         |    |- • Amolops archotaphus                        •
+         |    |- • Amolops chunganensis                       •
+         |    |- • Amolops cremnobatus                        •
+         |    |- • Amolops formosus                           •
+         |    |- • Amolops gerbillus                          •
+         |    |- • Amolops hongkongensis                      • hong kong cascade frog
+         |    |- • Amolops panhai                             • panha's marbled frog / peninsular torrent frog
+         |    |- • Amolops ricketti                           • south china torrent frog
+         |    |- • Amolops torrentis                          •
+         |    |- • Amolops wuyiensis                          • wuyi torrent frog
+         |    |- 50 more                                     50 more
+  35 mya |- Amnirana                                         12 white-lipped frogs
+         |    |- • Amnirana albolabris                        • --
+         |    |- • Amnirana galamensis                        • --
+         |    |- • Amnirana lepus                             • --
+         |    |- 9 more                                       9 more
+  31 mya |- Pelophylax                                       22 water frogs
+         |    |- • Pelophylax bedriagae                       • levant water frog
+         |    |- • Pelophylax bergeri                         • italian pool frog
+         |    |- • Pelophylax cerigensis                      • karpathos frog
+         |    |- • Pelophylax chosenicus                      • seoul pond frog
+         |    |- • Pelophylax cretensis                       • cretan frog
+         |    |- • Pelophylawax kurtmuelleri                  • balkan water frog
+         |    |- • Pelophylax lessonae                        • pool frog
+         |    |- • Pelophylax nigromaculatus                  • dark-spotted frog
+         |    |- • Pelophylax perezi                          • iberian water frog
+         |    |- • Pelophylax plancyi                         • eastern golden frog
+         |    |- • Pelophylax porosus                         • daruma pond frog
+         |    |- • Pelophylax ridibundus                      • marsh frog
+         |    |- • Pelophylax saharicus                       • sahara frog
+         |    |- • Pelophylax shqipericus                     • albanian water frog
+         |    |- 6 more                                       6 more
+  26 mya |- Meristogenys                                     13 --
+         |    |- • Meristogenys jerboa                        • western torrent frog
+         |    |- 12 more                                     12 more
+  24 mya |- Pulchrana                                        17 --
+         |    |- • Pulchrana banjarana                        • --
+         |    |- • Pulchrana baramica                         • --
+         |    |- • Pulchrana centropeninsularis               • --
+         |    |- • Pulchrana glandulosa                       • --
+         |    |- • Pulchrana grandocula                       • --
+         |    |- • Pulchrana laterimaculata                   • --
+         |    |- • Pulchrana mangyanum                        • --
+         |    |- • Pulchrana melanomenta                      • --
+         |    |- • Pulchrana moellendorffi                    • --
+         |    |- • Pulchrana picturata                        • --
+         |    |- • Pulchrana siberu                           • --
+         |    |- • Pulchrana signata                          • --
+         |    |- 5 more                                       5 more
+  23 mya |- Staurois                                          6 "splash frogs"
+         |    |- • Staurois latopalmatus                      • rock skipper / sabah splash frog
+         |    |- • Staurois natator                           • --
+         |    |- • Staurois tuberilinguis                     • --
+         |    |- 3 more                                       3 more
+  21 mya |- Humerana                                          4 --
+         |    |- • Humerana lateralis                         • kokarit frog / yellow frog
+         |    |- 3 more                                       3 more
+  17 mya |- Sanguirana                                        8 --
+         |    |- • Sanguirana everetti                        • unnamed
+         |    |- • Sanguirana igorota                         • unnamed
+         |    |- • Sanguirana luzonensis                      • unnamed
+         |    |- • Sanguirana sanguinea                       • unnamed
+         |    |- • Sanguirana tipanan                         • unnamed
+         |    |- 3 more                                       3 more
+  15 mya |- Papurana                                         20 --
+         |    |- • Papurana celebensis                        • celebes frog
+         |    |- • Papurana daemeli                           • australian wood frog; only ranid frog in australia
+         |    |- • Papurana elberti                           • lesser sundas frog
+         |    |- • Papurana florensis                         • floresian frog
+         |    |- • Papurana garritor                          • --
+         |    |- • Papurana grisea                            • --
+         |    |- • Papurana jimiensis                         • --
+         |    |- • Papurana kreffti                           • --
+         |    |- • Papurana milleti                           • --
+         |    |- • Papurana milneana                          • --
+         |    |- • Papurana moluccana                         • --
+         |    |- • Papurana novaeguineae                      • --
+         |    |- • Papurana papua                             • --
+         |    |- • Papurana supragrisea                       • --
+         |    |- • Papurana volkerjane                        • --
+         |    |- • Papurana waliesa                           • --
+         |    |- 4 more                                       4 more
+  13 mya |- Clinotarsus                                       3 --
+         |    |- Clinotarsus alticola                         • assam hills frog
+         |    |- Clinotarsus curtipes                         • bicolored frog / malabar frog
+         |    |- 1 more                                       1 more
+         |- Abavorana                                         3 --
+         |    |- • Abavorana luctuosa                         • purple frog
+         |    |- 2 more                                       2 more
+         |- Babina                                            2 --
+         |    |- • Babina holsti                              • holst's frog
+         |    |- 1 more                                       1 more
+         |- Chalcorana                                       10 --
+         |    |- • Chalcorana eschatia                        • --
+         |    |- • Chalcorana labialis                        • white-lipped frog
+         |    |- • Chalcorana macrops                         • masarang frog
+         |    |- • Chalcorana megalonesa                      • large white-lipped frog
+         |    |- • Chalcorana raniceps                        • "copper-cheeked frog"
+         |    |- 5 more                                       5 more
+         |- Glandirana                                        5 glandular frogs
+         |    |- • Glandirana rugosa                          • japanese wrinkled frog
+         |    |- • Glandirana susurra                         • sado island wrinkled frog
+         |    |- 3 more                                       3 more
+         |- Hydrophylax                                       4 --
+         |    |- • Hydrophylax bahuvistara                    • widespread fungoid frog
+         |    |- • Hydrophylax gracilis                       • gravenhorst's golden-backed frog / sri lankan wood frog
+         |    |- • Hydrophylax malabaricus                    • fungoid frog / malabar hills frog
+         |    |- • Hydrophylax leptoglossa                    • --
+         |- Hylarana                                          4 --
+         |    |- • Hylarana erythraea                         • green paddy frog
+         |    |- • Hylarana macrodactyla                      • three-striped grass frog
+         |    |- • Hylarana taipehensis                       • two-striped grass frog
+         |    |- • Hylarana tytleri                           • --
+         |- Indosylvirana                                    12 --
+         |    |- • Indosylvirana aurantiaca                   • golden frog / small wood frog
+         |    |- • Indosylvirana indica                       • indian golden-backed frog
+         |    |- • Indosylvirana intermedia                   • intermediate golden-backed frog
+         |    |- • Indosylvirana serendipi                    • sri-lankan golden-backed frog
+         |    |- • Indosylvirana sreeni                       • sreeni's golden-backed frog
+         |    |- • Indosylvirana temporalis                   • bronzed frog / günther's golden-backed frog
+         |    |- 6 more                                       6 more
+         |- Lithobates                                       50 --
+         |    |- • Lithobates areolatus                       • crawfish frog
+         |    |- • Lithobates berlandieri                     • rio grande leopard frog
+         |    |- • Lithobates blairi                          • plains leopard frog
+         |    |- • Lithobates brownorum                       • --
+         |    |- • Lithobates bwana                           • rio chipillico frog
+         |    |- • Lithobates capito                          • gopher frog
+         |    |- • Lithobates catesbeianus                    • american bullfrog
+         |    |- • Lithobates chichicuahutla                  • lago de las minas frog
+         |    |- • Lithobates chiricahuensis                  • chiricahua leopard frog
+         |    |- • Lithobates clamitans                       • green frog
+         |    |- • Lithobates dunni                           • patzcuaro frog
+         |    |- • Lithobates forreri                         • forrer's leopard frog
+         |    |- • Lithobates grylio                          • pig frog
+         |    |- • Lithobates heckscheri                      • river frog
+         |    |- • Lithobates johni                           • moore's frog
+         |    |- • Lithobates juliani                         • maya mountains frog
+         |    |- • Lithobates kauffeldi                       • atlantic coast leopard frog
+         |    |- • Lithobates lenca                           • --
+         |    |- • Lithobates lemosespinali                   • lemos-espinal's leopard frog
+         |    |- • Lithobates macroglossa                     • guatemala plateau frog
+         |    |- • Lithobates maculatus                       • highland frog
+         |    |- • Lithobates magnaocularis                   • northwest mexico leopard frog
+         |    |- • Lithobates megapoda                        • big-footed leopard frog
+         |    |- • Lithobates miadis                          • island leopard frog
+         |    |- • Lithobates montezumae                      • montezuma leopard frog
+         |    |- • Lithobates neovolcanicus                   • transverse volcanic leopard frog
+         |    |- • Lithobates okaloosae                       • florida bog frog
+         |    |- • Lithobates omiltemanus                     • guerreran leopard frog
+         |    |- • Lithobates onca                            • relict leopard frog
+         |    |- • Lithobates palmipes                        • amazon river frog
+         |    |- • Lithobates palustris                       • pickerel frog
+         |    |- • Lithobates pipiens                         • northern leopard frog
+         |    |- • Lithobates psilonota                       • smooth-backed frog
+         |    |- • Lithobates pueblae                         • puebla frog
+         |    |- • Lithobates pustulosus                      • mexican cascades frog
+         |    |- • Lithobates septentrionalis                 • mink frog
+         |    |- • Lithobates sevosus                         • mississippi gopher frog
+         |    |- • Lithobates sierramadrensis                 • sierra Madre frog
+         |    |- • Lithobates spectabilis                     • showy leopard frog
+         |    |- • Lithobates sphenocephalus                  • southern leopard frog
+         |    |- • Lithobates sylvaticus                      • wood frog
+         |    |- • Lithobates tarahumarae                     • tarahumara frog
+         |    |- • Lithobates taylori                         • peralta frog
+         |    |- • Lithobates tlaloci                         • tlaloc's leopard frog
+         |    |- • Lithobates vaillanti                       • vaillant's frog
+         |    |- • Lithobates vibicarius                      • green-eyed frog
+         |    |- • Lithobates virgatipes                      • carpenter frog
+         |    |- • Lithobates warszewitschii                  • warszewitsch's frog
+         |    |- • Lithobates yavapaiensis                    • lowland leopard frog
+         |    |- • Lithobates zweifeli                        • zweifel's frog
+         |- Nidirana                                         18 music frogs
+         |    |- • Nidirana adenopleura                       • --
+         |    |- • Nidirana okinavana                         • yaeyama harpist frog
+         |    |- 16 more                                     16 more
+         |- Odorrana                                         60 odorous frogs
+         |    |- • Odorrana amamiensis                        • amami tip-nosed frog
+         |    |- • Odorrana aureola                           • phu luang cliff frog / gold-flanked odorous frog
+         |    |- • Odorrana chloronota                        • "copper-cheeked frog"
+         |    |- • Odorrana geminata                          • --
+         |    |- • Odorrana graminea                          • large odorous frog
+         |    |- • Odorrana hosii                             • hose's frog
+         |    |- • Odorrana ishikawae                         • ishikawa's frog
+         |    |- • Odorrana livida                            • green mountain frog
+         |    |- • Odorrana narina                            • ryukyu tip-nosed frog
+         |    |- • Odorrana nasica                            • long-snout torrent frog
+         |    |- • Odorrana schmackeri                        • piebald odorous frog
+         |    |- • Odorrana swinhoana                         • taiwan odorous frog
+         |    |- • Odorrana utsunomiyaorum                    • --
+         |    |- 47 more                                     47 more
+         |- Sumaterana                                        3 sumatran cascade frogs
+         |    |- • Sumaterana crassiovis                      • kerinci cascade frog
+         |    |- 2 more                                       2 more
+         |- Sylvirana                                        12 --
+         |    |- • Sylvirana annamitica                       • annam stream frog
+         |    |- • Sylvirana cubitalis                        • siamese stream frog
+         |    |- • Sylvirana faber                            • --
+         |    |- • Sylvirana guentheri                        • günther's amoy frog
+         |    |- • Sylvirana lacrima                          • crying stream frog
+         |    |- • Sylvirana malayana                         • malayan stream frog
+         |    |- • Sylvirana maosonensis                      • mao-son stream frog
+         |    |- • Sylvirana mortenseni                       • koh chang stream frog
+         |    |- • Sylvirana nigrovittata                     • black-striped stream frog
+         |    |- 3 more                                       3 more
+         |- Wijayarana                                        5 wijaya cascade frogs
+         |    |- • Wijayarana masonii                         • javan torrent frog
+         |    |- 4 more                                       4 more
+         |[ Rana ]                                           50 pond frogs / holarctic true frogs
+         |- • Rana amurensis                                  • siberian tree frog, Siberian wood frog, Amur brown frog
+         |- • Rana arvalis                                    • moor frog
+         |- • Rana asiatica                                   • asian frog / central asiatic frog
+         |- • Rana aurora                                     • northern red-legged frog
+         |- • Rana boylii                                     • foothill yellow-legged frog
+         |- • Rana cascadae                                   • cascades frog
+         |- • Rana chensinensis                               • asiatic grass frog / chinese brown frog
+         |- • Rana coreana                                    • korean brown frog
+         |- • Rana dalmatina                                  • agile frog
+         |- • Rana draytonii                                  • california red-legged frog
+         |- • Rana dybowskii                                  • dybowski's frog
+         |- • Rana graeca                                     • gtreek frog / greek stream frog
+         |- • Rana iberica                                    • iberian frog
+         |- • Rana italica                                    • italian stream frog
+         |- • Rana japonica                                   • japanese brown frog
+         |- • Rana latastei                                   • italian agile frog / lataste's frog
+         |- • Rana longicrus                                  • taipa frog
+         |- • Rana luteiventris                               • columbia spotted frog
+         |- • Rana macrocnemis                                • brusa frog / turkish frog / cacasus frog / long-legged wood frog
+         |- • Rana muscosa                                    • southern mountain yellow-legged frog
+         |- • Rana ornativentris                              • nikkō frog / montane brown frog
+         |- • Rana pirica                                     • hokkaidō frog
+         |- • Rana pretiosa                                   • oregon spotted frog
+         |- • Rana pseudodalmatina                            • --
+         |- • Rana pyrenaica                                  • pyrenean frog
+         |- • Rana sakuraii                                   • napparagawa frog
+         |- • Rana sauteri                                    • kanshirei village frog
+         |- • Rana sierrae                                    • sierra nevada mountain yellow-legged frog
+         |- • Rana tagoi                                      • tago's brown frog
+         |- • Rana temporaria                                 • common frog / european common frog / European common brown frog
+         |- • Rana tsushimensis                               • tsushima brown frog / Tsushima leopard frog
+         |- • Rana zhenhaiensis                               • zhenhai brown frog
+         |- 18 more                                          18 more

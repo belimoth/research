@@ -1,0 +1,57 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Cirrina
+-----------------------------------------------------------------------------------------------------
+  41 mya |[ Cirrina ]                                        48 cerate octopuses
+         |- Cirroteuthidae                                    3 --
+         |    |- • Cirroteuthis muelleri                      • big-finned jellyhead
+         |    |- • Cirrothauma magna                          • big-eyed jellyhead
+         |    |- • Cirrothauma murrayi                        • blind cirrate octopus
+         |- Stauroteuthidae                                   3 --
+         |    |- • Stauroteuthis gilchristi                   • --
+         |    |- • Stauroteuthis syrtensis                    • --
+         |    |- ◦ Stauroteuthis kengrahami                   ◦ --
+         |- Opisthoteuthidae                                 20 umbrella octopuses
+         |    |- ◦ Opisthoteuthis agassizii                   ◦ --
+         |    |- ◦ Opisthoteuthis albatrossi                  ◦ --
+         |    |- ◦ Opisthoteuthis borealis                    ◦ --
+         |    |- ◦ Opisthoteuthis bruuni                      ◦ --
+         |    |- ◦ Opisthoteuthis californiana                ◦ --
+         |    |- ◦ Opisthoteuthis calypso                     ◦ --
+         |    |- ◦ Opisthoteuthis chathamensis                ◦ --
+         |    |- ◦ Opisthoteuthis depressa                    ◦ --
+         |    |- ◦ Opisthoteuthis dongshaensis                ◦ --
+         |    |- ◦ Opisthoteuthis extensa                     ◦ --
+         |    |- ◦ Opisthoteuthis grimaldii                   ◦ --
+         |    |- ◦ Opisthoteuthis hardyi                      ◦ --
+         |    |- ◦ Opisthoteuthis japonica                    ◦ --
+         |    |- ◦ Opisthoteuthis massyae                     ◦ --
+         |    |- ◦ Opisthoteuthis medusoides                  ◦ --
+         |    |- ◦ Opisthoteuthis mero                        ◦ --
+         |    |- ◦ Opisthoteuthis persephone                  ◦ --
+         |    |- ◦ Opisthoteuthis philipii                    ◦ --
+         |    |- ◦ Opisthoteuthis pluto                       ◦ --
+         |    |- ◦ Opisthoteuthis robsoni                     ◦ --
+         |- Cirroctopodidae                                   4 --
+         |    |- ◦ Cirroctopus antarctica                     ◦ --
+         |    |- ◦ Cirroctopus glacialis                      ◦ --
+         |    |- ◦ Cirroctopus hochbergi                      ◦ --
+         |    |- ◦ Cirroctopus mawsoni                        ◦ --
+         |- Grimpoteuthidae                                  18 --
+         |    |- ◦ Cryptoteuthis brevibracchiata              ◦ --
+         |    |- ◦ Grimpoteuthis abyssicola                   ◦ red jellyhead
+         |    |- ◦ Grimpoteuthis angularis                    ◦ angle-shelled dumbo octopus
+         |    |- ◦ Grimpoteuthis bathynectes                  ◦ dumbo octopus
+         |    |- ◦ Grimpoteuthis challengeri                  ◦ --
+         |    |- ◦ Grimpoteuthis discoveryi                   ◦ --
+         |    |- ◦ Grimpoteuthis greeni                       ◦ green's dumbo octopus
+         |    |- ◦ Grimpoteuthis hippocrepium                 ◦ --
+         |    |- ◦ Grimpoteuthis imperator                    ◦ emperor dumbo octopus
+         |    |- ◦ Grimpoteuthis innominata                   ◦ small jellyhead
+         |    |- ◦ Grimpoteuthis meangensis                   ◦ --
+         |    |- ◦ Grimpoteuthis megaptera                    ◦ --
+         |    |- ◦ Grimpoteuthis pacifica                     ◦ --
+         |    |- ◦ Grimpoteuthis plena                        ◦ --
+         |    |- ◦ Grimpoteuthis tuftsi                       ◦ --
+         |    |- ◦ Grimpoteuthis umbellata                    ◦ --
+         |    |- ◦ Luteuthis dentatus                         ◦ lu's jellyhead
+         |    |- ◦ Luteuthis shuishi                          ◦ --

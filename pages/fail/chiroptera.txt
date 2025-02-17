@@ -1,0 +1,34 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Chiroptera
+-----------------------------------------------------------------------------------------------------
+  62 mya |[ Chiroptera ]                                        bats
+         |- Yinpterochiroptera                                  --
+         |    |- Megachiroptera / Pteropodidae                  megabats
+         |    |[ Rhinolophoidea ]                               false vampire bats, horshoe bats, etc
+         |    |- Craseonycteridae                             1 Kitti's hog-nosed bat
+         |    |- Rhinopomatidae                                 mouse-tailed bats
+         |    |- Hipposideridae                                 old world leafnose bats
+         |    |    |- Anthops                                 1 Solomon Islands and Bougainville Island
+         |    |    |- Asellia                                 4 Africa and southwestern Asia; Miocene fossils from Europe
+         |    |    |- Aselliscus                              3 southeastern Asia and Melanesia
+         |    |    |- Coelops                                 2 southeastern Asia; Miocene fossils from Africa
+         |    |    |- Doryrhina                               2 Africa
+         |    |    |- Hipposideros                           60 Africa, southern Eurasia, and Australasia
+         |    |    |- Macronycteris                           5 Africa and Madagascar
+         |    |- Rhinolophidae                              106 horseshoe bats
+         |[ Yangochiroptera ]                                   --
+         |- Miniopteridae                                       long-winged bats
+         |[ unnamed ]                                           --
+         |- Emballonuridae                                      sac-winged bats
+         |- Furipteridae                                        smoky bats
+         |- Noctilionidae                                       fisherman bats
+         |- Mormoopidae                                         Pteronotus
+         |- Mystacinidae                                        new zealand short-tailed bats
+         |- Thyropteridae                                       disc-winged bats
+         |- Mormoopidae                                         ghost-faced bats
+         |- Phyllostomidae                                      new world leafnose bats
+         |[ unnamed ]                                           --
+         |- Molossidae                                          free-tailed bats
+         |- Myzopodidae                                         sucker-footed bat
+         |- Natalidae                                           funnel-eared bats
+         |- Vespertilionidae                                    vesper bats

@@ -1,0 +1,57 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Panpinnipedia
+-----------------------------------------------------------------------------------------------------
+         |[ Panpinnipedia ]                                  35 --
+         |- † Amphicynodontidae                               † --
+         |- † Semantoridae                                    † semantorids
+         |[ Pinnipedimorpha ]                                35 --
+         |- † Enaliarctidae                                   † enaliarctos
+         |[ Pinnipedia ]                                     35 pinnipeds; seals
+  15 mya |- Phocidae                                         19 phocids; earless seals; true seals
+         |    |- Phocinae                                    10 northern seals
+         |    |    |- • Erignathus barbatus                   • bearded seal
+         |    |    |- • Cystophora cristata                   • hooded seal
+         |    |    |[ Phocini ]                               8 --
+         |    |    |- • Pusa hispida                          • ringed seal
+         |    |    |- • Pusa sibirica                         • baikal seal / nerpa
+         |    |    |- • Pusa caspica                          • caspian seal
+         |    |    |- • Phoca largha                          • spotted seal
+         |    |    |- • Phoca vitulina                        • common seal / harbor seal
+         |    |    |- • Halichoerus grypus                    • gray seal
+         |    |    |- • Histriophoca fasciata                 • ribbon seal
+         |    |    |- • Pagophilus groenlandicus              • harp seal
+         |    |[ Monachinae ]                                 9 southern seals
+         |    |- Lobodontini                                  4 --
+         |    |    |- • Leptonychotes weddellii               • weddell seal
+         |    |    |- • Hydrurga leptonyx                     • leopard seal
+         |    |    |- • Lobodon carcinophaga                  • crabeater seal
+         |    |    |- • Ommatophoca rossii                    • ross seal
+         |    |- Monachini                                    3 monk seals
+         |    |    |- • Monachus monachus                     • mediterranean monk seal
+        4 mya |    |[ Neomonachus ]                           2 --
+         |    |    |- • Neomonachus schauinslandi             • hawaiian monk seal
+         |    |    |- • Neomonachus tropicalis                • caribbean monk seal
+        2 mya |[ Miroungini / Mirounga ]                      2 elephant seals
+         |    |- • Mirounga leonina                           • southern elephant seal
+         |    |- • Mirounga angustirostris                    • northern elephant seal
+   9 mya |- Otariidae                                        15 otarids; eared seals; sea lions, fur seals
+         |    |- Otariinae                                    3 --
+         |    |    |- • Eumetopias jubatus                    • steller sea lion
+   3 mya |    |    |[ Zalophus ]                              2 --
+         |    |    |- • Zalophus californianus                • california sea lion
+         |    |    |- • Zalophus wollebaeki                   • galápagos sea lion
+         |    |- • Otaria flavescens                          • south american sea lion
+         |    |- • Neophoca cinerea                           • australian sea lion
+         |    |- • Phocarctos hookeri                         • pakake / New Zealand sea lion
+         |    |- • Callorhinus ursinus                        • northern fur seal
+         |    |[ Arctocephalus ]                              8 fur seals / southern fur seals
+         |    |- • Arctocephalus pusillus                     • brown fur seal
+         |    |- • Arctocephalus tropicalis                   • subantarctic fur seal
+         |    |- • Arctocephalus gazella                      • antarctic fur seal
+         |    |- • Arctocephalus townsendi                    • guadalupe fur seal
+         |    |- • Arctocephalus philippii                    • juan fernández fur seal
+         |    |- • Arctocephalus forsteri                     • antipodean fur seal
+         |    |- • Arctocephalus galapagoensis                • galápagos fur seal
+         |    |- • Arctocephalus australis                    • south american fur seal
+         |- Odobenidae                                        1 --
+         |    |- • Odobenus rosmarus                          • walrus

@@ -1,0 +1,69 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Myopsida
+-----------------------------------------------------------------------------------------------------
+         |[ Myopsida ]                                       31 squids 2; myopsid squids; coastal squids
+         |- Australiteuthidae                                 1 --
+         |    |- • Australiteuthis aldrichi                   • --
+ 154 mya |[ Loliginidae ]                                    30 pencil squids
+         |- ◦ Afrololigo mercatoris                           ◦ guinean thumbstall squid
+         |- • Heterololigo bleekeri                           • spear squid
+         |- Alloteuthis                                       3 --
+         |    |- ◦ Alloteuthis africana                       ◦ african squid
+         |    |- • Alloteuthis media                          • midsize squid
+         |    |- • Alloteuthis subulata                       • european common squid
+  39 mya |- Doryteuthis                                       8 --
+         |    |- • Doryteuthis plei                           • slender inshore squid
+         |    |- ◦ Doryteuthis sanpaulensis                   ◦ são paulo squid
+         |    |- ◦ Doryteuthis roperi                         ◦ roper inshore squid
+         |    |- [ Amerigo ]                                  5 --
+         |    |- • Doryteuthis gahi                           • patagonian squid
+         |    |- ◦ Doryteuthis ocula                          ◦ bigeye inshore squid
+         |    |- • Doryteuthis opalescens                     • opalescent inshore squid
+         |    |- • Doryteuthis pealeii                        • longfin inshore squid
+         |    |- ◦ Doryteuthis surinamensis                   ◦ surinam squid
+         |- Loligo                                            3 --
+         |    |- • Loligo forbesii                            • veined squid
+         |    |- • Loligo reynaudii                           • cape hope squid / chokka
+         |    |- • Loligo vulgaris                            • european squid / common squid
+         |- Loliolus                                          6 --
+         |    |- Loliolus                                     2 --
+         |    |    |- ◦ Loliolus affinis                      ◦ --
+         |    |    |- ◦ Loliolus hardwickei                   ◦ --
+         |    |- Nipponololigo                                4 --
+         |    |    |- ◦ Loliolus beka                         ◦ beka squid
+         |    |    |- ◦ Loliolus japonica                     ◦ japanese squid
+         |    |    |- ◦ Loliolus sumatrensis                  ◦ kobi squid
+         |    |    |- ◦ Loliolus uyii                         ◦ little squid
+         |- Lolliguncula                                      4 --
+         |    |- Loliolopsis                                  1 --
+         |    |    |- ◦ Lolliguncula diomedeae                ◦ dart squid
+         |    |[ Lolliguncula ]                               3 --
+         |    |- ◦ Lolliguncula argus                         ◦ --
+         |    |- ◦ Lolliguncula brevis                        ◦ atlantic brief squid
+         |    |- ◦ Lolliguncula panamensis                    ◦ panama brief squid
+         |- Pickfordiateuthis                                 3 --
+         |    |- ◦ Pickfordiateuthis bayeri                   ◦ --
+         |    |- ◦ Pickfordiateuthis pulchella                ◦ grass squid
+         |    |- ◦ Pickfordiateuthis vossi                    ◦ --
+   0 mya |- Sepioteuthis                                      3 --
+         |    |- • Sepioteuthis australis                     • southern reef squid / southern calamary
+         |    |- • Sepioteuthis lessoniana                    • bigfin reef squid / northern calamary
+         |    |- • Sepioteuthis sepioidea                     • caribbean reef squid
+         |- Uroteuthis                                       14 --
+         |    |- ◦ Uroteuthis reesi                           ◦ --
+         |    |- ◦ Uroteuthis pickfordi                       ◦ --
+         |    |- Aestuariolus                                 1 --
+         |    |    |- ◦ Uroteuthis noctiluca                  ◦ luminous bay squid
+         |    |- Uroteuthis                                   1 --
+         |    |    |- ◦ Uroteuthis bartschi                   ◦ bartsch's squid
+         |    |- Photololigo                                 10 --
+         |    |    |- ◦ Uroteuthis abulati                    ◦ --
+         |    |    |- ◦ Uroteuthis arabica                    ◦ --
+         |    |    |- ◦ Uroteuthis bengalensis                ◦ --
+         |    |    |- ◦ Uroteuthis chinensis                  ◦ mitre squid
+         |    |    |- ◦ Uroteuthis duvaucelii                 ◦ indian squid
+         |    |    |- ◦ Uroteuthis edulis                     ◦ swordtip squid
+         |    |    |- ◦ Uroteuthis robsoni                    ◦ --
+         |    |    |- ◦ Uroteuthis sibogae                    ◦ siboga squid
+         |    |    |- ◦ Uroteuthis singhalensis               ◦ long barrel squid
+         |    |    |- ◦ Uroteuthis vossi                      ◦ --m

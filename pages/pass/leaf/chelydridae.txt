@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Pantestudines / Cryptodira / Chelydridae
+-----------------------------------------------------------------------------------------------------
+  48 mya |[ Chelydridae ]                                     5 snapping turtles
+         |- † etc                                             † --
+   5 mya |- Chelydra                                          3 --
+         |    |- ◦ Chelydra acutirostris                      ◦ south american snapping turtle
+         |    |- ◦ Chelydra rossignonii                       ◦ central American snapping turtle
+         |    |- • Chelydra serpentina                        • common snapping turtle
+         |- Macrochelys                                       2 --
+         |    |- ◦ Macrochelys suwanniensis                   ◦ suwannee snapping turtle
+         |    |- • Macrochelys temminckii                     • alligator snapping turtle

@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Polyneoptera
+-----------------------------------------------------------------------------------------------------
+ 308 mya |[ Polyneoptera ]                                      --
+         |- Zoraptera                                        37 angel insects
+         |- Dermaptera                                    1,978 earwigs
+         |[ unnamed ]                                           --
+         |- Plecoptera                                    3,743 stoneflies
+         |[ unnamed ]                                           --
+ 292 mya |- Orthoptera                                   23,855 grasshoppers, crickest, katydids, etc
+ 260 mya |    |- * Caelifera                             11,000 grasshoppesr and allies
+ 239 mya |    |- * Ensifera                                     --
+         |[ unnamed ]                                           --
+         |- unnamed                                             --
+         |    |- Grylloblattodea                             34 ice crawlers
+         |    |- Mantophasmatodea                            15 gladiators
+         |    |- Phasmatodea                              3,014 phasmids / stick insects
+         |    |- Embioptera                                 463 webspinners
+ 225 mya |[ Dictyoptera ]                                       --
+         |- * Mantodea                                    2,400 mantises
+         |- † Alienopteridae                                    --
+ 223 mya |[ Blattodea ]                                   7,314 cockroaches and termites
+         |- Blaberoidea                                         ---
+         |    |- Ectobiinae                                     ectobiidae 1
+         |    |- Pseudophyllodromiinae                          ectobiidae 2
+         |    |- Nyctiborinae                                   ectobiidae 3
+         |    |- Blattellianae                                  ectobiidae 4
+         |    |- Blaberidae                                     giant cockroaches
+         |[ Solumblattodea ]                                    --
+         |- Cordioidea                                          --
+         |    |- Corydiidae                                     sand cockroaches, etc
+         |    |- Nocticolidae                                   cave cockroaches, etc
+ 186 mya |[ Blattoidea ]                                        --
+         |- Blattoidae                                          --
+         |    |- Tryonicidae                                    --
+         |    |- Blattidae                                      --
+         |[ Kittrickea ]                                        --
+         |- Lamproblattidae                                     --
+         |[ Xylophagodea ]                                      --
+         |- Cryptocercoidae / Cryptocercidae                    brown-hooded cockroaches
+ 150 mya |- * Isoptera / Termitoidae                      3,173 termites

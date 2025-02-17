@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Bathyteuthida
+-----------------------------------------------------------------------------------------------------
+         |[ Bathyteuthida ]                                   6 squids 3
+         |- Bathyteuthidae                                    3 --
+         |    |- • Bathyteuthis abyssicola                    • deepsea squid
+         |    |- ◦ Bathyteuthis bacidifera                    ◦ --
+         |    |- ◦ Bathyteuthis berryi                        ◦ --
+         |- Chtenopterygidae                                  3 --
+         |    |- ◦ Chtenopteryx canariensis                   ◦ --
+         |    |- ◦ Chtenopteryx sepioloides                   ◦ --
+         |    |- ◦ Chtenopteryx sicula                        ◦ comb-finned squid

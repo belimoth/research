@@ -1,0 +1,95 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Aves / Palaeognathae
+-----------------------------------------------------------------------------------------------------
+  65 mya |[ Palaeognathae ]                                  59 paleognaths
+         |- Struthioniformes                                  2 ostriches
+         |    |- † etc                                        † --
+         |    |[ Struthionidae ]                              2 --
+         |    |- † Pachystruthio                              † --
+         |    |[ Struthio ]                                   2 --
+         |    |- † etc                                        † --
+         |    |- • Struthio camelus                           • ostrich / common ostrich
+         |    |- • Struthio molybdophanes                     • somali ostrich / blue-necked ostrich
+         |[ Notopalaeognathae ]                              57 --
+         |- Rheiformes                                        2 --
+ >17 mya |    |[ Rheidae ]                                    2 --
+         |    |- † etc                                        † --
+ >11 mya |    |[ Rhea ]                                       2 rheas / ñandus / south american ostrich
+         |    |- • Rhea americana                             • ema / ñandu / grey rhea / common rhea / greater rhea / american rhea
+         |    |- • Rhea pennata                               • lesser rhea / darwin's rhea
+         |- unnamed                                          46 --
+         |    |- † Dinornithiformes                           † moa
+  42 mya |    |[ Tinamiformes / Tinamidae ]                  46 tinamous
+         |    |- Tinaminae                                   29 --
+         |    |    |- Nothocercus                             3 --
+         |    |    |    |- ◦ Nothocercus bonapartei           ◦ highland tinamou
+         |    |    |    |- ◦ Nothocercus julius               ◦ tawny-breasted tinamou
+         |    |    |    |- ◦ Nothocercus nigrocapillus        ◦ hooded tinamou
+         |    |    |- Crypturellus                           21 --
+         |    |    |    |- ◦ Crypturellus atrocapillus        ◦ black-capped tinamou
+         |    |    |    |- ◦ Crypturellus bartletti           ◦ bartlett's tinamou
+         |    |    |    |- ◦ Crypturellus berlepschi          ◦ berlepsch's tinamou
+         |    |    |    |- ◦ Crypturellus boucardi            ◦ slaty-breasted tinamou / boucard's tinamou
+         |    |    |    |- ◦ Crypturellus brevirostris        ◦ rusty tinamou / short-billed tinamou
+         |    |    |    |- ◦ Crypturellus casiquiare          ◦ barred tinamou
+         |    |    |    |- ◦ Crypturellus cinereus            ◦ cinereous tinamou / brushland
+         |    |    |    |- ◦ Crypturellus cinnamomeus         ◦ thicket tinamou / rufescent tinamou
+         |    |    |    |- ◦ Crypturellus duidae              ◦ grey-legged tinamou
+         |    |    |    |- ◦ Crypturellus erythropus          ◦ red-legged tinamou
+         |    |    |    |- ◦ Crypturellus kerriae             ◦ chocó tinamou
+         |    |    |    |- ◦ Crypturellus noctivagus          ◦ yellow-legged tinamou
+         |    |    |    |- ◦ Crypturellus obsoletus           ◦ brown tinamou
+         |    |    |    |- ◦ Crypturellus parvirostris        ◦ small-billed tinamou
+         |    |    |    |- ◦ Crypturellus ptaritepui          ◦ tepui tinamou
+         |    |    |    |- ◦ Crypturellus soui                ◦ little tinamou
+         |    |    |    |- ◦ Crypturellus strigulosus         ◦ brazilian tinamou
+         |    |    |    |- ◦ Crypturellus tataupa             ◦ tataupa tinamou
+         |    |    |    |- ◦ Crypturellus transfasciatus      ◦ pale-browed tinamou
+         |    |    |    |- ◦ Crypturellus undulatus           ◦ undulated tinamou
+         |    |    |    |- ◦ Crypturellus variegatus          ◦ variegated tinamou
+         |    |    |- Tinamus                                 5 --
+         |    |    |    |- • Tinamus gutattus                 • white-throated tinamou
+         |    |    |    |- • Tinamus tao                      • grey tinamou
+         |    |    |    |- • Tinamus solitarius               • solitary tinamou
+         |    |    |    |- • Tinamus osgoodi                  • black tinamou
+         |    |    |    |- • Tinamus major                    • great tinamou
+         |    |- Nothurinae                                  17 --
+         |    |    |- ◦ Taoniscus nanus                       ◦ dwarf tinamou / least tinamou
+         |    |    |- Tinamotis                               2 --
+         |    |    |    |- ◦ Tinamotis pentlandii             ◦ puna tinamou
+         |    |    |    |- ◦ Tinamotis ingoufi                ◦ patagonian tinamou
+         |    |    |- Eudromia                                2 --
+         |    |    |    |- ◦ Eudromia elegans                 ◦ martineta tinamou / elegant crested tinamou
+         |    |    |    |- ◦ Eudromia formosa                 ◦ quebracho crested tinamou
+         |    |    |- Rhynchotus                              2 --
+         |    |    |    |- ◦ Rhynchotus rufescens             ◦ red-winged tinamou
+         |    |    |    |- ◦ Rhynchotus maculicollis          ◦ huayco tinamou
+         |    |    |- Nothoprocta                             6 --
+         |    |    |    |- ◦ Nothoprocta taczanowskii         ◦ taczanowski's tinamou
+         |    |    |    |- ◦ Nothoprocta ornata               ◦ ornate tinamou
+         |    |    |    |- ◦ Nothoprocta perdicaria           ◦ chilean tinamou
+         |    |    |    |- ◦ Nothoprocta cinerascens          ◦ brushland tinamou
+         |    |    |    |- ◦ Nothoprocta pentlandii           ◦ andean tinamou
+         |    |    |    |- ◦ Nothoprocta curvirostris         ◦ curve-billed tinamou
+         |    |    |- Nothura                                 4 --
+         |    |    |    |- ◦ Nothura boraquira                ◦ white-bellied nothura
+         |    |    |    |- ◦ Nothura minor                    ◦ lesser nothura
+         |    |    |    |- ◦ Nothura darwinii                 ◦ darwin's nothura
+         |    |    |    |- ◦ Nothura maculosa                 ◦ spotted nothura
+         |[ Novaeratitae ]                                    9 --
+  33 mya |- Casuariiformes                                    4 --
+         |    |- † etc                                        † --
+         |    |- Casuariidae                                  3 cassowaries
+         |    |    |- • Casuarius casuarius                   • southern cassowary
+         |    |    |- • Casuarius unappendiculatus            • northern cassowary
+         |    |    |- • Casuarius bennetti                    • dwarf cassowary
+         |    |- Dromaiidae                                   1 --
+         |    |    |- • Dromaius novaehollandiae              • emu
+         |[ unnamed ]                                         5 --
+         |- † Aepyornithiformes                               † elephant birds
+  13 mya |- Apterygiformes / Apterygidae                      5 kiwi
+         |    |- • Apteryx haastii                            • roroa / great grey kiwi / great spotted kiwi
+         |    |- • Apteryx owenii                             • little grey kiwi / little spotted kiwi
+         |    |- • Apteryx rowi                               • rowi / okarito kiwi / okarito brown kiwi
+         |    |- • Apteryx australis                          • tokoeka / common kiwi / southern brown kiwi
+         |    |- • Apteryx mantelli                           • north island brown kiwi

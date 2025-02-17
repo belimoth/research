@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria
+-----------------------------------------------------------------------------------------------------
+ 244 mya |[ Lepidosauromorpha / Lepidosauria ]                  lepidosaurs
+         |- Rhynchocephalia                                     tuataras
+ 189 mya |[ Squamata / Bifurcata ]                       10,900 squamates; scaled reptiles; lizards, snakes
+         |- * Gekkota                                         * geckos
+ 174 mya |[ Unidentata ]                                        --
+         |- * Scinciformata                                   * --
+ 167 mya |[ Episquamata ]                                       --
+         |- * Laterata                                        * --
+ 161 mya |[ Toxicofera ]                                        toxic squamates / toxic scaled reptiles
+         |- † Mosasauria                                      † mosasaurians
+ 146 mya |- * Iguania / Iguanomorpha                          * iguanians
+ 131 mya |- * Ophidia / Panserpentes / Serpentes              * snakes
+ 119 mya |- * Anguimorpha                                     * anguimorphs

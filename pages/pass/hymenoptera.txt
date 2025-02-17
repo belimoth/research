@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Hymenoptera
+-----------------------------------------------------------------------------------------------------
+ 275 mya |[ Hymenoptera ]                               116,861 sawflies, wasps, bees, ants
+   basal |- Symphata                                            sawflies (paraphyletic)
+ 227 mya |[ Apocrita ]                                          ants, bees, wasps
+         |- Parasitica                                          -- (paraphyletic)
+ 175 mya |[ Aculeata ]                                          -- (stinger)
+         |- Chrysidoidea                                        jewel wasps
+         |- unnamed                                             --
+         |    |- Rhopalosmatidae                                --
+         |    |- Vespidae                                       hornets, paper wasps, yellowjackers
+         |- unnamed                                             --
+         |    |- Mutillidae                                     --
+         |    |- Pompilidae                                     --
+         |    |- Tiphiidae                                      --
+         |    |- etc                                            --
+         |- Scolioidea / Scoliidae                              scoliids; scoliid wasps
+ 156 mya |- * Apoidea                                           bees, etc
+ 155 mya |- * Formicoidea / Formicidae ]                        ants

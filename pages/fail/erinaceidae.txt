@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Eulipotyphla / Erinaceidae
+-----------------------------------------------------------------------------------------------------
+  46 mya |[ Erinaceidae ]
+  23 mya |- Galericinae
+         |    |- † Deinogalerix
+         |    |- Echinosorex
+         |    |- † Galerix
+         |    |- Hylomys
+         |    |- Neohylomys
+         |    |- Neotetracus
+         |    |- Podogymnura
+  17 mya |[ Erinaceinae ]
+         |- † Amphechinus
+         |- Atelerix
+         |- Erinaceus
+         |- Hemiechinus
+         |- Mesechinus
+         |- Paraechinus

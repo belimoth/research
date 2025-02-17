@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Guloninae
+-----------------------------------------------------------------------------------------------------
+   9 mya |- Guloninae                                        11 martens and wolverines
+         |- Gelonini                                          2 --
+         |    |- • Eira barbara                               • tayra
+         |    |- • Gulo gulo                                  • wolverine
+         |[ Martini ]                                         9 --
+         |- • Pekania pennanti                                • fisher / fisher cat
+   7 mya |[ Martes ]                                          8 martens
+         |- • Martes americana                                • american marten
+         |- • Martes caurina                                  • pacific marten
+         |- • Martes flavigula                                • yellow-throated marten
+         |- • Martes foina                                    • beech marten
+         |- • Martes gwatkinsii                               • nilgiri marten
+         |- • Martes martes                                   • pine marten
+         |- • Martes melampus                                 • japanese marten
+         |- • Martes zibellina                                • sable

@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata
+-----------------------------------------------------------------------------------------------------
+         |[ Atlantogenata ]                                 125 --
+  80 mya |- Afrotheria                                       87 --
+         |    |- * Paenungulatomorpha                        13 --
+         |    |- * Afroinsectiphilia                         74 --
+  68 mya |[ Xenartha ]                                       38 --
+         |- * Cingulata                                      21 cingulates; armadillos
+  57 mya |[ Pilosa ]                                         17 --
+  40 mya |- * Vermilingua                                    10 anteaters
+  28 mya |- * Folivora                                        7 sloths

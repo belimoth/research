@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Lutrinae
+-----------------------------------------------------------------------------------------------------
+  10 mya |- Lutrinae                                         13 otters
+         |- • Aonyx capensis                                  • african clawless otter
+         |- • Aonyx cinerea                                   • asian small-clawed otter
+         |- • Aonyx congicus                                  • congo clawless otter
+         |- • Enhydra lutris                                  • sea otter
+   4 mya |- Lontra                                            4 --
+         |    |- • Lontra canadensis                          • north american river otter
+         |    |- • Lontra felina                              • marine otter
+         |    |- • Lontra longicaudis                         • neotropical otter
+         |    |- • Lontra provocax                            • southern river otter
+   2 mya |- Lutra                                             2 --
+         |    |- † Lutra nippon                               † japanese otter
+         |    |- • Lutra lutra                                • eurasian otter
+         |    |- • Lutra sumatrana                            • hairy-nosed otter
+         |- • Hydrictis maculicollis                          • spotted-necked otter
+         |- • Lutrogale perspicillata                         • smooth-coated otter
+         |- • Pteronura brasiliensis                          • giant otter

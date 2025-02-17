@@ -1,0 +1,45 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Alveolata
+-----------------------------------------------------------------------------------------------------
+1040 mya |[ Alveolata ]                                         --
+         |- Ciliophora                                          --
+         |    |- Postciliodesmatophora                          --
+         |    |    |- Heterotrichea                             --
+         |    |    |- Karyorelictea                             --
+         |    |[ Intramacronucleata ]                           --
+         |    |- Mesodiniea                                     --
+         |    |- Lamellicorticata                               --
+         |    |    |- Litostomatea                              --
+         |    |    |- Armophorea                                --
+         |    |    |- Cariacotrichea                            --
+         |    |    |- Spirotrichea                              --
+         |    |[ Ventrata ]                                     --
+         |    |- Protocruziea                                   --
+         |    |- ?Discotrichida                                 --
+         |    |- Colpodea                                       --
+         |    |- Nassophorea                                    --
+         |    |- Phyllopharyngea                                --
+         |    |- Prostomatea                                    --
+         |    |- Plagiopylea                                    --
+         |    |- Oligohymenophorea                              --
+         |[ Miozoa ]                                            --
+         |- Colponemidia / Colponemea                           --
+         |- Acavomonadia / Acavomonadea                         --
+         |[ Myzozoa ]                                           --
+         |- Apicomplexa                                         --
+         |    |- Chromerea                                      --
+         |    |- Colpodellida                                   --
+         |    |[ Sporozoa ]                                     --
+         |    |- Blastogregarinida                              --
+         |    |- Paragregarea                                   --
+         |    |- Coccidiomorphea                                coccidia and hematozoa
+         |    |- Marosporida                                    --
+         |    |- Gregarinomorphea                               --
+         |[ Dinozoa / Dinoflagellata ]                          --
+         |- Ellobiophyceae                                      --
+         |- Psammosea                                           --
+         |- Oxyrrhea                                            --
+         |- Syndinea                                            --
+         |[ Dinokaryota ]                                       --
+         |- Noctiluciphyceae                                    --
+         |- Dinophyceae                                         --

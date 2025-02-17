@@ -1,0 +1,91 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Amoebozoa
+-----------------------------------------------------------------------------------------------------
+1400 mya |[ Amoebozoa ]                                         --
+         |- Lobosa                                              --
+         |    |- Discosea                                       naked amoebae with a flattened, discoid body shape
+         |    |    |- Acanthamoeba                              commonly recovered from soil, fresh water, other habitats. among the most prevalent protozoa found in the environment
+         |    |    |- Balamuthia                                --
+         |    |    |    |- balamuthia mandrillaris              --
+         |    |    |- Himatismenida                             --
+         |    |    |    |-  Cochliopodium gallicum,             --
+         |    |    |        Cochliopodium minus                 --
+         |    |    |[ Flabellinia ]                             --
+         |    |    |- Vannella                                  --
+         |    |    |- Paramoeba                                 parasite of fish, crabs, sea urchins
+1002 mya |    |[ Tubulinea ]                                    --
+         |    |- Leptomyxida                                    --
+         |    |    |- Leptomyxa                                 free-living lobose naked multinucleate amoebae in freshwater, soil and mosses
+         |    |    |- Rhizamoeba                                free-living marine naked lobose amoebae
+1002 mya |    |[ Eulobosia ]                                    --
+         |    |- Euamoebida                                     --
+         |    |    |- Hartmannellidae                           "limax amoeba"
+  67 mya |    |    |[ Amoebidae ]                               --
+         |    |    |- Amoeba                                    has a single nucleus
+         |    |    |    |- amoeba proteus                       "first amoeba"
+         |    |    |- Chaos                                     can have as many as a thousand nuclei
+         |    |         |- chaos carolinensis                   "giant amoeba"
+         |    |[ Arcellinida ]                                  lobose testate amoebae commonly found in soils, leaf litter, peat bogs and near/in fresh water
+         |    |- Hyalospheniidae                                considered important bioindicators
+         |    |- Difflugia                                      largest genus of Arcellinida
+         |    |- Arcella                                        usually found in freshwaters and mosses, and rarely in soils
+         |[ Conosa ]                                            --
+         |- Archamoebae                                         --
+         |    |- Entamoeba                                      --
+         |    |    |- entamoeba coli                            --
+         |    |    |- entamoeba gingivalis                      --
+         |    |    |- entamoeba histolytica                     --
+         |    |    |- entamoeba invadens                        --
+         |    |    |- entamoeba moshkovskii                     --
+         |    |    |- entamoeba polecki                         --
+         |    |[ Pelobionta ]                                   --
+         |    |- Pelomyxa                                       anaerobic or microaerobic bottom sediments of stagnant freshwater ponds or slow-moving streams
+         |    |    |- pelomyxa palustris                        --
+         |    |[ Mastigamoebida ]                               --
+         |    |- Endolimax                                      --
+         |    |    |- endolimax nana                            --
+         |    |- Iodamoeba                                      --
+         |    |    |- iodamoeba buetschlii                      nonpathogenic parasite of large intestines of humans, pigs, other mammals
+         |    |- Mastigamoeba                                   anaerobic, amitochondriate organisms that are polymorphic
+         |[ Mycetezoa ]                                         "slime mold"
+         |- Protostelia                                         --
+         |    |- Ceratiomyxa                                    --
+         |    |    |- ceratiomyxa fruticulosa                   --
+         |    |    |- ceratiomyxa hemisphaerica                 --
+         |    |    |- ceratiomyxa morchella                     --
+         |    |    |- ceratiomyxa sphaerosperma                 --
+         |- Myxogastria                                         plasmodial/acellular slime mold
+         |    |- Liceida                                        --
+         |    |- Trichiida / Trichales                          --
+         |    |- Echinosteliida                                 --
+         |    |- Stemonitales                                   --
+         |    |    |- Stemonitidaceae                           --
+         |    |    |    |[ Stemonitis ]                         --
+         |    |    |    |- stemonitis axifera                   --
+         |    |    |    |- stemonitis fusca                     --
+         |    |    |    |- stemonitis splendens                 "chocolate tube slime"
+         |    |    |[ Amaurochaetaceae ]                        --
+         |    |    |- Brefeldia                                 --
+         |    |    |    |- brefeldia maxima                     "tapioca slime mold"
+         |    |    |- Comatricha                                --
+         |    |    |    |- comatricha nigra                     --
+         |    |    |- Stemonitopsis                             --
+         |    |    |- Paradiacheopsis                           --
+         |    |[ Physarales ]                                   --
+         |    |- Didymiaceae                                    --
+         |    |- Lamprodermataceae                              --
+         |    |    |-                                           --
+         |    |[ Physaraceae ]                                  --
+         |    |- Badhamia                                       --
+         |    |    |- badhamia panicea                          --
+         |    |    |- badhamia utricularis                      --
+         |    |- Craterium                                      --
+         |    |- Fuligo                                         --
+         |    |    |- fuligo septica                            "scrambled egg slime" / "dog vomit slime mold"
+         |    |- Leocarpus                                      --
+         |    |    |- leocarpus fragilis                        --
+         |    |- Physarina                                      --
+         |    |- Physarum                                       --
+         |         |- physarum cinereum                         nonpathogen, grows on turfgrass or beet
+         |- Dictyostelia                                        cellular slime mold
+              |- dictyostelium discoid                          --

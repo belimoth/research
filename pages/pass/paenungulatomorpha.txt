@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Paenungulatomorpha
+-----------------------------------------------------------------------------------------------------
+         |[ Paenungulatomorpha ]                             13 --
+         |- † Ocepeia                                         † --
+         |[ Paenungulata ]                                   13 "almost ungulates"
+  53 mya |- * Hyracoidea                                      6 hyraxes / dassies
+         |[ Tethytheria ]                                     7 tethytheres
+         |- † Desmostylia                                     † desmostylians
+         |    |- † Ashoroa                                    † ashoroa
+         |    |- † Desmostylus                                † desmostylus
+         |    |- † Paleoparadoxia                             † paleoparadoxia
+         |- † Embrithopoda                                    † embrithopods
+         |    |- † Arsinotherium                              † arsinotherium
+  32 mya |- * Sirenia                                         4 sirenians / sea cows; dugongs, manatees
+  26 mya |- * Proboscidea                                     3 elephants, etc

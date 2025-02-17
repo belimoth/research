@@ -1,0 +1,189 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Tardigrada
+-----------------------------------------------------------------------------------------------------
+ 611 mya |[ Tardigrada ]                                        tardigrades / water bears
+         |- Heterotardigrada
+         |    |- Arthrotardigrada
+         |    |- Echiniscoidea
+ 311 mya |[ Eutardigrada ]
+         |- Apotardigrada / Apochela / Milnesiidae           4? --
+         |    |- ◦ Bergtrollus dzimbowski                     ◦ --
+         |    |- ◦ Limmenius porcellus                        ◦ --
+         |    |- Milnesioides                                 ? --
+         |    |[ Milnesium ]                                 40 --
+         |    |- ◦ Milnesium alabamae                         ◦ --
+         |    |- ◦ Milnesium almatyense                       ◦ --
+         |    |- ◦ Milnesium alpigenum                        ◦ --
+         |    |- ◦ Milnesium antarcticum                      ◦ --
+         |    |- ◦ Milnesium argentinum                       ◦ --
+         |    |- ◦ Milnesium asiaticum                        ◦ --
+         |    |- ◦ Milnesium barbadosense                     ◦ --
+         |    |- ◦ Milnesium beasleyi                         ◦ --
+         |    |- ◦ Milnesium beatae                           ◦ --
+         |    |- ◦ Milnesium berladnicorum                    ◦ --
+         |    |- ◦ Milnesium bohleberi                        ◦ --
+         |    |- ◦ Milnesium brachyungue                      ◦ --
+         |    |- ◦ Milnesium cassandrae                       ◦ --
+         |    |- ◦ Milnesium burgessi                         ◦ --
+         |    |- ◦ Milnesium dornensis                        ◦ --
+         |    |- ◦ Milnesium dujiangensis                     ◦ --
+         |    |- ◦ Milnesium eurystomum                       ◦ --
+         |    |- ◦ Milnesium fridae                           ◦ --
+         |    |- ◦ Milnesium granulatum                       ◦ --
+         |    |- ◦ Milnesium jacobi                           ◦ --
+         |    |- ◦ Milnesium katarzynae                       ◦ --
+         |    |- ◦ Milnesium kogui                            ◦ --
+         |    |- ◦ Milnesium krzysztofi                       ◦ --
+         |    |- ◦ Milnesium lagniappe                        ◦ --
+         |    |- ◦ Milnesium longiungue                       ◦ --
+         |    |- ◦ Milnesium minutum                          ◦ --
+         |    |- ◦ Milnesium quadrifidum                      ◦ --
+         |    |- ◦ Milnesium rastrum                          ◦ --
+         |    |- ◦ Milnesium reductum                         ◦ --
+         |    |- ◦ Milnesium reticulatum                      ◦ --
+         |    |- ◦ Milnesium sandrae                          ◦ --
+         |    |- ◦ Milnesium shilohae                         ◦ --
+         |    |- ◦ Milnesium swansoni                         ◦ --
+         |    |- ◦ Milnesium tardigradum                      ◦ --
+         |    |- ◦ Milnesium tetralamellatum                  ◦ --
+         |    |- ◦ Milnesium tumanovi                         ◦ --
+         |    |- ◦ Milnesium validum                          ◦ --
+         |    |- ◦ Milnesium variefidum                       ◦ --
+         |    |- ◦ Milnesium vorax                            ◦ --
+         |    |- ◦ Milnesium zsalakoae                        ◦ --
+ 257 mya |[ Parachela ]
+         |- Eohypsiboiidea / Eohypsibiidae                   13 --
+         |    |- Austeruseus                                  3 --
+         |    |    |- ◦ Austeruseus balduri                   ◦ --
+         |    |    |- ◦ Austeruseus faroensis                 ◦ --
+         |    |    |- ◦ Austeruseus rokuri                    ◦ --
+         |    |- Bertolanius                                  8 --
+         |    |    |- ◦ Bertolanius birnae                    ◦ --
+         |    |    |- ◦ Bertolanius mahunkai                  ◦ --
+         |    |    |- ◦ Bertolanius markevichi                ◦ --
+         |    |    |- ◦ Bertolanius nebulosus                 ◦ --
+         |    |    |- ◦ Bertolanius portucalensis             ◦ --
+         |    |    |- ◦ Bertolanius smreczinskii              ◦ --
+         |    |    |- ◦ Bertolanius volubilis                 ◦ --
+         |    |    |- ◦ Bertolanius weglarskae                ◦ --
+         |    |- Eohypsibius                                  2 --
+         |    |    |- ◦ Eohypsibius nadjae                    ◦ --
+         |    |    |- ◦ Eohypsibius terrestris                ◦ --
+         |- Hypsibioidea                                        --
+         |    |- Ramazzottiidae                               ? --
+         |    |- Calohypsibiidae                              ? --
+         |    |    |- Calohypsibius                           ? --
+         |    |    |- Haplohexapodibius                       ? --
+         |    |    |- Haplomacrobiotus                        2 --
+         |    |    |    |- ◦ Haplomacrobiotus hermosillensis  ◦ --
+         |    |    |    |- ◦ Haplomacrobiotus utahensis       ◦ --
+         |    |    |- Hexapodibius                            ? --
+         |    |    |- Parhexapodibius                         ? --
+         |    |- Microhypsibiidae                             5 --
+         |    |    |- ◦ Fractonotus caelatus                  ◦ --
+         |    |    |[ Microhypsibius ]                        4 --
+         |    |    |- ◦ Microhypsibius bertolanii             ◦ --
+         |    |    |- ◦ Microhypsibius japonicus              ◦ --
+         |    |    |- ◦ Microhypsibius minimus                ◦ --
+         |    |    |- ◦ Microhypsibius truncatus              ◦ --
+         |    |[ Hypsibiidae ]                                  --
+         |    |- Diphasconinae                               67 --
+         |    |    |- Diphascon                               6 --
+         |    |    |    |- ◦ Diphascon elongatum              ◦ --
+         |    |    |    |- ◦ Diphascon gerdae                 ◦ --
+         |    |    |    |- ◦ Diphascon halapiense             ◦ --
+         |    |    |    |- ◦ Diphascon latipes                ◦ --
+         |    |    |    |- ◦ Diphascon nonbullatum            ◦ --
+         |    |    |    |- ◦ Diphascon stappersi              ◦ --
+         |    |    |    |- Adropion                          12 --
+         |    |    |    |    |- ◦ Diphascon carolae           ◦ --
+         |    |    |    |    |- ◦ Diphascon clavatum          ◦ --
+         |    |    |    |    |- ◦ Diphascon gordonense        ◦ --
+         |    |    |    |    |- ◦ Diphascon greveni           ◦ --
+         |    |    |    |    |- ◦ Diphascon maucci            ◦ --
+         |    |    |    |    |- ◦ Diphascon modestum          ◦ --
+         |    |    |    |    |- ◦ Diphascon montigenum        ◦ --
+         |    |    |    |    |- ◦ Diphascon onorei            ◦ --
+         |    |    |    |    |- ◦ Diphascon prorsirostre      ◦ --
+         |    |    |    |    |- ◦ Diphascon scoticum          ◦ --
+         |    |    |    |    |- ◦ Diphascon tricuspidatum     ◦ --
+         |    |    |    |    |- ◦ Diphascon triodon           ◦ --
+         |    |    |    |[ Diphascon ]                       49 --
+         |    |    |    |- ◦ Diphascon birklehofi             ◦ --
+         |    |    |    |- ◦ Diphascon boreale                ◦ --
+         |    |    |    |- ◦ Diphascon brevipes               ◦ --
+         |    |    |    |- ◦ Diphascon bullatum               ◦ --
+         |    |    |    |- ◦ Diphascon burti                  ◦ --
+         |    |    |    |- ◦ Diphascon chilenense             ◦ --
+         |    |    |    |- ◦ Diphascon claxtonae              ◦ --
+         |    |    |    |- ◦ Diphascon coniferens             ◦ --
+         |    |    |    |- ◦ Diphascon dastychi               ◦ --
+         |    |    |    |- ◦ Diphascon dolmiticum             ◦ --
+         |    |    |    |- ◦ Diphascon faialense              ◦ --
+         |    |    |    |- ◦ Diphascon granifer               ◦ --
+         |    |    |    |- ◦ Diphascon higginsi               ◦ --
+         |    |    |    |- ◦ Diphascon humicus                ◦ --
+         |    |    |    |- ◦ Diphascon hydrophilum            ◦ --
+         |    |    |    |- ◦ Diphascon iharosi                ◦ --
+         |    |    |    |- ◦ Diphascon iltisi                 ◦ --
+         |    |    |    |- ◦ Diphascon langhovdense           ◦ --
+         |    |    |    |- ◦ Diphascon marcuzzii              ◦ --
+         |    |    |    |- ◦ Diphascon mariae                 ◦ --
+         |    |    |    |- ◦ Diphascon mirabile               ◦ --
+         |    |    |    |- ◦ Diphascon mitrense               ◦ --
+         |    |    |    |- ◦ Diphascon nelsonae               ◦ --
+         |    |    |    |- ◦ Diphascon nobilei                ◦ --
+         |    |    |    |- ◦ Diphascon nodulosum              ◦ --
+         |    |    |    |- ◦ Diphascon oculatum               ◦ --
+         |    |    |    |- ◦ Diphascon ongulense              ◦ --
+         |    |    |    |- ◦ Diphascon opisthoglyptum         ◦ --
+         |    |    |    |- ◦ Diphascon patanei                ◦ --
+         |    |    |    |- ◦ Diphascon pingue                 ◦ --
+         |    |    |    |- ◦ Diphascon pinguiforme            ◦ --
+         |    |    |    |- ◦ Diphascon platyungue             ◦ --
+         |    |    |    |- ◦ Diphascon polare                 ◦ --
+         |    |    |    |- ◦ Diphascon punctatum              ◦ --
+         |    |    |    |- ◦ Diphascon puniceum               ◦ --
+         |    |    |    |- ◦ Diphascon ramazzottii            ◦ --
+         |    |    |    |- ◦ Diphascon recamieri              ◦ --
+         |    |    |    |- ◦ Diphascon rivulare               ◦ --
+         |    |    |    |- ◦ Diphascon rugocaudatum           ◦ --
+         |    |    |    |- ◦ Diphascon rugosum                ◦ --
+         |    |    |    |- ◦ Diphascon sanae                  ◦ --
+         |    |    |    |- ◦ Diphascon secchii                ◦ --
+         |    |    |    |- ◦ Diphascon serratum               ◦ --
+         |    |    |    |- ◦ Diphascon sexbullatum            ◦ --
+         |    |    |    |- ◦ Diphascon speciosum              ◦ --
+         |    |    |    |- ◦ Diphascon tenue                  ◦ --
+         |    |    |    |- ◦ Diphascon trachydorsatum         ◦ --
+         |    |    |    |- ◦ Diphascon victoriae              ◦ --
+         |    |    |    |- ◦ Diphascon zaniewi                ◦ --
+         |    |    |- Hebesuncus                                --
+         |    |    |- Paradiphascon                             --
+         |    |- Hypsibiinae                                    --
+         |    |    |- Acutuncus                                 --
+         |    |    |- Doryphoribius                             --
+         |    |    |- Eremobiotus                               --
+         |    |    |- Halobiotus                                --
+         |    |    |- Hypsibius                                 --
+         |    |    |- Isohypsibius                              --
+         |    |    |- Mixibius                                  --
+         |    |    |- Pseudobiotus                              --
+         |    |    |- Ramajendas                                --
+         |    |    |- Ramazzottius                              --
+         |    |    |- Thulinius                                 --
+         |    |- Itaquasconinae                                 --
+         |    |    |- Astatumen                                 --
+         |    |    |- Itaquascon                                --
+         |    |    |- Mesocrista                                --
+         |    |    |- Parascon                                  --
+         |    |    |- Platicrista                               --
+         |- Isohypsibioidea                                     --
+         |    |- Hexapodibiidae                                 --
+         |    |- Isohypsibiidae                                 --
+         |- Macrobiotoidea                                      --
+         |    |- † Beornidae                                  † --
+         |    |- Macrobiotidae                                  --
+         |    |- Murrayidae                                     --
+         |    |- Necopinatidae                                  --
+         |    |- Richtersiidae                                  --

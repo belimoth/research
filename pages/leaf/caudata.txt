@@ -1,0 +1,161 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Lissamphibia / Caudata
+-----------------------------------------------------------------------------------------------------
+ 209 mya |[ Caudata ]                                       759?salamanders
+         |- † etc                                             † --
+         |[ Urodela ]                                           extant salamanders
+         |- Sirenoidea / Sirenidae                            7 sirens
+         |    |- † Habrosaurus                                † habrosaurus
+         |    |- Pseudobranchus                               2 dwarf sirens
+         |    |    |- • Pseudobranchus axanthus               • southern dwarf siren
+         |    |    |- • Pseudobranchus striatus               • northern dwarf siren
+         |    |[ Siren ]                                      5 --
+         |    |- • Siren intermedia                           • lesser siren
+         |    |- • Siren lacertina                            • greater siren
+         |    |- • Siren nettingi                             • western siren
+         |    |- • Siren reticulata                           • reticulated siren / leopard siren / leopard eel
+         |    |- • Siren sphagnicola                          • seepage siren
+         |- Cryptobrabchoidea                                85 --
+         |    |- Cryptobranchidae                             6 giant salamanders
+         |    |    |- • Cryptobranchus alleganiensis          • hellbender / hellbender salamander
+         |    |    |[ Andrias ]                               5
+         |    |    |- ◦ Andrias cheni                         ◦ qimen giant salamander
+         |    |    |- • Andrias davidianus                    • chinese giant salamander
+         |    |    |- • Andrias japonicus                     • japanese giant salamander
+         |    |    |- ◦ Andrias jiangxiensis                  ◦ jiangxi giant salamander
+         |    |    |- ◦ Andrias sligoi                        ◦ south china giant salamander
+         |    |[ Hynobiidae ]                                81 asiatic salamanders
+         |    |- Onychodactylinae                            10 --
+         |    |    |[ Onychodactylus ]                          clawed salamanders
+         |    |    |- ◦ Onychodactylus fischeri               ◦ long-tailed clawed salamander
+         |    |    |- ◦ Onychodactylus fuscus                 ◦ tadami clawed salamander
+         |    |    |- ◦ Onychodactylus intermedius            ◦ --
+         |    |    |- ◦ Onychodactylus japonicus              ◦ japanese clawed salamander
+         |    |    |- ◦ Onychodactylus kinneburi              ◦ --
+         |    |    |- ◦ Onychodactylus koreanus               ◦ --
+         |    |    |- ◦ Onychodactylus nipponoborealis        ◦ --
+         |    |    |- ◦ Onychodactylus tsukubaensis           ◦ --
+         |    |    |- ◦ Onychodactylus zhangyapingi           ◦ --
+         |    |    |- ◦ Onychodactylus zhaoermii              ◦ --
+         |    |    |- ◦ Onychodactylus sillanus               ◦ --
+         |    |    |- ◦ Onychodactylus pyrrhonotus            ◦ --
+         |    |[ unnamed ]                                      --
+         |    |- Pachyhynobius                                1 stout salamanders
+         |    |    |- ◦ Pachyhynobius shangchengensis         ◦ shangcheng stout salamander
+         |    |- Salamandrella                                2 siberian salamanders
+         |    |    |- ◦ Salamandrella keyserlingii            ◦ siberian salamander
+         |    |    |- ◦ Salamandrella tridactyla              ◦ --
+         |    |[ Hynobiinae ]                                71 --
+         |    |- Batrachuperus                                5 chinese stream salamanders
+         |    |    |- ◦ Batrachuperus karlschmidti            ◦ chiala mountain salamander
+         |    |    |- ◦ Batrachuperus londongensis            ◦ longdong stream salamander
+         |    |    |- ◦ Batrachuperus pinchonii               ◦ western chinese stream salamander
+         |    |    |- ◦ Batrachuperus tibetanus               ◦ alpine stream salamander
+         |    |    |- ◦ Batrachuperus yenyuanensis            ◦ yenyuan stream salamander
+         |    |- Hynobius                                    52 asian alamanders
+         |    |    |- ◦ Hynobius abei                         ◦ abe's salamander
+         |    |    |- ◦ Hynobius abuensis                     ◦ --
+         |    |    |- ◦ Hynobius akiensis                     ◦ --
+         |    |    |- ◦ Hynobius amakusaensis                 ◦ --
+         |    |    |- ◦ Hynobius amjiensis                    ◦ amji's salamander
+         |    |    |- ◦ Hynobius arisanensis                  ◦ alishan salamander
+         |    |    |- ◦ Hynobius bakan                        ◦ --
+         |    |    |- ◦ Hynobius boulengeri                   ◦ odaigahara salamander
+         |    |    |- ◦ Hynobius chinensis                    ◦ chinese salamander
+         |    |    |- ◦ Hynobius dunni                        ◦ oita salamander
+         |    |    |- ◦ Hynobius formosanus                   ◦ taiwan salamander
+         |    |    |- ◦ Hynobius fossigenus                   ◦ --
+         |    |    |- ◦ Hynobius fucus                        ◦ taiwan lesser salamander
+         |    |    |- ◦ Hynobius glacialis                    ◦ nanhu salamander
+         |    |    |- ◦ Hynobius guabangshanensis             ◦ --
+         |    |    |- ◦ Hynobius guttatus                     ◦ --
+         |    |    |- ◦ Hynobius hidamontanus                 ◦ hakuba salamander
+         |    |    |- ◦ Hynobius hirosei                      ◦ --
+         |    |    |- ◦ Hynobius ikioi                        ◦ --
+         |    |    |- ◦ Hynobius iwami                        ◦ --
+         |    |    |- ◦ Hynobius katoi                        ◦ --
+         |    |    |- ◦ Hynobius kimurae                      ◦ hida salamander
+         |    |    |- ◦ Hynobius kuishiensis                  ◦ --
+         |    |    |- ◦ Hynobius leechii                      ◦ korean salamander
+         |    |    |- ◦ Hynobius lichenatus                   ◦ tōhoku salamander
+         |    |    |- ◦ Hynobius maoershanensis               ◦ xingan salamander
+         |    |    |- ◦ Hynobius mikawaensis                  ◦ --
+         |    |    |- ◦ Hynobius naevius                      ◦ sagami salamander
+         |    |    |- ◦ Hynobius nebulosus                    ◦ mitsyasma salamander
+         |    |    |- ◦ Hynobius nigrescens                   ◦ japanese black salamander
+         |    |    |- ◦ Hynobius okiensis                     ◦ oki salamander
+         |    |    |- ◦ Hynobius osumiensis                   ◦ --
+         |    |    |- ◦ Hynobius oyamai                       ◦ --
+         |    |    |- ◦ Hynobius quelpaertensis               ◦ jeju salamander
+         |    |    |- • Hynobius retardatus                   • ezo sanshouo / ezo salamander / hokkaido salamander
+         |    |    |- ◦ Hynobius sematonotos                  ◦ --
+         |    |    |- ◦ Hynobius setoi                        ◦ --
+         |    |    |- ◦ Hynobius setouchi                     ◦ --
+         |    |    |- ◦ Hynobius shinichisatoi                ◦ sobo salamander
+         |    |    |- ◦ Hynobius sonani                       ◦ taichū salamander
+         |    |    |- ◦ Hynobius stejnegeri                   ◦ amber salamander
+         |    |    |- ◦ Hynobius takedai                      ◦ hokuriku salamander
+         |    |    |- ◦ Hynobius tokyoensis                   ◦ tokyo salamander
+         |    |    |- ◦ Hynobius tosashimizuensis             ◦ --
+         |    |    |- ◦ Hynobius tsuensis                     ◦ tsushima salamander
+         |    |    |- ◦ Hynobius tsurugiensis                 ◦ --
+         |    |    |- ◦ Hynobius turkestanicus                ◦ turkestan salamander
+         |    |    |- ◦ Hynobius unisacculus                  ◦ --
+         |    |    |- ◦ Hynobius utsunomiyaorum               ◦ --
+         |    |    |- ◦ Hynobius vandenburghi                 ◦ --
+         |    |    |- ◦ Hynobius yangi                        ◦ kori salamander
+         |    |    |- ◦ Hynobius yiwuensis                    ◦ yiwu salamander
+         |    |- Liua                                         2 sichuan salamanders
+         |    |    |- ◦ Liua shihi                            ◦ wushan salamander
+         |    |    |- ◦ Liua tsinpaensis                      ◦ tsinpa salamander
+         |    |- Paradactylodon                               2 middle eastern stream salamanders
+         |    |    |- ◦ Paradactylodon persicus               ◦ persian stream salamander
+         |    |    |- ◦ Paradactylodon mustersi               ◦ paghman stream salamander
+         |    |- Pseudohynobius                               6 --
+         |    |    |- ◦ Pseudohynobius flavomaculatus         ◦ yellow-spotted salamander
+         |    |    |- ◦ Pseudohynobius guizhouensis           ◦ guizhou salamander
+         |    |    |- ◦ Pseudohynobius jinfo                  ◦ jinfo mountain salamander
+         |    |    |- ◦ Pseudohynobius kuankuoshuiensis       ◦ kuankuoshui salamander
+         |    |    |- ◦ Pseudohynobius puxiongensis           ◦ puxiong salamander
+         |    |    |- ◦ Pseudohynobius shuichengensis         ◦ shuicheng salamander
+         |    |- Ranodon                                      1 semirichensk salamanders
+         |    |    |- ◦ Ranodon sibiricus                     ◦ --
+ 176 mya |[ Salamandroidea ]                                    --
+         |    |- Ambystomatidae                                 --
+   8 mya |    |    |- Dicamptodon                               pacific giant salamanders
+         |    |    |    |- • Dicamptodon aterrimus            • idaho giant salamander
+         |    |    |    |- • Dicamptodon copei                • cope's giant salamander
+         |    |    |    |- • Dicamptodon ensatus              • california giant salamander
+         |    |    |    |- • Dicamptodon tenebrosus           • coastal giant salamander
+         |    |    |- Ambystoma                                 mole salamanders
+         |    |- Amphiumidae                                  3 amphiumas or Congo eels
+         |    |- Plethodontidae                             488 lungless salamanders
+         |    |    |- Hemidactyliinae                       382 --
+         |    |    |- Plethodontinae                        106 --
+         |    |- Proteidae                                    9 mudpuppies and waterdogs
+         |    |- Rhyacotritonidae                             4 torrent salamanders
+  95 mya |    |- Salamandridae                              128 true salamanders and newts
+         |    |    |- Salamandrininae                         2 --
+         |    |    |- Salamandrinae                          16 --
+  56 mya |    |    |- Pleurodelinae                         110 newts
+         |    |    |    |- Pleurodelini                         --
+         |    |    |    |    |- Pleurodeles                     --
+         |    |    |    |    |- Echinotriton                    --
+         |    |    |    |    |- Tylototriton                    --
+         |    |    |    |[ Molgini ]                            --
+         |    |    |    |- Tarichina                            --
+         |    |    |    |    |- Notophthalmus                   --
+         |    |    |    |    |- Taricha                         --
+         |    |    |    |[ Molgina ]                            --
+         |    |    |    |- Lissotriton                          --
+         |    |    |    |- Neurergus                            --
+         |    |    |    |- Ommatotriton                         --
+         |    |    |    |- Calotriton                           --
+         |    |    |    |- Triturus                             --
+         |    |    |    |- Euproctus                            --
+         |    |    |    |- Ichtyosaura                          --
+         |    |    |    |[ Cynopita ]                           --
+         |    |    |    |- Laotriton                            --
+         |    |    |    |- Pachytriton                          --
+         |    |    |    |- Cynops                               --
+         |    |    |    |- Paramesotriton                       --

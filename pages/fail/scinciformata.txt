@@ -1,0 +1,7 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Scinciformata
+-----------------------------------------------------------------------------------------------------
+ 156 mya |[ Scinciformata ]                                     --
+  88 mya |- Scincidae                                           skinks
+         |- Xantusiidae                                         night lizards
+         |- Cordylidae                                          girdled lizards

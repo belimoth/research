@@ -1,0 +1,135 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Anguimorpha
+-----------------------------------------------------------------------------------------------------
+ 119 mya |[ Anguimorpha ]                                       anguimorphs / anguimorph lizards
+ 110 mya |- Paleoanguimorpha                                    --
+         |    |- Shinisauria / Shinisauridae                  1 chinese crocodile lizard
+  66 mya |    |[ Varanoidea ]
+         |    |- † Palaeovaranidae                            † --
+         |    |- Lanthanotidae / Lanthanotus                  1 earless monitor lizard
+         |    |[ Varanidae / Varanus ]                          varanids / monitors / monitor lizards
+         |    |- Empagusia                                    5 --
+         |    |- Euprepiosaurus                              20 --
+         |    |- Hapturosaurus                                9 tree monitors
+         |    |- Odatria                                     25 dwarf monitors
+         |    |- Papusaurus                                   1 crocodile monitor
+         |    |- Philippinosaurus                             3 --
+         |    |- Polydaedalus                                 6 african monitors
+         |    |- Psammosaurus                                 2 desert monitors
+         |    |- Solomonsaurus                                1 spiny-neck monitor
+         |    |- Soterosaurus                                10 water monitors
+         |    |- Varanus                                      8 true monitors
+         |[ Neoanguimorpha ]                                    --
+         |- Helodermatidae / Heloderma                        5 beaded lizards & gila monster
+         |[ Diploglossa ]                                       --
+         |- Xenosauridae / Xenosaurus                        14 knob-scaled lizards
+         |[ Anguioidea ]                                        --
+  51 mya |- Diploglossidae                                      diploglossids; galliwasps, s. american legless lizards
+         |    |- Celestinae                                     celestines
+         |    |    |- Advenus                                 1 mountain forest galliwasp
+         |    |    |- Caribicus                               2 hispaniolan giant galliwasps
+         |    |    |- Celestus                                8 jamaican galliwasps
+         |    |    |- Comptus                                 3 --
+         |    |    |- Guarocuyus                              1 jaragua forest lizard
+         |    |    |- Panolopus                               3 --
+         |    |    |- Sauresia                                1 four-toed galliwasp
+         |    |    |- Wetmorena                               2 earless galliwasps
+         |    |- Diploglossinae                                 diploglossines
+         |    |    |- Diploglossus                           10 --
+         |    |    |- Mesoamericus                            1 --
+         |    |    |- Ophiodes                                6 worm lizards
+         |    |- Siderollamprinae / Siderolamprus            14 --
+         |[ unnamed ]                                           --
+         |- Anniellidae / Anniella                            6 american legless lizards
+  44 mya |[ Anguidae ]                                       80 slow worms, glass snakes, alligator lizards
+         |- Anguinae                                         20 --
+         |    |- • Hyalosaurus koelliker                      • moroccan glass lizard
+         |    |- • Pseudopus apodus                           • scheltopusik / european glass lizard / pallass's glass lizard
+         |    |- Anguis                                       5 slowworms
+         |    |    |- • Anguis cephallonica                   • peloponnese slowworm
+         |    |    |- • Anguis colchica                       • eastern slowworm
+         |    |    |- • Anguis fragilis                       • common slowworm
+         |    |    |- • Anguis graeca                         • greek slowworm
+         |    |    |- • Anguis veronensis                     • italian slowworm
+         |    |- Ophisaurus                                   6 american glass lizards
+         |    |    |- • Ophisaurus attenuatus                 • slender glass lizard
+         |    |    |- • Ophisaurus ceroni                     • ceron's glass lizard
+         |    |    |- • Ophisaurus compressus                 • island glass lizard
+         |    |    |- • Ophisaurus incomptus                  • plainneck glass lizard
+         |    |    |- • Ophisaurus mimicus                    • mimic glass lizard
+         |    |    |- • Ophisaurus ventralis                  • eastern glass lizard
+ >18 mya |    |- Dopasia                                      7 asian glass lizards
+         |    |    |- • Ophisaurus buettikoferi               • buettikofer's glass lizard
+         |    |    |- • Ophisaurus gracilis                   • burmese glass lizard
+         |    |    |- • Ophisaurus hainanensis                • hainan glass lizard
+         |    |    |- • Ophisaurus harti                      • hart's glass lizard
+         |    |    |- • Ophisaurus ludovici                   • ludovic's glass lizard
+         |    |    |- • Ophisaurus sokolovi                   • sokolov's glass lizard
+         |    |    |- • Ophisaurus wegneri                    • wegner's glass lizard
+         |- Gerrhonotinae                                    60 aligator lizards
+  22 mya |    |- Gerrhonotus                                  9 --
+         |    |    |- • Gerrhonotus farri                     • farr's alligator lizard
+         |    |    |- • Gerrhonotus infernalis                • texas alligator lizard
+         |    |    |- • Gerrhonotus lazcanoi                  • --
+         |    |    |- • Gerrhonotus liocephalus               • smooth-headed alligator lizard
+         |    |    |- • Gerrhonotus lugoi                     • lugo's alligator lizard
+         |    |    |- • Gerrhonotus mccoyi                    • --
+         |    |    |- • Gerrhonotus ophiurus                  • --
+         |    |    |- • Gerrhonotus parvus                    • pygmy alligator lizard
+         |    |    |- • Gerrhonotus rhombifer                 • isthmian alligator lizard
+         |    |- Abronia                                     37 arboreal alligator lizards
+         |    |    |- • Abronia antauges                      • mount Orizaba alligator lizard
+         |    |    |- • Abronia anzuetoi                      • anzueto's arboreal alligator lizard
+         |    |    |- • Abronia aurita                        • cope's arboreal alligator lizard
+         |    |    |- • Abronia bogerti                       • bogert's arboreal alligator lizard
+         |    |    |- • Abronia campbelli                     • campbell's alligator lizard
+         |    |    |- • Abronia chiszari                      • chiszar's arboreal alligator lizard
+         |    |    |- • Abronia cuchumatanus                  • cuchumatanes alligator lizard
+         |    |    |- • Abronia cuetzpali                     • --
+         |    |    |- • Abronia cunemica                      • coapilla arboreal alligator lizard
+         |    |    |- • Abronia deppii                        • deppe's arboreal alligator lizard
+         |    |    |- • Abronia fimbriata                     • --
+         |    |    |- • Abronia frosti                        • frost's arboreal alligator lizard
+         |    |    |- • Abronia fuscolabialis                 • mount zempoaltepec arboreal alligator lizard
+         |    |    |- • Abronia gadovii                       • gadow's alligator lizard
+         |    |    |- • Abronia gaiophantasma                 • brilliant arboreal alligator lizard
+         |    |    |- • Abronia graminea                      • mexican alligator lizard
+         |    |    |- • Abronia juarezi                       • sierra juarez alligator lizard
+         |    |    |- • Abronia leurolepis                    • smoothback arboreal alligator lizard
+         |    |    |- • Abronia lythrochila                   • red-lipped arboreal alligator lizard
+         |    |    |- • Abronia martindelcampoi               • martín del campo's arboreal alligator lizard
+         |    |    |- • Abronia matudai                       • matuda's arboreal alligator lizard
+         |    |    |- • Abronia meledona                      • --
+         |    |    |- • Abronia mitchelli                     • mitchell's arboreal alligator lizard
+         |    |    |- • Abronia mixteca                       • mixtecan arboreal alligator lizard
+         |    |    |- • Abronia montecristoi                  • monte cristo arboreal alligator lizard
+         |    |    |- • Abronia monticola                     • montane alligator lizard
+         |    |    |- • Abronia moreletii                     • morelet's alligator lizard
+         |    |    |- • Abronia morenica                      • sierra sorena arboreal alligator lizard
+         |    |    |- • Abronia oaxacae                       • oaxacan arboreal alligator lizard
+         |    |    |- • Abronia ochoterenai                   • ochoterena's arboreal alligator lizard,
+         |    |    |- • Abronia ornelasi                      • ornelas's arboreal alligator lizard
+         |    |    |- • Abronia ramirezi                      • ramirez's alligator lizard
+         |    |    |- • Abronia reidi                         • reid's arboreal alligator lizard
+         |    |    |- • Abronia salvadorensis                 • salvador arboreal alligator lizard
+         |    |    |- • Abronia smithi                        • smith's arboreal alligator lizard
+         |    |    |- • Abronia taeniata                      • banded arboreal alligator lizard
+         |    |    |- • Abronia vasconcelosii                 • bocourt's arboreal alligator lizard
+         |    |    |- • Abronia viridiflava                   • dwarf alligator lizard
+         |    |    |- • Abronia zongolica                     • --
+  15 mya |    |- Elgaria                                      7 western alligator lizards
+         |    |    |- • Elgaria cedrosensis                   • cedros island alligator lizard
+         |    |    |- • Elgaria coerulea northern             • alligator lizard
+         |    |    |- • Elgaria kingii                        • madrean alligator Lizard
+         |    |    |- • Elgaria multicarinata                 • southern alligator lizard
+         |    |    |- • Elgaria panamintina                   • panamint alligator lizard
+         |    |    |- • Elgaria paucicarinata                 • san lucan alligator lizard
+         |    |    |- • Elgaria velazquezi                    • central peninsular alligator lizard
+  12 mya |    |- Barisia                                      7 --
+         |    |    |- • Barisia ciliaris                      • sierra alligator lizard / imbricate alligator lizard
+         |    |    |- • Barisia herrerae                      • herrera's alligator lizard
+         |    |    |- • Barisia imbricata                     • imbricate alligator lizard / transvolcanic alligator lizard
+         |    |    |- • Barisia jonesi                        • imbricate alligator lizard
+         |    |    |- • Barisia levicollis                    • chihuahuan alligator lizard
+         |    |    |- • Barisia planifrons                    • oaxaca alligator lizard
+         |    |    |- • Barisia rudicollis                    • rough-necked alligator lizard

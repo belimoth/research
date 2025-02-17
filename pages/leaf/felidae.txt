@@ -1,0 +1,81 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Feliformia / Felidae
+-----------------------------------------------------------------------------------------------------
+  12 mya |[ Felidae ]                                        41 cats
+         |- † Machairodontinae                                † sabre-toothed cat family
+         |    |- † Metailurini                                † false sabre-tooths 3 / false sabre-toothed cats 3
+         |    |    |- † Dinofelis                             † dinofelis
+         |    |- † Homotherini                                † scimitar-tooths / scimitar-toothed cats
+         |    |    |- † Homotherium                           † homotherium
+         |    |    |- † Xenosmilus                            † xenosmilus
+         |    |- † Machairodus                                † machairodus
+         |    |[ Smilodontini ]                               † dirk-tooths / dirk-tooth cats
+         |    |- † Promegantereon                             † promegantereon
+         |    |- † Megantereon                                † megantereon
+         |    |[ † Smilodon ]                                 † sabre-tooths / sabre-toothed cats / sabre-toothed tigers
+         |    |- † Smilodon gracilis                          † small smilodon
+         |    |- † Smilodon fatalis                           † medium smilodon
+         |    |- † Smilodon populator                         † large smilodon
+         |- Pantherinae                                       7 big cats
+         |    |- Panthera                                     5 leopard, lion, jaguar, snow leopard, tiger
+         |    |    |- † Panthera atrox                        † american lion / american cave lion
+         |    |    |- † Panthera fossilis, spelaea            † steppe lion / cave lion
+         |    |    |- • Panthera leo                          • lion
+         |    |    |- • Panthera onca                         • jaguar
+         |    |    |- • Panthera pardus                       • leopard
+         |    |    |- † Panthera zdanskyi                     † longdan tiger
+         |    |    |- • Panthera tigris                       • tiger
+         |    |    |- • Panthera uncia                        • ounce / snow leopard
+         |    |- Neofelis                                     2 clouded leopards
+         |    |    |- • Neofelis nebulosa                     • clouded leopard
+         |    |    |- • Neofelis diardi                       • sunda clouded leopard
+         |[ Felinae ]                                        34 felines
+         |- unnamed                                           3 bay cat family
+         |    |- • Pardofelis marmorata                       • marbled cat
+        5 mya |[ Catopuma ]                                   2 --
+         |    |- • Catopuma badia                             • bay cat
+         |    |- • Catopuma temminckii                        • asian golden cat
+         |- unnamed                                           3 caracal family
+         |    |- • Leptailurus serval                         • serval
+         |    |[ Caracal ]                                    2 --
+         |    |- • Caracal caracal                            • caracal
+         |    |- • Caracal aurata                             • african golden cat
+   6 mya |- Leopardus                                         8 ocelot family
+         |    |- • Leopardus pardalis                         • ocelot
+         |    |- • Leopardus wiedii                           • margay
+         |    |- • Leopardus tigrinus                         • geoff's cat / big bushcat
+         |    |- • Leopardus guigna                           • kodkod / güiña
+         |    |- • Leopardus geoffroyi                        • northern tigrina / northern tiger cat / oncilla / tigrillo
+         |    |- • Leopardus guttulus                         • southern tigrina / southern tiger cat
+         |    |- • Leopardus jacobita                         • andean mountain cat
+         |    |- • Leopardus colocolo                         • pampas cat
+   6 mya |- Lynx                                              4 lynx family
+         |    |- • Lynx lynx                                  • eurasian lynx
+         |    |- • Lynx rufus                                 • bobcat
+         |    |- • Lynx canadensis                            • canada lynx
+         |    |- • Lynx pardinus                              • iberian lynx
+   5 mya |- unnamed                                           3 puma family
+         |    |-  Acinonyx                                    1 cheetahs
+         |    |    |- † Acinonyx pardinensis                  † giant cheetah
+         |    |    |- • Acinonyx jubatus                      • cheetah
+         |    |[ unnamed ]                                    2 --
+         |    |- • Herpailurus yagouaroundi                   • jaguarundi
+         |    |[ unnamed ]                                    1 --
+         |    |- † Miracinonyx                                † american cheetah
+         |    |- • Puma concolor                              • puma / cougar / mountain lion
+         |- unnamed                                           6 leopard cat family
+         |    |- • Otocolobus manul                           • pallas cat
+   5 mya |    |[ Prionailurus ]                               5 --
+         |    |- • Prionailurus bengalensis                   • leopard cat
+         |    |- • Prionailurus javanensis                    • sunda leopard cat
+         |    |- • Prionailurus viverrinus                    • fishing cat
+         |    |- • Prionailurus planiceps                     • flat-headed cat
+         |    |- • Prionailurus rubiginosus                   • rusty-spotted cat
+         |[ Felis ]                                           7 --
+         |- • Felis chaus                                     • jungle cat
+         |- • Felis nigripes                                  • black-footed cat
+         |- • Felis margarita                                 • sand cat
+         |- • Felis bieti                                     • chinese mountain cat
+         |- • Felis lybica                                    • african wildcat
+         |- • Felis silvestris                                • european wildcat
+         |- • Felis silvestris catus                          • domestic cat / house cat (domesticated)

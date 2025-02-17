@@ -1,0 +1,62 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Hystricomorpha
+-----------------------------------------------------------------------------------------------------
+  42 mya |[ Hystricomorpha ]                                    --
+         |- Ctenodactylidae                                   5 gundis / comb rats
+         |- Atherurus                                         2 brush-tailed porcupines
+         |- Octodontidae                                     14 octodontids; degu family
+  >4 mya |    |- Octodon                                      4 --
+         |    |    |- • Octodon bridgesii                     • bridges's degu
+         |    |    |- • Octodon degus                         • degu / common degu
+         |    |    |- • Octodon lunatus                       • moon-toothed degu
+         |    |    |- • Octodon pacificus                     • pacific degu / mocha island degu
+         |    |- • Octodontomys gliroides                     • mountain degu
+  20 mya |- Erethizontidae                                   19 --
+         |    |- • Chaetomys subspinosus                      • britsle-spined rat
+         |    |[ Erethizontinae ]                            18
+         |    |- • Erethizon dorsatum                         • north american porcupine
+         |    |[ Coendou ]                                   17 coendous / prehensile-tailed porcupines
+         |    |- • Coendou baturitensis                       • baturite porcupine
+         |    |- • Coendou bicolor                            • bicolored-spined porcupine
+         |    |- • Coendou ichillus                           • streaked dwarf porcupine
+         |    |- • Coendou insidiosus                         • bahia porcupine
+         |    |- • Coendou melanurus                          • black-tailed hairy dwarf porcupine
+         |    |- • Coendou mexicanus                          • mexican hairy dwarf porcupine
+         |    |- • Coendou nycthemera                         • black dwarf porcupine
+         |    |- • Coendou longicaudatus                      • amazonian long-tailed porcupine
+         |    |- • Coendou prehensilis                        • brazilian porcupine
+         |    |- • Coendou pruinosus                          • frosted hairy dwarf porcupine
+         |    |- • Coendou quichua                            • andean porcupine
+         |    |- • Coendou roosmalenorum                      • roosmalen's dwarf porcupine
+         |    |- • Coendou rufescens                          • stump-tailed porcupine
+         |    |- • Coendou sanctamartae                       • santa Marta porcupine
+         |    |- • Coendou speratus                           • coandumirim
+         |    |- • Coendou spinosus                           • paraguaian hairy dwarf porcupine
+         |    |- • Coendou vestitus                           • brown hairy dwarf porcupine
+         |[ Caviidae ]                                       17 cavy family
+  >4 mya |- Dolichotinae                                      2 maras
+         |    |- • Dolichotis patagonum                       • patagonian mara
+         |    |- • Pediolagus salinicola                      • chacoan mara
+         |- Hydrochoerinae                                    4 --
+         |    |- Hydrochoeerus                                2 capybaras
+         |    |    |- • Hydrochoerus hydrochaeris             • greater capybara
+         |    |    |- • Hydrochoerus isthmius                 • lesser capybara
+ 11 mya  |    |[ Kerodon ]                                    2 --
+         |    |- • Kerodon acrobata                           • acrobatic cavy
+         |    |- • Kerodon rupestris                          • mocó / rock cavy
+         |[ Caviinae ]                                       11 --
+  10 mya |- Microcavia                                        3 mountain cavies
+         |    |- • Microcavia australis                       • southern mountain cavy
+         |    |- • Microcavia niata                           • Andean mountain cavy
+         |    |- • Microcavia shiptoni                        • Shipton's mountain cavy
+   6 mya |- Galea                                             3 yellow-toothd cavies
+         |    |- • Galea monasteriensis                       • muenster yellow-toothed cavy
+         |    |- • Galea musteloides                          • common yellow-toothed cavy
+         |    |- • Galea spixii                               • spix's yellow-toothed cavy
+   6 mya |[ Cavia ]                                           5 cavies / guinea pigs
+         |- • Cavia aperea                                    • brazilian guinea pig
+         |- • Cavia fulgida                                   • shiny guinea pig
+         |- • Cavia intermedia                                • intermediate guinea pig
+         |- • Cavia magna                                     • greater guinea pig
+         |- • Cavia tschudii                                  • montane guinea pig
+         |- • Cavia tschudii porcellus                        • domestic guinea pig (subspecies) (domesticated)

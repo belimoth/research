@@ -1,0 +1,130 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Lissamphibia / Anura / Mantellidae
+-----------------------------------------------------------------------------------------------------
+  57 mya |[ Mantellidae ]                                   256 mantellids; mantellid frogs
+  52 mya |- Mantellinae                                     170 --
+         |    |- • Boehmantis microtympanum                   • --
+         |    |- • Tsingymantis antitra                       • --
+         |    |- • Wakea madinika                             • --
+         |    |- Blommersia                                  12 --
+         |    |    |- • Blommersia angolafa                   • --
+         |    |    |- • Blommersia blommersae                 • --
+         |    |    |- • Blommersia grandisonae                • --
+         |    |    |- 9 more                                  9 more
+         |    |- Gephyromantis                               53 --
+         |    |    |- Gephyromantis                          17 --
+         |    |    |    |- • Gephyromantis enki               • ambatolahy madagascar frog
+         |    |    |    |- • Gephyromantis boulengeri         • boulenger's madagascar frog
+         |    |    |    |- 15 more                           15 more
+         |    |    |- Vatomantis                              4 --
+         |    |    |    |- • Gephyromantis webbi              • webb's madagascar frog
+         |    |    |    |- • Gephyromantis silvanus           • madagascar frog
+         |    |    |    |- 2 more                             2 more
+         |    |    |- Laurentomantis                          6 --
+         |    |    |    |- 6 more                             6 more
+         |    |    |- Phylacomantis                           4 --
+         |    |    |    |- • Gephyromantis corvus             • isalo madagascar frog
+         |    |    |    |- • Gephyromantis pseudoasper        • massif madagascar frog
+         |    |    |    |- 2 more                             2 more
+         |    |    |- Duboimantis                            16 --
+         |    |    |    |- • Gephyromantis luteus             • white folohy madagascar frog
+         |    |    |    |- • Gephyromantis sculpturatus       • sculpted madagascar frog
+         |    |    |    |- • Gephyromantis plicifer           • common madagascar frog
+         |    |    |    |- • Gephyromantis salegy             • abolokopatrika madagascar frog
+         |    |    |    |- • Gephyromantis moseri             • moser's madagascar frog
+         |    |    |    |- • Gephyromantis tschenki           • tschenk's madagascar frog
+         |    |    |    |- • Gephyromantis redimitus          • banded madagascar frog
+         |    |    |    |- • Gephyromantis granulatus         • grainy madagascar frog
+         |    |    |    |- • Gephyromantis zavona             • antsahamarana madagascar frog
+         |    |    |    |- • Gephyromantis leucomaculatus     • white-spotted madagascar frog
+         |    |    |    |- 6 more                             6 more
+         |    |    |- Asperomantis                            6 --
+         |    |    |    |- 6 more                             6 more
+  41 mya |    |- Spinomantis                                 14 --
+         |    |    |- • Spinomantis aglavei                   • --
+         |    |    |- • Spinomantis bertini                   • --
+         |    |    |- • Spinomantis brunae                    • --
+         |    |    |- • Spinomantis fimbriatus                • --
+         |    |    |- • Spinomantis peraccae                  • --
+         |    |    |- • Spinomantis phantasticus              • --
+         |    |    |- • Spinomantis tavaratra                 • --
+         |    |    |- 7 more                                  7 more
+  21 mya |    |- Guibemantis                                 19 --
+         |    |    |- Guibemantis flavobrunneus               • --
+         |    |    |- Guibemantis liber                       • --
+         |    |    |- Guibemantis pulcher                     • --
+         |    |    |- Guibemantis punctatus                   • --
+         |    |    |- 15 more                                15 more
+  19 mya |    |- Mantella                                    11 mantellas; "golden frogs" / malagasy poison frogs
+         |    |    |- • Mantella laevigata                    • climbing mantella
+         |    |    |- • Mantella betsileo                     • brown mantella
+         |    |    |- • Mantella ebenaui                      • ebenaui's mantella
+         |    |    |- • Mantella expectata                    • blue-legged mantella
+         |    |    |- • Mantella viridis                      • green mantella
+         |    |    |- • Mantella brenhardi                    • bernhard's mantella
+         |    |    |- • Mantella cowanii                      • cowan's mantella
+         |    |    |- • Mantella baroni                       • baron's mantella
+         |    |    |- • Mantella haraldmeieri                 • harald meier's mantella
+         |    |    |- • Mantella nigricans                    • guibe's mantella
+         |    |    |- 1 more                                  1 more
+         |    |- Mantidactylus                               58 --
+         |    |    |- • Mantidactylus guttulatus              • --
+         |    |    |- • Mantidactylus grandidieri             • --
+         |    |    |- • Mantidactylus betsileanus             • --
+         |    |    |- • Mantidactylus curtus                  • --
+         |    |    |- • Mantidactylus pauliani                • --
+         |    |    |- • Mantidactylus biporus                 • --
+         |    |    |- • Mantidactylus albofrenatus            • --
+         |    |    |- • Mantidactylus aerumnalis              • --
+         |    |    |- • Mantidactylus melanopleura            • --
+         |    |    |- • Mantidactylus opiparis                • --
+         |    |    |- • Mantidactylus brevipalmatus           • --
+         |    |    |- • Mantidactylus femoralis               • --
+         |    |    |- • Mantidactylus mocquardi               • --
+         |    |    |- • Mantidactylus majori                  • --
+         |    |    |- • Mantidactylus argenteus               • --
+         |    |    |- • Mantidactylus cowanii                 • --
+         |    |    |- • Mantidactylus lugubris                • --
+         |    |    |- 41 more                                41 more
+  44 mya |- Laliostominae                                     7 --
+         |    |- • Laliostoma labrosum                        • madagascar bullfrog
+ >28 mya |    |[ Aglyptodactylus ]                            6 --
+         |    |- • Aglyptodactylus laticeps                   • --
+         |    |- • Aglyptodactylus madagascariensis           • --
+         |    |- • Aglyptodactylus securifer                  • --
+         |    |- 3 more                                       3 more
+  39 mya |- Boophinae / Boophis                              79 bright-eyed frogs / skeleton frogs
+         |    |- • Boophis albilabris                         • white-lipped bright-eyed frog
+         |    |- • Boophis andohahela                         • andohahela bright-eyed frog
+         |    |- • Boophis andreonei                          • --
+         |    |- • Boophis anjanaharibeensis                  • --
+         |    |- • Boophis ankarafensis                       • ankarafa skeleton frog
+         |    |- • Boophis ankaratra                          • --
+         |    |- • Boophis boehmei                            • --
+         |    |- • Boophis bottae                             • --
+         |    |- • Boophis brachychir                         • --
+         |    |- • Boophis doulioti                           • --
+         |    |- • Boophis elenae                             • --
+         |    |- • Boophis entingae                           • --
+         |    |- • Boophis goudotii                           • --
+         |    |- • Boophis guibei                             • warty bright-eyed frog
+         |    |- • Boophis jaegeri                            • green skeleton frog
+         |    |- • Boophis lichenoides                        • --
+         |    |- • Boophis lilianae                           • --
+         |    |- • Boophis luteus                             • --
+         |    |- • Boophis madagascariensis                   • --
+         |    |- • Boophis marojezensis                       • --
+         |    |- • Boophis occidentalis                       • --
+         |    |- • Boophis periegetes                         • --
+         |    |- • Boophis picturatus                         • --
+         |    |- • Boophis pyrrhus                            • --
+         |    |- • Boophis rappiodes                          • --
+         |    |- • Boophis reticulatus                        • --
+         |    |- • Boophis rhodoscelis                        • --
+         |    |- • Boophis rufioculis                         • --
+         |    |- • Boophis septentrionalis                    • --
+         |    |- • Boophis sibilans                           • --
+         |    |- • Boophis tasymena                           • --
+         |    |- • Boophis tephraeomystax                     • dumeril's bright-eyed frog
+         |    |- • Boophis viridis                            • green bright-eyed frog
+         |    |- 46 more                                     46 more

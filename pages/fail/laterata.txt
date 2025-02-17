@@ -1,0 +1,77 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Laterata
+-----------------------------------------------------------------------------------------------------
+ 154 mya |[ Laterata ]                                          --
+ 127 mya |- Lacertibaenia                                       --
+ 119 mya |    |- * Amphisbaenia                                 * amphisbaenians; worm lizards
+  78 mya |    |- Lacertidae                                     lacertas / wall lizards / true lizards
+         |    |    |- Gallotiinae
+         |    |    |    |- Gallotia (8 species)
+         |    |    |    |- Psammodromus (8 species)
+         |    |    |- Lacertinae
+         |    |    |    |- Eremiadini
+         |    |    |    |    |- Acanthodactylus (45 species)
+         |    |    |    |    |- Adolfus (6 species)
+         |    |    |    |    |- Australolacerta (1 species)
+         |    |    |    |    |- Congolacerta (2 species)
+         |    |    |    |    |- Eremias (42 species)
+         |    |    |    |    |- Gastropholis (4 species)
+         |    |    |    |    |- Heliobolus (6 species)
+         |    |    |    |    |- Holaspis (2 species)
+         |    |    |    |    |- Ichnotropis (6 species)
+         |    |    |    |    |- Latastia (10 species)
+         |    |    |    |    |- Meroles (8 species)
+         |    |    |    |    |- Mesalina (20 species)
+         |    |    |    |    |- Nucras (13 species)
+         |    |    |    |    |- Ophisops (11 species)
+         |    |    |    |    |- Pedioplanis (16 species)
+         |    |    |    |    |- Philochortus (7 species)
+         |    |    |    |    |- Poromera (1 species)
+         |    |    |    |    |- Pseuderemias (7 species)
+         |    |    |    |    |- Tropidosaura (4 species)
+         |    |    |    |- Lacertini
+         |    |    |    |    |- Algyroides (4 species)
+         |    |    |    |    |- Anatololacerta (4 species)
+         |    |    |    |    |- Apathya (2 species)
+         |    |    |    |    |- Archaeolacerta (1 species)
+         |    |    |    |    |- Atlantolacerta (1 species)
+         |    |    |    |    |- Dalmatolacerta (1 species)
+         |    |    |    |    |- Darevskia (35 species)
+         |    |    |    |    |- Dinarolacerta (2 species)
+         |    |    |    |    |- Hellenolacerta (1 species)
+         |    |    |    |    |- Iberolacerta (8 species)
+         |    |    |    |    |- Iranolacerta (2 species)
+         |    |    |    |    |- Lacerta (10 species)
+         |    |    |    |    |- Omanosaura (2 species)
+         |    |    |    |    |- Parvilacerta (2 species)
+ >25 mya |    |    |    |    |- Phoenicolacerta (4 species)
+         |    |    |    |    |- Podarcis (26 species)
+         |    |    |    |    |- Scelarcis (1 species)
+         |    |    |    |    |- Takydromus (24 species)
+         |    |    |    |    |- Teira (1 species)
+         |    |    |    |    |- Timon (6 species)
+         |    |    |    |    |- Vhembelacerta (1 species)
+         |    |    |    |    |- Zootoca (2 species)
+  78 mya |- Teriformata / Teiioidea                             --
+  78 mya |    |- Gymnophthalmidae                               spectacled lizards
+  69 mya |    |- Teiidae                                        tegus & whiptail lizards
+         |    |    |- Teiinae
+         |    |    |    |- Ameiva – junglerunners (14 species)
+         |    |    |    |- Ameivula – (11 species)
+         |    |    |    |- Aspidoscelis – North American whiptail lizards (46 species)
+         |    |    |    |- Aurivela – (2 species)
+         |    |    |    |- Cnemidophorus – South American whiptail lizards (19 species)
+         |    |    |    |- Contomastix – (6 species)
+         |    |    |    |- Dicrodon – desert tegus (3 species)
+         |    |    |    |- Glaucomastix – (5 species)
+         |    |    |    |- Holcosus – (18 species)
+         |    |    |    |- Kentropyx – (9 species)
+         |    |    |    |- Medopheos – (1 species)
+         |    |    |    |- Pholidoscelis – (20 species)
+         |    |    |    |- Teius – (3 species)
+         |    |    |- Tupinambinae
+         |    |    |    |- Callopistes – false monitors (4 species)
+         |    |    |    |- Crocodilurus – the crocodile tegu (1 species)
+         |    |    |    |- Dracaena – caiman lizards (3 species)
+         |    |    |    |- Salvator – (3 species)
+         |    |    |    |- Tupinambis – tegus (8 species)

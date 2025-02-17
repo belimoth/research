@@ -1,0 +1,86 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates
+-----------------------------------------------------------------------------------------------------
+  74 mya |[ Primates ]                                          primates; lemurs, monkeys, apes
+  69 mya |- Haplorhini                                          haplorhines; dry-nosed primates
+         |    |- Tarsiiformes / Tarsioidea / Tarsiidae          tarsiers
+ >43 mya |    |[ Simiiformes ]                                  simians / anthropoids / higher primates; monkeys, apes
+ >21 mya |    |- Platyrrhini                                160 new-world monkeys
+ >17 mya |    |    |- Pitheciidae                               --
+         |    |    |    |- Callicebinae                      35 titis / titi monkeys
+ >11 mya |    |    |    |[ Pitheciinae ]                     23 sakis, uakaris
+  >5 mya |    |    |    |- Pithecia                          13 sakis; saki monkeys
+         |    |    |    |    |- ◦ Pithecia aequatorialis      ◦ equatorial saki
+         |    |    |    |    |- ◦ Pithecia albicans           ◦ white saki / buffy saki / white-footed saki
+         |    |    |    |    |- ◦ Pithecia cazuzai            ◦ cazuza's saki
+         |    |    |    |    |- ◦ Pithecia chrysocephala      ◦ golden-faced saki
+         |    |    |    |    |- ◦ Pithecia hirsuta            ◦ hairy saki
+         |    |    |    |    |- ◦ Pithecia inusta             ◦ burnished saki
+         |    |    |    |    |- ◦ Pithecia irrorata           ◦ rio tapajós saki / gray's bald-faced saki
+         |    |    |    |    |- ◦ Pithecia isabela            ◦ isabel's saki
+         |    |    |    |    |- ◦ Pithecia monachus           ◦ monk saki
+         |    |    |    |    |- ◦ Pithecia milleri            ◦ miller's saki
+         |    |    |    |    |- ◦ Pithecia napensis           ◦ napo saki / napo monk saki
+         |    |    |    |    |- • Pithecia pithecia           • white-faced saki
+         |    |    |    |    |- ◦ Pithecia vanzolinii         ◦ vanzolini's bald-faced saki
+         |    |    |    |- Chiropotes                         6 cuxiús / bearded sakis
+         |    |    |    |    |- • Chiropotes satanas          • black bearded saki
+         |    |    |    |    |- ◦ Chiropotes chiropotes       ◦ red-backed bearded saki
+         |    |    |    |    |- ◦ Chiropotes israelita        ◦ brown-backed bearded saki
+         |    |    |    |    |- ◦ Chiropotes utahickae        ◦ uta hick's bearded saki
+         |    |    |    |    |- • Chiropotes albinasus        • white-nosed saki
+         |    |    |    |    |- ◦ Chiropotes sagulatus        ◦ reddish-brown bearded saki
+         |    |    |    |- Cacajao                            4 uakari's
+         |    |    |    |    |- • Cacajao calvus              • bald uakari / bald-headed uakari
+         |    |    |    |    |- ◦ Cacajao melanocephalus      ◦ black-headed uakari / golden-backed uakari
+         |    |    |    |    |- ◦ Cacajao ayresii             ◦ aracá uakari
+         |    |    |    |    |- ◦ Cacajao hosomi              ◦ neblina uakari
+         |    |    |- Atelidae                                  --
+         |    |    |    |- Alouattinae                          howler monkeys
+         |    |    |    |- Atelinae                             spider, wooly spider, and wooly monkeys
+         |    |    |- Cebidae                                   --
+         |    |    |    |- Cebinae                              capuchins
+         |    |    |    |- Saimirinae                           squirrel monkeys
+         |    |    |- Callitrichidae                            marmosets, tamarins, lion tamarins
+         |    |    |- Aotidae                                   night monkeys
+         |    |[ Catarrhini ]                                   --
+         |    |- Cercopithecoidea                           138 old-world monkeys
+         |    |    |- todo                                      --
+         |    |[ Hominoidea ]                                   apes
+         |    |- Hylobatidae                                 20 gibbons
+  59 mya |- Strepsirhini / Lemuriformes                         strepsirrhines; wet-nosed primates; non-tarsier primates
+         |- Lemuroidea                                          lemuroids / lemur family
+         |    |- † Archaeolemuridae                           † monkey lemurs / baboon lemurs
+         |    |- Cheirogaleidae                              42 cheirogaleids; dwarf and mouse lemurs
+         |    |    |- Cheirogaleus                           10 dwarf lemurs
+         |    |    |- Microcebus                             25 mouse lemurs
+         |    |    |- Mirza                                   2 giant mouse lemurs
+         |    |    |- Allocebus                               1 hairy-eared dwarf lemur
+         |    |    |- Phaner                                  4 fork-marked lemurs
+         |    |- Daubentoniidae / Daubentonia                   --
+         |    |    |- Daubentonia madagascariensis            1 aye-aye
+         |    |    |- † Daubentonia robusta                   † giant aye-aye
+         |    |- Indriidae                                      --
+         |    |    |- Indri                                     --
+         |    |    |- Avahi                                     --
+         |    |    |- Propithecus                               --
+         |    |- Lemuridae                                      --
+         |    |- Lepilemuridae                                  --
+         |    |- † Megaladapidae                              † --
+         |    |- † Palaeopropithecidae                        † --
+  39 mya |[ Lorisoidea / Lorisiformes ]                         lorisoids / loris family
+  36 mya |- Lorisidae                                           lorises, pottos, angwantibos
+         |    |- Perodicticinae                                 --
+         |    |    |- Arctocebus                              2 angwantibos
+         |    |    |- Perodicticus                            3 pottos
+         |    |[ Lorisinae ]                                    --
+         |    |- Loris                                        2 slender lorises
+         |    |- Nycticebus                                   8 slow lorises
+         |    |- Xanthonycticebus                             1 pygmy slow loris
+  28 mya |[ Galagidae ]                                         galagids; galagos / nagapies / bush babies
+         |- Euoticus                                          2 needle-clawed bushbabies
+         |- Galago                                            4 lesser bushbabies
+         |- Galagoides                                        3 western dwarf galagos
+         |- Otolemur                                          2 greater galagos
+         |- Paragalago                                        5 eastern dwarf galagos
+         |- Sciurocheirus                                     3 squirrel galagos

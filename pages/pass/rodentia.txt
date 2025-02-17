@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia
+-----------------------------------------------------------------------------------------------------
+  70 mya |[ Rodentia ]                                          rodents
+  63 mya |- Castorimorpha                                       --
+         |    |- Castor                                       2 beavers
+         |    |- Dipodomys                                      kangaroo rats
+         |    |- Thomomys                                       pocket gophers
+  58 mya |- * Sciuromorpha                                  307 squirrel-like rodents
+  53 mya |[ Myomorpha ]                                   1,524 mouse-like rodents
+  48 mya |    |- * Muroidea                               1,750 muroids
+         |    |- * Dipodoidea                                50 dipodoids
+  42 mya |- * Hystricomorpha                                    porcupine-like rodents

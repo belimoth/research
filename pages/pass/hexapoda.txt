@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda
+-----------------------------------------------------------------------------------------------------
+ 459 mya |[ Hexapoda ]                                          hexapods
+ 435 mya |- * Insecta / Ectognatha                    5,500,000 insects
+         |[ Entognatha ]                                        --
+ 373 mya |- Protura                                         800 proturans; coneheads
+ 337 mya |- Collembola                                    3,600 springtails
+ 290 mya |- Diplura                                             two-pronged bristletails

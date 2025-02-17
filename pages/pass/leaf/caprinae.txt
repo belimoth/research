@@ -1,0 +1,48 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Caprinae
+-----------------------------------------------------------------------------------------------------
+  11 mya |[ Caprinae ]                                       34 caprines / goat-antelopes; sheep, goats, etc
+         |- Pantholopini; Pantholops hodgsonii                • chiru / tibetan antelope
+         |- Ovibovini                                         9 --
+         |    |- † Bootherium bombifrons                      † helmeted muskox
+         |    |- • Ovibos moschatus                           • musk ox
+         |    |- Capricornis                                  4 serows
+         |    |    |- • Capricornis crispus                   • japanese serow
+         |    |    |- • Capricornis sumatraensis              • mainland serow
+         |    |    |- • Capricornis rubidus                   • red serow
+         |    |    |- • Capricornis swinhoei                  • taiwanese serow
+         |    |[ Naemorhedus ]                                4 gorals
+         |    |- • Naemorhedus goral                          • himalayan goral
+         |    |- • Naemorhedus caudatus                       • long-tailed goral
+         |    |- • Naemorhedus baileyi                        • red goral
+         |    |- • Naemorhedus griseus                        • chinese goral
+         |[ Caprini ]                                        24 --
+   3 mya |- Ovis                                              6 sheep
+         |    |- • Ovis ammon                                 • argali / mountain sheep
+         |    |- • Ovis canadensis                            • bighorn sheep
+         |    |- • Ovis dalli                                 • dall sheep / thinhorn sheep
+         |    |- • Ovis gmelini                               • moufloun / wild sheep
+         |    |- • Ovis gmelini aries                         • domestic sheep (subspecies) (domesticated)
+         |    |- • Ovis nivicola                              • snow sheep / siberian bighorn sheep
+         |    |- • Ovis vignei                                • urial
+         |- • Oreamnos americanus                             • rocky mountain goat / mountain goat
+         |- • Budorcas taxicolor                              • takin / gnu-goat / cattle-chamois
+         |- † Myotragus                                       † myotragus; balearic islands goat-antelope
+         |- Rupicapra                                         2 chamois
+         |    |- • Rupicapra rupicapra                        • alpine chamois
+         |    |- • Rupicapra pyrenaica                        • pyrenean chamois
+         |- • Ammotragus lervia                               • aoudad / barbary sheep
+         |- • Arabitragus jayakari                            • arabian tahr
+         |- • Pseudois nayaur                                 • bharal / blue sheep
+         |- • Hemitragus jemlahicus                           • himalayan tahr
+         |[ Capra ]                                          10 turs, markhor, ibexes, goats
+         |- • Capra sibirica                                  • asian ibex
+         |- • Capra falconeri                                 • markhor
+         |- • Capra hircus                                    • domestic goat (domesticated)
+         |- • Capra aegagrus                                  • wild goat
+         |- • Capra cylindricornis                            • east caucasian tur
+         |- • Capra caucasica                                 • west caucasian tur
+         |- • Capra ibex                                      • alpine ibex
+         |- • Capra pyrenaica                                 • iberian ibex
+         |- • Capra nubiana                                   • nubian ibex
+         |- • Capra walie                                     • walia ibex

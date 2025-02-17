@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Cephalophinae
+-----------------------------------------------------------------------------------------------------
+   9 mya |[ Cephalophinae ]                                  22 duikers
+         |- • Sylvicapra grimmia                              • common duiker
+         |- Philantomba                                       3 --
+         |    |- • Philantomba monticola                      • blue duiker
+         |    |- • Philantomba maxwellii                      • maxwell's duiker
+         |    |- • Philantomba walteri                        • walter's duiker
+         |[ Cephalophus ]                                    18 --
+         |- • Cephalophus spadix                              • minde / abbott's duiker
+         |- • Cephalophus adersi                              • nunga / aders's duiker
+         |- • Cephalophus dorsalis                            • bay duiker
+         |- • Cephalophus niger                               • tuba / black duiker
+         |- • Cephalophus nigrifrons                          • black-fronted duiker
+         |- • Cephalophus brookei                             • brooke's duiker
+         |- • Cephalophus harveyi                             • harvey's red duiker
+         |- • Cephalophus jentinki                            • jentink's duiker
+         |- • Cephalophus ogilbyi                             • ogilby's duiker
+         |- • Cephalophus callipygus                          • peters' duiker
+         |- • Cephalophus rufilatus                           • red-flanked duiker
+         |- • Cephalophus natalensis                          • red forest duiker / natal red duiker
+         |- • Cephalophus rubidus                             • ruwenzori red duiker
+         |- • Cephalophus weynsi                              • weyns's duiker
+         |- • Cephalophus leucogaster                         • white-bellied duiker
+         |- • Cephalophus crusalbum                           • white-legged duiker
+         |- • Cephalophus silvicultor                         • yellow-backed duiker
+         |- • Cephalophus zebra                               • zebra duiker

@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria
+-----------------------------------------------------------------------------------------------------
+  86 mya |[ Laurasiatheria ]                                    --
+  80 mya |- * Eulipotyphla                                      remnant insectivora
+         |[ Scrotifera ]                                        --
+         |- * Chiroptera                                        bats
+         |[ Fereuungulata ]                                     --
+         |- * Ferae                                             --
+         |[ Euungulata ]                                    355 ungulates
+         |- † Arctocyon                                       † arctocyon
+  64 mya |- * Artiodactyla                                  338 even-toed ungulates
+         |[ Mesaxonia / Panperissodactyla ]                     --
+         |- † Phenacodontidae                                 † --
+         |    |- † Meniscotherium                             † meniscotherium
+         |    |- † Phenacodus                                 † phenacodus
+  55 mya |- * Perissodactyla                                 17 odd-toed ungulates

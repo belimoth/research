@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Vermilingua
+-----------------------------------------------------------------------------------------------------
+  40 mya |[ Vermilingua ]                                    10 anteaters
+         |- Cyclopedidae                                      7 silky anteaters / pygmy anteaters
+         |    |- • Cyclopes didactylus                        • unnamed
+         |    |- • Cyclopes catellus                          • unnamed
+         |    |- • Cyclopes dorsalis                          • unnamed
+         |    |- • Cyclopes ida                               • unnamed
+         |    |- • Cyclopes thomasi                           • unnamed
+         |    |- • Cyclopes rufus                             • unnamed
+         |    |- • Cyclopes xinguensis                        • unnamed
+  13 mya |- Myrmecophagidae                                   3 myrmecophagid anteaters
+         |    |- • Myrmecophaga tridactyla                    • giant anteater
+         |    |- • Tamandua mexicana                          • northern tamandua
+         |    |- • Tamandua tetradactyla                      • southern tamandua

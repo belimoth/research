@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota
+-----------------------------------------------------------------------------------------------------
+ 401 mya |[ Pterygota ]                                         winged insects
+ 383 mya |- * Neoptera                                          --
+ 366 mya |- Palaeoptera                                         --
+         |    |- † Palaeodictyopteroidea                        --
+         |    |- * Odonata                                5,899 odonates; dragonflies, damselflies
+ 177 mya |    |- Ephemeroptera                            3,240 mayflies

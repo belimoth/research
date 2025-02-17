@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Cingulata
+-----------------------------------------------------------------------------------------------------
+  42 mya |[ Cingulata ]                                      21 cingulates
+         |- Dasypodidae                                       7 long-nosed armadillos
+         |    |- † Eutatus                                    † --
+         |    |- † Stegotherium                               † --
+ >12 mya |    |[ Dasypodinae / Dasypus ]                      7 --
+         |    |- • Dasypus hybridus                           • southern long-nosed armadillo / southern lesser long-nosed armadillo
+         |    |- • Dasypus kappleri                           • greater long-nosed armadillo
+         |    |- • Dasypus mazzai                             • yunga's lesser long-nosed armadillo
+         |    |- • Dasypus novemcinctus                       • nine-banded armadillo
+         |    |- • Dasypus pilosus                            • hairy long-nosed armadillo
+         |    |- • Dasypus sabanicola                         • northern long-nosed armadillo
+         |    |- • Dasypus septemcinctus                      • seven-banded armadillo
+  37 mya |[ Chlamyphoridae ]                                 14 --
+         |- Euphractinae                                      4 --
+         |    |- • Zaedyus pichiy                             • pichi / pygmy armadillo
+         |    |[ Chaetophractus ]                             3 hairy armadillos
+         |    |- • Chaetophractus vellerosus                  • screaming hairy armadillo
+         |    |- • Chaetophractus villosus                    • big hairy armadillo
+         |    |- • Chaetophractus nationi                     • andean hairy armadillo
+         |[ unnamed ]                                        10 --
+         |- † unnamed                                         † --
+         |    |- † Pampatheriidae                             † pampatheres; "pampas beasts"
+         |    |    |- † Holmesina                             † holmesina
+         |    |    |- † Pampatherium                          † pampatherium
+         |    |- † Glyptodontinae                             † glyptodonts
+         |    |    |- † Glyptodontini                         † --
+         |    |    |    |- † Glyptotherium                    † glyptotherium
+         |    |    |    |- † Glyptodon                        † glyptodon
+         |    |    |[ † unnamed ]                             † "austral clade"
+         |    |    |- † Propalaehoplophorus                   † propalaehoplophorus
+         |    |    |- † Doedicurus                            † doedicurus
+         |    |    |- † Neosclerocalyptus                     † neosclerocalyptus
+         |    |    |- † Panochthus                            † panochthus
+         |- Chlamyphorinae                                    3 fairy armadillos
+         |    |- • Calyptophractus retusus                    • greater fairy armadillo
+         |    |[ Chlamyphorus ]                               2 --
+         |    |- • Chlamyphorus truncatus                     • pink fairy armadillo
+         |    |- • Euphractus sexcinctus                      • six-banded armadillo
+         |- Tolypeutinae                                      7 --
+         |    |- • Priodontes maximus                         • giant armadillo
+  14 mya |    |- Tolypeutes                                   2 three-banded armadillos
+         |    |    |- • Tolypeutes matacus                    • southern three-banded armadillo
+         |    |    |- • Tolypeutes tricinctus                 • brazilian three-banded armadillo
+  11 mya |    |- Cabassous                                    4 naked-tailed armadillos
+         |    |    |- • Cabassous tatouay                     • greater naked-tailed armadillo
+         |    |    |- • Cabassous chacoensis                  • chacoan naked-tailed armadillo
+         |    |    |- • Cabassous centralis                   • northern naked-tailed armadillo
+         |    |    |- • Cabassous unicinctus                  • southern naked-tailed armadillo

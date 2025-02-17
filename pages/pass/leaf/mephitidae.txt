@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Mephitidae
+-----------------------------------------------------------------------------------------------------
+  20 mya |[ Mephitidae ]                                     12 --
+         |- Mydaus                                            2 stink badgers
+         |    |- • Mydaus javanensis                          • indonesian sting badger / teledu
+         |    |- • Mydaus marchei                             • palawan stink badger
+  10 mya |- Conepatus                                         4 hog-nosed skunks
+         |    |- • Conepatus chinga                           • Molina's hog-nosed skunk
+         |    |- • Conepatus humboldtii                       • Humboldt's hog-nosed skunk
+         |    |- • Conepatus leuconotus                       • American hog-nosed skunk
+         |    |- • Conepatus semistriatus                     • striped hog-nosed skunk
+   3 mya |- Spilogale                                         4 spotted skunks
+         |    |- • Spilogale angustifrons                     • southern spotted skunk
+         |    |- • Spilogale gracilis                         • western spotted skunk
+         |    |- • Spilogale putorius                         • eastern spotted skunk
+         |    |- • Spilogale pygmaea                          • pygmy spotted skunk
+   3 mya |- Mephitis                                          2 --
+         |    |- • Mephitis macroura                          • hooded skunk
+         |    |- • Mephitis mephitis                          • striped skunk

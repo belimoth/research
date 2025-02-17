@@ -1,0 +1,26 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Pantestudines / Cryptodira / Panchelonioidea
+-----------------------------------------------------------------------------------------------------
+         |[ Panchelonioidea ]                                 7 sea turtles / marine turtles
+         |- † Toxochelys                                      † toxochelys
+         |- † Protostegidae                                   † --
+         |    |- † Archelon                                   † archelon
+         |    |- † Protostega                                 † protostega
+         |    |- † Ocepechelon                                † ocepechelon
+  55 mya |[ Chelonioidea ]                                    7 extant sea turtles / marine turtles
+         |- Dermochelyidae                                    1 --
+         |    |- † Mesodermochelys                            † mesodermochelys
+         |    |[ Dermochelyinae ]                             1 --
+         |    |- † Psephophorus                               † psephophorus
+         |    |- • Dermochelys coriacea                       • luth / lute turtle / leathery turtle / leatherback sea turtle
+  47 mya |- Cheloniidae                                       6 --
+         |    |- † Procolpochelys                             † procolpochelys
+         |    |- Cheloniinae                                  3 --
+         |    |    |- • Chelonia mydas                        • green sea turtle
+         |    |    |- • Eretmochelys imbricata                • hawksbill sea turtle
+         |    |    |- • Natator depressus                     • flatback sea turtle / australian flatback sea turtle
+         |    |- Carettinae                                   3 --
+         |    |    |- • Caretta Caretta                       • loggerhead sea turtle
+   5 mya |    |    |[ Lepidochelys ]                          2 --
+         |    |    |- • Lepidochelys kempii                   • kemp's ridley sea turtle
+         |    |    |- • Lepidochelys olivacea                 • olive ridley sea turtle

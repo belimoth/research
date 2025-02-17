@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida
+-----------------------------------------------------------------------------------------------------
+         |[ Synapsida ]                                         synapsids
+         |- † etc                                             † --
+         |[ Therapsida ]                                        therapsids
+         |- † etc                                             † --
+         |[ Cynodontia ]                                        cynodonts
+         |- † etc                                             † --
+ 180 mya |[ Mammalia ]                                          mammals
+         |- † Mesonychidae                                    † mesonychids; mesonychid condylarths
+         |- * Monotremata / Yinotheria                        5 monotremes
+ 160 mya |[ Theria ]                                            --
+         |- * Metatheria                                    336 metatherians
+  99 mya |[ Eutheria / Placentalia ]                            eutherians; placental mammals
+         |- † etc                                             † --
+         |- * Atlantogenata                                 125 --
+  94 mya |[ Boreoeutheria ]                                     --
+  87 mya |- * Euarchontoglires                                  --
+  86 mya |- * Laurasiatheria                                    --

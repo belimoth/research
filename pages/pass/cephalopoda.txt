@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda
+-----------------------------------------------------------------------------------------------------
+ 415 mya |[ Cephalopoda ]                                   802 cephalopods
+         |- † Ammonoidea                                      † ammonites
+         |- * Nautilida                                       9 nautilus
+ 287 mya |[ Coleoidea / Dibranchiata ]                      793 soft-bodied cephalopods
+         |- † etc                                             † --
+         |[ Neocoleoidea ]                                  793 --
+ 274 mya |- Decapodiformes                                  486 ten-limbed cephalopods
+         |    |- † Belemnitida                                † belemnites
+         |    |- * Spirulida                                  1 ramshorn squids
+         |    |- * Sepiida                                  116 cuttlefish
+         |    |- * Sepiolida                                 97 bobtail squids
+         |    |- * Idiosepida                                 7 squids 1; pygmy squids
+         |    |- * Myopsida                                  31 squids 2; myopsids; coastal squids
+         |    |- * Bathyteuthida                              6 squids 3
+ 274 mya |    |- * Oegopsida                                228 squids 4; oegopsids; neritic squids
+ 269 mya |[ Octopodiformes ]                                307 eight-limbed cephalopods
+         |- * Vampyroteuthidae                                1 vampire squids
+ 205 mya |[ Octopoda ]                                      306 octopuses
+ 136 mya |- * Incirrina / Incirrata / Octopodida            258 --
+  41 mya |- * Cirrina / Cirrata / Cirromorphida              48 cerate octopuses

@@ -1,0 +1,128 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Sciuromorpha / Xerinae
+-----------------------------------------------------------------------------------------------------
+http://www.snowleopardconservancy.org/pdf/SL_Survey_Cons_Handbook_Part_3.pdf
+-----------------------------------------------------------------------------------------------------
+         |[ Xerinae ]                                           terrestrial squirrels
+  24 mya |- Xerini                                            6 spiny squirrels
+         |    |- • Atlantoxerus getulus                       • barbary ground squirrel
+         |    |- • Euxerus erythropus                         • striped ground squirrel
+         |    |- • Geosciurus inauris                         • cape ground squirrel
+         |    |- • Geosciurus princeps                        • mountain ground squirrel
+         |    |- • Xerus rutilus                              • unstriped ground squirrel
+         |    |- • Spermophilopsis leptodactylus              • long-clawed ground squirrel
+         |- Protoxerini                                      31 --
+         |    |- • Epixerus ebii                              • ebian's palm squirrel / western palm squirrel
+         |    |- • Myosciurus pumilio                         • african pygmy squirrel
+         |    |- Protoxerus                                   2 african giant squirrels
+         |    |    |- • Protoxerus stangeri                   • forest giant squirrel / stanger's squirrel
+         |    |    |- • Allosciurus aubinnii                  • slender-tailed squirrel
+  12 mya |    |- Funisciurus                                 10 african striped squirrels / rope squirrels
+         |    |    |- • Funisciurus anerythrus                • thomas's rope squirrel
+         |    |    |- • Funisciurus bayonii                   • lunda rope squirrel
+         |    |    |- • Funisciurus carruthersi               • carruther's mountain squirrel
+         |    |    |- • Funisciurus congicus                  • congo rope squirrel
+         |    |    |- • Funisciurus duchaillui                • du chaillu's rope squirrel
+         |    |    |- • Funisciurus isabella                  • lady burton's rope squirrel
+         |    |    |- • Funisciurus lemniscatus               • ribboned rope squirrel
+         |    |    |- • Funisciurus leucogenys                • red-cheeked rope squirrel
+         |    |    |- • Funisciurus pyrropus                  • fire-footed rope squirrel
+         |    |    |- • Funisciurus substriatus               • kintampo rope squirrel
+  11 mya |    |- Paraxerus                                   11 african bush squirrels
+         |    |    |- • Paraxerus alexandri                   • alexander's bush squirrel
+         |    |    |- • Paraxerus boehmi                      • boehm's bush squirrel
+         |    |    |- • Paraxerus cepapi                      • smith's bush squirrel
+         |    |    |- • Paraxerus cooperi                     • cooper's mountain squirrel
+         |    |    |- • Paraxerus flavovittis                 • striped bush squirrel
+         |    |    |- • Paraxerus lucifer                     • black and red bush squirrel
+         |    |    |- • Paraxerus ochraceus                   • ochre bush squirrel
+         |    |    |- • Paraxerus palliatus                   • red bush squirrel
+         |    |    |- • Paraxerus poensis                     • green bush squirrel
+         |    |    |- • Paraxerus vexillarius                 • swynnerton's bush squirrel
+         |    |    |- • Paraxerus vincenti                    • vincent's bush squirrel
+   9 mya |    |- Heliosciurus                                 6 sun squirrels
+         |    |    |- • Heliosciurus gambianus                • gambian sun squirrel
+         |    |    |- • Heliosciurus mutabilis                • mutable sun squirrel
+         |    |    |- • Heliosciurus punctatus                • small sun squirrel
+         |    |    |- • Heliosciurus rufobrachium             • red-legged sun squirrel
+         |    |    |- • Heliosciurus ruwenzorii               • ruwenzori sun squirrel
+         |    |    |- • Heliosciurus undulatus                • zanj sun squirrel
+         |[ Marmotini ]                                      90 ground squirrels; marmots, chipmunks, prairie dogs, etc
+         |- Callospermophilus                                   --
+         |- Notocitellus                                        --
+         |- Otospermophilus                                     american rock squirrels
+         |- Poliocitellus                                       franklin's ground squirrel
+         |- Sciurotamias                                        chinese rock squirrels
+         |- Urocitellus                                         --
+         |- Xerospermophilus                                    --
+         |- Tamiina                                          25 chipmunks
+  16 mya |    |- Tamias                                       1 --
+         |    |    |- • Tamias striatus                       • eastern chipmunk
+         |    |- Eutamias                                     1 --
+         |    |    |- • Eutamias sibiricus                    • siberian chipmunk
+         |    |[ Neotamias ]                                 23 --
+         |    |- • Neotamias alpinus                          • alpine chipmunk
+         |    |- • Neotamias amoenus                          • yellow-pine chipmunk
+         |    |- • Neotamias bulleri                          • buller's chipmunk
+         |    |- • Neotamias canipes                          • gray-footed chipmunk
+         |    |- • Neotamias cinereicollis                    • gray-collared chipmunk
+         |    |- • Neotamias dorsalis                         • cliff chipmunk
+         |    |- • Neotamias durangae                         • durango chipmunk
+         |    |- • Neotamias merriami                         • merriam's chipmunk
+         |    |- • Neotamias minimus                          • least chipmunk
+         |    |- • Neotamias obscurus                         • california chipmunk
+         |    |- • Neotamias ochrogenys                       • yellow-cheeked chipmunk
+         |    |- • Neotamias palmeri                          • palmer's chipmunk
+         |    |- • Neotamias panamintinus                     • panamint chipmunk
+         |    |- • Neotamias quadrimaculatus                  • long-eared chipmunk
+         |    |- • Neotamias quadrivittatus                   • colorado chipmunk
+         |    |- • Neotamias ruficaudus                       • red-tailed chipmunk
+         |    |- • Neotamias rufus                            • hopi chipmunk
+         |    |- • Neotamias senex                            • allen's chipmunk
+         |    |- • Neotamias siskiyou                         • siskiyou chipmunk
+         |    |- • Neotamias sonomae                          • sonoma chipmunk
+         |    |- • Neotamias speciosus                        • lodgepole chipmunk
+         |    |- • Neotamias townsendii                       • townsend's chipmunk
+         |    |- • Neotamias umbrinus                         • uinta chipmunk
+         |- Marmotina                                        20 --
+   5 mya |    |- Marmota                                     15 marmots
+         |    |    |- • Marmota baibacina                     • gray marmot / altai marmot
+         |    |    |- • Marmota bobak                         • bobak marmot / steppe marmot
+         |    |    |- • Marmota broweri                       • alaska marmot
+         |    |    |- • Marmota camtschatica                  • black-capped marmot
+         |    |    |- • Marmota caudata                       • long-tailed marmot / golden marmot
+         |    |    |- • Marmota himalayana                    • himalayan marmot
+         |    |    |- • Marmota marmota                       • forest-stepp marmot
+         |    |    |- • Marmota menzbieri                     • menzbier's marmot
+         |    |    |- • Marmota monax                         • groundhog / woodchuck / whistlepig
+         |    |    |- • Marmota sibirica                      • tarvaga / tarbagan marmot / mongolian marmot
+         |    |    |[ Petromarmota ]                          4 --
+         |    |    |- • Marmota caligata                      • hoary marmot
+         |    |    |- • Marmota flaviventris                  • yellow-bellied marmot
+         |    |    |- • Marmota olympus                       • olympic marmot
+         |    |    |- • Marmota vancouveriensis               • vancouver island marmot
+   3 mya |    |- Cynomys                                      5 prarie dogs
+         |    |    |- • Cynomys gunnisoni                     • gunnison's prarie dog
+         |    |    |- • Cynomys leucurus                      • white-tailed prarie dog
+         |    |    |- • Cynomys ludovicianus                  • black-tailed prarie dog
+         |    |    |- • Cynomys mexicanus                     • mexican prarie dog
+         |    |    |- • Cynomys parvidens                     • utah prarie dog
+         |- Spermophilina                                       true ground squirrels
+   8 mya |    |- Spermophilus                                15 --
+         |    |    |- • Spermophilus alashanicus              • alashan ground squirrel
+         |    |    |- • Spermophilus brevicauda               • brandt's ground squirrel
+         |    |    |- • Spermophilus citellus                 • european ground squirrel
+         |    |    |- • Spermophilus dauricus                 • daurian ground squirrel
+         |    |    |- • Spermophilus erythrogenys             • red-cheeked ground squirrel
+         |    |    |- • Spermophilus fulvus                   • yellow ground squirrel
+         |    |    |- • Spermophilus major                    • russet ground squirrel
+         |    |    |- • Spermophilus musicus                  • caucasian mountain ground squirrel
+         |    |    |- • Spermophilus nilkaensis               • tian shan ground squirrel
+         |    |    |- • Spermophilus pallidicauda             • pallid ground squirrel
+         |    |    |- • Spermophilus pygmaeus                 • little ground squirrel
+         |    |    |- • Spermophilus relictus                 • relict ground squirrel
+         |    |    |- • Spermophilus suslicus                 • speckled ground squirrel
+         |    |    |- • Spermophilus taurensis                • taurus ground squirrel
+         |    |    |- • Spermophilus xanthoprymnus            • asia minor ground squirrel
+   3 mya |    |- Ammospermophilus                               --
+   2 mya |    |- Ictidomys                                      --

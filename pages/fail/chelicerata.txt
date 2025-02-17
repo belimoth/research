@@ -1,0 +1,220 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Chelicerata
+-----------------------------------------------------------------------------------------------------
+ 559 mya |[ Chelicerata ]                                       chelicerates
+         |- Pycnogonida / Pantopoda                         500 sea spiders
+         |[ Prosomapoda ]                                       --
+         |- Xiphosura                                         4 horseshoe crabs
+         |- † Eurypterida                                     † sea scorpions
+ 473 mya |[ Arachnida ]                                         arachnids
+         |- non-pulmonates                                      --
+         |    |- Acariformes                             32,000 mites #1
+         |    |- Parasitiformes                              -- mites #2
+         |    |- Opiliones                                6,500 harvestmen
+         |    |- Ricinulei                                   60 hooded tickspiders
+         |    |- Palpigradi                                  60 micro whipscorpions
+         |    |- Solifugae                                  900 camel spiders
+         |[ pulmonates ]                                        --
+         |- Panscorpiones                                       --
+         |    |- Pseudoscorpiones                         3,200 pseudoscorpions
+         |    |- Scorpiones                               1,400 scorpions
+         |[ Tetrapulmonata ]                                    --
+         |- Pedipalpi                                           --
+         |    |- Amblypygi                                  100 whip spiders
+         |    |[ Thelyphonida ]                                 --
+         |    |- Uropygi                                     90 vinegaroons / whip scorpions
+         |    |- Schizomida                                 180 sprickets / short-tailed whip scorpions
+ 350 mya |[ Araneae ]                                    50,300 spiders
+ >48 mya |- Mesothelae                                          primitive burrowing / tube-dwelling spiders
+ >23 mya |    |- Heptathelidae                                  --
+         |    |    |- Ganthela                                7 --
+         |    |    |- Heptathela                             20 --
+         |    |    |- Luthela                                 ? --
+         |    |    |- Qiongthela                             14 --
+         |    |    |- Ryuthela                                5 --
+         |    |    |- Songthela                              23 --
+         |    |    |- Vinathela                               7 --
+         |    |[ Liphistiidae ]                              71 burrowing / tube-dwelling spiders
+         |    |- Sinothela                                    4 --
+         |    |- Liphistius                                  67 --
+         |[ Opisthothelae ]                                     --
+ 296 mya |- Mygalomorphae                                 3,327 mygalomorphs / mygalomorph spiders
+         |     |- Avicularioidea                                avicularioids / avicularioid mygalomorph spiders
+         |     |     |- Ischnothelidae                       26 --
+         |     |     |- Microhexuridae / Microhexura          2 --
+         |     |     |- Hexathelidae                         47 --
+         |     |     |- Euagridae                             ? --
+         |     |     |- Porrhothelidae                        5 --
+         |     |     |- Macrothelidae                        42 --
+         |     |     |[ Bipectina ]                             --
+         |     |     |- Paratropididae                       19 baldlegged spiders
+         |     |     |[ unnamed ]                               --
+         |     |     |- unnamed                                 --
+         |     |     |    |- unnamed                            --
+         |     |     |    |    |- Stasimopidae               35 african cork-lid trapdoor spiders
+         |     |     |    |    |[ venom clade ]                 --
+         |     |     |    |    |- Atracidae                  36 australian funnel-web spiders
+         |     |     |    |    |- Actinopodidae             124 --
+         |     |     |    |[ Domiothelina ]                     --
+         |     |     |    |- Halonoproctidae                 93 --
+         |     |     |    |- Migidae                        103 tree trapdoor spiders
+         |     |     |    |- Idiopidae                      441 armoured trapdoor spiders
+         |     |     |    |- Ctenizidae                       5 --
+         |     |     |    |- Euctenizidae                    77 --
+         |     |     |[ Crassitarsae ]                          --
+         |     |     |- Theraphosoidina                         --
+         |     |     |    |- Bemmeridae                      50 --
+         |     |     |    |- Barychelidae                   285 brushed trapdoor spiders
+         |     |     |    |- Theraphosidae                1,100 tarantulas
+         |     |     |[ Nemesioidina ]                          --
+         |     |     |- Nemesiidae                          154 funnel-web trapdoor spiders / funnel-web tarantulas
+         |     |     |- Pycnothelidae                       139 --
+         |     |     |- Dipluridae                          140 curtain-web spiders
+         |     |     |- Cyrtaucheniidae                      93 wafer trapdoor spiders
+         |     |     |- Anamidae                            143 --
+         |     |     |- Entypesidae                          42 --
+         |     |     |- Microstigmatidae                     38 --
+         |     |[ Atypoidea ]                                   --
+         |     |- Hexurellidae / Hexurella                    4 --
+         |     |- Mecicobothriidae / Mecicobothrium           2 dwarf tarantulas / sheet funnel-web spiders
+         |     |- Atypidae                                   56 atypical tarantulas / purseweb spiders
+         |     |- Megahexuridae / Megahexura                  1 Megahexura fulva
+  91 mya |     |[ Antrodiaetidae ]                              folding trapdoor spiders
+         |     |- Aliatypus & Hexura                         16 north american folding trapdoor spiders
+         |     |- Antrodiaetus & Atypoides                   21 north american and japanese folding trapdoor spiders
+  66 mya |[ Araneomorphae ]                              46,770 --
+         |- Hypochilidae                                     33 lampshade spiders
+         |- Filistatidae                                    185 crevice weaver spiders
+         |- Synspermiata                                        --
+         |    |- Caponiidae                                 124 --
+         |    |- Diguetidae                                  16 coneweb spiders
+         |    |- Drymusidae                                  18 false violin spiders
+         |    |- Dysderidae                                 625 woodlouse-hunter spiders
+         |    |- Ochyroceratidae                            165 midget ground weavers
+         |    |- Oonopidae                                1,874 goblin spiders
+         |    |- Orsolobidae                                188 --
+         |    |- Pacullidae                                  39 --
+         |    |- Periegopidae / Periegops                     3 --
+         |    |- Pholcidae                                1,820 pholcids / pholcid spiders / cellar spiders
+         |    |- Plectreuridae                               32 plectreurids / plectreurid spiders
+         |    |- Scytodidae                                 252 spitting spiders
+         |    |- Segestriidae                               160 tube-dwelling spiders
+         |    |- Sicariidae                                 189 --
+         |    |- Telemidae                                  104 long-legged cave spiders
+         |    |- Tetrablemmidae                             142 armored spiders
+         |    |- Trogloraptoridae / Trogloraptor              1 Trogloraptor marchingtoni
+         |- Leptonetidae                                    365 leptonetids
+         |- Austrochiloidea                                     --
+         |    |- Gradungulidae                               16 large-clawed spiders
+         |    |- Austrochilidae                               9 --
+         |- Palpimanoidea                                       palpimanoids / assassin spider family
+         |    |- Archaeidae                                  90 assassin spiders / pelican spiders
+         |    |- Huttoniidae / Huttonia                       1 Huttonia palpimanoides
+         |    |- Mecysmaucheniidae                           25 --
+         |    |- Palpimanidae                               155 palp-footed spiders
+         |    |- Stenochilidae                               14 --
+>257 mya |[ Entelegynae ]                                       entelegynes
+         |- Eresidae                                        128 velvet spiders
+         |- unnamed                                             --
+         |    |- Nicodamoidea                                   --
+         |    |    |- Megadictynidae                          2 --
+         |    |    |- Nicodamidae                            31 red-and-black spiders
+         |    |[ Araneoidea ]                                   araneoids
+         |    |- Anapidae                                   232 --
+         |    |- Theridiidae                              3,028 tangle web spiders
+         |    |- Theridiosomatidae                          132 ray spiders
+         |    |- Synotaxidae                                 34 --
+         |    |- Araneidae                                3,108 orb weavers / orb weaver spiders
+         |    |- Nesticidae                                 288 scaffold web spiders
+         |    |- Synaphridae                                 13 --
+         |    |- Symphytognathidae                           73 dwarf orb weavers
+         |    |- Cyatholipidae                               59 --
+         |    |- Physoglenidae                               73 --
+         |    |- Pimoidae                                    85 --
+         |    |- Linyphiidae                              4,724 dwarf spiders
+         |    |- Mysmenidae                                 188 spurred orb weavers
+         |    |- Malkaridae                                  46 shield spiders
+         |    |- Mimetidae                                  152 pirate spiders
+         |    |- Arkyidae                                    43 triangular spiders
+         |    |- Tetragnathidae                             989 long-jawed orb weavers
+         |[ unnamed ]                                           --
+         |- Uloboridae                                      337 cribellate orb weavers / hackled orb weavers
+         |- Oecobioidea                                         --
+         |    |- Oecobiidae                                 144 disc web spiders
+         |    |- Hersiliidae                                206 tree trunk spiders
+         |- Deinopidae                                       67 net casting spiders
+         |- Titanoecidae                                     78 --
+ >74 mya |[ RTA clade ]                                  21,000 -- "retrolateral tibial apophysis"
+-----------------------------------------------------------------------------------------------------
+TODO
+-----------------------------------------------------------------------------------------------------
+  74 mya |[ RTA clade ]                                         --
+         |- etc                                                 --
+         |- Dionycha                                            --
+         |[ Oval calamistrum clade ]                            --
+         |- Udubidae                                         15 --
+         |[ Grate-shaped tapetum clade ]                        --
+         |- Zoropsidae                                          --
+         |- Lycosoidea                                          --
+-----------------------------------------------------------------------------------------------------
+TODO
+-----------------------------------------------------------------------------------------------------
+  74 mya |[ RTA clade ]                                         --
+         |- Agelenidae                                    1,374 funnel weavers / funnel web spiders
+         |- Amaurobiidae                                    286 tangled nest spiders
+         |- Ctenidae                                        533 wandering spiders
+         |- Desidae                                         330 includes intertidal spiders
+         |- Dictynidae                                      566 --
+         |- Oxyopidae                                       521 lynx spiders
+         |- Phyxelididae                                     68 lace web spiders
+         |- Pisauridae                                      508 nursery web spiders
+         |- Psechridae                                       70 --
+         |- Senoculidae                                      31 --
+         |- Stiphidiidae                                    126 sheet web spiders
+         |- Thomisidae                                    2,167 flower spiders / flower crab spiders
+         |- Trechaleidae                                    140 long-lgged water spiders
+         |- Zoropsidae                                      194 false wolf spiders
+-----------------------------------------------------------------------------------------------------
+TODO
+-----------------------------------------------------------------------------------------------------
+  74 mya |[ RTA clade ]                                         --
+         |- Zodariidae                                    1,259 ant spiders
+         |- Sparassidae                                   1,363 huntsman spiders / giant crab spiders
+         |- Lycosidae                                     2,457 wolf spiders
+         |[ Dionycha ]                                          --
+         |- Prodidomidae                                        long-spinneret ground spiders
+         |- Dionycha A                                          --
+         |    |- Trachycosmidae                             148 --
+         |    |- Clubionidae                                659 sac spiders
+         |    |- Anyphaenidae                               614 anyphaenids / anyphaenid sac spiders
+         |    |- Phrurolithidae                             360 guardstone spiders
+         |    |- Trachelidae                                271 ground sac spiders
+         |    |- Liocranidae                                296 liocranids / liocranid sac spiders
+         |    |- Gallieniellidae                             68 --
+         |    |- Cithaeronidae                               11 --
+         |    |- Trochanteriidae                             52 flat spiders
+         |    |- Gnaphosidae                              2,583 ground spiders
+         |    |- Lamponidae                                 198 white-tailed spiders
+         |[ Dionycha B ]                                        --
+         |- Philodromidae                                   648 philodromids / philodromid crab spiders / running crab spiders
+         |- Corinnidae                                      800 corinnids / corinnid sac spiders
+         |- Xenoctenidae                                     33 --
+         |- Miturgidae                                      167 long-legged sac spiders
+         |- Cheiracanthiidae                                363 --
+         |- Selenopidae                                     281 wall spiders / wall crab spiders
+         |- Viridasiidae                                      7 --
+         |[ Salticidae ]                                  6,433 salticids; jumping spiders
+         |- todo                                                --
+-----------------------------------------------------------------------------------------------------
+TODO
+-----------------------------------------------------------------------------------------------------
+         |[ Araneomorphae ]                                     --
+         |- Archoleptonetidae                                 8 --
+         |- Cybaeidae                                       303 --
+         |- Cycloctenidae                                    80 --
+         |- Hahniidae                                       353 dwarf sheet spiders
+         |- Homalonychidae                                    2 --
+         |- Myrmecicultoridae                                 1 --
+         |- Penestomidae                                      9 --
+         |- Psilodercidae                                   224 --
+         |- Toxopidae                                        82 --

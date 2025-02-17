@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Myriapoda
+-----------------------------------------------------------------------------------------------------
+ 503 mya |[ Myriapoda ]                                         myriapods
+ 432 mya |- Chilopoda                                           centipedes
+         |    |- Scutigeromorpha                                house centipedes; amamorpha 1
+ 397 mya |    |[ Pleurostigmophora ]                            --
+         |    |- Lithobiomorpha                                 stone centipedes; anamorpha 2
+         |    |[ Phylactometria ]                               --
+         |    |- Craterostigmomorpha                            --
+         |    |    |- • Craterostigmus crabilli               • new zealand remarkable centipede
+         |    |    |- • Craterostigmus tasmanianus            • tasmanian remarkable centipede
+         |    |[ Epimorpha ]                                    --
+         |    |- Scolopendromorpha                              tropical centipedes / bark centipedes
+         |    |- Geophilomorpha                                 soil centipedes
+         |- Symphala                                            symphalans
+         |- Pauropoda                                           pauropods
+         |- Diplopoda                                           millipedes

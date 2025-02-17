@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Tragulina
+-----------------------------------------------------------------------------------------------------
+         |[ Tragulina ]                                      10 chevrotains / mouse-deer
+  38 mya |- † Leptomeryx                                      † --
+  20 mya |[ Tragulidae ]                                     10 --
+         |- • Hyemoschus aquaticus                            • water chevrotain / fanged deer
+  11 mya |- Tragulus                                          6 mouse-deer
+         |    |- • Tragulus javanicus                         • java mouse-deer
+         |    |- • Tragulus kanchil                           • lesser mouse-deer / kanchil
+         |    |- • Tragulus napu                              • greater mouse-deer
+         |    |- • Tragulus nigricans                         • philippine mouse-deer
+         |    |- • Tragulus versicolor                        • vietnam mouse-deer
+         |    |- • Tragulus williamsoni                       • williamson's mouse-deer
+   2 mya |[ Moschiola ]                                       3 --
+         |- • Moschiola indica                                • indian spotted chevrotain
+         |- • Moschiola meminna                               • sri lankan spotted chevrotain
+         |- • Moschiola kathygre                              • yellow-striped chevrotain

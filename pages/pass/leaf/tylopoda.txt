@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Tylopoda
+-----------------------------------------------------------------------------------------------------
+         |[ Tylopoda ]                                        7 --
+  21 mya |[ Camelidae / Camelinae ]                           7 camelids; camels
+         |- Lamini / Lama                                     4 --
+         |    |- † Lama araucana                              † weke / huequq / chiliqeke / chilihueque (domesticated)
+         |    |- • Lama glama                                 • llama (domesticated)
+         |    |- • Lama guanicoe                              • guanico
+         |    |- • Lama pacos                                 • alpaca (domesticated)
+         |    |- • Lama vicugna                               • vicuña
+         |[ Camelini ]                                        3 --
+         |- † Camelops                                        † --
+   4 mya |[ Camelus ]                                         3 --
+         |- • Camelus dromedarius                             • dromedary
+         |- • Camelus ferus                                   • wild bactrian camel
+         |- • Camelus bactrianus                              • bactrian camel (domesticated)

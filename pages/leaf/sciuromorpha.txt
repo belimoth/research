@@ -1,0 +1,143 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Sciuromorpha
+-----------------------------------------------------------------------------------------------------
+  58 mya |[ Sciuromorpha ]                                  307 squirrel-like rodents
+         |- † Allomyidae                                      † --
+         |- † Reithroparamyidae                               † --
+         |- Aplodontiidae                                       --
+         |    |- Aplodontia                                   1 mountain beaver
+         |    |- † Mylagaulidae                               † mylagaulids
+  35 mya |- Gliridae                                         29 dormice
+  35 mya |[ Sciuridae ]                                         squirrels, chipmunks, marmots, flying squirrels, etc
+         |- • Sciurillus pusillus                             • neotropical pygmy squirrel
+         |- Ratufinae                                         4 oriental giant squirrels
+  >7 mya |    |[ Ratufa ]                                       --
+         |    |- • Ratufa affinis                             • pale giant squirrel
+         |    |- • Ratufa bicolor                             • black giant squirrel / malayan giant squirrel
+         |    |- • Ratufa indica                              • malabar giant squirrel / indiant giant squirrel
+         |    |- • Ratufa macroura                            • grizzled giant squirrel
+         |- Callosciurinae                                      asian ornate squirrels
+         |    |- Funambulini                                  5 palm squirrels
+         |    |- Callosciurini                               60 --
+         |- * Xerinae                                           terrestrial squirrels
+  24 mya |[ Sciurinae ]                                      89 --
+  17 mya |- Pteromyini                                       51 true flying squirrels
+         |    |- Glaucomyina                                 28 --
+         |    |    |- Eoglaucomys                             1 --
+         |    |    |    |- ◦ Eoglaucomys fimbriatus           ◦ kashmir flying squirrel
+         |    |    |- Glaucomys                               3 new world flying squirrels
+         |    |    |    |- • Glaucomys volans                 • assapan / southern flying squirrel
+         |    |    |    |- • Glaucomys sabrinus               • northern flying squirrel
+         |    |    |    |- ◦ Glaucomys oregonensis            ◦ humboldt's flying squirrel
+         |    |    |- Hylopetes                              10 --
+         |    |    |    |- ◦ Hylopetes alboniger              ◦ particolored flying squirrel
+         |    |    |    |- ◦ Hylopetes baberi                 ◦ afghan flying squirrel
+         |    |    |    |- ◦ Hylopetes bartelsi               ◦ bartel's flying squirrel
+         |    |    |    |- ◦ Hylopetes lepidus                ◦ gray-cheeked flying squirrel
+         |    |    |    |- ◦ Hylopetes nigripes               ◦ tapilak / palawan flying squirrel
+         |    |    |    |- ◦ Hylopetes phayrei                ◦ indochinese flying squirrel
+         |    |    |    |- ◦ Hylopetes platyurus              ◦ jentink's flying squirrel
+         |    |    |    |- ◦ Hylopetes sipora                 ◦ mentawi flying squirrel
+         |    |    |    |- ◦ Hylopetes spadiceus              ◦ red-cheeked flying squirrel
+         |    |    |    |- ◦ Hylopetes winstoni               ◦ sumatran flying squirrel
+         |    |    |- Iomys                                   2 --
+         |    |    |    |- ◦ Iomys horsfieldi                 ◦ javanese flying squirrel
+         |    |    |    |- ◦ Iomys sipora                     ◦ mentawi flying squirrel
+         |    |    |- Petaurillus                             3 pygmy flying squirrels
+         |    |    |    |- ◦ Petaurillus emiliae              ◦ lesser pygmy flying squirrel
+         |    |    |    |- ◦ Petaurillus hosei                ◦ hose's pygmy flying squirrel
+         |    |    |    |- ◦ Petaurillus kinlochii            ◦ selangor pygmy flying squirrel
+         |    |    |- Petinomys                               9 --
+         |    |    |    |- ◦ Petinomys crinitus               ◦ basilan flying squirrel
+         |    |    |    |- ◦ Petinomys fuscocapillus          ◦ travancore flying squirrel
+         |    |    |    |- ◦ Petinomys genibarbis             ◦ whiskered flying squirrel
+         |    |    |    |- ◦ Petinomys hageni                 ◦ hagen's flying squirrel
+         |    |    |    |- ◦ Petinomys lugens                 ◦ siberut flying squirrel
+         |    |    |    |- ◦ Petinomys mindanensis            ◦ mindanao flying squirrel
+         |    |    |    |- ◦ Petinomys sagitta                ◦ arrow flying squirrel
+         |    |    |    |- ◦ Petinomys setosus                ◦ temminck's flying squirrel
+         |    |    |    |- ◦ Petinomys vordermanni            ◦ vordermann's flying squirrel
+         |    |- Pteromyina                                  23 --
+         |    |    |- Aeretes                                 1 --
+         |    |    |    |- ◦ Aeretes melanopterus             ◦ groove-toothed flying squirrel / north chinese flying squirrel
+         |    |    |- Aeromys                                 2 large black flying squirrels
+         |    |    |    |- ◦ Aeromys tephromelas              ◦ black flying squirrel
+         |    |    |    |- ◦ Aeromys thomasi                  ◦ thomas's flying squirrel
+         |    |    |- Belomys                                 1 --
+         |    |    |    |- ◦ Belomys pearsonii                ◦ hairy-footed flying squirrel
+         |    |    |- Biswamoyopterus                         3 --
+         |    |    |    |- ◦ Biswamoyopterus biswasi          ◦ namdapha flying squirrel
+         |    |    |    |- ◦ Biswamoyopterus laoensis         ◦ laotian giant flying squirrel
+         |    |    |    |- ◦ Biswamoyopterus gaoligongen      ◦ mount gaoligong flying squirrel
+         |    |    |- Eupetaurus                              3 --
+         |    |    |    |- ◦ Eupetaurus cinereus              ◦ western wooly flying squirrel
+         |    |    |    |- ◦ Eupetaurus nivamons              ◦ yunnan wooly flying squirrel
+         |    |    |    |- ◦ Eupetaurus tibetensis            ◦ tibetan wooly flying squirrel
+ >10 mya |    |    |- Petaurista                              8 --
+         |    |    |    |- • Petaurista alborufus             • red and white giant flying squirrel
+         |    |    |    |- ◦ Petaurista elegans               ◦ spotted giant flying squirrel
+         |    |    |    |- ◦ Petaurista magnificus            ◦ hodgson's giant flying squirrel
+         |    |    |    |- ◦ Petaurista nobilis               ◦ bhutan giant flying squirrel
+         |    |    |    |- ◦ Petaurista philippensis          ◦ indian giant flying squirrel
+         |    |    |    |- ◦ Petaurista xanthotis             ◦ chinese giant flying squirrel
+         |    |    |    |- ◦ Petaurista leucogenys            ◦ japanese giant flying squirrel
+         |    |    |    |- • Petaurista petaurista            • red giant flying squirrel
+         |    |    |- Pteromys                                2 old world flying squirrel
+         |    |    |    |- ◦ Pteromys volans                  ◦ siberian flying squirrel
+         |    |    |    |- ◦ Pteromys momonga                 ◦ japanese dwarf flying squirrel
+         |    |    |- Pteromyscus                             1 --
+         |    |    |    |- ◦ Pteromyscus pulverulentus        ◦ smoky flying squirrel
+         |    |    |- Trogopterus                             1 --
+         |    |    |    |- ◦ Trogopterus xanthipes            ◦ complex-toothed flying squirrel
+  11 mya |- Sciurini                                         38 tree squirrels
+         |    |- Microsciurus                                 4 american dwarf squirrels
+         |    |    |- ◦ Microsciurus alfari                   ◦ central american dwarf squirrel
+         |    |    |- ◦ Microsciurus flaviventer              ◦ amazon dwarf squirrel
+         |    |    |- ◦ Microsciurus mimulus                  ◦ western dwarf squirrel
+         |    |    |- ◦ Microsciurus santanderensis           ◦ santander dwarf squirrel
+         |    |- Rheithrosciurus                              1
+         |    |    |- ◦ Rheithrosciurus macrotis              ◦ tufted ground squirrel
+         |    |- Sciurus                                     29 --
+         |    |    |- Sciurus                                14 --
+         |    |    |    |- ◦ Sciurus alleni                   ◦ allen's squirrel
+         |    |    |    |- ◦ Sciurus arizonensis              ◦ arizona gray squirrel
+         |    |    |    |- • Sciurus aureogaster              • mexican gray squirrel / red-bellied squirrel
+         |    |    |    |- • Sciurus carolinensis             • gray squirrel / eastern gray squirrel
+         |    |    |    |- ◦ Sciurus colliaei                 ◦ collie's squirrel
+         |    |    |    |- ◦ Sciurus deppei                   ◦ deppe's squirrel
+         |    |    |    |- ◦ Sciurus lis                      ◦ japanese squirrel
+         |    |    |    |- ◦ Sciurus meridionalis             ◦ calabrian black squirrel
+         |    |    |    |- ◦ Sciurus nayaritensis             ◦ mexican fox squirrel
+         |    |    |    |- • Sciurus niger                    • fox squirrel / eastern fox squirrel
+         |    |    |    |- ◦ Sciurus oculatus                 ◦ peters's squirrel
+         |    |    |    |- • Sciurus variegatoides            • variegated squirrel
+         |    |    |    |- • Sciurus vulgaris                 • red squirrel / eurasian red squirrel
+         |    |    |    |- ◦ Sciurus yucatanensis             ◦ yucatan squirrel
+         |    |    |- Otosciurus                              1 --
+         |    |    |    |- • Sciurus aberti                   • abert's squirrel / tassel-eared squirrel
+         |    |    |- Guerlinguetus                           8 --
+         |    |    |    |- ◦ Sciurus aestuans                 ◦ guianan squirrel / brazilian squirrel
+         |    |    |    |- ◦ Sciurus gilvigularis             ◦ yellow-throated squirrel
+         |    |    |    |- • Sciurus granatensis              • red-tailed squirrel
+         |    |    |    |- ◦ Sciurus ignitus                  ◦ bolivian squirrel
+         |    |    |    |- ◦ Sciurus pucheranii               ◦ andean squirrel
+         |    |    |    |- ◦ Sciurus richmondi                ◦ richmond's squirrel
+         |    |    |    |- ◦ Sciurus sanborni                 ◦ sanborn's squirrel
+         |    |    |    |- ◦ Sciurus stramineus               ◦ guayaquil squirrel
+         |    |    |- Tenes                                   1 --
+         |    |    |    |- ◦ Sciurus anomalus                 ◦ persian squirrel / caucasian squirrel
+         |    |    |- Hadrosciurus                            2 --
+         |    |    |    |- ◦ Sciurus flammifer                ◦ fiery squirrel
+         |    |    |    |- ◦ Sciurus pyrrhinus                ◦ junín red squirrel
+         |    |    |- Hesperosciurus                          1 --
+         |    |    |    |- • Sciurus griseus                  • western gray squirrel
+         |    |    |- Urosciurus                              2 --
+         |    |    |    |- ◦ Sciurus igniventris              ◦ northern amazon red squirrel
+         |    |    |    |- ◦ Sciurus spadiceus                ◦ southern amazon red squirrel
+         |    |- Syntheosciurus                               1 --
+         |    |    |- ◦ Syntheosciurus brochus                ◦ bangs's mountain squirrel
+         |    |- Tamiasciurus                                 4 pine squirrels
+         |    |    |- • Tamiasciurus douglasii                • chickaree / pillillooeet / pine squirrel / douglas squirrel
+         |    |    |- • Tamiasciurus fremonti                 • southwestern red squirrel
+         |    |    |- • Tamiasciurus hudsonicus               • american red squirrel
+         |    |    |- • Tamiasciurus mearnsi                  • mearns's squirrel

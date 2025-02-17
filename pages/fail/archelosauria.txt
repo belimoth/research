@@ -1,0 +1,47 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria
+-----------------------------------------------------------------------------------------------------
+ 261 mya |[ Archelosauria ]                                     archelosaurs
+         |- * Pantestudines                                     --
+         |[ Archosauromorpha ]                                  --
+         |- † etc                                             † --
+         |[ Crocopoda ]                                         --
+         |- † etc                                             † --
+         |[ Archosauriformes ]                                  --
+         |- † etc                                             † --
+         |[ Eucrocopoda ]                                       --
+         |- † etc                                             † --
+         [ Crurotarsi ]                                         --
+         |- † Phytosauria                                     † --
+ 245 mya |[ Archosauria ]                                       archosaurs
+         |- * Pseudosuchia                                      pseudosuchians; crocodilian-line archosaurs
+         |[ Avemetatarsalia ]                                   bird-line archosaurs
+         |- † Aphanosauria                                    † --
+         |[ Ornithodira ]                                       --
+         |- † Pterosauromorpha / Pterosauria                  † --
+         |[ Dinosauromorpha / Dinosauria ]                      --
+         |- † Ornithischia                                    † bird-hipped dinosaurs
+         |    |[ † Genasauria ]                               † --
+         |    |- † Thyreophora                                † --
+         |    |    |- † Stegosauria                           † stegosaurs
+         |    |    |- † Ankylosauria                          † ankylosaurs
+         |    |[ † Neornithiscia ]                            † --
+         |    |- † etc                                        † --
+         |    |[ † Cerapoda ]                                 † --
+         |    |- † Marginocephalia                            † --
+         |    |    |- † Pachycephalosauria                    † thick-headed dinosaurs
+         |    |    |- † Ceratopsia / Ceratopia                † ceratopsians / triceratops and relatives
+         |    |[ † Ornithopoda ]                              † --
+         |    |- † etc                                        † --
+         |    |[ † Iguanodontia ]                             † --
+         |    |- † etc                                        † --
+         |    |[ † Ankylopollexia ]                           † --
+         |    |- † etc, Camptosaurus                          † --
+         |    |[ † Styracosterna ]                            † --
+         |    |- † etc, Iguanodon                             † --
+         |    |[ † Hadrosauroidea ]                           † hadrosaurs / duck-billed dinosaurs
+         |[ Saurischia ]                                      † lizard-hipped dinosaurs
+         |- † Sauropodomorpha                                 † --
+ 231 mya |[ Theropoda ]                                         theropods
+         |- TODO                                                --
+ 108 mya |- * Aves                                              birds

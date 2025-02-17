@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia
+-----------------------------------------------------------------------------------------------------
+ 413 mya |[ Dicondylia ]                                        --
+ 401 mya |- * Pterygota                                         winged insects
+ 296 mya |- Zygentoma                                       560 silverfish, firebrats
+         |    |- Lepidotrichidae                              1 --
+         |    |    |- † Lepidotrix                            † lepidotrix
+         |    |    |- • Tricholepidion gertschi               • --
+         |    |- Nicoletiidae                                   --
+         |    |- Maindroniidae                                4 --
+         |    |- Protrinemuridae                              9 --
+         |    |    |- ◦ Protrinemurella allacrotelsoides      ◦ krabi silverfish
+         |    |    |- ◦ Protrinemuroides celebicus            ◦ sulawesi silverfish
+         |    |    |- Protrinemura                            3 --
+         |    |    |- Trinemophora                            4 --
+         |    |- Lepismatidae                               190
+         |    |    |-

@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Capreolinae
+-----------------------------------------------------------------------------------------------------
+         |[ Capreolinae ]                                    18 new world deer / telemetacarpal deer
+         |- Alceini                                           1 --
+         |    |- † Cervalces                                  † cervalces; giant moose
+         |    |- † Libralces                                  † libralces
+   5 mya |    |[ Alces ]                                      1 --
+         |    |- • Alces alces                                • moose
+         |- Capreolini                                        3 --
+   4 mya |    |- • Capreolus capreolus                        • roe / roe deer / western roe deer / european roe deer
+         |    |- • Capreolus pygargus                         • eastern roe deer / siberian roe deer / asian roe deer
+         |    |- • Hydropotes inermis                         • water deer
+         |- Rangifer / Rangiferini / Odocoileini             14 --
+         |    |- • Rangifer tarandus                          • caribou / reindeer
+         |    |- • Pudu puda                                  • southern pudu
+         |    |- • Mazama americana                           • red brocket
+         |    |- • Mazama bororo                              • small red brocket
+         |    |- • Mazama nana                                • pygmy brocket
+         |    |- • Mazama nemorivaga                          • small brown brocket / amazonian brown brocket
+         |    |- • Ozotoceros bezoarticus                     • pampas deer
+         |    |- • Hippocamelus antisensis                    • taruca / northern huemal / north andean huemul / north andean deer
+         |    |- • Blastocerus dichotomus                     • marsh deer
+         |    |- • Hippocamelus bisulcus                      • güemul / southern huemul / south andean huemul / south andean deer
+         |    |- • Mazama gouazoubira                         • brown brocket
+   2 mya |    |[ Odocoileus ]                                 3 --
+         |    |- • Odocoileus hemionus                        • mule deer
+         |    |- • Odocoileus pandora                         • yucatan brown brocket
+         |    |- • Odocoileus virginianus                     • white-tail / white-tailed deer

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae
+-----------------------------------------------------------------------------------------------------
+         |[ Ferae ]                                             --
+         |- * Pholidotamorpha / Pholidota sl                  4 pangolin family
+  55 mya |[ Carnivora sl / Pancarnivora ]                   292 carnivorans; carniverous mammals
+         |- † Hyaenodonta / Hyaenodontidae                    † hyenodonts; creodonta "creodonts" 1
+         |    |- † Hyaenodon                                  † hyaenodon
+         |- † Oxyaenodonta / Oxyaenidae                       † oxyaenids; creodonta "creodonts" 2
+         |    |- † Machaeroidinae / Machaeroides              † sabre-tooth oxyaenids
+         |    |- † Palaeonictis                               † --
+         |    |[ † Oxyaeninae ]                               † --
+         |    |- † Oxyaena                                    † --
+         |    |- † Patriofelis                                † --
+         |    |- † Sarkastodon                                † --
+         |- † Oxyaena                                         † --
+         |- † Patriofelis                                     † --
+         |- † Sarkastodon                                     † --
+         |[ Carnivoramorpha ]                                   --
+         |[ Carnivora ss ]                                      extant carnivorans
+  45 mya |- * Caniformia                                    170 dog-like carnivorans
+  44 mya |- * Feliformia                                        cat-like carnivorans

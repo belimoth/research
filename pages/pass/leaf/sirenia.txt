@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Paenungulatomorpha / Sirenia
+-----------------------------------------------------------------------------------------------------
+  32 mya |[ Sirenia ]                                         4 sirenians
+  13 mya |- Dugongidae                                        1 --
+         |    |- † Hydrodamalis gigas                         † steller's sea cow
+         |    |- [ Dugonginae ]                               1 --
+         |    |- • Dugong dugon                               • dugong
+   3 mya |- Trichechidae / Trichechinae                       3 manatees
+         |    |- • Trichechus inunguis                        • amazonian manatee
+         |    |- • Trichechus manatus                         • west indian manatee
+         |    |- • Trichechus senegalensis                    • african manatee

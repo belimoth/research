@@ -1,0 +1,660 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Archaeplastida / Angiosperms
+-----------------------------------------------------------------------------------------------------
+ 196 mya |[ Angiosperms ]                               258,650 --
+         |- Amborellales                                      1 new caledonia shrub
+         |- Nymphaeales                                      80 water lily, etc
+         |- Austrobaileyales                                100 star anise, etc
+ 163 mya |[ Mesangiosperms ]                                    --
+         |- Chloranthales                                    77 --
+ 145 mya |- Liliopsida / Monocotyledons                  70,000 lily family / monocots
+         |    |- Acorales                                       --
+         |    |- Alismatales                                    --
+         |    |    |- Alismataceae (including Limnocharitaceae) --
+         |    |    |- Aponogetonaceae                           --
+         |    |    |- Araceae                             4,025 arum family
+         |    |    |- Butomaceae                                --
+         |    |    |- Cymodoceaceae                             --
+         |    |    |- Hydrocharitaceae                          --
+         |    |    |- Juncaginaceae                             --
+         |    |    |- Maundiaceae                               --
+         |    |    |- Posidoniaceae                             --
+         |    |    |- Potamogetonaceae                          --
+         |    |    |- Ruppiaceae                                --
+         |    |    |- Scheuchzeriaceae                          --
+         |    |    |- Tofieldiaceae                             --
+         |    |    |- Zosteraceae                               --
+         |    |- Petrosaviales                                  --
+         |    |- Dioscoreales                                   --
+         |    |- Pandanales                                     --
+         |    |- Liliales                                       --
+         |    |- Asparagales                                    asparagoid lilies
+         |    |    |- Amaryllidaceae                            --
+         |    |    |- Asparagaceae                              --
+         |    |    |- Asphodelaceae                             --
+         |    |    |- Asteliaceae                               --
+         |    |    |- Blandfordiaceae                           --
+         |    |    |- Boryaceae                                 --
+         |    |    |- Doryanthaceae                             --
+         |    |    |- Hypoxidaceae                              --
+         |    |    |- Iridaceae                           2,025 iris family
+         |    |    |- Ixioliriaceae                             --
+         |    |    |- Lanariaceae                               --
+         |    |    |- Orchidaceae                        21,950 orchid family
+         |    |    |- Tecophilaeaceae                           --
+         |    |    |- Xeronemataceae                            --
+         |    |[ Commelinids ]                                  --
+         |    |- Arecales                                       --
+         |    |    |- Arecaceae                           2,361 palm family
+         |    |    |- Dasypogonaceae                            --
+         |    |- Poales                                         --
+         |    |    |- unnamed                                   bromeliad clade
+         |    |    |    |- Bromeliaceae                   3,540 bromeliad family
+         |    |    |    |- Typhaceae                            --
+         |    |    |- unnamed                                   cyperid clade
+         |    |    |    |- Mayacaceae                           --
+         |    |    |    |- Rapateaceae                          --
+         |    |    |    |- Thurniaceae                          --
+         |    |    |    |- Cyperaceae                     4,350 sedge family
+         |    |    |    |- Juncaceae                            --
+         |    |    |- unnamed                                   xyrid clade
+         |    |    |    |- Eriocaulaceae                        --
+         |    |    |    |- Xyridaceae                           --
+         |    |    |- unnamed                                   graminid clade
+         |    |    |    |- Flagellariaceae                      --
+         |    |    |    |- Poaceae / Gramineae           10,035 grass family
+         |    |    |    |- Ecdeiocoleaceae                      --
+         |    |    |    |- Joinvilleaceae                       --
+         |    |    |- unnamed                                   restiid clade
+         |    |    |    |- Anarthriaceae                        --
+         |    |    |    |- Centrolepidaceae                     --
+         |    |    |    |- Restionaceae                         --
+         |    |- Commelinales                                   --
+         |    |- Zingiberales                                   --
+ 134 mya |- Magnoliids                                          --
+         |    |- Canellales                                     --
+         |    |- Piperales                                      --
+         |    |    |- Aristolochiaceae                          --
+         |    |    |- Piperaceae                          3,600 pepper family
+         |    |    |- Saururaceae                               --
+         |    |- Magnoliales                                    --
+         |    |    |- Annonaceae                          2,220 soursop / custard apple family
+         |    |    |- Degeneriaceae                             --
+         |    |    |- Eupomatiaceae                             --
+         |    |    |- Himantandraceae                           --
+         |    |    |- Magnoliaceae                              --
+         |    |    |- Myristicaceae                             --
+         |    |[ Laurales ]                                     --
+         |    |- Atherospermataceae                          14 southern sassafrass
+         |    |- Calycanthaceae                              10 sweetshrubs / spicebushes
+         |    |- Gomortegaceae                                1 --
+         |    |- Hernandiaceae                               58 --
+         |    |- Monimiaceae                                217 --
+         |    |- Siparunaceae                                75 --
+         |    |[ Lauraceae ]                              2,850 laurels; cinnamon, cassia, camphor laurel, bay laurel, avocado, etc
+         |    |- todo                                          --
+         |- Ceratophyllales                                   6 --
+         |[ Eudicots ]                                  175,000 --
+         |- Ranunculales                                        --
+         |    |- Eupteleaceae                                   --
+         |    |- Papaveraceae                                   --
+         |    |- Circaeasteraceae                               --
+         |    |- Lardizabalaceae                                --
+         |    |- Menispermaceae                                 --
+         |    |- Berberidaceae                                  --
+         |    |- Ranunculaceae                            2,525 buttercup family
+         |- Proteales                                           --
+         |    |- Nelumbonaceae                                  --
+         |    |- Platanaceae                                    --
+         |    |- Proteaceae                               1,600 protea family
+         |    |- Sabiaceae                                      --
+         |- Trochodendrales                                     --
+         |- Buxales                                             --
+         |[ core eudicots ]                                     eueudicots lol
+         |- Gunnerales                                          --
+ 125 mya |[ Pentapetalae ]                                      --
+         |- Dilleniales                                         --
+         |- superrosids                                         --
+         |    |- Saxifragales                                   --
+ 123 mya |    |[ rosids ]                                       --
+         |    |- Vitales                                        --
+         |    |[ eurosids ]                                     --
+         |    |- fabids                                         --
+         |    |    |- Zygophyllales                             --
+         |    |    |- Celastrales                               --
+         |    |    |- Malpighiales                              --
+         |    |    |    |- Achariaceae                          --
+         |    |    |    |- Balanopaceae                         --
+         |    |    |    |- Bonnetiaceae                         --
+         |    |    |    |- Calophyllaceae                       --
+         |    |    |    |- Caryocaraceae                        --
+         |    |    |    |- Centroplacaceae                      --
+         |    |    |    |- Chrysobalanaceae                     --
+         |    |    |    |- Clusiaceae                           --
+         |    |    |    |- Ctenolophonaceae                     --
+         |    |    |    |- Dichapetalaceae                      --
+         |    |    |    |- Elatinaceae                          --
+         |    |    |    |- Erythroxylaceae                      --
+         |    |    |    |- Euphorbiaceae                  5,735 spurge family
+         |    |    |    |- Euphroniaceae                        --
+         |    |    |    |- Goupiaceae                           --
+         |    |    |    |- Humiriaceae                          --
+         |    |    |    |- Hypericaceae                         --
+         |    |    |    |- Irvingiaceae                         --
+         |    |    |    |- Ixonanthaceae                        --
+         |    |    |    |- Lacistemataceae                      --
+         |    |    |    |- Linaceae                             --
+         |    |    |    |- Lophopyxidaceae                      --
+         |    |    |    |- Malpighiaceae                        --
+         |    |    |    |- Ochnaceae                            --
+         |    |    |    |- Pandaceae                            --
+         |    |    |    |- Passifloraceae                       --
+         |    |    |    |- Peraceae                             --
+         |    |    |    |- Phyllanthaceae                 1,745 phyllanthus family
+         |    |    |    |- Picrodendraceae                      --
+         |    |    |    |- Podostemaceae                        --
+         |    |    |    |- Putranjivaceae                       --
+         |    |    |    |- Rafflesiaceae                        --
+         |    |    |    |- Rhizophoraceae                       --
+         |    |    |    |- Salicaceae                           --
+         |    |    |    |- Trigoniaceae                         --
+         |    |    |    |- Violaceae                            --
+         |    |    |- Oxalidales                                --
+         |    |    |- Fabales                                   --
+         |    |    |    |- Fabaceae / Leguminosae         9,400 legumes; bean family
+         |    |    |    |- Quillajaceae                         --
+         |    |    |    |- Polygalaceae                         milkwort family
+         |    |    |    |- Surianaceae                          --
+         |    |    |- Rosales                                   --
+         |    |    |    |- Barbeyaceae                          --
+         |    |    |    |- Cannabaceae                          hemp family
+         |    |    |    |- Dirachmaceae                         --
+         |    |    |    |- Elaeagnaceae                         oleaster / russian olive family
+         |    |    |    |- Moraceae                             mulberry family
+         |    |    |    |- Rhamnaceae                           buckthorn family
+         |    |    |    |- Rosaceae                       2,830 rose family
+         |    |    |    |- Ulmaceae                             elm family
+         |    |    |    |- Urticaceae                     2,625 nettle family
+         |    |    |- Cucurbitales                              --
+         |    |    |- Fagales                                   --
+>114 mya |    |[ malvids ]                                      --
+         |    |- Geraniales                                     --
+         |    |- Myrtales                                       --
+         |    |    |- Alzateaceae                               --
+         |    |    |- Combretaceae                              --
+         |    |    |- Crypteroniaceae                           --
+         |    |    |- Lythraceae                                --
+         |    |    |- Melastomataceae / Melastomaceae     5,005 melastome family
+         |    |    |- Myrtaceae                           4,625 myrtle family
+         |    |    |- Onagraceae                                --
+         |    |    |- Penaeaceae                                --
+         |    |    |- Vochysiaceae                              --
+         |    |- Crossosomatales                                --
+         |    |- Picramniales                                   --
+         |    |- Sapindales                                     --
+         |    |    |- Anacardiaceae                             --
+         |    |    |- Biebersteiniaceae                         --
+         |    |    |- Burseraceae                               --
+         |    |    |- Kirkiaceae                                --
+         |    |    |- Meliaceae                                 --
+         |    |    |- Nitrariaceae                              --
+         |    |    |- Rutaceae                            1,815 rue or citrus family
+         |    |    |- Sapindaceae                         1,580 soapberry family
+         |    |    |- Simaroubaceae                             --
+         |    |- Huerteales                                     --
+         |    |- Brassicales                                    --
+         |    |    |- Akaniaceae                                --
+         |    |    |- Bataceae                                  --
+         |    |    |- Brassicaceae / Cruciferae           3,710 mustard family / cabbage family / crucifers
+         |    |    |- Capparaceae                               --
+         |    |    |- Caricaceae                                --
+         |    |    |- Cleomaceae                                --
+         |    |    |- Emblingiaceae                             --
+         |    |    |- Gyrostemonaceae                           --
+         |    |    |- Koeberliniaceae                           --
+         |    |    |- Limnanthaceae                             --
+         |    |    |- Moringaceae                               --
+         |    |    |- Pentadiplandraceae                        --
+         |    |    |- Resedaceae                                --
+         |    |    |- Salvadoraceae                             --
+         |    |    |- Setchellanthaceae                         --
+         |    |    |- Tiganophytaceae                           --
+         |    |    |- Tovariaceae                               --
+         |    |    |- Tropaeolaceae                             --
+         |    |- Malvales                                       --
+         |    |    |- Bixaceae                                  --
+         |    |    |- Cistaceae                                 --
+         |    |    |- Cytinaceae                                --
+         |    |    |- Dipterocarpaceae                          --
+         |    |    |- Malvaceae                           4,225 mallow family
+         |    |    |- Muntingiaceae                             --
+         |    |    |- Neuradaceae                               --
+         |    |    |- Sarcolaenaceae                            --
+         |    |    |- Sphaerosepalaceae                         --
+         |    |    |- Thymelaeaceae                             --
+         |[ superasters ]                                       --
+         |- Santalales                                          --
+         |- Berberidopsidales                                   --
+         |- Caryophyllales                                      --
+         |    |- Achatocarpaceae                                --
+         |    |- Aizoaceae / Ficoidaceae                  2,020 fig-marigold family / ice plants
+         |    |- Amaranthaceae                            2,050 amaranth family
+         |    |- Anacampserotaceae                              --
+         |    |- Ancistrocladaceae                              --
+         |    |- Asteropeiaceae                                 --
+         |    |- Barbeuiaceae                                   --
+         |    |- Basellaceae                                    --
+         |    |- Cactaceae                                1,500 cactus family
+         |    |- Caryophyllaceae                          2,200 pink / carnation family
+         |    |- Didiereaceae                                   --
+         |    |- Dioncophyllaceae                               --
+         |    |- Droseraceae                                    --
+         |    |- Drosophyllaceae                                --
+         |    |- Frankeniaceae                                  --
+         |    |- Gisekiaceae                                    --
+         |    |- Halophytaceae                                  --
+         |    |- Kewaceae                                       --
+         |    |- Limeaceae                                      --
+         |    |- Lophiocarpaceae                                --
+         |    |- Macarthuriaceae                                --
+         |    |- Microteaceae                                   --
+         |    |- Molluginaceae                                  --
+         |    |- Montiaceae                                     --
+         |    |- Nepenthaceae                                   --
+         |    |- Nyctaginaceae                                  --
+         |    |- Petiveriaceae                                  --
+         |    |- Physenaceae                                    --
+         |    |- Phytolaccaceae                                 --
+         |    |- Plumbaginaceae                                 --
+         |    |- Polygonaceae                                   --
+         |    |- Portulacaceae                                  --
+         |    |- Rhabdodendraceae                               --
+         |    |- Sarcobataceae                                  --
+         |    |- Simmondsiaceae                                 --
+         |    |- Stegnospermataceae                             --
+         |    |- Talinaceae                                     --
+         |    |- Tamaricaceae                                   --
+ 115 mya |[ asterids ]                                          --
+         |- Cornales                                        600 --
+         |    |- Cornaceae                                   85 dogwood family
+         |    |- Curtisiaceae                                 1 cape lancewood
+         |    |- Grubbiaceae                                  3 sillyberry family
+         |    |- Hydrangeaceae                                  hydrangea family
+         |    |- Hydrostachyaceae                            22 --
+         |    |- Loasaceae                                  260 stickleaf family
+         |    |- Nyssaceae                                   37 tupelos
+ 107 mya |- Ericales                                      8,000 --
+         |    |- Actinidiaceae                              360 kiwifruit family
+         |    |- Balsaminaceae                            1,002 balsam family
+         |    |- Clethraceae                                 75 clethra family
+         |    |- Cyrillaceae                                  2 cyrilla family
+         |    |- Diapensiaceae                               15 --
+         |    |- Ebenaceae                                  768 ebony, persimmon family
+         |    |- Ericaceae                                4,350 heath, heather, rhododendron, blueberry family
+         |    |- Fouquieriaceae                              11 ocotillo family
+         |    |- Lecythidaceae                              300 brazil nut family
+         |    |- Marcgraviaceae                                 --
+         |    |- Mitrastemonaceae                             2 --
+         |    |- Pentaphylacaceae                               --
+         |    |- Polemoniaceae                              400 phlox family
+         |    |- Primulaceae                              2,790 primrose and snowbell family
+         |    |- Roridulaceae                                 2 "evergreen, insect-trapping shrubs"
+         |    |- Sapotaceae                                 800 sapodilla family
+  >44mya |    |- Sarraceniaceae                                 american pitcher plant family
+         |    |    |- Sarracenia                             11 north american pitcher plants / trumpet pitchers
+         |    |    |- Darlingtonia                            1 california pitcher plant / cobra lily
+         |    |    |- Heliamphora                            24 south american pitcher plants / sun pitchers
+         |    |- Sladeniaceae                                   --
+         |    |- Styracaceae                                160 silverbell family
+         |    |- Symplocaceae                               260 sapphireberry family
+         |    |- Tetrameristaceae                             3 --
+         |    |- Theaceae                                       tea and camellia family
+         |    |    |- Apterosperma                            1 --
+         |    |    |- Camellia                              220 camelias, including tea; 26,000 cultivars
+         |    |    |- Franklinia                              1 franklin tree
+         |    |    |- Gordonia                               40 --
+         |    |    |- Polyspora                              47 --
+         |    |    |- Pyrenaria                              27 --
+         |    |    |- Schima                                 30 --
+         |    |    |- Stewartia                              20 --
+         |[ euasterids ]                                        --
+ 106 mya |- campanulids                                         --
+         |    |- Aquifoliales                                   --
+         |    |- Asterales                                      --
+         |    |    |- Alseuosmiaceae                            --
+         |    |    |- Argophyllaceae                            --
+         |    |    |- Asteraceae / Compositae            22,750 asters; composites; daisy family
+         |    |    |- Calyceraceae                              --
+         |    |    |- Campanulaceae                       2,380 bellflower family
+         |    |    |- Goodeniaceae                              --
+         |    |    |- Menyanthaceae                             --
+         |    |    |- Pentaphragmataceae                        --
+         |    |    |- Phellinaceae                              --
+         |    |    |- Rousseaceae                               --
+         |    |    |- Stylidiaceae                              --
+         |    |- Escalloniales                                  --
+         |    |- Bruniales                                      --
+         |    |- Apiales                                        --
+         |    |    |- Apiaceae / Umbelliferae             3,780 parsley / carrot family
+         |    |    |- Araliaceae                          1,450 ginseng family
+         |    |    |- Griseliniaceae                            --
+         |    |    |- Myodocarpaceae                            --
+         |    |    |- Pennantiaceae                             --
+         |    |    |- Pittosporaceae                            --
+         |    |    |- Torricelliaceae                           --
+         |    |- Dipsacales                                     --
+         |    |- Paracryphiales                                 --
+ 109 mya |[ lamiids ]                                           --
+         |- Icacinales                                          --
+         |- Metteniusales                                       --
+         |- Garryales                                           --
+         |- Boraginales                                         --
+         |    |- Boraginaceae                             2,740 borage / forget-me-not family
+         |    |- Codonaceae                                     --
+         |    |- Coldeniaceae                                   --
+         |    |- Cordiaceae                                     --
+         |    |- Ehretiaceae                                    --
+         |    |- Heliotropiaceae                                --
+         |    |- Hoplestigmataceae                              --
+         |    |- Hydrophyllaceae                                --
+         |    |- Lennoaceae                                     --
+         |    |- Namaceae                                       --
+         |    |- Wellstediaceae                                 --
+         |- Gentianales                                         --
+         |    |- Apocynaceae                              4,555 dogbane family
+         |    |- Gelsemiaceae                                   --
+         |    |- Gentianaceae                             1,650 gentian family
+         |    |- Loganiaceae                                    --
+         |    |- Rubiaceae                               13,150 madder family
+  76 mya |- Lamiales                                            mint order
+         |    |- Acanthaceae                              3,500 acanthus family
+         |    |- Bignoniaceae                                   --
+         |    |- Byblidaceae                                    --
+         |    |- Calceolariaceae                                --
+         |    |- Carlemanniaceae                                --
+         |    |- Gesneriaceae                             3,870 gesneriad family
+         |    |- Lamiaceae / Labiatae                     7,175 mint / sage family
+         |    |- Linderniaceae                                  --
+         |    |- Lentibulariaceae                               --
+         |    |- Martyniaceae                                   --
+         |    |- Mazaceae                                       --
+         |    |- Oleaceae                                       --
+         |    |- Orobanchaceae                            2,060 broomrape family
+         |    |- Paulowniaceae                                  --
+         |    |- Pedaliaceae                                    --
+         |    |- Phrymaceae                                     --
+         |    |- Plantaginaceae                                 --
+         |    |- Plocospermataceae                              --
+         |    |- Schlegeliaceae                                 --
+         |    |- Scrophulariaceae                         1,700 figwort family
+         |    |- Stilbaceae                                     --
+         |    |- Tetrachondraceae                               --
+         |    |- Thomandersiaceae                               --
+  56 mya |    |- Verbenaceae                                800 verbena family / vervain family
+         |    |    |- Dipyrena                                2 --
+         |    |    |    |- ◦ Dipyrena glaberrima              ◦ --
+         |    |    |    |- ◦ Dipyrena spartioides             ◦ --
+         |    |    |- Rhaphithamnus                           2 --
+         |    |    |    |- ◦ Rhaphithamnus spinosus           ◦ repu / arayan macho / espino negro
+         |    |    |    |- • Rhaphithamnus venustus           • juan bueno
+         |    |    |- Casselieae                             15 --
+         |    |    |    |- Casselia                           7 --
+         |    |    |    |    |- ◦ Casselia chamaedryfolia     ◦ --
+         |    |    |    |    |- ◦ Casselia confertiflora      ◦ --
+         |    |    |    |    |- ◦ Casselia glaziovii          ◦ --
+         |    |    |    |    |- ◦ Casselia integrifolia       ◦ --
+         |    |    |    |    |- ◦ Casselia rosularis          ◦ --
+         |    |    |    |    |- ◦ Casselia serrata            ◦ --
+         |    |    |    |    |- ◦ Casselia zelota             ◦ --
+         |    |    |    |- Parodianthus                       2 --
+         |    |    |    |    |- ◦ Parodianthus capillaris     ◦ --
+         |    |    |    |    |- ◦ Parodianthus ilicifolius    ◦ --
+         |    |    |    |- Tamonea                            6 --
+         |    |    |    |    |- ◦ Tamonea boxiana             ◦ --
+         |    |    |    |    |- ◦ Tamonea curassavica         ◦ --
+         |    |    |    |    |- ◦ Tamonea euphrasiifolia      ◦ --
+         |    |    |    |    |- ◦ Tamonea juncea              ◦ --
+         |    |    |    |    |- ◦ Tamonea spicata             ◦ --
+         |    |    |    |    |- ◦ Tamonea subbiflora          ◦ --
+         |    |    |- Citharexyleae                         107 --
+         |    |    |    |- Citharexylum                     105 fiddlewoods / zitherwoods
+         |    |    |    |- Rehdera                            2 --
+         |    |    |    |    |- ◦ Rehdera penninervia         ◦ --
+         |    |    |    |    |- ◦ Rehdera trinervis           ◦ --
+         |    |    |- Duranteae                                 --
+         |    |    |    |- Bouchea                           13 --
+         |    |    |    |- Chascanum                         27 --
+         |    |    |    |- Duranta                           31 --
+         |    |    |    |- Recordia                           2 --
+         |    |    |    |- Stachytarpheta                   120 --
+         |    |    |- Lantaneae                                 --
+         |    |    |    |- Aloysia                           36 beebrushes
+         |    |    |    |- Burroughsia                        2 --
+         |    |    |    |- Coelocarpum                        6 --
+         |    |    |    |- Diphyllocalyx                      6 --
+         |    |    |    |- Isidroa                            1 --
+         |    |    |    |    |- ◦ Isidroa spinifera           ◦ --
+         |    |    |    |- Lantana                          100 lantanas / shrub verbenas
+         |    |    |    |- Lippia                           140 --
+         |    |    |    |    |- • Lippia abyssinica           • ኮሰረት / koseret
+         |    |    |    |    |- • Lippia alba                 • poleo / pitiona / juanilama / pamporegano / hierba negra / white lippia / bushy lippia / bushy matgrass
+         |    |    |    |    |- ◦ Lippia carterae             ◦ licorice verbena
+         |    |    |    |    |- ◦ Lippia durangensis          ◦ --
+         |    |    |    |    |- • Lippia graveolens           • scented lippia, scented matgrass / mexican oregano / redbrush lippia
+         |    |    |    |    |- ◦ Lippia javanica             ◦ --
+         |    |    |    |    |- ◦ Lippia kituiensis           ◦ --
+         |    |    |    |    |- ◦ Lippia micromera            ◦ spanish thyme
+         |    |    |    |    |- ◦ Lippia multiflora           ◦ --
+         |    |    |    |    |- ◦ Lippia myriocephala         ◦ --
+         |    |    |    |    |- ◦ Lippia palmeri              ◦ --
+         |    |    |    |    |- ◦ Lippia pretoriensis         ◦ --
+         |    |    |    |    |- ◦ Lippia rehmannii            ◦ --
+         |    |    |    |    |- ◦ Lippia salicifolia          ◦ --
+         |    |    |    |    |- ◦ Lippia scaberrima           ◦ --
+         |    |    |    |    |- ◦ Lippia sidoides             ◦ --
+         |    |    |    |    |- ◦ Lippia substrigosa          ◦ --
+         |    |    |    |    |- ◦ Lippia thymoides            ◦ --
+         |    |    |    |    |- 122 more                    122 more
+         |    |    |    |- Nashia                             8 --
+         |    |    |    |    |- • Nashia inaguensis           • el tuque / moujean tea / bahamas berry / pineapple verbena
+         |    |    |    |    |- ◦ Nashia armata               ◦ --
+         |    |    |    |    |- ◦ Nashia cayensis             ◦ --
+         |    |    |    |    |- ◦ Nashia inaguensis           ◦ --
+         |    |    |    |    |- ◦ Nashia myrtifolia           ◦ --
+         |    |    |    |    |- ◦ Nashia nipensis             ◦ --
+         |    |    |    |    |- ◦ Nashia spinifera            ◦ --
+         |    |    |    |    |- ◦ Nashia variifolia           ◦ --
+         |    |    |    |- Phyla                              8 frogfruits
+         |    |    |    |    |- ◦ Phyla canescens             ◦ hairy frogfruit
+         |    |    |    |    |- ◦ Phyla chinensis             ◦ --
+         |    |    |    |    |- ◦ Phyla cuneifolia            ◦ wedgeleaf / wedgeleaf frogfruit
+         |    |    |    |    |- • Phyla dulcis                • tzopelic-xihuitl / hierba dulce / honeyherb / aztec sweet herb
+         |    |    |    |    |- ◦ Phyla fruticosa             ◦ diamondleaf frogfruit
+         |    |    |    |    |- • Phyla lanceolata            • lanceleaf frogfruit
+         |    |    |    |    |- • Phyla nodiflora             • turkey tangle / sawtooth frogfruit
+         |    |    |    |    |- ◦ Phyla stoechadifolia        ◦ southern frogfruit
+         |    |    |- Neospartoneae                             --
+         |    |    |    |- Diostea                            1 --
+         |    |    |    |- Lampayo                            3 --
+         |    |    |    |- Neosparton                         3 --
+         |    |    |- Petreeae                                  --
+         |    |    |    |- Petrea                            12 sandpaper vines
+         |    |    |- Priveae                                   --
+         |    |    |    |- Pitraea                            1 --
+         |    |    |    |- Priva                             20 --
+  11 mya |    |    |- Verbeneae                                 --
+         |    |    |    |- Glandularia                       88 --
+         |    |    |    |- Hierobotana                        1 --
+         |    |    |    |- Junellia                          38 --
+         |    |    |    |- Mulguraea                         11 --
+         |    |    |    |- Verbena                           57 --
+  89 mya |- Solanales                                           --
+         |    |- Convolvulaceae                           1,600 bindweed family
+  12 mya |    |- Hydroleaceae                                11 false fiddleleafs
+         |    |    |- ◦ Hydrolea brevistyla                   ◦ --
+         |    |    |- ◦ Hydrolea corymbosa                    ◦ --
+         |    |    |- ◦ Hydrolea elatior                      ◦ --
+         |    |    |- ◦ Hydrolea floribunda                   ◦ --
+         |    |    |- ◦ Hydrolea macrosepala                  ◦ --
+         |    |    |- • Hydrolea ovata                        • blue waterleaf / ovate false fiddleleaf
+         |    |    |- ◦ Hydrolea palustris                    ◦ --
+         |    |    |- • Hydrolea quadrivalvis                 • waterpod
+         |    |    |- ◦ Hydrolea spinosa                      ◦ --
+         |    |    |- ◦ Hydrolea uniflora                     ◦ --
+         |    |    |- ◦ Hydrolea zeylanica                    ◦ --
+  47 mya |    |- Montiniaceae                                 5 --
+         |    |    |- Grevea                                  3 --
+         |    |    |    |- ◦ Grevea bosseri                   ◦ --
+         |    |    |    |- ◦ Grevea eggelingii                ◦ --
+         |    |    |    |- ◦ Grevea madagascariensis          ◦ --
+         |    |    |- Kaliphora                               1 --
+         |    |    |    |- ◦ Kaliphora madagascarensis        ◦ --
+         |    |    |- Montinia                                1 --
+         |    |    |    |- ◦ Montinia caryophyllacea          ◦ --
+  51 mya |    |- Solanaceae                               2,460 nightshade family
+         |    |    |- Cestroideae                           185 --
+  12 mya |    |    |    |- Browallieae                        8 --
+         |    |    |    |    |- Browallia                     7 --
+         |    |    |    |    |    |- ◦ Browallia abbreviata   ◦ --
+         |    |    |    |    |    |- ◦ Browallia acutiloba    ◦ --
+         |    |    |    |    |    |- • Browallia americana    • bush violet / amethyst flower / jamaican forget-me-not
+         |    |    |    |    |    |- ◦ Browallia dilloniana   ◦ --
+         |    |    |    |    |    |- ◦ Browallia eludens      ◦ yellow bush violet / arizona bush violet
+         |    |    |    |    |    |- ◦ Browallia mirabilis    ◦ --
+         |    |    |    |    |    |- • Browallia speciosa     • bush violet / amethyst flower
+         |    |    |    |    |- Streptosolen                  1 --
+         |    |    |    |    |    |- • Streptosolen jamesonii • fire bush / marmalade bush
+         |    |    |    |- Cestreae                         170 --
+         |    |    |    |    |- Cestrum                     150 cestrums / jessamines
+         |    |    |    |    |    |- ◦ Cestrum ambatense      ◦ --
+         |    |    |    |    |    |- • Cestrum aurantiacum    • orange cestrum / yellow cestrum
+         |    |    |    |    |    |- ◦ Cestrum auriculatum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum bracteatum     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum buxifolium     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum chimborazinum  ◦ --
+         |    |    |    |    |    |- ◦ Cestrum corymbosum     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum daphnoides     ◦ --
+         |    |    |    |    |    |- • Cestrum diurnum        • day-blooming cestrum
+         |    |    |    |    |    |- ◦ Cestrum ecuadorense    ◦ --
+         |    |    |    |    |    |- • Cestrum elegans        • red cestrum / purple cestrum / bastard jasmine
+         |    |    |    |    |    |- ◦ Cestrum endlicheri     ◦ --
+         |    |    |    |    |    |- • Cestrum fasciculatum   • red cestrum / early jessamine
+         |    |    |    |    |    |- ◦ Cestrum humboldtii     ◦ --
+         |    |    |    |    |    |- • Cestrum laevigatum     • -- (entheogenic)
+         |    |    |    |    |    |- ◦ Cestrum lanceolatum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum lanuginosum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum latifolium     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum laurifolium    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum meridanum      ◦ --
+         |    |    |    |    |    |- ◦ Cestrum mutisii        ◦ --
+         |    |    |    |    |    |- • Cestrum nocturnum      • night-blooming cestrum / poisonberry / raat ki rani
+         |    |    |    |    |    |- ◦ Cestrum pacificum      ◦ --
+         |    |    |    |    |    |- • Cestrum parqui         • palqui / green cestrum / chilean cestrum / green poisonberry
+         |    |    |    |    |    |- ◦ Cestrum peruvianum     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum petiolare      ◦ --
+         |    |    |    |    |    |- ◦ Cestrum psittacinum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum quitense       ◦ --
+         |    |    |    |    |    |- ◦ Cestrum roseum         ◦ --
+         |    |    |    |    |    |- ◦ Cestrum salicifolium   ◦ --
+         |    |    |    |    |    |- ◦ Cestrum santanderianum ◦ --
+         |    |    |    |    |    |- ◦ Cestrum sendtnerianum  ◦ --
+         |    |    |    |    |    |- ◦ Cestrum sessiliflorum  ◦ --
+         |    |    |    |    |    |- ◦ Cestrum stipulatum     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum strigilatum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum stuebelii      ◦ --
+         |    |    |    |    |    |- ◦ Cestrum thyrsoideum    ◦ --
+         |    |    |    |    |    |- ◦ Cestrum tomentosum     ◦ --
+         |    |    |    |    |    |- ◦ Cestrum validum        ◦ --
+         |    |    |    |    |    |- ◦ Cestrum viridifolium   ◦ --
+         |    |    |    |    |    |- 110 more               110 more
+         |    |    |    |    |- Sessea                       19 --
+         |    |    |    |    |    |- ◦ Sessea andina          ◦ --
+         |    |    |    |    |    |- ◦ Sessea brasiliensis    ◦ --
+         |    |    |    |    |    |- ◦ Sessea colombiana      ◦ --
+         |    |    |    |    |    |- ◦ Sessea confertiflora   ◦ --
+         |    |    |    |    |    |- ◦ Sessea corymbiflora    ◦ --
+         |    |    |    |    |    |- ◦ Sessea crassivenosa    ◦ --
+         |    |    |    |    |    |- ◦ Sessea dependens       ◦ --
+         |    |    |    |    |    |- ◦ Sessea discolor        ◦ --
+         |    |    |    |    |    |- ◦ Sessea farinosa        ◦ --
+         |    |    |    |    |    |- ◦ Sessea graciliflora    ◦ --
+         |    |    |    |    |    |- ◦ Sessea herzogii        ◦ --
+         |    |    |    |    |    |- ◦ Sessea macrophylla     ◦ --
+         |    |    |    |    |    |- ◦ Sessea multinervia     ◦ --
+         |    |    |    |    |    |- ◦ Sessea pedicellata     ◦ --
+         |    |    |    |    |    |- ◦ Sessea regnellii       ◦ --
+         |    |    |    |    |    |- ◦ Sessea sodiroi         ◦ --
+         |    |    |    |    |    |- ◦ Sessea stipulata       ◦ --
+         |    |    |    |    |    |- ◦ Sessea tipocochensis   ◦ --
+         |    |    |    |    |    |- ◦ Sessea weberbaueri     ◦ --
+         |    |    |    |    |- Vestia                        1 --
+         |    |    |    |    |    |- • Vestia foetida         • huevil / chuplin / chilean box thorn
+         |    |    |    |- Salpiglossideae                    7 --
+         |    |    |    |    |- Reyesia                       4 --
+         |    |    |    |    |    |- ◦ Reyesia cactorum       ◦ --
+         |    |    |    |    |    |- ◦ Reyesia chilensis      ◦ --
+         |    |    |    |    |    |- ◦ Reyesia juniperoides   ◦ --
+         |    |    |    |    |    |- ◦ Reyesia parviflora     ◦ --
+         |    |    |    |    |- Salpiglossis                  3 --
+         |    |    |    |    |    |- ◦ Salpiglossis arniatera ◦ --
+         |    |    |    |    |    |- • Salpiglossis sinuata   • painted tongue / scalloped tupe tongue / velvet trumpet flower / palito amargo / panza de burro
+         |    |    |    |    |    |- ◦ Salpiglossis spinescens◦ --
+         |    |    |- Goetzeoideae                              --
+         |    |    |- Nicotianoideae                            --
+         |    |    |- Petunioideae                              --
+         |    |    |- Schizanthoideae                           --
+         |    |    |- Schwenckioideae                           --
+         |    |    |- Solanoideae                               --
+         |    |- Sphenocleaceae                               2 --
+         |    |    |- • Sphenoclea zeylanica                  • chickenspike / gooseweed / wedgewort
+         |    |    |- ◦ Sphenoclea pongatium                  ◦ --
+  19 mya |- Vahliales / Vahliaceae                            5 --
+         |    |- ◦ Vahlia capensis                            ◦ --
+         |    |- ◦ Vahlia dichotoma                           ◦ --
+         |    |- ◦ Vahlia digyna                              ◦ --
+         |    |- ◦ Vahlia geminiflora                         ◦ --
+         |    |- ◦ Vahlia somalensis                          ◦ --
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Vombatiformes
+-----------------------------------------------------------------------------------------------------
+         |[ Vombatiformes ]                                   4 --
+         |- † Diprotodontoidea                                † --
+         |    |- † Palorchestidae                             † "marsupial tapirs"
+         |    |[ † Diprotodontidae ]                          † --
+         |    |- † Nimbadon                                   † nimbadon; koala-like tree wombat
+         |    |- † Diprotodon                                 † diprotodon; largest marsupial
+         |    |- † Silvabestius                               † --
+         |    |- † Zygomaturus                                † --
+         |- † Thylacoleonidae                                 † thylacoleonids; marsupial lions
+         |- • Phascolarctos cinereus                          • koala
+  10 mya |[ Vombatomorphia / Vombatidae ]                     3 wombats
+         |- † Phascolonus                                     † giant wombat
+         |- • Vombatus ursinus                                • common wombat
+  10 mya |[ Lasiorhinus ]                                     2 hairy-nosed wombats
+         |- • Lasiorhinus krefftii                            • yaminon / northern hairy-nosed wombat
+         |- • Lasiorhinus latifrons                           • southern hairy-nosed wombat

@@ -1,0 +1,268 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Hymenoptera / Formicidae
+-----------------------------------------------------------------------------------------------------
+ 155 mya |[ Formicoidea / Formicidae ]                          ants
+         |- Martialinae                                       1 --
+         |    |- ◦ Martialis heureka                          ◦ --
+         |- Leptanillinae                                    68 --
+         |    |- Anomalomyrmini                              17 --
+         |    |    |- ◦ Furcotanilla furcomandibula           ◦ --
+         |    |    |- ◦ Anomalomyrma boltoni                  ◦ --
+         |    |    |- ◦ Anomalomyrma helenae                  ◦ --
+         |    |    |- ◦ Anomalomyrma taylori                  ◦ --
+         |    |    |[ Protanilla ]                           13 --
+         |    |    |- ◦ Protanilla beijingensis               ◦ --
+         |    |    |- ◦ Protanilla bicolor                    ◦ --
+         |    |    |- ◦ Protanilla concolor                   ◦ --
+         |    |    |- ◦ Protanilla flamma                     ◦ --
+         |    |    |- ◦ Protanilla furcomandibula             ◦ --
+         |    |    |- ◦ Protanilla gengma                     ◦ --
+         |    |    |- ◦ Protanilla izanagi                    ◦ --
+         |    |    |- ◦ Protanilla jongi                      ◦ --
+         |    |    |- ◦ Protanilla lini                       ◦ --
+         |    |    |- ◦ Protanilla rafflesi                   ◦ --
+         |    |    |- ◦ Protanilla schoedli                   ◦ --
+         |    |    |- ◦ Protanilla tibeta                     ◦ --
+         |    |    |- ◦ Protanilla wardi                      ◦ --
+         |    |- Leptanillini                                51 --
+         |    |    |- ◦ Noonilla copiosa                      ◦ --
+         |    |    |- ◦ Phaulomyrma javana                    ◦ --
+         |    |    |- ◦ Scyphodon anomalum                    ◦ --
+         |    |    |- ◦ Yavnella argamani                     ◦ --
+         |    |    |- ◦ Yavnella indica                       ◦ --
+         |    |    |[ Leptanilla ]                           46 --
+         |    |    |- ◦ Leptanilla africana                   ◦ --
+         |    |    |- ◦ Leptanilla alexandri                  ◦ --
+         |    |    |- ◦ Leptanilla astylina                   ◦ --
+         |    |    |- ◦ Leptanilla australis                  ◦ --
+         |    |    |- ◦ Leptanilla besucheti                  ◦ --
+         |    |    |- ◦ Leptanilla bifurcata                  ◦ --
+         |    |    |- ◦ Leptanilla boltoni                    ◦ --
+         |    |    |- ◦ Leptanilla buddhista                  ◦ --
+         |    |    |- ◦ Leptanilla butteli                    ◦ --
+         |    |    |- ◦ Leptanilla charonea                   ◦ --
+         |    |    |- ◦ Leptanilla clypeata                   ◦ --
+         |    |    |- ◦ Leptanilla doderoi                    ◦ --
+         |    |    |- ◦ Leptanilla escheri                    ◦ --
+         |    |    |- ◦ Leptanilla exigua                     ◦ --
+         |    |    |- ◦ Leptanilla havilandi                  ◦ --
+         |    |    |- ◦ Leptanilla hunanensis                 ◦ --
+         |    |    |- ◦ Leptanilla hypodracos                 ◦ --
+         |    |    |- ◦ Leptanilla islamica                   ◦ --
+         |    |    |- ◦ Leptanilla israelis                   ◦ --
+         |    |    |- ◦ Leptanilla japonica                   ◦ --
+         |    |    |- ◦ Leptanilla judaica                    ◦ --
+         |    |    |- ◦ Leptanilla kebunraya                  ◦ --
+         |    |    |- ◦ Leptanilla kubotai                    ◦ --
+         |    |    |- ◦ Leptanilla kunmingensis               ◦ --
+         |    |    |- ◦ Leptanilla lamellata                  ◦ --
+         |    |    |- ◦ Leptanilla macauensis                 ◦ --
+         |    |    |- ◦ Leptanilla minuscula                  ◦ --
+         |    |    |- ◦ Leptanilla morimotoi                  ◦ --
+         |    |    |- ◦ Leptanilla nana                       ◦ --
+         |    |    |- ◦ Leptanilla oceanica                   ◦ --
+         |    |    |- ◦ Leptanilla ortunoi                    ◦ --
+         |    |    |- ◦ Leptanilla palauensis                 ◦ --
+         |    |    |- ◦ Leptanilla plutonia                   ◦ --
+         |    |    |- ◦ Leptanilla poggii                     ◦ --
+         |    |    |- ◦ Leptanilla revelierii                 ◦ --
+         |    |    |- ◦ Leptanilla santschii                  ◦ --
+         |    |    |- ◦ Leptanilla swani                      ◦ --
+         |    |    |- ◦ Leptanilla taiwanensis                ◦ --
+         |    |    |- ◦ Leptanilla tanakai                    ◦ --
+         |    |    |- ◦ Leptanilla tanit                      ◦ --
+         |    |    |- ◦ Leptanilla tenuis                     ◦ --
+         |    |    |- ◦ Leptanilla thai                       ◦ --
+         |    |    |- ◦ Leptanilla theryi                     ◦ --
+         |    |    |- ◦ Leptanilla vaucheri                   ◦ --
+         |    |    |- ◦ Leptanilla yunnanensis                ◦ --
+         |    |    |- ◦ Leptanilla zaballosi                  ◦ --
+         |- Poneroid                                            --
+  89 mya |    |- Ponerinae                                      --
+         |    |- Agroecomyrmecinae                              --
+         |    |- Paraponerinae                                  --
+         |    |- Proceratiinae                                  --
+         |    |- Amblyoponinae                                  --
+         |    |- Apomyrminae                                    --
+         |[ Formicoid ]                                         --
+         |- Dorylinae                                           --
+         |[ unnamed ]                                           --
+         |- Myrmiciinae                                         --
+         |    |- • Nothomyrmecia macrops                      • dawn ant / dinosaur ant
+         |    |- Myrmecia                                       bull ants / bulldog ants / jack jumper ants
+  82 mya |- Ectatomminae                                        --
+         |    |- Typhlomymex                                    --
+         |    |    |- ◦ Typhlomyrmex clavicornis              ◦ --
+         |    |    |- ◦ Typhlomyrmex foreli                   ◦ --
+         |    |    |- ◦ Typhlomyrmex major                    ◦ --
+         |    |    |- ◦ Typhlomyrmex meire                    ◦ --
+         |    |    |- ◦ Typhlomyrmex prolatus                 ◦ --
+         |    |    |- ◦ Typhlomyrmex pusillus                 ◦ --
+         |    |    |- ◦ Typhlomyrmex rogenhoferi              ◦ --
+  57 mya |    |[ Ectatommini ]                                  --
+         |    |- Gnamptogenys                                   --
+  16 mya |    |- Rhytidoponera                              105 --
+         |    |    |- • Rhytidoponera metallica               • green-head ant
+         |    |    |- ◦ Rhytidoponera abdominalis             ◦ --
+         |    |    |- ◦ Rhytidoponera acanthoponeroides       ◦ --
+         |    |    |- ◦ Rhytidoponera aciculata               ◦ --
+         |    |    |- ◦ Rhytidoponera aenescens               ◦ --
+         |    |    |- ◦ Rhytidoponera anceps                  ◦ --
+         |    |    |- ◦ Rhytidoponera aquila                  ◦ --
+         |    |    |- ◦ Rhytidoponera araneoides              ◦ --
+         |    |    |- ◦ Rhytidoponera arborea                 ◦ --
+         |    |    |- ◦ Rhytidoponera aspera                  ◦ --
+         |    |    |- ◦ Rhytidoponera atropurpurea            ◦ --
+         |    |    |- ◦ Rhytidoponera aurata                  ◦ --
+         |    |    |- ◦ Rhytidoponera barnardi                ◦ --
+         |    |    |- ◦ Rhytidoponera barretti                ◦ --
+         |    |    |- ◦ Rhytidoponera borealis                ◦ --
+         |    |    |- ◦ Rhytidoponera carinata                ◦ --
+         |    |    |- ◦ Rhytidoponera celtinodis              ◦ --
+         |    |    |- ◦ Rhytidoponera cerastes                ◦ --
+         |    |    |- ◦ Rhytidoponera chalybaea               ◦ --
+         |    |    |- ◦ Rhytidoponera chnoopyx                ◦ --
+         |    |    |- ◦ Rhytidoponera clarki                  ◦ --
+         |    |    |- ◦ Rhytidoponera confusa                 ◦ --
+         |    |    |- ◦ Rhytidoponera convexa                 ◦ --
+         |    |    |- ◦ Rhytidoponera cornuta                 ◦ --
+         |    |    |- ◦ Rhytidoponera crassinoda              ◦ --
+         |    |    |- ◦ Rhytidoponera cristata                ◦ --
+         |    |    |- ◦ Rhytidoponera croesus                 ◦ --
+         |    |    |- ◦ Rhytidoponera depilis                 ◦ --
+         |    |    |- ◦ Rhytidoponera dubia                   ◦ --
+         |    |    |- ◦ Rhytidoponera enigmatica              ◦ --
+         |    |    |- ◦ Rhytidoponera eremita                 ◦ --
+         |    |    |- ◦ Rhytidoponera ferruginea              ◦ --
+         |    |    |- ◦ Rhytidoponera flavicornis             ◦ --
+         |    |    |- ◦ Rhytidoponera flavipes                ◦ --
+         |    |    |- ◦ Rhytidoponera flindersi               ◦ --
+         |    |    |- ◦ Rhytidoponera foreli                  ◦ --
+         |    |    |- ◦ Rhytidoponera foveolata               ◦ --
+         |    |    |- ◦ Rhytidoponera fulgens                 ◦ --
+         |    |    |- ◦ Rhytidoponera fuliginosa              ◦ --
+         |    |    |- ◦ Rhytidoponera greavesi                ◦ --
+         |    |    |- ◦ Rhytidoponera gregoryi                ◦ --
+         |    |    |- ◦ Rhytidoponera haeckeli                ◦ --
+         |    |    |- ◦ Rhytidoponera hanieli                 ◦ --
+         |    |    |- ◦ Rhytidoponera hilli                   ◦ --
+         |    |    |- ◦ Rhytidoponera impressa                ◦ --
+         |    |    |- ◦ Rhytidoponera incisa                  ◦ --
+         |    |    |- ◦ Rhytidoponera inops                   ◦ --
+         |    |    |- ◦ Rhytidoponera inornata                ◦ --
+         |    |    |- ◦ Rhytidoponera insularis               ◦ --
+         |    |    |- ◦ Rhytidoponera koumensis               ◦ --
+         |    |    |- ◦ Rhytidoponera kurandensis             ◦ --
+         |    |    |- ◦ Rhytidoponera laciniosa               ◦ --
+         |    |    |- ◦ Rhytidoponera lamellinodis            ◦ --
+         |    |    |- ◦ Rhytidoponera laticeps                ◦ --
+         |    |    |- ◦ Rhytidoponera levior                  ◦ --
+         |    |    |- ◦ Rhytidoponera litoralis               ◦ --
+         |    |    |- ◦ Rhytidoponera luteipes                ◦ --
+         |    |    |- ◦ Rhytidoponera maledicta               ◦ --
+         |    |    |- ◦ Rhytidoponera maniae                  ◦ --
+         |    |    |- ◦ Rhytidoponera mayri                   ◦ --
+         |    |    |- ◦ Rhytidoponera micans                  ◦ --
+         |    |    |- ◦ Rhytidoponera mimica                  ◦ --
+         |    |    |- ◦ Rhytidoponera mirabilis               ◦ --
+         |    |    |- ◦ Rhytidoponera nexa                    ◦ --
+         |    |    |- ◦ Rhytidoponera nitida                  ◦ --
+         |    |    |- ◦ Rhytidoponera nitidiventris           ◦ --
+         |    |    |- ◦ Rhytidoponera nodifera                ◦ --
+         |    |    |- ◦ Rhytidoponera nudata                  ◦ --
+         |    |    |- ◦ Rhytidoponera numeensis               ◦ --
+         |    |    |- ◦ Rhytidoponera opaciventris            ◦ --
+         |    |    |- ◦ Rhytidoponera peninsularis            ◦ --
+         |    |    |- ◦ Rhytidoponera petiolata               ◦ --
+         |    |    |- ◦ Rhytidoponera pilosula                ◦ --
+         |    |    |- ◦ Rhytidoponera pulchella               ◦ --
+         |    |    |- ◦ Rhytidoponera punctata                ◦ --
+         |    |    |- ◦ Rhytidoponera punctigera              ◦ --
+         |    |    |- ◦ Rhytidoponera punctiventris           ◦ --
+         |    |    |- ◦ Rhytidoponera purpurea                ◦ --
+         |    |    |- ◦ Rhytidoponera reflexa                 ◦ --
+         |    |    |- ◦ Rhytidoponera reticulata              ◦ --
+         |    |    |- ◦ Rhytidoponera rotundiceps             ◦ --
+         |    |    |- ◦ Rhytidoponera rufescens               ◦ --
+         |    |    |- ◦ Rhytidoponera rufithorax              ◦ --
+         |    |    |- ◦ Rhytidoponera rufiventris             ◦ --
+         |    |    |- ◦ Rhytidoponera rufonigra               ◦ --
+         |    |    |- ◦ Rhytidoponera scaberrima              ◦ --
+         |    |    |- ◦ Rhytidoponera scabra                  ◦ --
+         |    |    |- ◦ Rhytidoponera scabrior                ◦ --
+         |    |    |- ◦ Rhytidoponera socra                   ◦ --
+         |    |    |- ◦ Rhytidoponera spoliata                ◦ --
+         |    |    |- ◦ Rhytidoponera strigosa                ◦ --
+         |    |    |- ◦ Rhytidoponera subcyanea               ◦ --
+         |    |    |- ◦ Rhytidoponera tasmaniensis            ◦ --
+         |    |    |- ◦ Rhytidoponera taurus                  ◦ --
+         |    |    |- ◦ Rhytidoponera tenuis                  ◦ --
+         |    |    |- ◦ Rhytidoponera terrestris              ◦ --
+         |    |    |- ◦ Rhytidoponera trachypyx               ◦ --
+         |    |    |- ◦ Rhytidoponera turneri                 ◦ --
+         |    |    |- ◦ Rhytidoponera tyloxys                 ◦ --
+         |    |    |- ◦ Rhytidoponera versicolor              ◦ --
+         |    |    |- ◦ Rhytidoponera victoriae               ◦ --
+         |    |    |- ◦ Rhytidoponera violacea                ◦ --
+         |    |    |- ◦ Rhytidoponera viridis                 ◦ --
+         |    |    |- ◦ Rhytidoponera wilsoni                 ◦ --
+         |    |    |- ◦ Rhytidoponera yorkensis               ◦ --
+  12 mya |    |- Ectatomma                                   16 --
+         |    |    |- ◦ Ectatomma brunneum                    ◦ --
+         |    |    |- ◦ Ectatomma confine                     ◦ --
+         |    |    |- ◦ Ectatomma edentatum                   ◦ --
+         |    |    |- ◦ Ectatomma gibbum                      ◦ --
+         |    |    |- ◦ Ectatomma goninion                    ◦ --
+         |    |    |- ◦ Ectatomma lugens                      ◦ --
+         |    |    |- ◦ Ectatomma muticum                     ◦ --
+         |    |    |- ◦ Ectatomma opaciventre                 ◦ --
+         |    |    |- ◦ Ectatomma parasiticum                 ◦ --
+         |    |    |- ◦ Ectatomma permagnum                   ◦ --
+         |    |    |- ◦ Ectatomma planidens                   ◦ --
+         |    |    |- ◦ Ectatomma quadridens                  ◦ --
+         |    |    |- ◦ Ectatomma ruidum                      ◦ --
+         |    |    |- ◦ Ectatomma suzanae                     ◦ --
+         |    |    |- ◦ Ectatomma tuberculatum                ◦ --
+         |    |    |- ◦ Ectatomma vizottoi                    ◦ --
+         |- Heteroponerinae                                  33 --
+         |    |- Aulacopone                                   1 --
+         |    |    |- ◦ Aulacopone relicta                    ◦ --
+         |    |- Acanthoponera                                4 --
+         |    |    |- ◦ Acanthoponera goeldii                 ◦ --
+         |    |    |- ◦ Acanthoponera minor                   ◦ --
+         |    |    |- ◦ Acanthoponera mucronata               ◦ --
+         |    |    |- ◦ Acanthoponera peruviana               ◦ --
+         |    |- Heteroponera                                28 --
+         |    |    |- ◦ Heteroponera angulata                 ◦ --
+         |    |    |- ◦ Heteroponera brounii                  ◦ --
+         |    |    |- ◦ Heteroponera carinifrons              ◦ --
+         |    |    |- ◦ Heteroponera crozieri                 ◦ --
+         |    |    |- ◦ Heteroponera darlingtonorum           ◦ --
+         |    |    |- ◦ Heteroponera dentinodis               ◦ --
+         |    |    |- ◦ Heteroponera dolo                     ◦ --
+         |    |    |- ◦ Heteroponera ecarinata                ◦ --
+         |    |    |- ◦ Heteroponera flava                    ◦ --
+         |    |    |- ◦ Heteroponera georgesi                 ◦ --
+         |    |    |- ◦ Heteroponera imbellis                 ◦ --
+         |    |    |- ◦ Heteroponera inca                     ◦ --
+         |    |    |- ◦ Heteroponera inermis                  ◦ --
+         |    |    |- ◦ Heteroponera leae                     ◦ --
+         |    |    |- ◦ Heteroponera lioprocta                ◦ --
+         |    |    |- ◦ Heteroponera majeri                   ◦ --
+         |    |    |- ◦ Heteroponera mayri                    ◦ --
+         |    |    |- ◦ Heteroponera microps                  ◦ --
+         |    |    |- ◦ Heteroponera monteithi                ◦ --
+         |    |    |- ◦ Heteroponera monticola                ◦ --
+         |    |    |- ◦ Heteroponera panamensis               ◦ --
+         |    |    |- ◦ Heteroponera pendergrasti             ◦ --
+         |    |    |- ◦ Heteroponera relicta                  ◦ --
+         |    |    |- ◦ Heteroponera rhodopygea               ◦ --
+         |    |    |- ◦ Heteroponera robusta                  ◦ --
+         |    |    |- ◦ Heteroponera trachypyx                ◦ --
+         |    |    |- ◦ Heteroponera viviennae                ◦ --
+         |    |    |- ◦ Heteroponera wilsoni                  ◦ --
+         |- Formicinae                                          --
+         |- Dolichoderinae                                      --
+         |- Aneuretinae                                         --
+         |- Pseudomyrmecinae                                    --
+         |- Myrmeciinae                                         --

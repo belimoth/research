@@ -1,0 +1,97 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Dasyuromorphia
+-----------------------------------------------------------------------------------------------------
+  38 mya |[ Dasyuromorphia ]                                 73 --
+         |- † Thylacinidae                                    † --
+         |    |- † Thylacinus cynocephalus                    † thylacine / tasmanian tiger
+         |- • Myrmecobius fasciatus                           • numbat / walpurti
+  25 mya |[ Dasyruidae ]                                     72 dasyruids; "marsupial carnivores"
+         |- Dasyurinae                                       43 --
+         |    |- Dasyurini                                   25 --
+         |    |    |- • Dasykaluta rosamondae                 • little red kaluta
+         |    |    |- • Dasyuroides byrnei                    • kariri / kowari
+         |    |    |- • Sarcophilus harrisii                  • purinina / tasmanian devil
+         |    |    |- • Neophascogale lorentzi                • speckled dasyure
+         |    |    |- • Parantechinus apicalis                • dibbler
+  13 mya |    |    |- Pseudantechinus                         6 false anthechinuses
+         |    |    |    |- • Pseudantechinus bilarni          • sandstone false antechinus
+         |    |    |    |- • Pseudantechinus macdonnellensis  • fat-tailed false antechinus
+         |    |    |    |- • Pseudantechinus mimulus          • alexandria false antechinus
+         |    |    |    |- • Pseudantechinus ningbing         • ningbing false antechinus
+         |    |    |    |- • Pseudantechinus roryi            • rory cooper's false antechinus
+         |    |    |    |- • Pseudantechinus woolleyae        • woolley's false antechinus
+   8 mya |    |    |- Dasyurus                                6 quolls
+         |    |    |    |- • Dasyurus albopunctatus           • new guinean quoll
+         |    |    |    |- • Dasyurus geoffroii               • western quoll
+         |    |    |    |- • Dasyurus hallucatus              • northern quoll
+         |    |    |    |- • Dasyurus maculatus               • tiger quoll
+         |    |    |    |- • Dasyurus spartacus               • bronze quoll
+         |    |    |    |- • Dasyurus viverrinus              • eastern quoll
+   8 mya |    |    |- Myoictis                                4 --
+         |    |    |    |- • Myoictis leucera                 • woolley's three-striped dasyure
+         |    |    |    |- • Myoictis melas                   • three-striped dasyure
+         |    |    |    |- • Myoictis wallacii                • wallace's dasyure
+         |    |    |    |- • Myoictis wavicus                 • tate's three-striped dasyure
+   7 mya |    |    |- Dasycercus                              2 mulgaras
+         |    |    |    |- • Dasycercus blythi                • brush-tailed mulgara
+         |    |    |    |- • Dasycercus cristicauda           • crest-tailed mulgara
+   2 mya |    |    |- Phascolosorex                           2 --
+         |    |    |    |- • Phascolosorex doriae             • Red-bellied marsupial shrew
+         |    |    |    |- • Phascolosorex dorsalis           • Narrow-striped marsupial shrew
+         |    |- Phascogalini                                18 --
+  12 mya |    |    |- Murexia                                 5 --
+         |    |    |    |- • Murexia habbema                  • habbema dasyure
+         |    |    |    |- • Murexia longicaudata             • short-furred dasyure
+         |    |    |    |- • Murexia melanurus                • black-tailed dasyure
+         |    |    |    |- • Murexia naso                     • long-nosed dasyure
+         |    |    |    |- • Murexia rothschildi              • broad-striped dasyure
+  10 mya |    |    |- Antechinus                             10 true anthechinuses
+         |    |    |    |- • Antechinus adustus               • tropical antechinus
+         |    |    |    |- • Antechinus agilis                • agile antechinus
+         |    |    |    |- • Antechinus bellus                • fawn antechinus
+         |    |    |    |- • Antechinus flavipes              • yellow-footed antechinus
+         |    |    |    |- • Antechinus godmani               • atherton antechinus
+         |    |    |    |- • Antechinus leo                   • cinnamon antechinus
+         |    |    |    |- • Antechinus minimus               • swamp antechinus
+         |    |    |    |- • Antechinus stuartii              • brown antechinus
+         |    |    |    |- • Antechinus subtropicus           • subtropical antechinus
+         |    |    |    |- • Antechinus swainsonii            • tasmanian dusky antechinus
+   8 mya |    |    |- Phascogale                              3 phascogales; wambengers
+         |    |    |    |- • Phascogale tapoatafa             • tuan / brush-tailed phascogale
+         |    |    |    |- • Phascogale calura                • kenngoor / red-tailed phascogale
+         |    |    |    |- • Phascogale pirata                • northern brush-tailed phascogale
+         |- Sminthopsinae                                    29 --
+   9 mya |    |- Planiagalini / Planigale                     7 planigales
+         |    |    |- • Planigale gilesi                      • paucident planigale
+         |    |    |- • Planigale ingrami                     • long-tailed planigale
+         |    |    |- • Planigale kendricki                   • orange-headed pilbara planigale
+         |    |    |- • Planigale maculata                    • common planigale
+         |    |    |- • Planigale novaeguineae                • new guinean planigale
+         |    |    |- • Planigale tealei                      • cracking-clay pilbara planigale
+         |    |    |- • Planigale tenuirostris                • narrow-nosed planigale
+         |    |[ Sminthopsini ]                              22 --
+         |    |- • Antechinomys laniger                       • kultarr / marsupial jerboa
+  12 mya |    |- Ningaui                                      3 ningauis
+         |    |    |- • Ningaui ridei                         • wongai ningaui
+         |    |    |- • Ningaui timealeyi                     • pilbara ningaui
+         |    |    |- • Ningaui yvonnae                       • southern ningaui
+         |    |[ Sminthopsis ]                               19 dunnarts
+         |    |- • Sminthopsis crassicaudata                  • fat-tailed dunnart
+         |    |- • Sminthopsis granulipes                     • white-tailed dunnart
+         |    |- • Sminthopsis griseoventer                   • grey-bellied dunnart
+         |    |- • Sminthopsis longicaudata                   • long-tailed dunnart
+         |    |- • Sminthopsis bindi                          • kakadu dunnart
+         |    |- • Sminthopsis butleri                        • carpentarian dunnart
+         |    |- • Sminthopsis douglasi                       • julia creek dunnart
+         |    |- • Sminthopsis macroura                       • stripe-faced dunnart
+         |    |- • Sminthopsis virginiae                      • red-cheeked dunnart
+         |    |- • Sminthopsis archeri                        • chestnut dunnart
+         |    |- • Sminthopsis dolichura                      • little long-tailed dunnart
+         |    |- • Sminthopsis fulginosus                     • sooty dunnart
+         |    |- • Sminthopsis gilberti                       • gilbert's dunnart
+         |    |- • Sminthopsis leucopus                       • white-footed dunnart
+         |    |- • Sminthopsis murina                         • slender-tailed dunnart
+         |    |- • Sminthopsis hirtipes                       • hairy-footed dunnart
+         |    |- • Sminthopsis ooldea                         • ooldea dunnart
+         |    |- • Sminthopsis psammophila                    • sandhill dunnart
+         |    |- • Sminthopsis youngsoni                      • lesser hairy-footed dunnart

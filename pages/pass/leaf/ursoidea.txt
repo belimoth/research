@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Ursoidea
+-----------------------------------------------------------------------------------------------------
+         |[ Ursoidea ]                                        8 ursoids
+         |- † Hemicyoninae                                    † dog-bears
+  19 mya |[ Ursidae ]                                         8 bears
+         |- † Ursavinae                                       † --
+         |- • Ailuropoda melanoleuca                          • giant panda
+         |- • Tremarctos ornatus                              • spectacled bear
+         |[ Ursinae ]                                         6 ursine bears
+         |- • Melursus ursinus                                • sloth bear
+         |- • Helarctos malayanus                             • sun bear
+         |- • Ursus thibetanus                                • asian black bear
+         |- • Ursus americanus                                • american black bear
+         |- • Ursus maritimus                                 • polar bear
+         |- • Ursus arctos                                    • brown bear

@@ -1,0 +1,27 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera
+-----------------------------------------------------------------------------------------------------
+ 383 mya |[ Neoptera ]                                          --
+ 308 mya |- * Polyneoptera                                      --
+         |[ Eumatabola ]                                        --
+ 353 mya |- * Paraneoptera                                      --
+ 344 mya |[ Holometabola / Endopterygota ]                      insects with larval and pupal stages
+ 275 mya |- * Hymenoptera                               116,861 sawflies, wasps, bees, ants
+         |[ unnamed ]                                           --
+         |- Neuropteroidea                                      --
+         |    |- Coleopterida                                   --
+         |    |    |- Strepsiptera                          609 twisted-wing flies
+>282 mya |    |    |- Coleoptera                        386,500 beetles
+         |    |[ Neuropterida ]                                 --
+         |    |- Raphidioptera                              254 snakeflies
+         |    |[ unnamed ]                                      --
+         |    |- Neuroptera                               5,868 lacewings
+         |    |- Megaloptera                                354 alderflies and dobsonflies
+         |[ Panorpida ]                                         --
+         |- Antliophora                                         --
+         |    |- Mecoptera                                  757 scorpionflies
+         |    |- Siphonaptera                             2,075 fleas
+ 256 mya |    |- Diptera                                155,477 true flies
+ 246 mya |- Amphiesmenoptera                                    --
+ 223 mya |    |- Lepidoptera                            157,338 butterflies and moths
+ 219 mya |    |- Trichoptera                             14,391 caddisflies

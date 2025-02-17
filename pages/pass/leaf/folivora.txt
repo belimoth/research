@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Folivora
+-----------------------------------------------------------------------------------------------------
+  28 mya |[ Folivora ]                                        7 sloths
+         |- † Megalocnidae                                    † caribbean ground sloths
+         |    |- † Megalocnus                                 † megalocnus
+         |- Megatherioidea                                    5 --
+         |    |- † Hapalops                                   † hapalops
+         |    |- † Thalassocnus                               † thalassocnus
+         |    |- † Megalonychidae                             † megalonychids; megalonychid ground sloths
+         |    |    |- † Megalonyx                             † megalonyx
+         |    |- † Nothrotheriidae                            † nothrotheriids; nothrotheriid ground sloths
+         |    |    |- † Pronothrotherium                      † pronothrotherium
+         |    |    |- † Nothrotheriops                        † nothrotheriops
+         |    |    |- † Nothrotherium                         † nothrotherium
+         |    |- † Megatheriidae                              † megatheriids; megatheriid ground sloths
+         |    |    |- † Eremotherium                          † eremotherium
+         |    |    |- † Megatherium                           † megatherium
+  17 mya |    |[ Bradypodidae ]                               5 three-toed sloths
+         |    |- • Bradypus pygmaeus                          • pygmy three-toed sloth
+         |    |- • Bradypus torquatus                         • maned three-toed sloth
+         |    |- • Bradypus tridactylus                       • pale-throated three-toed sloth
+         |    |- • Bradypus variegatus                        • brown-throated three-toed sloth
+         |    |- • Bradypus crinitus                          • southern maned sloth
+         |[ Mylodontoidea ]                                   2 --
+         |- † Scelidotheriidae                                † scelidotheriids; scelidotheriid ground sloths
+         |    |- † Scelidodon                                 † scelidodon
+         |    |- † Scelidotherium                             † scelidotherium
+         |- † Mylodontidae                                    † mylodontids; mylodontid ground sloths
+         |    |- † Lestodon                                   † lestodon
+         |    |- † Glossotherium                              † glossotherium
+         |    |- † Paramylodon                                † paramylodon
+         |    |- † Mylodon                                    † mylodon
+   8 mya |[ Choloepodidae ]                                   2 two-toed sloths
+         |- • Choloepus didactylus                            • linnaeus's two-toed sloth
+         |- • Choloepus hoffmanni                             • hoffmann's two-toed sloth

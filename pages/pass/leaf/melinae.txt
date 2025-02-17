@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Melinae
+-----------------------------------------------------------------------------------------------------
+   4 mya |[ Melinae ]                                         7 --
+         |- Artonyx                                           3 hog badgers
+         |    |- • Arctonyx albogularis                       • northern hog badger
+         |    |- • Arctonyx collaris                          • greater hog badger
+         |    |- • Arctonyx hoevenii                          • sumatran hog badger
+   3 mya |- Meles                                             4 eurasian badgers
+         |    |- • Meles anakuma                              • japanese badger
+         |    |- • Meles leucurus                             • asian badger
+         |    |- • Meles meles                                • european badger
+         |    |- • Meles canescens                            • caucasian badger

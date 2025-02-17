@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida
+-----------------------------------------------------------------------------------------------------
+         |[ Sauropsida / Reptilia sl ]                      12,060 sauropsids / reptiles
+         |- † Parareptilia                                    † --
+         |[ Eureptilia ]                                        --
+         |- † etc                                             † --
+         |[ Diapsida ]                                          diapsids
+         |- † etc                                             † --
+         |[ Neodiapsida ]                                       --
+         |- † Eosuchia                                        † --
+         |- † Choristodera                                    † choristoderes
+         |    |- † Allochoristodera                           † --
+         |    |    |- † Monjurosuchus                         † --
+         |    |    |- † Hyphalosaurus                         † --
+         |    |    |- † Lazarussuchus                         † --
+         |    |[ † Neochoristodera ]                          † neochoristoderes
+         |    |- † Champsosaurus                              † --
+         |    |- † Kosmodraco                                 † --
+         |    |- † Tchoiria                                   † --
+ 280 mya |[ Sauria / Reptilia ss ]                              --
+ 261 mya |- * Archelosauria / Archosauromorpha sl               archelosaurs
+ 244 mya |- * Lepidosauria / Lepidosauromorpha                  lepidosaurs

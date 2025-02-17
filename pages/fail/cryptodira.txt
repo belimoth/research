@@ -1,0 +1,55 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Archelosauria / Pantestudines / Cryptodira
+-----------------------------------------------------------------------------------------------------
+ 175 mya |[ Cryptodira ]                                        hidden-necked turtles
+ 150 mya |- * Trionychia                                     36 softshell turtles / soft-shelled turtles
+ 111 mya |[ Durocryptodira ]                                    --
+         |- Pantestudinoidea                                    --
+         |    |- Testudinoidea                                  --
+         |    |    |- Emydidae                                  terrapins
+         |    |    |- Platysternidae                            --
+         |    |    |- Geoemydidae                               --
+         |    |    |- Testudinidae                              tortoises
+ 109 mya |[ Americhelydia ]                                     --
+         |- * Panchelonioidea                                 7 sea turtles / marine turtles
+ 101 mya |- Chelydroidea                                     37 --
+  48 mya |    |- * Chelydridae                                5 snapping turtles
+         |    |[ Kinosternoidea ]                            32 --
+         |    |- Dermatemydidae                               1 --
+         |    |    |- • Dermatemys mawii                      • hickatee / tortuga blanca / central american river turtle
+  54 mya |    |- Kinosternidae                               31 --
+         |    |    |- Kinosternon                            22 mud turtles
+         |    |    |    |- ◦ Kinosternon abaxillare           ◦ central chiapas mud turtle
+         |    |    |    |- • Kinosternon acutum               • pochitoque / tabasco mud turtle
+         |    |    |    |- ◦ Kinosternon alamosae             ◦ alamos mud turtle
+         |    |    |    |- ◦ Kinosternon angustipons          ◦ central american mud turtle
+         |    |    |    |- ◦ Kinosternon baurii               ◦ striped mud turtle
+         |    |    |    |- ◦ Kinosternon chimalhuaca          ◦ jalisco mud turtle
+         |    |    |    |- ◦ Kinosternon cora                 ◦ cora mud turtle
+         |    |    |    |- ◦ Kinosternon creaseri             ◦ creaser's mud turtle
+         |    |    |    |- ◦ Kinosternon dunni                ◦ dunn's mud turtle
+         |    |    |    |- ◦ Kinosternon durangoense          ◦ durango mud turtle
+         |    |    |    |- ◦ Kinosternon flavescens           ◦ yellow mud turtle / yellow-necked mud turtle
+         |    |    |    |- ◦ Kinosternon herrerai             ◦ herrera's mud turtle
+         |    |    |    |- ◦ Kinosternon hirtipes             ◦ rough-footed mud turtle
+         |    |    |    |- ◦ Kinosternon integrum             ◦ mexican mud turtle
+         |    |    |    |- ◦ Kinosternon leucostomum          ◦ white-lipped mud turtle
+         |    |    |    |- ◦ Kinosternon oaxacae              ◦ oaxaca mud turtle
+         |    |    |    |- ◦ Kinosternon scorpioides          ◦ scorpion mud turtle
+         |    |    |    |- ◦ Kinosternon sonoriense           ◦ sonora mud turtle
+         |    |    |    |- ◦ Kinosternon steindachneri        ◦ florida mud turtle
+         |    |    |    |- ◦ Kinosternon stejnegeri           ◦ arizona mud turtle
+         |    |    |    |- ◦ Kinosternon subrubrum            ◦ eastern mud turtle / common mud turtle
+         |    |    |    |- ◦ Kinosternon vogti                ◦ vallarta mud turtle
+  14 mya |    |    |- Sternotherus                            6 musk turtles
+         |    |    |    |- ◦ Sternotherus carinatus           ◦ razor-backed musk turtle
+         |    |    |    |- ◦ Sternotherus depressus           ◦ flattened musk turtle
+         |    |    |    |- ◦ Sternotherus intermedius         ◦ intermediate musk turtle
+         |    |    |    |- ◦ Sternotherus minor               ◦ loggerhead musk turtle
+         |    |    |    |- • Sternotherus odoratus            ◦ stinkpot turtle / common musk turtle / eastern musk turtle
+         |    |    |    |- ◦ Sternotherus peltifer            ◦ stripeneck musk turtle
+         |    |    |[ Staurotypinae ]                         3 --
+         |    |    |- ◦ Claudius angustatus                   ◦ narrow-bridged musk turtle
+   4 mya |    |    |- Staurotypus                             2 giant musk turtles / mexican musk turtles / three-keeled musk turtles
+         |    |    |    |- ◦ Staurotypus salvinii             ◦ giant musk turtle / chiapas giant musk turtle / pacific coast giant musk turtle
+         |    |    |    |- ◦ Staurotypus triporcatus          ◦ mexican musk turtle / giant mexican musk turtle

@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Caniformia / Procyonidae
+-----------------------------------------------------------------------------------------------------
+  21 mya |- Procyonidae                                      14 procyonids
+         |- • Potos flavus                                    • kinkajou
+   8 mya |- Bassariscus                                       2 --
+         |    |- • Bassariscus astutus                        • ringtail
+         |    |- • Bassariscus sumichrasti                    • cacomistle
+         |- Nasuina                                           4 coatis
+   6 mya |    |- Nasua                                        2 --
+         |    |    |- • Nasua narica                          • white-nosed coati / coatimundi
+         |    |    |- • Nasua nasua                           • ring-tailed coati
+        2 mya |[ Nasuella ]                                   2 --
+         |    |- • Nasuella meridensis                        • eastern mountain coati
+         |    |- • Nasuella olivacea                          • western mountain coati
+   4 mya |- Procyon                                           3 raccoons
+         |    |- • Procyon lotor                              • raccoon / common raccoon / northern racoon
+         |    |- • Procyon cancrivorus                        • southern raccoon / crab-eating raccoon
+         |    |- • Procyon pygmaeus                           • pygmy raccoon / cozumel raccoon
+   3 mya |- Bassaricyon                                       4 olingos
+         |    |- • Bassaricyon alleni                         • eastern lowland olingo
+         |    |- • Bassaricyon gabbii                         • norhtern olingo
+         |    |- • Bassaricyon medius                         • western lowland olingo
+         |    |- • Bassaricyon neblina                        • olinguito

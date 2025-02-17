@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Feliformia
+-----------------------------------------------------------------------------------------------------
+  44 mya |[ Feliformia ]                                        cat-like carnivorans
+         |- † Nimravidae                                      † nimravids; false saber-toothed cats 1
+         |    |- † Dinictis                                   † dinictis
+         |[ Aeluroidea ]                                        --
+         |- • Nandinia binotata                               • african palm civet
+         |- Viverroidea                                         --
+         |    |- * Viverridae                                36 viverrids
+         |    |- * Herpestoidea                              48 herpestoids
+         |[ Feloidea ]                                          --
+         |- † Haplogale                                       † haplogale
+         |- † Barbourofelidae                                 † barbourofelids; false saber-toothed cats 2
+         |    |- † Barbourofelis                              † barbourofelis
+  12 mya |- * Felidae                                           cats
+   9 mya |- Prionodontidae / Prionodontinae                   2 linsangs
+         |    |- • Prionodon linsang                          • banded linsang
+         |    |- • Prionodon pardicolor                       • spotted linsang

@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Actinistia
+-----------------------------------------------------------------------------------------------------
+         |[ Actinistia ]                                      2 coelacanths
+         |- † Ticinepomis                                     † --
+         |- † Foreyia                                         † --
+         |- † Undina                                          † --
+  26 mya |[ Latimeria ]                                       2 --
+         |- • Latimeria chalumnae                             • west indian ocean coelacanth
+         |- • Latimeria menadoensis                           • indonesian coelacanth

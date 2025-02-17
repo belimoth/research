@@ -1,0 +1,88 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Hymenoptera / Apoidea
+-----------------------------------------------------------------------------------------------------
+ 156 mya |[ Apoidea ]                                           bees, etc
+         |- Ammoplanidae
+         |- Ampulicidae
+         |- Astatidae
+         |- Bembicidae
+         |- Crabronidae
+         |- Mellinidae
+         |- Pemphredonidae
+         |- Philanthidae
+         |- Psenidae
+         |- Sphecidae
+         | [ Anthophila ]                                       bees
+         |- Andrenidae
+         |- Colletidae
+         |- Halictidae
+         |- Megachilidae
+         |- Melittidae
+         |- Stenotritidae
+ 108 mya |[ Apidae ]
+         |- Nomadinae
+         |    |- Ammobatini
+         |    |- Ammobatoidini
+         |    |- Biastini
+         |    |- Brachynomadini
+         |    |- Caenoprosopidini
+         |    |- Epeolini
+         |    |- Hexepeolini
+         |    |- Neolarrini
+         |    |- Townsendiellini
+         |    |[ Nomadini / Nomada ]                        701 nomad bees; cuckoo bees 1; kleptoparasites of other bees
+         |    |- • Nomada fucata                              • painted nomad bee
+         |    |- • Nomada marshamella                         • marsham's nomad bee
+         |    |- • Nomada succincta                           • yellow-legged nomad bee
+         |    |- 698 more                                   698 more
+  86 mya |- Xylocopinae                                         --
+         |    |- Ceratinini                                 374 ceratinas; small carpenter bees
+         |    |    |- • Ceratina calcarata                    • spurred ceratina
+         |    |    |- • Ceratina cyanea                       • blue carpenter bee
+         |    |    |- • Ceratina dupla                        • doubled ceratina
+         |    |    |- • Ceratina strenua                      • nimble ceratina
+         |    |    |- 370 more                              370 more
+  45 mya |    |- Allodapini                                   ? allodapine bees
+         |    |    |- Allodape                                3 --
+         |    |    |- Allodapula                             16 --
+         |    |    |- Braunsapis                             80 --
+         |    |    |- Brevineura                              ? --
+         |    |    |- Compsomelissa                           ? --
+         |    |    |- Effractapis                             ? --
+         |    |    |- Eucondylops                             ? --
+  >8 mya |    |    |- Exoneura                                6 reed bees
+         |    |    |    |- • Exoneura robusta                 • --
+         |    |    |    |- ◦ Exoneura abstrusa                ◦ --
+         |    |    |    |- ◦ Exoneura albolineata             ◦ --
+         |    |    |    |- ◦ Exoneura albopilosa              ◦ --
+         |    |    |    |- ◦ Exoneura richardsoni             ◦ --
+         |    |    |    |- ◦ Exoneura bicolor                 ◦ --
+         |    |    |- Exoneurella                             ? --
+         |    |    |- Exoneuridia                             ? --
+         |    |    |- Halterapis                              ? --
+         |    |    |- Hasinamelissa                           ? --
+         |    |    |- Inquilina                               ? --
+         |    |    |- Macrogalea                              ? --
+         |    |    |- Nasutapis                               ? --
+  45 mya |    |- Xylocopini                                 406 carpenter bees
+         |    |    |- • Xylocopa aerata                       • green carpenter bee / golden-green carpenter bee
+         |    |    |- • Xylocopa bombylans                    • peacock carpenter bee
+         |    |    |- • Xylocopa caerulea                     • blue carpenter bee
+         |    |    |- • Xylocopa californica                  • western carpenter bee / california carpenter bee
+         |    |    |- • Xylocopa darwini                      • galápagos carpenter bee
+         |    |    |- • Xylocopa frontalis                    • ridge-browed carpenter
+         |    |    |- • Xylocopa latipes                      • broad-handed carpenter bee
+         |    |    |- • Xylocopa micans                       • southern carpenter bee
+         |    |    |- • Xylocopa nasalis                      • oriental carpenter bee
+         |    |    |- • Xylocopa pubescens                    • --
+         |    |    |- • Xylocopa sonorina                     • valley carpenter bee / hawaiian carpenter bee
+         |    |    |- • Xylocopa tabaniformis                 • mountain carpenter bee
+         |    |    |- • Xylocopa tenuiscapa                   • slender-scaped carpenter bee
+         |    |    |- • Xylocopa violacea                     • violet carpenter bee
+         |    |    |- • Xylocopa virginica                    • eastern carpenter bee
+         |    |    |- 391 more                              391 more
+  44 mya |    |- Manueliini                                   3 --
+         |    |    |- ◦ Manuelia gayatina                     ◦ --
+         |    |    |- ◦ Manuelia gayi                         ◦ --
+         |    |    |- ◦ Manuelia postica                      ◦ --
+         |- Apinae

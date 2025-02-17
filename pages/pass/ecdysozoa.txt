@@ -1,0 +1,26 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa
+-----------------------------------------------------------------------------------------------------
+ 663 mya |[ Ecdysozoa ]                                         ecdysozoans
+         |- Loricifera                                          loriciferans
+         |- Scalidophora                                        scalidophorans
+         |    |- Pripulida                                      penis worms
+         |    |- Kinorhyncha                                    mud dragons
+         |- Nematozoa / Nematoida                               --
+         |    |- Nematomorpha                                   horsehair worms
+         |    |- Nematoda                                       nematodes / round worms
+ 569 mya |[ Panarthropoda ]                                     --
+         |- † Lobopodia                                       † lobopodians
+         |- † Opabina                                         † opabina
+         |- † Radiodonta                                      † radiodonts
+         |    |- † todo                                       † --
+         |- * Tardigrada                                        tardigrades / water bears
+         |- * Onychophora                                       velvet worms
+ 563 mya |[ Arthropoda ]                                        arthropods
+         |- † Artiopoda                                       † artiopods
+         |    |- † Trilobita                                  † trilobites
+ 559 mya |- * Chelicerata                                       chelicerates
+ 555 mya |[ Mandibulata ]                                       mandibulates; mandibulate arthropods
+         |- † Euthycarcinoids                                 † --
+ 518 mya |- * Pancrustacea / Tetraconata                        --
+ 503 mya |- * Myriapoda                                         myriapods; centipedes, millipedes, etc

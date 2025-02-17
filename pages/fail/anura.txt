@@ -1,0 +1,89 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Lissamphibia / Anura
+-----------------------------------------------------------------------------------------------------
+ 219 mya |[ Anura ]                                       7,243?frogs, toads
+         |- Archaeobatrachia 1                                5 --
+         |    |- Leiopelmatidae                               3 new zealand primitive frogs
+         |    |    |- • Leiopelma archeyi                     • archey's frog
+         |    |    |- • Leiopelma hamiltoni                   • hamilton's frog
+         |    |    |- • Leiopelma hochstetteri                • hochstetter's frog
+         |    |- Ascaphidae                                   2 tailed frogs
+         |    |    |- • Ascaphus montanus                     • rocky mountain tailed frog
+         |    |    |- • Ascaphus truei                        • common tailed frog
+         |[ Bombianura ]                                        --
+         |- Costata / Archaeobatrachia 2                        --
+         |    |- Bombinatoridae                                 --
+         |    |- Alytidae                                       --
+         |[ Pipanura ]                                          --
+         |- Xenoanura / Mesobatrachia 1                         --
+         |    |- Pipidae                                        --
+         |    |- Rhinophrynidae                                 --
+         |[ Acosmanura ]                                        --
+         |- Anomocoela                                          --
+-----------------------------------------------------------------------------------------------------
+todo mesobatrachia
+-----------------------------------------------------------------------------------------------------
+ 149 mya |[ Neobatrachia ]                                      --
+         |- Heleophrynidae                                      --
+         |[ Phthanobatrachia ]                                  --
+         |- Sooglossoidea                                       --
+         |- Notogaeanura                                        --
+         |    |- Australobatrachia                              --
+         |    |    |- Calyptocephalellidae                      --
+         |    |    |- Myobatrachidae                            --
+         |    |    |- Limnodynastidae                           --
+         |    |[ Nobleoanura ]                                  --
+         |    |- Brachycephaloidea / Terrarana                  --
+         |    |    |- Ceuthomantidae                            --
+         |    |    |- Brachycephalidae                          --
+         |    |    |- Eleutherodactylidae                       --
+         |    |    |- Craugastoridae                            --
+         |    |- Hemiphractidae                                 --
+         |    |[ Athesphatanura ]                               --
+         |    |- Hylidae                                        --
+         |    |[ Leptodactyliformes ]                           --
+         |    |- Agastorophrynia                                --
+         |    |    |- Bufonidae                                 --
+         |    |    |- Aromobatidae                              --
+         |    |    |- Dendrobatidae                             --
+         |    |- Diphyabatracea                                 --
+         |    |    |- Leptodactylidae                           --
+         |    |    |- Allophrynidae                             --
+         |    |    |- Centrolenidae                             --
+         |    |- Ceratophryidae                                 --
+         |    |- Odontophrynidae                                --
+         |    |- Cycloramphidae                                 --
+         |    |- Alsodidae                                      --
+         |    |- Hylodidae                                      --
+         |    |- Telmatobiidae                                  --
+         |    |- Batrachylidae                                  --
+         |    |- Rhinodermatidae                                --
+  84 mya |[ Ranoidea / Ranoides ]                               --
+         |- Allodapanura                                        --
+         |    |- Microhylidae                                   --
+         |    |[ Afrobatrachia ]                                --
+         |    |- Xenosyneunitanura                              --
+         |    |    |- Brevicipitidae                            --
+         |    |    |- Hemisotidae                               --
+         |    |- Laurentobatrachia                              --
+         |    |    |- Hyperoliidae                              --
+         |    |    |- Arthroleptidae                            --
+         |[ Natatanura ]                                        --
+         |    |- Ptychadenidae                                  --
+         |[ Victoranura ]                                       --
+         |- Micrixalidae                                        --
+         |- Phrynobatrachidae                                   --
+         |- Conrauidae                                          --
+         |- Pyxicephaloidea                                     --
+         |    |- Petropedetidae                                 --
+         |    |- Pyxicephalidae                                 --
+         |[ unnamed ]                                           --
+         |- Nyctibatrachidae                                    --
+         |- Ceratobatrachidae                                   --
+         |[ Saukrobatrachia ]                                   --
+         |- Ranixalidae                                         --
+         |- Dicroglossidae                                      --
+         |[ Aglaioanura ]                                  1095 --
+  57 mya |- * Mantellidae                                   256 mantellids; mantellid frogs
+  55 mya |- * Rhacophoridae                                 443 rhacophorids; rhacophorid frogs; shrub frogs
+  50 mya |- * Ranidae                                       396 ranids; ranid frogs; true frogs

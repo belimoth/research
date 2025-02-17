@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii
+-----------------------------------------------------------------------------------------------------
+ 415 mya |[ Sarcopterygii ]                                     lobe-finned fish
+         |- † Onychodontiformes                               † early-diverging coelacanths
+         |    |- † Onychodus                                  † onychodus
+         |- * Actinistia                                      2 coelacanths
+ 408 mya |[ Rhipidistia / Dipnotetrapodomorpha ]                --
+         |- Dipnomorpha                                       6 --
+         |    |- † Porolepiformes                             † --
+         |    |- * Dipnoi                                     6 lungfish
+         |[ Tetrapodomorpha / Choanata ]                        --
+         |- † etc                                             † --
+ 352 mya |[ Tetrapoda ]                                         tetrapods
+         |- † Lepospondyli                                    † lepospondyls
+         |    |- TODO
+ 320 mya |- Amphibia / Batrachomorpha                   ? 8,216 amphibians
+         |    |- † Temnospondyli                              † temnospondyls
+         |    |- * Lissamphibia                                 modern amphibians
+         |[ Reptilomorpha / Panamniota ]                        reptile-like amphibians
+         |- † etc                                             † --
+ 319 mya |[ Amniota ]                                           amniotes
+         |- * Synapsida                                         synapsids
+         |- * Sauropsida                                        sauropsids

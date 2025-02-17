@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Eulipotyphla
+-----------------------------------------------------------------------------------------------------
+  80 mya |[ Eulipotyphla ]                                      remnant insectivora
+         |- † Nesophontidae                                   † west indies shrews
+         |- * Solenodontidae                                  2 solenodons
+  50 mya |- * Talpidae                                       59 talpids
+  46 mya |- * Erinaceidae                                       --
+  38 mya |- * Soricidae                                         true shrew family

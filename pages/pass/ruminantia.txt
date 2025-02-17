@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia
+-----------------------------------------------------------------------------------------------------
+  45 mya |[ Ruminantia ]                                    214 ruminants
+  38 mya |- * Tragulina                                      10 chevrotains / mouse-deer
+  27 mya |[ Pecora ]                                        204 horn-bearing ruminants
+         |- * Antilocapridae                                  1 pronghorns
+  22 mya |- * Bovidae                                       143 bovids
+         |- * Giraffomorpha                                   2 --
+  13 mya |- Cervidae                                         51 cervids; true deer
+  10 mya |    |- * Muntiacinae                               15 muntjacs, etc
+   8 mya |    |- * Cervinae                                  18 old world deer / plesiometacarpal deer
+         |    |- * Capreolinae                               18 new world deer / telemetacarpal deer
+   4 mya |- * Moschidae                                       7 musk deer

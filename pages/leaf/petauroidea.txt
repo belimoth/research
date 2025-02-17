@@ -1,0 +1,46 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Petauroidea
+-----------------------------------------------------------------------------------------------------
+         |[ Petauroidea ]                                    32 --
+         |- • Tarsipes rostratus                              • noolbenger / honey possum
+         |- Acrobatidae                                       2 --
+         |    |- • Acrobates pygmaeus                         • feathertail glider
+         |    |- • Distoechurus pennatus                      • feather-tailed possum
+  26 mya |- Petauridae                                       11 --
+         |    |- • Gymnobelideus leadbeateri                  • leadbeater's possum
+   8 mya |    |- Dactylopsila                                 4 --
+         |    |    |- • Dactylopsila megalura                 • great-tailed triok
+         |    |    |- • Dactylopsila palpator                 • long-fingered triok
+         |    |    |- • Dactylopsila tatei                    • tate's triok
+         |    |    |- • Dactylopsila trivirgata               • striped possum
+  24 mya |    |- Petaurus                                     6 --
+         |    |    |- • Petaurus abidi                        • northern glider
+         |    |    |- • Petaurus australis                    • yellow-bellied glider
+         |    |    |- • Petaurus biacensis                    • biak glider
+         |    |    |- • Petaurus breviceps                    • sugar glider
+         |    |    |- • Petaurus gracilis                     • mahogany glider
+         |    |    |- • Petaurus norfolcensis                 • squirrel glider
+  23 mya |[ Pseudocheiridae ]                                18 --
+         |- Hemibelideinae                                   13 --
+         |    |- • Hemibelideus lemuroides                    • lemur-like ringtail possum
+         |    |- • Petauroides volans                         • southern greater glider
+         |    |[ Pseudocheirinae ]                           11 --
+         |    |- • Petropseudes dahli                         • rock-haunting ringtail possum
+         |    |- Pseudocheirus                                2 --
+         |    |    |- • Pseudocheirus peregrinus              • common ringtail possum
+         |    |    |- • Pseudocheirus occidentalis            • western ringtail possum
+   7 mya |    |- Pseudochirulus                               8 --
+         |    |    |- • Pseudochirulus canescens              • lowland ringtail possum
+         |    |    |- • Pseudochirulus caroli                 • weyland ringtail possum
+         |    |    |- • Pseudochirulus cinereus               • cinereus ringtail possum
+         |    |    |- • Pseudochirulus forbesi                • painted ringtail possum
+         |    |    |- • Pseudochirulus herbertensis           • herbert river ringtail possum
+         |    |    |- • Pseudochirulus larvatus               • masked ringtail possum
+         |    |    |- • Pseudochirulus mayeri                 • pygmy ringtail possum
+         |    |    |- • Pseudochirulus schlegeli              • vogelkop ringtail possum
+         |- Pseudochiropsinae                                 5 --
+         |    |- • Pseudochirops albertisiiv                  • d'albertis' ringtail possum
+         |    |- • Pseudochirops archeriv                     • green ringtail possum
+         |    |- • Pseudochirops corinnaev                    • plush-coated ringtail possum
+         |    |- • Pseudochirops coronatusv                   • reclusive ringtail possum
+         |    |- • Pseudochirops cupreusv                     • coppery ringtail possum

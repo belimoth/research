@@ -1,0 +1,49 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Phalangeriformes
+-----------------------------------------------------------------------------------------------------
+         |[ Phalangeriformes ss / Phalangeroidea ]           33 --
+         |- † Ektopodon                                       † sprite possum
+  35 mya |- Burramyidae                                       5 pygmy possums
+         |    |- • Burramys parvus                            • mountain pygmy possum
+  20 mya |    |[ Cercartetus ]                                4 --
+         |    |- • Cercartetus caudatus                       • long-tailed pygmy possum
+         |    |- • Cercartetus concinnus                      • western pygmy possum
+         |    |- • Cercartetus lepidus                        • tasmanian pygmy possum
+         |    |- • Cercartetus nanus                          • eastern pygmy possum
+  25 mya |[ Phalangeridae ]                                  28 --
+         |- Trichosurinae                                     6 --
+         |    |- • Wyulda squamicaudata                       • scaly-tailed possum
+   7 mya |    |[ Trichosurus ]                                5 --
+         |    |- • Trichosurus arnhemensis                    • northern brushtail possum
+         |    |- • Trichosurus caninus                        • short-eared possum
+         |    |- • Trichosurus cunninghami                    • mountain brushtail possum
+         |    |- • Trichosurus johnstonii                     • coppery brushtail possum
+         |    |- • Trichosurus vulpecula                      • common brushtail possum
+         |- Ailuropinae                                       4 --
+         |    |- Ailurops                                     2 bear cuscuses
+         |    |    |- • Ailurops melanotis                    • talaud bear cuscus
+         |    |    |- • Ailurops ursinus                      • sulawesi bear cuscus
+         |    |- Strigocuscus                                 2 dwarf cuscuses
+         |    |    |- • Strigocuscus celebensis               • sulawesi dwarf cuscus
+         |    |    |- • Strigocuscus pelegensis               • banggai cuscus
+         |- Phalangerinae                                    18 --
+         |    |- Phalanger                                   13 --
+         |    |    |- • Phalanger alexandrae                  • gebe cuscus
+         |    |    |- • Phalanger carmelitae                  • mountain cuscus
+         |    |    |- • Phalanger gymnotis                    • ground cuscus
+         |    |    |- • Phalanger intercastellanus            • eastern common cuscus
+         |    |    |- • Phalanger lullulae                    • woodlark cuscus
+         |    |    |- • Phalanger matabiru                    • blue-eyed cuscus
+         |    |    |- • Phalanger matanim                     • telefomin cuscus
+         |    |    |- • Phalanger mimicus                     • southern common cuscus
+         |    |    |- • Phalanger orientalis                  • northern common cuscus
+         |    |    |- • Phalanger ornatus                     • ornate cuscus
+         |    |    |- • Phalanger rothschildi                 • rothschild's cuscus
+         |    |    |- • Phalanger sericeus                    • silky cuscus
+         |    |    |- • Phalanger vestitus                    • stein's cuscus
+   3 mya |    |- Spilocuscus                                  5 --
+         |    |    |- • Spilocuscus kraemeri                  • admiralty island cuscus
+         |    |    |- • Spilocuscus maculatus                 • common spotted cuscus
+         |    |    |- • Spilocuscus papuensis                 • waigeou cuscus
+         |    |    |- • Spilocuscus rufoniger                 • black-spotted cuscus
+         |    |    |- • Spilocuscus wilsoni                   • blue-eyed spotted cuscus

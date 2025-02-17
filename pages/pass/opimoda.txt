@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda
+-----------------------------------------------------------------------------------------------------
+         |[ Opimoda / Unikonta ]                                --
+         |- etc                                                 --
+         |[ Podiata ]                                           --
+         |- etc                                                 --
+1500 mya |[ Amorphea ]                                          --
+1400 mya |- * Amoebozoa                                   2,400 --
+         |[ Obazoa ]                                            --
+         |- etc                                                 --
+1275 mya |[ Ophisthokonta ]                                     --
+1100 mya |- * Holomycota                                        --
+1070 mya |[ Holozoa ]                                           --
+ 960 mya |[ Choanozoa ]                                         --
+         |- Choanoflagellates                                   --
+ 758 mya |[ Metazoa / Animalia ]                                animals (multicellular)
+         |- Porifera                                            poriferans; sponges
+ 743 mya |[ Eumetazoa ]                                         --
+         |- Ctenophora                                          ctenophorans; comb jellies
+         |[ Parahoxozoa ]                                       --
+         |- Placozoa                                            --
+         |[ Planulozoa ]                                        --
+         |- Cnidaria                                            --
+ 708 mya |[ Bilateria ]                                         bilaterians; bilateral animals
+         |- Xenacoelomorpha                                     --
+         |[ Nephrozoa ]                                         --
+         |- * Protostomia                                       protostomes
+ 692 mya |- * Deuterostomia                                     deuterostomes

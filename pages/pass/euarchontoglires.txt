@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires
+-----------------------------------------------------------------------------------------------------
+  87 mya |[ Euarchontoglires ]                                  --
+         |- Euarchonta                                          --
+         |    |- * Scandentia                                23 scandentians; treeshrews
+         |    |[ Primatomorpha ]                                --
+         |    |- † Purgatorius                                † purgatorius
+         |    |- * Dermoptera                                 2 colugos
+         |    |[ Panprimates ]                                  --
+         |    |- † Plesiadapiformes                           † --
+         |    |    |- † Plesiadapis                           † plesiadapis
+         |    |- * Primates                                     primates; lemurs, monkeys, apes
+  79 mya |[ Glires ]                                            --
+  70 mya |- * Rodentia                                          rodents
+  51 mya |- * Lagomorpha                                    111 lagomorphs; rabbits, hares, pikas

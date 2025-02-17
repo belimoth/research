@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Metatheria / Permelemorphia
+-----------------------------------------------------------------------------------------------------
+  28 mya |[ Permelemorphia ]                                 21 --
+         |- Thylacomyidae / Macrotis                          1 bilbies / rabbit-bandicoots / rabbit-eared bandicoots
+         |    |- † Macrotis lagotis                           † yallara / white-tailed bilby / lesser bilby
+         |    |- • Macrotis lagotis                           • bilby / greater bilby
+         |- † Chaeropodidae / Chaeropus                       † pig-footed bandicoot
+  11 mya |- Peroryctidae                                      2 new-guinea long-nosed bandicoots
+   5 mya |    |[ Peroryctes ]                                 2 --
+         |    |- • Peroryctes broadbenti                      • giant bandicoot
+         |    |- • Peroryctes raffrayana                      • pakam / raffray's bandicoot
+         |[ Peramelidae ]                                    18 bandicoots
+         |- Peramelinae                                       6 --
+   3 mya |    |- Isoodon                                      3 short-nosed bandicoots
+         |    |    |- • Isoodon auratus                       • golden bandicoot
+         |    |    |- • Isoodon macrourus                     • northern brown bandicoot
+         |    |    |- • Isoodon obesulus                      • southern brown bandicoot
+         |    |- Perameles                                    3 long-nosed bandicoots / barred bandicoots
+         |    |    |- † Perameles eremiana                    † desert bandicoot
+         |    |    |- • Perameles bougainville                • western barred bandicoot
+         |    |    |- • Perameles gunnii                      • eastern barred bandicoot
+         |    |    |- • Perameles nasuta                      • long-nosed bandicoot
+         |- Peroryctinae                                      2 --
+   5 mya |    |- Peroryctes                                   2 new guinean long-nosed bandicoots
+         |    |    |- • Peroryctes broadbenti                 • giant bandicoot
+         |    |    |- • Peroryctes raffrayana                 • Raffray's bandicoot
+         |- Echymiperinae                                    10 --
+         |    |- • Rhynchomeles prattorum                     • seram bandicoot
+   6 mya |    |- Echymipera                                   5 new guinean spiny bandicoots
+         |    |    |- • Echymipera rufescens                  • long-nosed spiny bandicoot
+         |    |    |- • Echymipera clara                      • clara's spiny bandicoot
+         |    |    |- • Echymipera echinista                  • menzies' spiny bandicoot
+         |    |    |- • Echymipera kalubu                     • common spiny bandicoot
+         |    |    |- • Echymipera davidi                     • david's spiny bandicoot
+   4 mya |    |- Microperoryctes                              4 new guinean mouse bandicoots
+         |    |    |- • Microperoryctes murina                • mouse bandicoot
+         |    |    |- • Microperoryctes longicauda            • western striped bandicoot
+         |    |    |- • Microperoryctes aplini                • arfak pygmy bandicoot
+         |    |    |- • Microperoryctes papuensis             • papuan bandicoot

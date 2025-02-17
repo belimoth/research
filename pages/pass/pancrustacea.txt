@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Ecdysozoa / Pancrustacea
+-----------------------------------------------------------------------------------------------------
+ 518 mya |[ Pancrustacea / Tetraconata ]                        --
+ 514 mya |- * Oligostraca                                       crustacea 1
+ 498 mya |- * Multicrustacea                                    crustacea 2
+         |- Cephalocarida                                    12 horseshoe shrimp; crustacea 3
+         |- Remipedia                                        30 remipedes; crustacea 4
+ 459 mya |- * Hexapoda                                          hexapods
+ 437 mya |- * Branchiopoda                                      branchiopods; crustacea 5

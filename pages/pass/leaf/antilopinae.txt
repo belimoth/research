@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Bovidae / Antilopinae
+-----------------------------------------------------------------------------------------------------
+         |[ Antilopinae ]                                    34 gazelles, springbok, dik-dik, royal antelope, saiga, etc
+         |- Antilopini                                       22 --
+         |    |- • Ammodorcas clarkei                         • cibatag
+         |    |- • Antidorcas marsupialis                     • springbok
+         |    |- • Antilope cervicapra                        • blackbuck
+         |    |- • Litocranius walleri                        • gerenuk / giraffe-gazelle
+         |    |- Eudorcas                                     4 --
+         |    |    |- • Eudorcas albonotata                   • mongalla gazelle
+         |    |    |- † Eudorcas rufina                       † red gazelle
+         |    |    |- • Eudorcas rufrifrons                   • red-fronted gazelle
+         |    |    |- • Eudorcas thomsoni                     • thomson's gazelle
+         |    |    |- • Eudorcas tilonura                     • heuglin's gazelle
+   3 mya |    |- Gazella                                      8 --
+         |    |    |- Trachelocele                            3 --
+         |    |    |    |- • Gazella cuvieri                  • edmi / cuvier's gazelle
+         |    |    |    |- • Gazella leptoceros               • rhim / rhim gazelle / slender-horned gazelle
+         |    |    |    |- • Gazella subgutturosa             • black-tailed gazelled / goitered gazelle
+         |    |    |[ Gazella ]                               5 --
+         |    |    |- • Gazella arabica                       • arabian gazelle
+         |    |    |- • Gazella benettii                      • chinkara / indian gazelle
+         |    |    |- † Gazella bilkis                        † yemen gazelle
+         |    |    |- • Gazella dorcas                        • dorcas gazelle
+         |    |    |- • Gazella gazella                       • mountain gazelle
+         |    |    |- † Gazella saudiya                       † saudi gazelle
+         |    |    |- • Gazella spekei                        • speke's gazelle
+   3 mya |    |- Procapra                                     3 --
+         |    |    |- • Procapra gutturosa                    • dzeren / mongolian gazelle
+         |    |    |- • Procapra picticaudata                 • goa / tibetan gazelle
+         |    |    |- • Procapra przewalskii                  • przewalski's gazelle
+   2 mya |    |[ Nanger ]                                     3 --
+         |    |- • Nanger dama                                • dama gazelle
+         |    |- • Nanger granti                              • grant's gazelle
+         |    |- • Nanger soemmerringii                       • soemmerring's gazelle
+         |- Saigini                                           2 --
+         |    |- • Pantholops hodgsonii                       • chiru / tibetan antelope
+         |    |- • Saiga tatarica                             • saiga / saiga antelope
+         |[ Neotragini ]                                     10 dwarf antelopes
+         |- • Dorcatragus megalotis                           • beira
+         |- Madoqua                                           4 dik-diks
+         |    |- • Madoqua guntheri                           • günther's dik-dik
+         |    |- • Madoqua kirkii                             • kirk's dik-dik
+         |    |- • Madoqua piacentinii                        • silver dik-dik
+         |    |- • Madoqua saltiana                           • salt's dik-dik
+         |- • Neotragus pygmaeus                              • royal antelope
+         |- • Ourebia ourebi                                  • oribi
+         |[ Raphicerus ]                                      3 --
+         |- • Raphicerus campestris                           • steenbok
+         |- • Raphicerus melanotis                            • cape grysbok / southern grysbok
+         |- • Raphicerus sharpei                              • northern grysbok / sharpe's grysbok

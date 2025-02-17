@@ -1,0 +1,76 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Heterokonta
+-----------------------------------------------------------------------------------------------------
+ 668 mya |[ Heterokonta ]                                       --
+         |- Bigyra                                              --
+         |    |- Sagenista                                      --
+         |    |[ Opalozoa ]                                     --
+         |    |- Bikosea                                        --
+         |    |[ Placidozoa ]                                   --
+         |    |- Wobblata                                       --
+         |    |[ Opalinata ]                                    --
+         |    |- Opalinea                                       --
+         |    |- Blastocystea / Blastocystis                    --
+         |[ Gyrista ]                                           --
+         |- Bigyromonada                                        --
+         |- Pseudofungi                                         --
+         |    |[ unnamed ]                                      (multicellular)
+         |    |- Oomycetes / Oomycota                           water molds
+         |[ Ochrophyta ]                                        --
+         |- Diatomista                                          diatoms
+         |[ Chrysista ]                                         --
+         |- Raphidoistia                                        --
+         |- Fucistia                                            --
+         |    |- Xanthophyceae                                  yellow-green algae
+         |    |[ Phaeophyceae ]                                 brown algae
+         |    |- Discosporangiales                              --
+         |    |- Ishigeales                                     --
+         |    |- Dictyotophycidae                               --
+         |    |    |- Onslowiales                               --
+         |    |    |- Dictyotales                               --
+         |    |    |- Syringodermatales                         --
+         |    |    |[ Sphacelariales ]                          --
+         |    |    |- Lithodermataceae                          --
+         |    |    |- Phaeostrophiaceae                         --
+         |    |    |- Stypocaulaceae                            --
+         |    |    |- Cladostephaceae                           --
+         |    |    |- Sphacelariaceae                           --
+         |    |[ Fucophycidae ]                                 --
+         |    |- Bachelotiaceae                                 --
+         |    |- Desmarestiales                                 --
+         |    |- Sporochnales                                   --
+         |    |- Ascoseirales                                   --
+         |    |- Ralfsiales                                     --
+         |    |- Tilopteridales                                 --
+         |    |    |- Cutleriaceae                              --
+         |    |    |- Tilopteridaceae                           --
+         |    |    |- Phyllariaceae                             --
+         |    |- Nemodermatales                                 --
+         |    |[ Fucales ]                                      --
+         |    |    |- Sargassaceae                              --
+         |    |    |- Durvillaeaceae                            --
+         |    |    |- Himanthaliaceae                           --
+         |    |    |- Fucaceae                                  --
+         |    |- Scytothamnales                                 --
+         |    |    |- Asteronemataceae                          --
+         |    |    |- Splachnidiaceae                           --
+         |    |- Laminariales                                   kelp
+         |    |    |- Phaeosiphoniellaceae                      --
+         |    |    |- Akkesiphycaceae                           --
+         |    |    |- Pseudochordaceae                          --
+         |    |    |- Chordaceae                                --
+         |    |    |- Alariaceae                                --
+         |    |    |- Agaraceae                                 --
+         |    |    |- Laminariaceae                             --
+         |    |- Asterocladales                                 --
+         |    |[ Ectocarpales ]                                 --
+         |    |- Adenocystaceae                                 --
+         |    |- Scytosiphonaceae                               --
+         |    |- Petrospongiaceae                               --
+         |    |- Ectocarpaceae                                  --
+         |    |- Acinetosporaceae                               --
+         |    |- Chordariaceae                                  --
+         |[ Limnistia ]                                         --
+         |- Chrysophyceae                                       golden algae
+         |- Synchromophyceae                                    --
+         |- Eustigmatophyceae                                   --

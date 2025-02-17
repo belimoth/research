@@ -1,0 +1,152 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Igaunia
+-----------------------------------------------------------------------------------------------------
+ 146 mya |[ Iguania / Iguanomorpha ]                            --
+ 107 mya |- Acrodonta                                           --
+  95 mya |    |- Agamidae                                       agamids / dragon lizards
+         |    |    |- Uromastyx                                 mastigures
+         |    |    |- Leiolepis                                 butterfly dragons
+         |    |    |- Hydrosaurinae                             sail-fin dragons
+         |    |    |- Amphibolurinae                            australian dragons
+         |    |    |- Draconinae                                --
+         |    |    |- Agaminae                                  agamas
+         |    |    |    |- ◦ Bufoniceps laungwalaensis        ◦ laungwala long-headed lizard / rajasthan toad-headed lizard
+         |    |    |    |- Acanthocercus                        --
+         |    |    |    |- Agama                                --
+         |    |    |    |- Coryphophylax                        --
+         |    |    |    |- Laudakia                             asian rock agamas 1
+         |    |    |    |- Paralaudakia                         asian rock agamas 2
+         |    |    |    |- Phrynocephalus                    36 toadhead agamas
+         |    |    |    |    |- • Phrynocephalus arabicus     • Arabian toadhead agama
+         |    |    |    |    |- • Phrynocephalus ananjevae    • Natalie's toadhead agama
+         |    |    |    |    |- • Phrynocephalus axillaris    • Yarkand toadhead agama
+         |    |    |    |    |- • Phrynocephalus clarkorum    • Afghan toadhead agama
+         |    |    |    |    |- • Phrynocephalus erythrurus   • Sagus Kul lizard
+         |    |    |    |    |- • Phrynocephalus euptilopus   • Alcock's toadhead agama
+         |    |    |    |    |- • Phrynocephalus forsythii    • Forsyth's toadhead agama
+         |    |    |    |    |- • Phrynocephalus frontalis    • Shansi toadhead agama
+         |    |    |    |    |- • Phrynocephalus golubewii    • --
+         |    |    |    |    |- • Phrynocephalus guttatus     • spotted toadhead agama
+         |    |    |    |    |- • Phrynocephalus helioscopus  • sunwatcher toadhead agama
+         |    |    |    |    |- • Phrynocephalus hispidus     • Dzhungar variegated toadhead agama
+         |    |    |    |    |- • Phrynocephalus horvathi     • Horvath's toadhead agama
+         |    |    |    |    |- • Phrynocephalus interscapularis• Lichtenstein's toadhead agama
+         |    |    |    |    |- • Phrynocephalus kulagini     • Kulagin's variegated toadhead agama
+         |    |    |    |    |- • Phrynocephalus lutensis     • Lut Desert toadhead agama
+         |    |    |    |    |- • Phrynocephalus luteoguttatus• yellow-speckled toadhead agama
+         |    |    |    |    |- • Phrynocephalus maculatus    • blacktail toadhead agama
+         |    |    |    |    |- • Phrynocephalus meridionalis • sunwatcher toadhead agama; Fergana toad-headed agama
+         |    |    |    |    |- • Phrynocephalus mystaceus    • secret toadhead agama
+         |    |    |    |    |- • Phrynocephalus ornatus      • Boulenger, 1887
+         |    |    |    |    |- • Phrynocephalus persicus     • Persian toadhead agama
+         |    |    |    |    |- • Phrynocephalus przewalskii  • Przewalski's toadhead agama
+         |    |    |    |    |- • Phrynocephalus putjatai     • --
+         |    |    |    |    |- • Phrynocephalus raddei       • --
+         |    |    |    |    |- • Phrynocephalus reticulatus  • reticulated toadhead agama
+         |    |    |    |    |- • Phrynocephalus roborowskii  • Roborowski's toadhead agama
+         |    |    |    |    |- • Phrynocephalus rossikowi    • Uzbekistan toadhead agama
+         |    |    |    |    |- • Phrynocephalus saidalievi   • Fergana toad-headed agama
+         |    |    |    |    |- • Phrynocephalus sakoi        • --
+         |    |    |    |    |- • Phrynocephalus scutellatus  • gray toadhead agama
+         |    |    |    |    |- • Phrynocephalus strauchi     • Strauch's toadhead agama
+         |    |    |    |    |- • Phrynocephalus theobaldi    • Theobald's toadhead agama, toad-headed lizard, or snow lizard
+         |    |    |    |    |- • Phrynocephalus versicolor   • Tuvan toadhead agama
+         |    |    |    |    |- • Phrynocephalus vindumi      • --
+         |    |    |    |    |- • Phrynocephalus vlangalii    • Ching Hai toadhead agama
+         |    |    |    |- Pseudotrapelus                     6 --
+         |    |    |    |    |- • Pseudotrapelus aqabensis    • aqaba agama
+         |    |    |    |    |- ◦ Pseudotrapelus chlodnickii  ◦ --
+         |    |    |    |    |- ◦ Pseudotrapelus dhofarensis  ◦ --
+         |    |    |    |    |- ◦ Pseudotrapelus jensvindumi  ◦ --
+         |    |    |    |    |- ◦ Pseudotrapelus neumanni     ◦ neumann's agama
+         |    |    |    |    |- • Pseudotrapelus sinaitus     • sinai agama
+         |    |    |    |- Trapelus                          13 more
+         |    |    |    |    |- • Trapelus agilis             • brilliant ground agama
+         |    |    |    |    |- • Trapelus flavimaculatus     • yellow-spotted agama
+         |    |    |    |    |- • Trapelus mutabilis          • egyptian agama
+         |    |    |    |    |- • Trapelus ruderatus          • olivier's agama
+         |    |    |    |    |- • Trapelus sanguinolentus     • steppe agama
+         |    |    |    |    |- • Trapelus savignii           • savigny's agama
+         |    |    |    |    |- • Trapelus schmitzi           • schmitz's agama
+         |    |    |    |    |- 6 more                        6 more
+         |    |    |    |- Xenagama                           4 turnip-tail agamas
+         |    |    |    |    |- • Xenagama batillifera        • vaillant's turnip-tail agama
+         |    |    |    |    |- • Xenagama taylori            • taylor's turnip-tail agama
+         |    |    |    |    |- 2 more                        2 more
+  58 mya |    |[ Chamaeleonidae ]                               chameleons
+         |    |- Brookesia                                      leaf chameleons
+         |    |[ Chamaeleoninae ]                               --
+         |    |- Bradypodion                                    s. african dwaf chameleons
+         |    |- Chamaeleo                                      --
+         |    |- Rhampholeon & Rieppeleon                       african leaf chameleons & pygmy chameleons
+         |    |- Calumma & Furcifer                             madagascar chameleons
+         |    |- Kinyongia                                      --
+         |    |- Trioceros                                      --
+         |[ Pleurodonta ]                                       --
+         |- Hoplocercidae                                       --
+         |- Polychrotidae / Polychrus                           bush anoles
+         |- Corytophanidae                                      basilisks, helmeted lizards / casquehead lizards
+         |- Dactyloidae / Anolis                                anoles
+ >32 mya |- Crotaphytidae                                       collared lizards
+  >6 mya |    |- Gambelia                                     3 leopard lizards
+         |    |    |- • Gambelia copeii                       • baja california leopard lizard / cope's leopard lizard
+         |    |    |- • Gambelia sila                         • blunt-nosed leopard lizard
+         |    |    |- • Gambelia wislizenii                   • long-nosed leopard lizard
+ >28 mya |    |- Crotaphytus                                  9 --
+  66 mya |- Iguanidae / Iguaninae                            44 iguanas
+         |    |- Dipsosaurus                                  2 --
+         |    |    |- • Dipsosaurus dorsalis                  • desert iguana
+         |    |    |- 1 more                                  1 more
+         |    |- Brachylophus                                 4 --
+         |    |    |- † Brachylophus gibbonsi                 † --
+         |    |    |- • Brachylophus bulabula                 • central fijian banded iguana
+         |    |    |- • Brachylophus fasciatus                • Lau banded iguana
+         |    |    |- • Brachylophus vitiensis                • fiji crested iguana
+         |    |    |- 1 more                                  1 more
+ >18 mya |    |- Cyclura                                     10 cycluras; rock iguanas
+         |    |    |- • Cyclura carinata                      • turks-and-caicos iguana
+         |    |    |- • Cyclura collei                        • jamaicain iguana
+         |    |    |- • Cyclura cornuta                       • rhinoceros iguana
+         |    |    |- • Cyclura cychlura                      • northern bahamian rock iguana
+         |    |    |- • Cyclura lewisi                        • blue iguana / grand cayman rock iguana
+         |    |    |- • Cyclura nubila                        • cuban rock iguana
+         |    |    |- • Cyclura pinguis                       • anegada rock iguaga
+         |    |    |- • Cyclura ricordi                       • ricord's rock iguana
+         |    |    |- • Cyclura rileyi                        • bahamian rock iguana
+         |    |    |- • Cyclura stejnegeri                    • mona rock iguana
+ >16 mya |    |- Ctenosaura                                  15 ctenosaurs; spiny-tailed iguanas
+         |    |    |- • Ctenosaura acanthura                  • mexican spiny-tailed igauna
+         |    |    |- • Ctenosaura bakeri                     • baker's spiny-tailed iguana
+         |    |    |- • Ctenosaura hemilopha                  • cape spiny-tailed iguana
+         |    |    |- • Ctenosaura macrolopha                 • sonora spiny-tailed iguana
+         |    |    |- • Ctenosaura meanosterna                • black-chested spiny-tailed iguana
+         |    |    |- • Ctenosaura oaxacana                   • oaxacan spiny-tailed iguana
+         |    |    |- • Ctenosaura oedirhina                  • roatán spiny-tailed iguana
+         |    |    |- • Ctenosaura palearis                   • guatemalan spiny-tailed iguana
+         |    |    |- • Ctenosaura pectinata                  • western spiny-tailed iguana
+         |    |    |- • Ctenosaura similis                    • black iguana / black spiny-tailed iguana
+         |    |    |- 5 more                                  5 more
+         |    |- Cachryx                                      2 --
+         |    |    |- • Cachryx defensor                      • yucatán spiny-tailed iguana
+         |    |    |- 1 more                                  1 more
+         |    |- unnamed                                      4 galápagos iguanas
+         |    |    |- • Amblyrhynchus cristatus               • sea iguana / marine iguana / galápagos marine iguana
+  >5 mya |    |    |[ Conolophus ]                            3 galápagos land iguanas
+         |    |    |- • Conolophus subcristatus               • galápagos land iguana
+         |    |    |- • Conolophus martae                     • pink iguana / pink galápagos land iguana
+         |    |    |- • Conolophus pallidus                   • santa fe land iguana
+  20 mya |    |- Iguana                                       2 green iguanas (not domesticated; captive)
+         |    |    |- • Iguana delicatissima                  • lesser antillean iguana / lesser antillean green iguana
+         |    |    |- • Iguana iguana                         • green iguana / common green iguana / american iguana (species complex)
+  18 mya |    |- Sauromalus                                   5 chuckwallas
+         |    |    |- • Sauromalus ater                       • common chuckwalla / northern chuchwalla
+         |    |    |- • Sauromalus hispidus                   • spiny chuckwalla / angel island chuckwalla
+         |    |    |- • Sauromalus klauberi                   • spotted chuckwalla / catalina chuckwalla
+         |    |    |- • Sauromalus varius                     • pinto chuckwalla / san esteban chuckwalla
+         |    |    |- 1 more                                  1 more
+         |- Phrynosomatidae                                     horn toads, etc
+         |- Opluridae                                           madagascan iguanas
+         |- Liolaemidae                                         tree iguanas, snow swifts, cabezona
+         |- Leiocephalidae /Leiocephalus                        curly-tail lizards
+         |- Leiosauridae                                        --
+         |- Tropiduridae                                        neotropical ground lizards

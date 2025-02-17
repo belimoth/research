@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Cervinae
+-----------------------------------------------------------------------------------------------------
+   8 mya |[ Cervinae ]                                       18 old world deer / plesiometacarpal deer
+         |[ Cervini ]                                        18 --
+         |- † Megaloceros giganteus                           † irish elk
+         |- • Elaphurus davidianus                            • milu / elaphure / père david's deer
+         |- Rucervus                                          2 --
+         |    |- † Rucervus schomburgki                       † schomburgk's deer
+         |    |- • Rucervus duvaucelli                        • barasingha / swamp deer
+         |    |- • Rucervus eldii                             • thamin / eld's deer / brow-antlered deer
+         |- Rusa                                              4 --
+         |    |- • Rusa alfredi                               • visayan deer / visayan spotted deer / phillippine spotted deer
+         |    |- • Rusa marianna                              • phillipine deer / phillipine brown deer / phillipine sambar
+         |    |- • Rusa timorensis                            • javan rusa / sunda sambar
+         |    |- • Rusa univolor                              • sambar
+   5 mya |- Dama                                              2 fallow deer
+         |    |- • Dama dama                                  • fallow deer / common fallow deer
+         |    |- • Dama mesopotamica                          • persian fallow deer
+   3 mya |- Axis                                              4 hog deer
+         |    |- • Axis axis                                  • chital / spotted deer / axis deer
+         |    |- • Axis calamianensis                         • calamian hog deer
+         |    |- • Axis kuhlii                                • bawean deer / kuhl's deer
+         |    |- • Axis porcinus                              • hog deer
+   3 mya |- Cervus                                            5 --
+         |    |- † Cervus astylodon                           † ryukyu dwarf deer
+         |    |- • Cervus albirostris                         • white-lipped deer / thorold's deer
+         |    |- • Cervus nippon                              • sika deer / northern spotted deer
+         |    |- • Cervus canadensis                          • elk / wapiti
+         |    |- • Cervus elaphus                             • red deer
+         |    |- • Cervus hanglu                              • tarim red deer / central asian red deer

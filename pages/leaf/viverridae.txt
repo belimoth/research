@@ -1,0 +1,49 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Ferae / Feliformia / Viverridae
+-----------------------------------------------------------------------------------------------------
+         |[ Viverridae ]                                     36 viverrids
+         |- Paradoxurinae                                     7 --
+         |    |- • Arctogalidia trivirgata                    • small-toothed palm civet
+         |    |- • Arctictis binturong                        • binturong
+         |    |- • Paguma larvata                             • masked palm civet
+         |    |- • Macrogalidia musschenbroekii               • sulawesi palm civet
+  >7 mya |    |[ Paradoxurus ]                                3 --
+         |    |- • Paradoxurus zeylonensis                    • golden palm civet
+         |    |- • Paradoxurus jerdoni                        • jerdon's palm civet
+         |    |- • Paradoxurus hermaphroditus                 • asian palm civet
+ >14 mya |- Hemigalinae                                       4 --
+         |    |- • Cynogale bennettii                         • otter civet
+         |    |- • Chrotogale owstoni                         • owston's palm civet
+         |    |- • Diplogale hosei                            • hose's palm civet
+         |    |- • Hemigalus derbyanus                        • banded palm civet
+  23 mya |[ Viverrinae sl ]                                  25 --
+         |- Genettinae                                       19 genets, oyans
+         |    |- Poiana                                       2 oyans
+         |    |    |- • Poiana leightoni                      • west african oyan
+         |    |    |- • Poiana richardsonii                   • central african oyan
+   9 mya |    |[ Genetta ]                                   17 genets
+         |    |- • Genetta abyssinica                         • abyssinian genet
+         |    |- • Genetta thierryi                           • haussa genet
+         |    |- • Genetta victoriae                          • giant forest genet
+         |    |- • Genetta johnstoni                          • johnston's genet
+         |    |- • Genetta piscivora                          • aquatic genet
+         |    |- • Genetta servalina                          • servaline genet
+         |    |- • Genetta cristata                           • crested servaline genet
+         |    |- • Genetta felina                             • south african small-spotted genet
+         |    |- • Genetta genetta                            • common genet
+         |    |- • Genetta tigrina                            • cape genet
+         |    |- • Genetta letabae                            • letaba genet
+         |    |- • Genetta schoutedeni                        • schouteden’s genet
+         |    |- • Genetta maculata                           • rusty-spotted genet
+         |    |- • Genetta angolensis                         • angolan genet
+         |    |- • Genetta pardina                            • pardine genet
+         |    |- • Genetta bourloni                           • bourlon's genet
+         |    |- • Genetta poensis                            • king genet
+         |[ Viverrinae ss ]                                   6 --
+         |- • Viverricula indica                              • small indian civet
+         |- • Civettictis civetta                             • african civet
+   5 mya |[ Viverra ]                                         4 --
+         |- • Viverra civettina                               • malabar large-spotted civet
+         |- • Viverra megaspila                               • large-spotted civet
+         |- • Viverra zibetha                                 • large indian civet
+         |- • Viverra tangalunga                              • malayan civet

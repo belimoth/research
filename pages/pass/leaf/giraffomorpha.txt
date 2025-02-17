@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Laurasiatheria / Artiodactyla / Ruminantia / Giraffomorpha
+-----------------------------------------------------------------------------------------------------
+         |[ Giraffomorpha ]                                   2 --
+         |- † Palaeomerycidae                                 † palaeomerycids
+         |    |- † Ampelomeryx                                † ampelomeryx
+         |    |- † Xenokeryx                                  † xenokeryx
+         |[ Giraffoidea ]                                     2 giraffoids
+         |- † Climacoceratidae                                † climacoceratids
+         |    |- † Climacoceras                               † ladder-horned climacoceratids
+         |    |- † Prolibytherium                             † prolibytherium
+  15 mya |[ Giraffidae ]                                      2 giraffes, okapi
+         |- † Propalaeomeryx                                  † propalaeomeryx
+         |- † Injanatherium                                   † injanatherium
+         |- † Shansitherium                                   † shansitherium
+         |- Giraffanae / Giraffini / Giraffina                1 --
+         |    |- † Honanotherium                              † hoanotherium
+         |    |[ Giraffa ]                                    1 giraffes
+         |    |- † Giraffa jumae                              † --
+         |    |- • Giraffa camelopardalis                     • giraffe
+         |- † Palaeotragini / Palaeotragina                   † --
+         |    |- † Giraffokeryx                               † giraffokeryx
+         |    |- † Palaeotragus                               † palaeotragus; "ancient goat"
+         |    |- † Samotherium                                † samotherium
+         |- † Sivatheriinae                                   † --
+         |    |- † Decennatherium                             † decennatherium
+         |    |- † Sivatherium                                † sivatherium
+         |[ Okapia ]                                          1 --
+         |- • Okapia johnstoni                                • okapi / zebra-giraffe / forest giraffe

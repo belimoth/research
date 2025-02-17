@@ -1,0 +1,119 @@
+-----------------------------------------------------------------------------------------------------
+Diphoda / Archaeplastida / Gymnosperms
+-----------------------------------------------------------------------------------------------------
+ 301 mya |[ Gymnosperms ]                                       --
+   basal |- Ginkgoidae                                        1 gingkos
+         |    |- • Ginkgo biloba                              • ginkgo biloba
+>189 mya |- Cycadales                                           cycads
+         |    |- Cycas                                          --
+         |    |[ Zamiaceae ]                                    --
+         |    |- Dioon                                          --
+         |    |[ Zamioidea ]                                    --
+         |    |- Bowenia                                        --
+         |    |- Macrozamia                                     --
+         |    |- Lepidozamia                                    --
+         |    |- Encephalartos                                  --
+         |    |- Stangeria                                      --
+         |    |- Ceratozamia                                    --
+         |    |- Microcycas                                     --
+ >10 mya |    |- Zamia                                          --
+ 256 mya |[ Pinidae ]                                           --
+         |- Gnetales                                            --
+         |    |- Welwitschia                                    --
+         |    |- Gnetum                                         --
+         |    |- Ephedra                                        --
+         |[ Pinales ]                                           pine-family conifers
+         |    |- Abietoideae                                    --
+         |    |    |- Cedrus                                  4 cedars
+         |    |    |- Pseudolarix                             1 golden larch
+         |    |    |- Nothotsuga                              1 bristlecone hemlock tree
+         |    |    |- Tsuga                                  10 hemlock trees
+         |    |    |- Keteleeria                              3 --
+         |    |    |- Abies                                  50 firs
+         |    |[ Pinoideae ]                                    --
+         |    |- Lariceae                                       --
+         |    |    |- Pseudotsuga                             5 douglas firs
+         |    |    |- Larix                                  14 larches
+         |    |[ Pineae ]                                       --
+         |    |- Cathaya                                      1 --
+         |    |- Picea                                       35 spruces
+         |    |- Pinus                                      115 pines
+         |- Araucariales                                        --
+         |    |- Araucariaceae                                  araucarians
+         |    |    |- Araucaria                                 --
+         |    |    |- Wollemia                                  --
+         |    |    |- Agathis                                   --
+         |    |[ Podocarpaceae ]                                podocarps
+         |    |- Phyllocladoideae                               --
+         |    |    |- Phyllocladeae                             --
+         |    |    |    |- Lepidothamnus                        --
+         |    |    |    |- Phyllocladus                         --
+         |    |    |- Prumnopityeae                             --
+         |    |    |    |- Halocarpus                           --
+         |    |    |    |- Parasitaxus                          --
+         |    |    |    |- Lagarostrobos                        --
+         |    |    |    |- Manoao                               --
+         |    |    |    |- Pectinopitys                         --
+         |    |    |    |- Sundacarpus                          --
+         |    |    |    |- Prumnopitys                          --
+         |    |- Podocarpoideae                                 --
+         |    |    |- Saxegothaeeae                             --
+         |    |    |    |- Saxegothaea                          --
+         |    |    |- Microcachrydeae                           --
+         |    |    |    |- Microcachrys                         --
+         |    |    |- Pherosphaereae                            --
+         |    |    |    |- Pherosphaera                         --
+         |    |    |- Acmopyleae                                --
+         |    |    |    |- Acmopyle                             --
+         |    |    |- Dacrydieae                                --
+         |    |    |    |- Dacrycarpus                          --
+         |    |    |    |- Falcatifolium                        --
+         |    |    |    |- Dacrydium                            --
+         |    |    |- Podocarpeae                               --
+         |    |    |    |- Retrophyllum                         --
+         |    |    |    |- Afrocarpus                           --
+         |    |    |    |- Nageia                               --
+         |    |    |    |- Podocarpus                           --
+ 223 mya |[ Cupressales ]                                       --
+         |- Sciadopityaceae                                     --
+         |- Taxaceae                                            yew family
+         |    |- Cephalotaxus                                11 plum yew / cowtail pine
+         |    |[ Taxoideae ]                                    --
+         |    |- Amentotaxus                                  5 catkin yews
+         |    |- Torreya                                      6 --
+         |    |- Austrotaxus                                  1 new caledonia yew / southern yew
+         |    |- Pseudotaxus                                  1 whiteberry yew
+         |    |- Taxus                                       15 yews
+ 170 mya |[ Cupressaceae ]                                      cypress family
+         |- Cunninghamia                                      1 --
+         |- Taiwania                                          1 --
+         |- Athrotaxis                                        3 --
+         |- Sequoioideae                                        --
+         |    |- Metasequoia                                  1 dawn redwood
+         |    |- Sequoiadendron                               1 giant redwood
+         |    |- Sequoia                                      1 coast redwood / california redwood
+         |- Taxodioideae                                        --
+         |    |- Cryptomeria                                  1 sugi
+         |    |- Glyptostrobus                                1 水松 / chinese swamp cypress
+         |    |- Taxodium                                       --
+         |- Actinostroboideae                                   --
+         |    |- Papuacedrus                                  1 --
+         |    |- Austrocedrus                                 1 --
+         |    |- Pilgerodendron                               1 --
+         |    |- Libocedrus                                   5 --
+         |    |- Diselma                                      1 --
+         |    |- Fitzroya                                     1 --
+         |    |- Widdringtonia                                4 --
+         |    |- Callitris                                   16 cypress yews
+         |[ Cupressoideae ]                                     --
+         |- Thujopsis                                         1 あすなろ(asunaro)
+         |- Thuja                                             5 arborvitaes / thujas
+         |- Chamaecyparis                                     6 false cypress
+         |- Tetraclinis                                       1 sanderac / barbary thuja
+         |- Microbiota                                        1 siberian carpet cypress / russian arborvitae
+         |- Platycladus                                       1 chinese thuja
+         |- Calocedrus                                        4 incense cedar
+         |- Cupressus                                           cypress (1/2)
+         |- Xanthocyparis                                     1 vietnamese golden cypress
+         |- Hesperocyparis                                      cypress (2/2)
+         |- Juniperus                                        67 junipers

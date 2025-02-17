@@ -1,0 +1,73 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Holomycota / Basidiomycota
+-----------------------------------------------------------------------------------------------------
+ 489 mya |[ Basidiomycota ]                                     mushrooms, puffballs, stinkhorns, bracket fungi, other polypores, jelly fungi, boletes, chanterelles, earth stars, smuts, bunts, rusts, mirror yeasts, and Cryptococcus, the human pathogenic yeast
+         |- Entorrhizomycetes                                   obligate parasites of plant roots
+         |- Ustilaginomycotina                                  smut fungus
+         |- Pucciniomycotina                                    rust fungus
+         |[ Agaricomycotina ]                                   --
+         |- Bartheletiomycetes                                  --
+         |- Tremellomycetes                                     --
+         |- Dacrymycetes                                        --
+ 305 mya |[ Agaricomycetes ]                                    --
+ 220 mya |- Cantharellales                                      --
+         |    |- Botryobasidium                                 --
+         |    |- Cantharellaceae                                ectomycorrhizal
+         |    |    |- Afrocantharellus                          --
+         |    |    |- Cantharellus                              chanterelles
+         |    |    |    |- cantharellus amethysteus             amethyst chanterelle
+         |    |    |    |- cantharellus californicus            oak chanterelle
+         |    |    |    |- cantharellus cascadensis             cascade chanterelle
+         |    |    |    |- cantharellus cibarius                golden chanterelle / girolle
+         |    |    |    |- cantharellus chicagoensis            chicago chanterelle
+         |    |    |    |- cantharellus cinereus                ashen chanterelle
+         |    |    |    |- cantharellus cinnabarinus            red chanterelle
+         |    |    |    |- cantharellus concinnus               australian chanterelle
+         |    |    |    |- cantharellus formosus                pacific golden chanterelle
+         |    |    |    |- cantharellus friesii                 orange chanterelle
+         |    |    |    |- cantharellus lateritius              smooth chanterelle
+         |    |    |    |- cantharellus persicinus              peach chanterelle
+         |    |    |    |- cantharellus phasmatis               ghost chantarelle
+         |    |    |    |- cantharellus subalbidus              white chantarelle
+         |    |    |    |- cantharellus texensis                texas chantarelle
+         |    |    |- Craterellus                               --
+         |    |    |    |- craterellus cornucopioides           horn of plenty / black chantarelle / black trumpet
+         |    |    |    |- craterellus lutescens                yellow foot mushroom
+         |    |    |    |- craterellus tubaeformis              yellow foot mushroom / winter mushroom / funnel chantarelle
+         |    |    |- Pseudocraterellus                         sinuous chanterelle
+         |    |- Ceratobasidiaceae                              --
+         |    |    |- Ceratobasidium                            sharp eyespot of cereals and grasses, aggregate sheath spot of rice, sclerotium of rice, etc
+         |    |    |- Rhizoctonia                               brown patch of turf grass, black scurf of potatos, bare patch of cerals, root rot of sugar beets, belly rot of cucumbers, sheath blight of rice, etc
+         |    |- Clavulinaceae                                  --
+         |    |- Tulasnellaceae                                 --
+         |    |[ Hydnaceae ]                                    tooth fungus
+         |    |- Sistotrema                                     --
+         |    |- Multiclavula                                   basidiolichen
+         |    |- Clavulina                                      coral fungus
+         |    |[ Hydnum ]                                       hedgehog mushrroms
+         |    |- hydnum albomagnum                              giant hedgehog
+         |    |- hydnum repandum                                sweet tooth / wood hedgehog / hedgehog mushroom
+         |    |- hydnum rufescens                               terra cotta hedgehog
+         |    |- hydnum umbilicatum                             depressed hedgehog
+         |- Sebacinales                                         --
+         |- Auriculariales                                      --
+         |- Stereopsidales                                      --
+         |- Phallomycetidae                                     --
+         |    |- Geastrales                                     --
+         |    |- Hysterangiales                                 --
+         |    |- Gomphales                                      --
+         |    |- Phallales                                      --
+         |- Trechisporales                                      --
+         |- Hymenochaetales                                     --
+         |- Thelephorales                                       --
+         |- Polyporales                                         --
+         |- Corticiales                                         --
+         |- Jaapiales                                           --
+         |- Gloeophyllales                                      --
+         |- Russulales                                          --
+         |[ Agaricomycetidae ]                                  --
+         |- Agaricales                                          --
+         |- Boletales                                           --
+         |- Amylocorticiales                                    --
+         |- Lepidostromatales                                   --
+         |- Atheliales                                          --

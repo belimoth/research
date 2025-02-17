@@ -1,0 +1,111 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Protostomia / Mollusca / Cephalopoda / Sepiolida
+-----------------------------------------------------------------------------------------------------
+         |[ Sepiolida ]                                      97 bobtail squids / stubby squids / dumpling squids
+         |- Idiosepiidae                                      9 pygmy squids
+         |    |- ◦ Xipholeptos notoides                       ◦ --
+         |    |- ◦ Kodama jujutsu                             ◦ --
+         |    |- Idiosepius                                   6 --
+         |    |    |- ◦ Idiosepius hallami                    ◦ --
+         |    |    |- ◦ Idiosepius minimus                    ◦ --
+         |    |    |- ◦ Idiosepius paradoxus                  ◦ --
+         |    |    |- ◦ Idiosepius picteti                    ◦ --
+         |    |    |- ◦ Idiosepius pygmaeus                   ◦ --
+         |    |    |- ◦ Idiosepius thailandicus               ◦ --
+ 171 mya |- Sepiolidae                                       78 --
+         |    |- ◦ Choneteuthis tongaensis                    ◦ --
+         |    |- Heteroteuthinae                             17 --
+         |    |    |- Amphorateuthis                          1 --
+         |    |    |    |- ◦ Amphorateuthis alveatus          ◦ --
+         |    |    |- Heteroteuthis                           5 --
+         |    |    |    |- ◦ Heteroteuthis dispar             ◦ odd bobtail
+         |    |    |    |- ◦ Heteroteuthis weberi             ◦ --
+         |    |    |    |[ Stephanoteuthis ]                  3 --
+         |    |    |    |- ◦ Heteroteuthis dagamensis         ◦ --
+         |    |    |    |- ◦ Heteroteuthis hawaiiensis        ◦ --
+         |    |    |    |- ◦ Heteroteuthis serventyi          ◦ --
+         |    |    |- Iridoteuthis                            3 --
+         |    |    |    |- ◦ Iridoteuthis iris                ◦ --
+         |    |    |    |- ◦ Iridoteuthis lophia              ◦ --
+         |    |    |    |- ◦ Iridoteuthis merlini             ◦ --
+         |    |    |- Nectoteuthis                            1 --
+         |    |    |    |- ◦ Nectoteuthis pourtalesi          ◦ --
+         |    |    |- Sepiolina                               2 --
+         |    |    |    |- ◦ Sepiolina nipponensis            ◦ japanese bobtail
+         |    |    |    |- ◦ Sepiolina petasus                ◦ --
+         |    |    |- Stoloteuthis                            5 --
+         |    |    |    |- ◦ Stoloteuthis cthulhui            ◦ --
+         |    |    |    |- ◦ Stoloteuthis japonica            ◦ --
+         |    |    |    |- ◦ Stoloteuthis leucoptera          ◦ butterfly bobtail
+         |    |    |    |- ◦ Stoloteuthis maoria              ◦ --
+         |    |    |    |- ◦ Stoloteuthis weberi              ◦ --
+         |    |- Rossiinae                                   19 --
+         |    |    |- Austrorossia                            4 --
+         |    |    |    |- ◦ Austrorossia antillensis         ◦ antilles bobtail
+         |    |    |    |- ◦ Austrorossia australis           ◦ big bottom bobtail
+         |    |    |    |- ◦ Austrorossia bipapillata         ◦ big-eyed bobtail
+         |    |    |    |- ◦ Austrorossia mastigophora        ◦ --
+         |    |    |- Neorossia                               2 --
+         |    |    |    |- ◦ Neorossia caroli                 ◦ carol bobtail
+         |    |    |    |- ◦ Neorossia leptodons              ◦ --
+         |    |    |- Rossia                                 10 --
+         |    |    |    |- ◦ Rossia brachyura                 ◦ short-tailed bobtail
+         |    |    |    |- ◦ Rossia bullisi                   ◦ gulf bobtail
+         |    |    |    |- ◦ Rossia glaucopis                 ◦ chilean bobtail
+         |    |    |    |- ◦ Rossia macrosoma                 ◦ stout bobtail
+         |    |    |    |- ◦ Rossia megaptera                 ◦ big-fin bobtail
+         |    |    |    |- ◦ Rossia moelleri                  ◦ arctic bobtail
+         |    |    |    |- ◦ Rossia mollicella                ◦ mushroom-hat bobtail
+         |    |    |    |- ◦ Rossia pacifica                  ◦ stubby squid / north pacific bobtail
+         |    |    |    |- ◦ Rossia palpebrosa                ◦ warty bobtail
+         |    |    |    |- ◦ Rossia tortugaensis              ◦ tortugas bobtail
+         |    |    |- Semirossia                              3 --
+         |    |    |    |- ◦ Semirossia equalis               ◦ greater bobtail
+         |    |    |    |- ◦ Semirossia patagonica            ◦ --
+         |    |    |    |- ◦ Semirossia tenera                ◦ lesser bobtail
+   0 mya |    |- Sepiolinae                                  41 --
+         |    |    |- ◦ Rondeletiola minor                    ◦ lentil bobtail
+         |    |    |- Euprymna                               16 --
+         |    |    |    |- ◦ Euprymna albatrossae             ◦ --
+         |    |    |    |- • Euprymna berryi                  • berry's bobtail / double-ear bobtail / hummingbird bobtail
+         |    |    |    |- ◦ Euprymna brenneri                ◦ --
+         |    |    |    |- ◦ Euprymna bursa                   ◦ --
+         |    |    |    |- ◦ Euprymna hoylei                  ◦ --
+         |    |    |    |- ◦ Euprymna hyllebergi              ◦ --
+         |    |    |    |- ◦ Euprymna megaspadicea            ◦ --
+         |    |    |    |- ◦ Euprymna morsei                  ◦ mimika bobtail
+         |    |    |    |- ◦ Euprymna pardalota               ◦ --
+         |    |    |    |- ◦ Euprymna penares                 ◦ --
+         |    |    |    |- ◦ Euprymna phenax                  ◦ --
+         |    |    |    |- ◦ Euprymna pusilla                 ◦ --
+         |    |    |    |- • Euprymna scolopes                • hawaiian bobtail
+         |    |    |    |- ◦ Euprymna schneehageni            ◦ --
+         |    |    |    |- ◦ Euprymna stenodactyla            ◦ --
+         |    |    |    |- • Euprymna tasmanica               ◦ southern dumpling squid
+         |    |    |- Inioteuthis                             3 --
+         |    |    |    |- ◦ Inioteuthis capensis             ◦ --
+         |    |    |    |- ◦ Inioteuthis japonica             ◦ --
+         |    |    |    |- ◦ Inioteuthis maculosa             ◦ --
+         |    |    |- Sepietta                                3 --
+         |    |    |    |- ◦ Sepietta neglecta                ◦ elegant bobtail
+         |    |    |    |- ◦ Sepietta obscura                 ◦ --
+         |    |    |    |- • Sepietta oweniana                • common bobtail
+         |    |    |    |- ◦ Sepietta petersi                 ◦ mysterious bobtail
+         |    |    |- Sepiola                                17 --
+         |    |    |    |- ◦ Sepiola affinis                  ◦ anagolous bobtail
+         |    |    |    |- • Sepiola atlantica                • atlantic bobtail
+         |    |    |    |- ◦ Sepiola aurantiaca               ◦ golden bobtail
+         |    |    |    |- ◦ Sepiola birostrata               ◦ butterfly bobtail
+         |    |    |    |- ◦ Sepiola boletzkyi                ◦ --
+         |    |    |    |- ◦ Sepiola bursadhaesa              ◦ --
+         |    |    |    |- ◦ Sepiola intermedia               ◦ intermediate bobtail
+         |    |    |    |- ◦ Sepiola knudseni                 ◦ --
+         |    |    |    |- ◦ Sepiola ligulata                 ◦ tongue bobtail
+         |    |    |    |- ◦ Sepiola parva                    ◦ --
+         |    |    |    |- ◦ Sepiola pfefferi                 ◦ --
+         |    |    |    |- ◦ Sepiola robusta                  ◦ robust bobtail
+         |    |    |    |- ◦ Sepiola rondeleti                ◦ dwarf bobtail
+         |    |    |    |- ◦ Sepiola rossiaeformis            ◦ --
+         |    |    |    |- ◦ Sepiola steenstrupiana           ◦ steenstrup's bobtail
+         |    |    |    |- ◦ Sepiola tridens                  ◦ --
+         |    |    |    |- ◦ Sepiola trirostrata              ◦ --

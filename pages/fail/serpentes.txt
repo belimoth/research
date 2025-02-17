@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Serpentes
+-----------------------------------------------------------------------------------------------------
+ 131 mya |[ Serpentes ]                                         snakes
+         |- * Scolecophidia                                     * blind snakes
+         |[ Alethinophidia ]                                    --
+         |- Amerophidia                                         amerophidians; amerophidian snakes
+         |    |- • Anilius scytale                              american pipe snkae / false coral snake
+         |    |- Tropidophiidae                                 dwarf boas / thunder snakes
+  >5 mya |    |    |- Trachyboa                               2 eyelash boas
+         |    |    |    |- • Trachyboa boulengeri             • northern eyelash boa
+         |    |    |    |- ◦ Trachyboa gularis                ◦ ecuadorian eyelash boa
+         |    |    |- Tropidophis                               wood snakes / caribbean wood snakes / carribbean dwarf boas
+         |[ Afrophidia ]                                        --
+         |- Uropeltoidea                                        --
+         |[ Macrostomata ]                                      --
+         |- Pythonoidea                                         python-like snakes
+         |- Booidea                                             boa-like snakes
+         |[ Caenophidia ]                                       --
+         |- Acrochordidae                                       --
+         |[ Colubroides ]                                       --
+         |- Xenodermidae                                        --
+         |[ Colubriformes ]                                     --
+         |- Pareidae                                            --
+         |- Viperidae                                           vipers
+         |- Homalopsidae                                        --
+         |- Elapoidea                                           --
+         |    |- Pseudaspididae                                 --
+         |    |- Psammophiinae                                  --
+         |    |- Lamprophiidae                                  --
+         |    |    |- Pseudoxyrhophiinae                        --
+         |    |    |- Micrelapiinae                             two-headed snakes
+         |    |    |- Psammodynastes                            --
+         |    |    |- Lamprophiinae                             --
+         |    |- Atractaspididae                                mole snakes
+         |    |[ Elapidae ]                                     --
+         |    |- Calliophiinae                                  coral snakes
+         |    |- Naja                                           cobras
+         |    |- Bungarinae                                     kraits
+         |    |- Elapsoidea                                     african garter snakes
+         |    |[ Hydrophiinae ]                                 --
+  60 mya |[ Colubroidea ]                                       --
+         |- Sibynophiidae                                       hinged-teeth snakes
+         |- Natricidae                                          --
+         |- Dipsadinae                                          --
+         |- Xenodontinae                                        --
+         |[ Colubridae ]                                        colubrids; colubrid snakes
+         |- Grayiinae / Grayia                                  african water snakes
+         |- Calamariinae                                        reed snakes
+         |- Ahaetuliinae                                        --
+         |- * Colubrinae                                        * colubrine snakes

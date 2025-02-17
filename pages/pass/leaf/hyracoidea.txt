@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Paenungulatomorpha / Hyracoidea
+-----------------------------------------------------------------------------------------------------
+  53 mya |[ Hyracoidea ]                                      6 hyraxes / dassies
+         |- † Megalohyrax                                     † megalohyrax
+         |- † Titanohyrax                                     † titanohyrax
+         |- † Pliohyracidae                                   † --
+         |    |- † Kvabebihyrax                               † kvabebihyrax
+         |    |- † Pliohyrax                                  † pliohyrax
+  14 mya |[ Procaviidae ]                                     6 --
+         |- • Procavia capensis                               • rock hyrax
+  13 mya |- Dendrohyrax                                       4 tree hyraxes
+         |    |- • Dendrohyrax arboreus                       • southern tree hyrax
+         |    |- • Dendrohyrax validus                        • eastern tree hyrax
+         |    |- • Dendrohyrax dorsalis                       • western tree hyrax
+         |    |- • Dendrohyrax interfluvialis                 • benin tree hyrax
+  10 mya |[ Heterohyrax ]                                     1 --
+         |- • Heterohyrax brucei                              • yellow-spotted rock hyrax

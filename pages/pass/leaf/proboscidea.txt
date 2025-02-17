@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Atlantogenata / Paenungulatomorpha / Proboscidea
+-----------------------------------------------------------------------------------------------------
+  26 mya |[ Proboscidea ]                                     3 elephants, etc
+         |- † Phosphatherium                                  † phosphatherium
+         |- † Barytherium                                     † barytherium
+         |- † Moeritherium                                    † moeritharium
+         |- † Deinotherium                                    † deinotherium
+         |[ Elephantiformes ]                                 3 --
+         |- † Palaeomastodon                                  † palaeomastodon
+         |- † Phiomia                                         † phiomia
+         |[ Elephantimorpha ]                                 3 --
+         |- † Mammutidae                                      † mastodons
+         |    |- † Mammut                                     † american mastodon
+         |    |- † Zygolophodon                               † zyglophodon
+         |- † Gomphotheriidae                                 † gomphotheres
+         |    |- † Gomphotherium                              † gomphotherium
+         |    |- † Eubelodon                                  † eubelodon
+         |    |[ unnamed ]                                    † "brevirostrine clade"
+         |    |- † Stegomastodon                              † stegomastodon
+         |    |- † Sinomastodon                               † sinomastodon
+         |    |- † Notiomastodon                              † notiomastodon
+         |    |- † Rhynchotherium                             † rhynchotherium
+         |    |- † Cuvieronius                                † cuvieronius
+         |[ Elephantoidea ]                                   3 --
+         |- † Anancus                                         † anancus
+         |- † Stegodon                                        † stegodon
+         |[ Elephantidae ]                                    3 elephants, mammoths
+         |- † Stegotetrabelodon                               † stegotetrabelodon
+         |[ Elephantinae ]                                    3 --
+         |- † Palaeoloxodon                                   † palaeoloxodon
+         |- † Mammuthus                                       † mammoths
+         |    |- † Mammuthus columbi                          † columbian mammoth
+         |    |- † Mammuthus primigenius                      † wooly mammoth
+         |    |- † Mammuthus meridionalis                     † southern mammmoth
+         |- • Elephas maximus                                 • asian elephant
+   6 mya |[ Loxodonta ]                                       2 african elephants
+         |- • Loxodonta africana                              • african bush elephant
+         |- • Loxodonta cyclotis                              • african forest elephant

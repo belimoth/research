@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Monotremata
+-----------------------------------------------------------------------------------------------------
+         |[ Monotremata ]                                     5 monotremes
+         |- • Ornithorhynchus anatinus                        • platypus
+  15 mya |[ Tachyglossidae ]                                  4 echidnas / spiny anteaters
+         |- • Tachyglossus aculeatus                          • short-beaked echidna
+         |[ Zaglossus ]                                       3 --
+         |- • Zaglossus bartoni                               • eastern long-beaked echidna
+         |- • Zaglossus attenboroughi                         • attenborough's long-beaked echidna
+         |- • Zaglossus bruijnii                              • western long-beaked echidna
