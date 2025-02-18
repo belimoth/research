@@ -1,0 +1,67 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Serpentes / Colubrinae / Lampropeltini
+-----------------------------------------------------------------------------------------------------
+         |[ Lampropeltini ]                                  53 --
+   basal |- ◦ Senticolis triaspis                             ◦ green rat snake
+         |- unnamed                                           7 --
+         |    |- • Arizona elegans                            • glossy snake
+         |    |- ◦ Arizona pacata                             ◦ peninsular glossy snake
+         |    |- ◦ Rhinocheilus antonii                       ◦ mexican long-nosed snake
+         |    |- ◦ Rhinocheilus etheridgei                    ◦ etheridge's long-nosed snake
+         |    |- • Rhinocheilus lecontei                      • long-nosed snake
+         |    |- ◦ Pseudelaphe flavirufa                      ◦ yellow-red rat snake
+         |    |- ◦ Pseudelaphe phaescens                      ◦ yucatán rat snake
+  13 mya |- Bogertophis                                       2 --
+         |    |- ◦ Bogertophis rosaliae                       ◦ baja california rat snake
+         |    |- ◦ Bogertophis subocularis                    ◦ trans-pecos rat snake / davis mountain rat snake
+         |- unnamed                                          15 --
+  12 mya |    |- Pantherophis                                 8 --
+         |    |    |- Scotophis                               4 --
+         |    |    |    |- ◦ Pantherophis bairdi              ◦ baird's rat snake / baird's pilot snake
+         |    |    |    |- • Pantherophis obsoletus           • black snake / black rat snake / black pilot snake / western rat snake
+         |    |    |    |- • Pantherophis alleghaniensis      • eastern rat snake
+         |    |    |    |- • Pantherophis spiloides           • grey rat snake / central rat snake / chicken snake
+         |    |    |- Mintonius                               2 --
+         |    |    |    |- • Pantherophis vulpinus            • fox snake / eastern fox snake
+         |    |    |    |- ◦ Pantherophis ramspotti           ◦ western fox snake
+         |    |    |[ Pantherophis ]                          2 --
+         |    |    |- • Pantherophis guttatus                 • corn snake / red rat snake
+         |    |    |- ◦ Pantherophis emoryi                   ◦ emory's rat snake / great plains rat snake
+  >8 mya |    |- Pituophis                                    7 gopher snakes, bull snakes, pine snakes
+         |    |    |- • Pituophis catenifer                   • gopher snake / pacific gopher snake / western gopher snake
+         |    |    |- ◦ Pituophis deppei                      ◦ mexican bull snake / mexican pine snake
+         |    |    |- ◦ Pituophis insularis                   ◦ credos island gopher snake
+         |    |    |- ◦ Pituophis lineaticollis               ◦ middle american gopher snake / cincuate bull snake
+         |    |    |- • Pituophis melanoleucus                • pine snake / eastern pine snake
+         |    |    |- • Pituophis ruthveni                    • lousiana pine snake
+         |    |    |- ◦ Pituophis vertebralis                 ◦ cape gopher snake / baja gopher snake
+         |- unnamed                                          28 --
+         |    |- • Cemophora coccinea                         • scarlet snake
+         |    |- ◦ Cemophora lineri                           ◦ texas scarlet snake
+  11 mya |    |[ Lampropeltis ]                              26 king snakes / milk snakes
+         |    |- ◦ Lampropeltis abnorma                       ◦ guatemalan milk snake
+         |    |- • Lampropeltis alterna                       • gray-banded king snake / davis mountain king snake
+         |    |- ◦ Lampropeltis annulata                      ◦ mexican milk snake / tamaulipan milk snake
+         |    |- • Lampropeltis californiae                   • california king snake
+         |    |- ◦ Lampropeltis calligaster                   ◦ prairie king snake / yellow-bellied king snake
+         |    |- ◦ Lampropeltis catalinensis                  ◦ santa catalina king snake
+         |    |- • Lampropeltis elapsoides                    • scarlet king snake / scarlet milk snake
+         |    |- ◦ Lampropeltis extenuata                     ◦ short-tailed snake
+         |    |- ◦ Lampropeltis gentilis                      ◦ central plains milk snake
+         |    |- • Lampropeltis getula                        • chain king snake / common king snake / eastern king snake
+         |    |- ◦ Lampropeltis greeri                        ◦ greer's king snake
+         |    |- • Lampropeltis holbrooki                     • speckled king snake
+         |    |- ◦ Lampropeltis knoblochi                     ◦ madrean mountain king snake
+         |    |- ◦ Lampropeltis leonis                        ◦ nuevo león king snake / variable king snake
+         |    |- ◦ Lampropeltis mexicana                      ◦ mexican king snake
+         |    |- ◦ Lampropeltis micropholis                   ◦ ecuadorian milk snake
+         |    |- ◦ Lampropeltis nigra                         ◦ black king snake
+         |    |- ◦ Lampropeltis occipitolineata               ◦ south florida mole king snake
+         |    |- ◦ Lampropeltis polyzona                      ◦ atlantic central american milk snake
+         |    |- ◦ Lampropeltis pyromelana                    ◦ arizona mountain king snake / sonoran mountain king snake
+         |    |- ◦ Lampropeltis rhombomaculata                ◦ mole king snake
+         |    |- ◦ Lampropeltis ruthveni                      ◦ ruthven's king snake
+         |    |- • Lampropeltis splendida                     • desert king snake
+         |    |- • Lampropeltis triangulum                    • milk snake
+         |    |- ◦ Lampropeltis webbi                         ◦ --
+         |    |- • Lampropeltis zonata                        • california mountain king snake

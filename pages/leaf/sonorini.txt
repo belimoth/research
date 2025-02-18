@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Serpentes / Colubrinae / Sonorini
+-----------------------------------------------------------------------------------------------------
+         |[ Sonorini ]                                       14 --
+         |[ Sonora ]                                         14 ground snakes
+         |- ◦ Sonora aemula                                   ◦ filetail ground snake
+         |- ◦ Sonora annulata colorado                        ◦ colorado desert shovelnose snake
+         |- ◦ Sonora cincta                                   ◦ horse snake / sonora ringed snake / arizona ground snake / red-and-black ground snake / banded burrowing snake
+         |- ◦ Sonora episcopa                                 ◦ ground snake
+         |- ◦ Sonora fasciata                                 ◦ variable sand snake / banded sand snake
+         |- ◦ Sonora michoacanensis                           ◦ michoacán ground snake
+         |- ◦ Sonora mosaueri                                 ◦ mosauer's ground snake
+         |- ◦ Sonora mutabilis                                ◦ --
+         |- ◦ Sonora occipitalis                              ◦ western shovelnose snake
+         |- ◦ Sonora palarostris                              ◦ sonoran shovelnose snake
+         |- ◦ Sonora savagei                                  ◦ savage's sand snake / savage's ground snake
+         |- ◦ Sonora semiannulata                             ◦ miter snake / western ground snake
+         |- ◦ Sonora straminea                                ◦ --
+         |- ◦ Sonora taylori                                  ◦ taylor's ground snake / southern texas ground snake

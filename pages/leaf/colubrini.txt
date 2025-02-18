@@ -1,0 +1,145 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Serpentes / Colubrinae / Colubrini
+-----------------------------------------------------------------------------------------------------
+         |[ Colubrini ]                                     131 --
+         |- • Coluber constrictor                             • eastern racer / north american racer
+         |- ◦ Stenorrhina degenhardtii                        ◦ degenhardt's scorpion-eating snake
+         |- ◦ Stenorrhina freminvillei                        ◦ blood snake / slaty gray snake
+         |- ◦ Pseudoficimia frontalis                         ◦ false ficima
+         |- Mastigodryas                                     13 tropical racers
+         |    |- ◦ Mastigodryas alternatus                    ◦ --
+         |    |- ◦ Mastigodryas amarali                       ◦ amaral's tropical racer
+         |    |- ◦ Mastigodryas boddaerti                     ◦ boddaert's tropical racer
+         |    |- ◦ Mastigodryas bruesi                        ◦ barbour's tropical racer
+         |    |- ◦ Mastigodryas cliftoni                      ◦ clifton's lizard-eating snake
+         |    |- ◦ Mastigodryas danieli                       ◦ daniel's tropical racer
+         |    |- ◦ Mastigodryas dorsalis                      ◦ striped lizard-eating snake
+         |    |- ◦ Mastigodryas heathii                       ◦ heath's tropical racer
+         |    |- ◦ Mastigodryas melanolomus                   ◦ salmon-bellied racer
+         |    |- ◦ Mastigodryas moratoi                       ◦ --
+         |    |- ◦ Mastigodryas pleii                         ◦ plee's tropical racer
+         |    |- ◦ Mastigodryas pulchriceps                   ◦ cope's tropical racer
+         |    |- ◦ Mastigodryas reticulatus                   ◦ --
+         |- Masticophis                                      11 whip snakes
+         |    |- ◦ Masticophis anthonyi                       ◦ clarion island whip snake
+         |    |- ◦ Masticophis aurigulus                      ◦ baja california striped whip snake
+         |    |- ◦ Masticophis barbouri                       ◦ baja california striped whip snake
+         |    |- ◦ Masticophis bilineatus                     ◦ sonoran whip snake
+         |    |- • Masticophis flagellum                      • whip snake
+         |    |- ◦ Masticophis fuliginosus                    ◦ baja california whip snake
+         |    |- • Masticophis lateralis                      • striped racer / california whip snake
+         |    |- ◦ Masticophis mentovarius                    ◦ neotropical whip snake
+         |    |- ◦ Masticophis schotti                        ◦ shcott's whip snake
+         |    |- ◦ Masticophis slevini                        ◦ isla san esteban whip snake
+         |    |- ◦ Masticophis taeniatus                      ◦ striped whip snake
+         |- Salvadora                                         9 patchnose snakes / patch-nosed snakes
+         |    |- ◦ Salvadora bairdi                           ◦ baird's patchnose snake
+         |    |- ◦ Salvadora deserticola                      ◦ big bend patchnose snake
+         |    |- ◦ Salvadora grahamiae                        ◦ eastern patchnose snake / mountain patchnose snake
+         |    |- ◦ Salvadora gymnorhachis                     ◦ --
+         |    |- ◦ Salvadora hexalepis                        ◦ western patchnose snake
+         |    |- ◦ Salvadora intermedia                       ◦ oaxacan patchnose snake
+         |    |- ◦ Salvadora lemniscata                       ◦ pacific patchnose snake
+         |    |- ◦ Salvadora lineata                          ◦ texas patchnose snake
+         |    |- ◦ Salvadora mexicana                         ◦ mexican patchnose snake
+  18 mya |- Spiliotes                                         2 --
+         |    |- ◦ Spilotes pullatus                          ◦ chicken snake / tropical chicken snake / yellow rat snake
+         |    |- ◦ Spilotes sulphureus                        ◦ amazon puffing snake / yellow-bellied hissing snake
+  14 mya |- Tantilla                                         68 centipede snakes
+         |    |- ◦ Tantilla albiceps                          ◦ barbour's centipede snake
+         |    |- ◦ Tantilla alticola                          ◦ boulenger's centipede snake
+         |    |- ◦ Tantilla andinista                         ◦ andes centipede snake
+         |    |- ◦ Tantilla armillata                         ◦ --
+         |    |- ◦ Tantilla atriceps                          ◦ mexican blackhead snake
+         |    |- ◦ Tantilla bairdi                            ◦ baird's blackhead snake
+         |    |- ◦ Tantilla berguidoi                         ◦ chucantí centipede snake
+         |    |- ◦ Tantilla bocourti                          ◦ bocourt's blackhead snake
+         |    |- ◦ Tantilla boipiranga                        ◦ --
+         |    |- ◦ Tantilla brevicauda                        ◦ mertens's centipede snake
+         |    |- ◦ Tantilla briggsi                           ◦ briggs's centipede snake
+         |    |- ◦ Tantilla calamarina                        ◦ pacific coast centipede snake
+         |    |- ◦ Tantilla capistrata                        ◦ capistrata centipede snake
+         |    |- ◦ Tantilla carolina                          ◦ carolina's little snake
+         |    |- ◦ Tantilla cascadae                          ◦ michoacán centipede snake
+         |    |- ◦ Tantilla ceboruca                          ◦ ceboruco centipede snake
+         |    |- ◦ Tantilla coronadoi                         ◦ guerreran centipede snake
+         |    |- ◦ Tantilla coronata                          ◦ southeastern crown snake
+         |    |- ◦ Tantilla cucullata                         ◦ big bend blackhead snake
+         |    |- ◦ Tantilla cuniculator                       ◦ peten centipede snake
+         |    |- ◦ Tantilla deppei                            ◦ deppe's centipede snake
+         |    |- ◦ Tantilla excelsa                           ◦ --
+         |    |- ◦ Tantilla flavilineata                      ◦ yellow-lined centipede snake
+         |    |- ◦ Tantilla gottei                            ◦ --
+         |    |- ◦ Tantilla gracilis                          ◦ flathead snake
+         |    |- ◦ Tantilla hendersoni                        ◦ peten centipede snake
+         |    |- ◦ Tantilla hobartsmithi                      ◦ southwestern blackhead snake
+         |    |- ◦ Tantilla impensa                           ◦ greater centipede snake
+         |    |- ◦ Tantilla insulamontana                     ◦ mountain centipede snake
+         |    |- ◦ Tantilla jani                              ◦ jan's centipede snake
+         |    |- ◦ Tantilla johnsoni                          ◦ johnson's centipede snake
+         |    |- ◦ Tantilla lempira                           ◦ mena's centipede snake
+         |    |- ◦ Tantilla lydia                             ◦ --
+         |    |- ◦ Tantilla melanocephala                     ◦ blackhead snake / neotropical blackhead snake
+         |    |- ◦ Tantilla miyatai                           ◦ --
+         |    |- ◦ Tantilla moesta                            ◦ blackbelly centipede snake
+         |    |- ◦ Tantilla nigra                             ◦ black centipede snake
+         |    |- ◦ Tantilla nigriceps                         ◦ plains blackhead snake
+         |    |- ◦ Tantilla oaxacae                           ◦ oaxacan centipede snake
+         |    |- ◦ Tantilla olympia                           ◦ --
+         |    |- ◦ Tantilla oolitica                          ◦ rim rock crowned snake
+         |    |- ◦ Tantilla petersi                           ◦ peters's blackhead snake
+         |    |- ◦ Tantilla planiceps                         ◦ western blackhead snake / california blackhead snake
+         |    |- ◦ Tantilla psittaca                          ◦ --
+         |    |- ◦ Tantilla relicta                           ◦ florida crowned snake
+         |    |- ◦ Tantilla reticulata                        ◦ litter snake / reticulate centipede snake
+         |    |- ◦ Tantilla robusta                           ◦ pueblan centipede snake
+         |    |- ◦ Tantilla rubra                             ◦ red blackhead snake / big bend blackhead snake
+         |    |- ◦ Tantilla ruficeps                          ◦ --
+         |    |- ◦ Tantilla schistosa                         ◦ red earth centipede snake
+         |    |- ◦ Tantilla semicincta                        ◦ ringed centipede snake
+         |    |- ◦ Tantilla sertula                           ◦ garland centipede snake
+         |    |- ◦ Tantilla shawi                             ◦ potosí centipede snake
+         |    |- ◦ Tantilla slavensi                          ◦ slavens's centipede snake
+         |    |- ◦ Tantilla stenigrammi                       ◦ --
+         |    |- ◦ Tantilla striata                           ◦ striped centipede snake
+         |    |- ◦ Tantilla supracincta                       ◦ banded centipede snake
+         |    |- ◦ Tantilla taeniata                          ◦ central american centipede snake
+         |    |- ◦ Tantilla tayrae                            ◦ volcán tacaná centipede snake
+         |    |- ◦ Tantilla tecta                             ◦ white-striped centipede snake
+         |    |- ◦ Tantilla tjiasmantoi                       ◦ --
+         |    |- ◦ Tantilla trilineata                        ◦ three-lined centipede snake
+         |    |- ◦ Tantilla triseriata                        ◦ mexican three-lined centipede snake
+         |    |- ◦ Tantilla tritaeniata                       ◦ three-banded centipede snake
+         |    |- ◦ Tantilla vermiformis                       ◦ hallowell's centipede snake
+         |    |- ◦ Tantilla vulcani                           ◦ vulcan centipede snake
+         |    |- ◦ Tantilla wilcoxi                           ◦ chihuahuan blackhead snake
+         |    |- ◦ Tantilla yaquia                            ◦ yaqui blackhead snake
+  11 mya |- Drymoluber                                        3 --
+         |    |- ◦ Drymoluber apurimacensis                   ◦ apurímac woodland racer
+         |    |- ◦ Drymoluber brazili                         ◦ brazilian woodland racer
+         |    |- ◦ Drymoluber dichrous                        ◦ northern woodland racer
+  10 mya |- Drymarchon                                        6 cribos / indigo snakes
+         |    |- ◦ Drymarchon caudomaculatus                  ◦ falcon indigo snake
+         |    |- ◦ Drymarchon corais                          ◦ indigo snake / yellow-tailed cribo
+         |    |- ◦ Drymarchon couperi                         ◦ eastern indigo snake
+         |    |- ◦ Drymarchon kolpobasileus                   ◦ gulf coast indigo snake
+         |    |- ◦ Drymarchon margaritae                      ◦ margarita indigo snake
+         |    |- ◦ Drymarchon melanurus                       ◦ black-tailed cribo / middle american indigo snake
+   8 mya |- Conopsis                                          6 --
+         |    |- ◦ Conopsis acuta                             ◦ --
+         |    |- ◦ Conopsis amphisticha                       ◦ --
+         |    |- ◦ Conopsis biserialis                        ◦ --
+         |    |- ◦ Conopsis lineata                           ◦ --
+         |    |- ◦ Conopsis megalodon                         ◦ --
+         |    |- ◦ Conopsis nasus                             ◦ --
+   7 mya |- Phyllorhynchus                                    2 --
+         |    |- ◦ Phyllorhynchus browni                      ◦ saddled leafnose snake
+         |    |- ◦ Phyllorhynchus decurtatus                  ◦ spotted leafnose snake
+   6 mya |- Trimorphodon                                      7 lyre snakes
+         |    |- ◦ Trimorphodon biscutatus                    ◦ western lyre snake
+         |    |- ◦ Trimorphodon lambda                        ◦ sonoran lyre snake
+         |    |- ◦ Trimorphodon lyrophanes                    ◦ baja california lyre snake
+         |    |- ◦ Trimorphodon paucimaculatus                ◦ sinaloan lyre snake
+         |    |- ◦ Trimorphodon quadruplex                    ◦ central american lyre snake
+         |    |- ◦ Trimorphodon tau                           ◦ mexican lyre snake
+         |    |- ◦ Trimorphodon vilkinsonii                   ◦ texas lyre snake

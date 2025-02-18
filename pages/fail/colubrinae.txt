@@ -1,0 +1,465 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Sauropsida / Lepidosauria / Serpentes / Colubrinae
+-----------------------------------------------------------------------------------------------------
+         |[ Colubrinae ]                                    793 colubrine snakes
+         |- ◦ Aeluroglena cucullata                           ◦ somali snake
+         |- ◦ Aprosdoketophis andreonei                       ◦ --
+         |- ◦ Archelaphe bella                                ◦ bella rat snake
+         |- ◦ Bamanophis dorri                                ◦ --
+         |- ◦ Chapinophis xanthocheilus                       ◦ --
+         |- ◦ Colubroelaps nguyenvansangi                     ◦ --
+         |- • Elachistodon westermanni                        • indian egg-eating snake
+         |- ◦ Geagras redimitus                               ◦ tehuantepec striped snake
+         |- ◦ Leptodrymus pulcherrimus                        ◦ green-headed racer / striped lowland snake
+         |- ◦ Mopanveldophis zebrinus                         ◦ cunene racer
+         |- ◦ Muhtarophis barani                              ◦ baran's black-headed dwarf snake
+         |- ◦ Oocatochus rufodorsatus                         ◦ red-backed rat snake
+         |- ◦ Orientocoluber spinalis                         ◦ slender racer
+         |- ◦ Palusophis bifossatus                           ◦ rio tropical racer
+         |- ◦ Persiophis fahimii                              ◦ fahimi's ground snake
+         |- ◦ Rhinobothryum bovallii                          ◦ --
+         |- ◦ Rhinobothryum lentiginosum                      ◦ amazon banded snake
+         |- ◦ Scolecophis atrocinctus                         ◦ black-banded snake
+         |- ◦ Simophis rhinostoma                             ◦ são paulo false coral snake
+         |- ◦ Stichophanes ningshaanensis                     ◦ ningshaan kukri snake / ningshan line-shaped snake
+         |- ◦ Symphimus leucostomus                           ◦ mexican white-lipped snake
+         |- ◦ Symphimus mayae                                 ◦ yucatán white-lipped snake
+         |- ◦ Sympholis lippiens                              ◦ mexican short-tailed snake
+         |- ◦ Tantillita brevissima                           ◦ speckled dwarf short-tail snake
+         |- ◦ Tantillita canula                               ◦ yucatán dwarf short-tail snake
+         |- ◦ Tantillita lintoni                              ◦ brown dwarf short-tailed snake
+         |- ◦ Wallaceophis gujaratensis                       ◦ wallace's racer / wallace's striped snake
+         |- ◦ Wallophis brachyura                             ◦ suvaro saap / indian smooth snake
+         |- ◦ Xenelaphis ellipsifer                           ◦ ornate brown snake / ocellated brown snake
+         |- ◦ Xenelaphis hexagonotus                          ◦ malayan brown snake
+         |- Liopeltis                                         8 liopeltine snakes
+         |    |- ◦ Liopeltis calamaria                        ◦ calamaria reed snake
+         |    |- ◦ Liopeltis frenata                          ◦ günther's reed snake
+         |    |- ◦ Liopeltis pallidonuchalis                  ◦ pale-necked ringneck
+         |    |- ◦ Liopeltis philippina                       ◦ philippine liopeltine snake
+         |    |- ◦ Liopeltis rappi                            ◦ --
+         |    |- ◦ Liopeltis stoliczkae                       ◦ --
+         |    |- ◦ Liopeltis tiomanica                        ◦ --
+         |    |- ◦ Liopeltis tricolor                         ◦ malayan ringneck / tricoloured ringneck
+         |- Meizodon                                          5 --
+         |    |- ◦ Meizodon coronatus                         ◦ western crowned snake
+         |    |- ◦ Meizodon krameri                           ◦ tana delta smooth snake
+         |    |- ◦ Meizodon plumbiceps                        ◦ black-headed smooth snake
+         |    |- ◦ Meizodon regularis                         ◦ eastern crowned smooth snake
+         |    |- ◦ Meizodon semiornatus                       ◦ semiornate snake / semiornate smooth snake
+         |- Phrynonax                                         3 --
+         |    |- • Phrynonax poecilonotus                     • papa-ovo / das cocorite / bird snake / puffing snake
+         |    |- ◦ Phrynonax sexcarinatus                     ◦ northeastern puffing snake
+         |    |- ◦ Phrynonax shropshirei                      ◦ shropshire's puffing snake
+         |- Rhynchocalamus                                    5 --
+         |    |- ◦ Rhynchocalamus arabicus                    ◦ aden kukri snake
+         |    |- ◦ Rhynchocalamus dayanae                     ◦ dayan’s kukri snake
+         |    |- ◦ Rhynchocalamus levitoni                    ◦ --
+         |    |- ◦ Rhynchocalamus melanocephalus              ◦ black-headed ground snake / palestine kukri snake
+         |    |- • Rhynchocalamus satunini                    • palestine kukri snake
+         |- Stegonotus                                       25 --
+         |    |- ◦ Stegonotus admiraltiensis                  ◦ admiralty islands ground snake
+         |    |- ◦ Stegonotus aplini                          ◦ purari white ground snake
+         |    |- ◦ Stegonotus aruensis                        ◦ aru islands ground snake
+         |    |- ◦ Stegonotus australis                       ◦ australian ground snake
+         |    |- ◦ Stegonotus ayamaru                         ◦ ayamaru ground snake
+         |    |- ◦ Stegonotus batjanensis                     ◦ bacan island ground snake / batjan frog-eating snake
+         |    |- ◦ Stegonotus borneensis                      ◦ boreno ground snake / borneo black snake / borneo frog-eating snake
+         |    |- ◦ Stegonotus caligocephalus                  ◦ dark-headed sabah ground snake
+         |    |- ◦ Stegonotus cucullatus                      ◦ slaty-grey snake
+         |    |- ◦ Stegonotus derooijae                       ◦ de roiij's ground snake
+         |    |- ◦ Stegonotus diehli                          ◦ diehl's little ground snake
+         |    |- ◦ Stegonotus florensis                       ◦ flores ground snake
+         |    |- ◦ Stegonotus guentheri                       ◦ milne bay ground snake / d'entrecasteaux archipelago ground snake
+         |    |- ◦ Stegonotus heterurus                       ◦ bismark ground snake
+         |    |- ◦ Stegonotus iridis                          ◦ iridescent ground snake
+         |    |- ◦ Stegonotus keyensis                        ◦ kei islands ground snake
+         |    |- ◦ Stegonotus lividus                         ◦ semau island ground snake
+         |    |- ◦ Stegonotus melanolabiatus                  ◦ black-lipped ground snake
+         |    |- ◦ Stegonotus modestus                        ◦ moluccan ground snake
+         |    |- ◦ Stegonotus muelleri                        ◦ müller's rat snake / müller's wolf snake / phillipine ground snake
+         |    |- ◦ Stegonotus nancuro                         ◦ --
+         |    |- ◦ Stegonotus parvus                          ◦ common ground snake / biak island ground snake
+         |    |- ◦ Stegonotus poechi                          ◦ pöch's ground snake
+         |    |- ◦ Stegonotus reticulatus                     ◦ reticulate ground snake
+         |    |- ◦ Stegonotus sutteri                         ◦ sumba ground snake
+   8 mya |- Ficimia                                           7 hooknose snakes
+         |    |- ◦ Ficimia hardyi                             ◦ hidalgo hooknose snake
+         |    |- ◦ Ficimia olivacea                           ◦ mexican hooknose snake / tamaulipan hooknose snake
+         |    |- ◦ Ficimia publia                             ◦ blotched hooknose snake
+         |    |- ◦ Ficimia ramirezi                           ◦ ramirez's hooknose snake
+         |    |- ◦ Ficimia ruspator                           ◦ guerreran hooknose snake
+         |    |- ◦ Ficimia streckeri                          ◦ tamaulipan hooknose snake
+         |    |- ◦ Ficimia variegata                          ◦ tehuantepec hooknose snake
+   5 mya |- Gyalopion                                         2 --
+         |    |- ◦ Gyalopion canum                            ◦ western hooknose snake / chihuahua hooknose snake
+         |    |- ◦ Gyalopion quadrangulare                    ◦ desert hooknose snake / thornscrub hooknose snake
+   3 mya |- Toxicodryas                                       4 --
+         |    |- ◦ Toxicodryas adamanteus                     ◦ --
+         |    |- ◦ Toxicodryas blandingii                     ◦ blanding's cat snake / blanding's tree snake
+         |    |- ◦ Toxicodryas pulverulenta                   ◦ fischer's cat snake / fischer's tree snake / powdered tree snake
+         |    |- ◦ Toxicodryas vexator                        ◦ --
+         |- unnamed                                         30 --
+         |    |- • Coronella austriaca                        • smooth snake
+         |    |- • Coronella girondica                        • southern smooth snake / riccioli's snake
+         |    |- • Oreocryptophis porphyraceus                • red bamboo snake / black-banded trinket snake
+         |    |- Elaphe                                      18 --
+         |    |    |- ◦ Elaphe anomala                        ◦ korean rat snake / amur rat snake / southern amur rat snake
+         |    |    |- ◦ Elaphe bimaculata                     ◦ twin-spotted rat snake / chinese leopard snake
+         |    |    |- ◦ Elaphe cantoris                       ◦ eastern trinket snake
+         |    |    |- ◦ Elaphe carinata                       ◦ king rat snake / taiwan stink snake
+         |    |    |- ◦ Elaphe climacophora                   ◦ japanese rat snake
+         |    |    |- ◦ Elaphe davidi                         ◦ pere david's rat snake
+         |    |    |- ◦ Elaphe dione                          ◦ steppe rat snake / dione's rat snake
+         |    |    |- ◦ Elaphe druzei                         ◦ --
+         |    |    |- ◦ Elaphe hodgsoni                       ◦ himalayan trinket snake /  hodgon's rat snake
+         |    |    |- ◦ Elaphe moellendorffi                  ◦ flower snake / moellendorf's rat snake
+         |    |    |- ◦ Elaphe quadrivirgata                  ◦ japanese striped snake / japanese four-lined rat snake
+         |    |    |- ◦ Elaphe quatuorlineata                 ◦ four-lined rat snake / bulgarian rat snake
+         |    |    |- ◦ Elaphe sauromates                     ◦ blotched snake
+         |    |    |- ◦ Elaphe schrenckii                     ◦ russian rat snake / siberian rat snake / manchurian black racer / manchurian black water snake
+         |    |    |- ◦ Elaphe taeniura                       ◦ cave racer / beauty snake / beauty rat snake
+         |    |    |- ◦ Elaphe urartica                       ◦ urartian rat snake
+         |    |    |- ◦ Elaphe xiphodonta                     ◦ blade-toothed rat snake / qin emperor rat snake
+         |    |    |- ◦ Elaphe zoigeensis                     ◦ zoige rat snake
+  20 mya |    |- Zamenis                                      6 --
+         |    |    |- ◦ Zamenis hohenackeri                   ◦ gavand snake / transcaucasian rat snake
+         |    |    |- ◦ Zamenis lineatus                      ◦ italian aesculapian snake
+         |    |    |- • Zamenis longissimus                   • aesculapian snake
+         |    |    |- ◦ Zamenis persicus                      ◦ persian rat snake
+         |    |    |- ◦ Zamenis scalaris                      ◦ ladder snake
+         |    |    |- ◦ Zamenis situla                        ◦ leopard snake / european rat snake
+  17 mya |    |- Euprepiophis                                 3 --
+         |    |    |- ◦ Euprepiophis conspicillata            ◦ japanese forest rat snake
+         |    |    |- ◦ Euprepiophis mandarinus               ◦ mandarin rat snake
+         |    |    |- ◦ Euprepiophis perlaceus                ◦ sichuan rat snake / pearl-banded rat snake
+         |- unnamed                                         174 --
+         |    |- Chironius                                   23 sipos / savanes / vine snakes
+         |    |    |- ◦ Chironius bicarinatus                 ◦ two-headed sipo
+         |    |    |- ◦ Chironius brazili                     ◦ --
+         |    |    |- ◦ Chironius carinatus                   ◦ --
+         |    |    |- ◦ Chironius challenger                  ◦ --
+         |    |    |- ◦ Chironius diamantina                  ◦ --
+         |    |    |- ◦ Chironius exoletus                    ◦ --
+         |    |    |- • Chironius flavolineatus               • boettger's sipo
+         |    |    |- ◦ Chironius flavopictus                 ◦ --
+         |    |    |- ◦ Chironius foveatus                    ◦ coastal sipo / south american sipo
+         |    |    |- ◦ Chironius fuscus                      ◦ brown sipo
+         |    |    |- ◦ Chironius gouveai                     ◦ --
+         |    |    |- ◦ Chironius grandisquamis               ◦ ecuador sipo
+         |    |    |- ◦ Chironius laevicollis                 ◦ brazilian sipo
+         |    |    |- ◦ Chironius laurenti                    ◦
+         |    |    |- ◦ Chironius leucometapus                ◦ yellow-headed sipo
+         |    |    |- ◦ Chironius maculoventris               ◦ central sipo
+         |    |    |- ◦ Chironius monticola                   ◦ mountain sipo
+         |    |    |- ◦ Chironius multiventris                ◦ long-teailed machete savane
+         |    |    |- ◦ Chironius quadricarinatus             ◦ central sipo
+         |    |    |- ◦ Chironius scurrulus                   ◦ wagler's sipo / smooth machete savane
+         |    |    |- ◦ Chironius septentrionalis             ◦ south american sipo
+         |    |    |- ◦ Chironius spixii                      ◦ --
+         |    |    |- ◦ Chironius vincenti                    ◦ vincent's sipo / saint vincent racer
+         |    |- Dendrophidion                               15 forest racers
+         |    |    |- ◦ Dendrophidion apharocybe              ◦ --
+         |    |    |- ◦ Dendrophidion atlantica               ◦ atlantic forest racer
+         |    |    |- ◦ Dendrophidion bivittatus              ◦ forest racer
+         |    |    |- ◦ Dendrophidion boshelli                ◦ hoshell's forest racer
+         |    |    |- ◦ Dendrophidion brunneum                ◦ günther's forest racer
+         |    |    |- ◦ Dendrophidion clarkii                 ◦ clark's forest racer
+         |    |    |- ◦ Dendrophidion crybelum                ◦ --
+         |    |    |- ◦ Dendrophidion dendrophis              ◦ olive forest racer
+         |    |    |- ◦ Dendrophidion graciliverpa            ◦ west ecuadorian forest racer
+         |    |    |- ◦ Dendrophidion nuchale                 ◦ peter's forest racer
+         |    |    |- ◦ Dendrophidion paucicarinatum          ◦ cope's forest racer
+         |    |    |- ◦ Dendrophidion percarinatum            ◦ south american forest racer
+         |    |    |- ◦ Dendrophidion prolixum                ◦ --
+         |    |    |- ◦ Dendrophidion rufiterminorum          ◦ --
+         |    |    |- ◦ Dendrophidion vinitor                 ◦ barred forest racer
+         |    |- Oligodon                                    87 kukri snakes / short-headed snakes
+         |    |    |- ◦ Oligodon affinis                      ◦ western kukri snake
+         |    |    |- ◦ Oligodon albocinctus                  ◦ light-barred kukri snake
+         |    |    |- ◦ Oligodon ancorus                      ◦ northern short-headed snake
+         |    |    |- ◦ Oligodon annamensis                   ◦ annam kukri snake / leviton's kukri snake
+         |    |    |- ◦ Oligodon annulifer                    ◦ ringed kukri snake
+         |    |    |- ◦ Oligodon arnensis                     ◦ common kukri snake / banded kukri snake / russet kukri snake
+         |    |    |- ◦ Oligodon barroni                      ◦ barron's kukri snake
+         |    |    |- ◦ Oligodon bitorquatus                  ◦ boie's kukri snake / javanese mountain kukri snake
+         |    |    |- ◦ Oligodon bivirgatus                   ◦ double-striped kukri snake
+         |    |    |- ◦ Oligodon booliati                     ◦ boo liat's kukri snake
+         |    |    |- ◦ Oligodon brevicauda                   ◦ shorthead kukri snake
+         |    |    |- ◦ Oligodon calamarius                   ◦ templeton's kukri snake
+         |    |    |- ◦ Oligodon catenatus                    ◦ assam kukri snake
+         |    |    |- ◦ Oligodon chinensis                    ◦ chinese kukri snake
+         |    |    |- • Oligodon churahensis                  • churah valley kukri snake
+         |    |    |- ◦ Oligodon cinereus                     ◦ ashy kukri snake / golden kukri snake / günther's kukri snake
+         |    |    |- ◦ Oligodon condaoensis                  ◦ --
+         |    |    |- ◦ Oligodon cruentatus                   ◦ pegu kukri snake
+         |    |    |- ◦ Oligodon culaochamensis               ◦ --
+         |    |    |- ◦ Oligodon cyclurus                     ◦ cantor's kukri snake
+         |    |    |- ◦ Oligodon deuvei                       ◦ --
+         |    |    |- ◦ Oligodon dorsalis                     ◦ gray's kukri snake / spot-tailed kukri snake / bengalese kukri snake
+         |    |    |- ◦ Oligodon eberhardti                   ◦ eberhardt's kukri snake
+         |    |    |- ◦ Oligodon erythrogaster                ◦ nagarkot kukri snake
+         |    |    |- ◦ Oligodon erythrorhachis               ◦ namsang kukri snake / red-striped kukri snake
+         |    |    |- ◦ Oligodon everetti                     ◦ jewelled kukri snake / everett's kukri snake
+         |    |    |- ◦ Oligodon fasciolatus                  ◦ small-banded kukri snake / fasciolated kukri snake
+         |    |    |- ◦ Oligodon forbesi                      ◦ forbes' kukri snake
+         |    |    |- ◦ Oligodon formosanus                   ◦ beautiful kukri snake / formosa kukri snake
+         |    |    |- ◦ Oligodon hamptoni                     ◦ hampton's kukri snake
+         |    |    |- ◦ Oligodon huahin                       ◦ hua hin kukri snake
+         |    |    |- ◦ Oligodon inornatus                    ◦ inornate kukri snake / unicolored kukri snake
+         |    |    |- ◦ Oligodon jintakunei                   ◦ krabi kukri snake / jintakune's kukri snake
+         |    |    |- ◦ Oligodon joynsoni                     ◦ grey kukri snake / joynson's kukri snake
+         |    |    |- ◦ Oligodon juglandifer                  ◦ walnut kukri snake
+         |    |    |- ◦ Oligodon kampucheaensis               ◦ --
+         |    |    |- ◦ Oligodon kheriensis                   ◦ coral red kukri snake
+         |    |    |- ◦ Oligodon lacroixi                     ◦ lacroix kukri snake
+         |    |    |- ◦ Oligodon lipipengi                    ◦ medog kukri snake
+         |    |    |- ◦ Oligodon lungshenensis                ◦ --
+         |    |    |- ◦ Oligodon macrurus                     ◦ angel's kukri snake
+         |    |    |- ◦ Oligodon maculatus                    ◦ spotted kukri snake
+         |    |    |- ◦ Oligodon mcdougalli                   ◦ arakan kukri snake / mcdougall's kukri snake
+         |    |    |- ◦ Oligodon melaneus                     ◦ bluebelly kukri snake
+         |    |    |- ◦ Oligodon melanozonatus                ◦ abor hills kukri snake
+         |    |    |- ◦ Oligodon meyerinkii                   ◦ sulu kukri snake / meyerink's kukri snake
+         |    |    |- ◦ Oligodon modestus                     ◦ luzon kukri snake / spotted-bellied kukri snake
+         |    |    |- ◦ Oligodon moricei                      ◦ morice's kukri snake
+         |    |    |- ◦ Oligodon mouhoti                      ◦ cambodian kukri snake . mouhot's kukri snake
+         |    |    |- ◦ Oligodon nagao                        ◦ nagao kukri snake
+         |    |    |- ◦ Oligodon nikhili                      ◦ nikhil's kukri snake
+         |    |    |- ◦ Oligodon notospilus                   ◦ palawan kukri snake
+         |    |    |- ◦ Oligodon ocellatus                    ◦ ocellated kukri snake
+         |    |    |- ◦ Oligodon octolineatus                 ◦ eight-lined kukri snake  / grace's kukri snake
+         |    |    |- ◦ Oligodon ornatus                      ◦ ornate kukri snake
+         |    |    |- ◦ Oligodon perkinsi                     ◦ perkin's kukri snake
+         |    |    |- ◦ Oligodon petronellae                  ◦ petronella's kukri snake
+         |    |    |- ◦ Oligodon phangan                      ◦ pha-ngan kukri snake
+         |    |    |- ◦ Oligodon planiceps                    ◦ --
+         |    |    |- ◦ Oligodon praefrontalis                ◦ pulau weh kukri snake
+         |    |    |- ◦ Oligodon promsombuti                  ◦ --
+         |    |    |- ◦ Oligodon propinquus                   ◦ bleeker's kukri snake / javanese kukri snake
+         |    |    |- ◦ Oligodon pseudotaeniatus              ◦ false striped kukri snake
+         |    |    |- ◦ Oligodon pulcherrimus                 ◦ --
+         |    |    |- ◦ Oligodon purpurascens                 ◦ brown kukri snake / purple kukri snake
+         |    |    |- ◦ Oligodon rostralis                    ◦ long-snouted kukri snake
+         |    |    |- ◦ Oligodon russelius                    ◦ russell's kukri snake
+         |    |    |- ◦ Oligodon saintgironsi                 ◦ saint giron's kukri snake
+         |    |    |- ◦ Oligodon saiyok                       ◦ sai yok Kukri Snake
+         |    |    |- ◦ Oligodon signatus                     ◦ half-keeled kukri snake / barred kukri snake / banded kukri snake
+         |    |    |- ◦ Oligodon splendidus                   ◦ splendid kukri snake
+         |    |    |- ◦ Oligodon sublineatus                  ◦ duméril's kukri snake
+         |    |    |- ◦ Oligodon taeniatus                    ◦ striped kukri snake
+         |    |    |- ◦ Oligodon taeniolatus                  ◦ loos snake / streaked kukri snake / variegated kukri snake
+         |    |    |- ◦ Oligodon teyniei                      ◦ teynié's kukri snake
+         |    |    |- ◦ Oligodon theobaldi                    ◦ mandalay kukri snake / theobald's kukri snake
+         |    |    |- ◦ Oligodon tillacki                     ◦ tillack's kukri snake
+         |    |    |- ◦ Oligodon tolaki                       ◦ --
+         |    |    |- ◦ Oligodon torquatus                    ◦ --
+         |    |    |- ◦ Oligodon travancoricus                ◦ travancore kukri snake
+         |    |    |- ◦ Oligodon trilineatus                  ◦ three-lined kukri snake
+         |    |    |- ◦ Oligodon tuani                        ◦ langbian kukri snake
+         |    |    |- ◦ Oligodon unicolor                     ◦ --
+         |    |    |- ◦ Oligodon venustus                     ◦ jerdon's kukri snake
+         |    |    |- ◦ Oligodon vertebralis                  ◦ vertebral kukri snake / dark-spined kukri snake
+         |    |    |- ◦ Oligodon waandersi                    ◦ bleeker's kukri snake
+         |    |    |- ◦ Oligodon wagneri                      ◦ wagner's kukri snake
+         |    |    |- ◦ Oligodon woodmasoni                   ◦ yellow-striped kukri snake
+  20 mya |    |- Ptyas                                       13 --
+         |    |    |- ◦ Ptyas carinata                        ◦ keeled rat snake
+         |    |    |- ◦ Ptyas dhumnades                       ◦ cantor's rat snake
+         |    |    |- ◦ Ptyas dipsas                          ◦ sulawesi black racer
+         |    |    |- ◦ Ptyas doriae                          ◦ doria's green snake
+         |    |    |- ◦ Ptyas fusca                           ◦ brown rat snake / white-bellied rat snake
+         |    |    |- ◦ Ptyas herminae                        ◦ sakishima green snake
+         |    |    |- ◦ Ptyas korros                          ◦ chinese rat snake / indo-chinese rat snake
+         |    |    |- ◦ Ptyas luzonensis                      ◦ smooth-scaled mountain rat snake
+         |    |    |- ◦ Ptyas major                           ◦ chinese green snake
+         |    |    |- • Ptyas mucosa                          • dhaman / indian rat snake / oriental rat snake
+         |    |    |- ◦ Ptyas multicincta                     ◦ north china green snake / many-banded green snake
+         |    |    |- ◦ Ptyas nigromarginata                  ◦ green rat snake / black-bordered rat snake
+         |    |    |- ◦ Ptyas semicarinata                    ◦ ryukyu green snake
+  16 mya |    |- Oxybelis                                    11 american vine snakes
+         |    |    |- • Oxybelis aeneus                       • brown vine snake / mexican vine snake
+         |    |    |- ◦ Oxybelis brevirostris                 ◦ cope's vine snake
+         |    |    |- • Oxybelis fulgidus                     • green vine snake
+         |    |    |- ◦ Oxybelis inkaterra                    ◦ inkaterra vine snake
+         |    |    |- ◦ Oxybelis koehleri                     ◦ köhler's vine snake
+         |    |    |- ◦ Oxybelis microphthalmus               ◦ thornscrub vine snake
+         |    |    |- ◦ Oxybelis potosiensis                  ◦ gulf coast vine snake
+         |    |    |- ◦ Oxybelis rutherfordi                  ◦ ruterford's vine snake
+         |    |    |- ◦ Oxybelis transandinus                 ◦ --
+         |    |    |- ◦ Oxybelis vittatus                     ◦ --
+         |    |    |- ◦ Oxybelis wilsoni                      ◦ roatan vine snake
+  13 mya |    |- Leptophis                                   19 parrot snakes
+         |    |    |- ◦ Leptophis ahaetulla                   ◦ lora / parrot snake
+         |    |    |- ◦ Leptophis bocourti                    ◦ --
+         |    |    |- ◦ Leptophis bolivianus                  ◦ --
+         |    |    |- ◦ Leptophis coeruleodorsus              ◦ oliver's parrot snake / green-and-yellow parrot snake
+         |    |    |- ◦ Leptophis cupreus                     ◦ copper parrot snake
+         |    |    |- ◦ Leptophis depressirostris             ◦ cope's parrot snake
+         |    |    |- ◦ Leptophis dibernardoi                 ◦ --
+         |    |    |- ◦ Leptophis diplotropis                 ◦ pacific coast parrot snake
+         |    |    |- ◦ Leptophis liocercus                   ◦ --
+         |    |    |- ◦ Leptophis marginatus                  ◦ --
+         |    |    |- ◦ Leptophis mexicanus                   ◦ mexican parrot snake
+         |    |    |- ◦ Leptophis modestus                    ◦ cloud forest parrot snake
+         |    |    |- ◦ Leptophis nebulosus                   ◦ oliver's parrot snake
+         |    |    |- ◦ Leptophis nigromarginatus             ◦ black-skinned parrot snake
+         |    |    |- ◦ Leptophis occidentalis                ◦ --
+         |    |    |- ◦ Leptophis praestans                   ◦ --
+         |    |    |- ◦ Leptophis riveti                      ◦ despax's parrot snake
+         |    |    |- ◦ Leptophis stimsoni                    ◦ grey lora / trinidad upland parrot snake
+         |    |    |- ◦ Leptophis urostictus                  ◦ --
+  10 mya |    |- Drymobius                                    4 --
+         |    |    |- ◦ Drymobius chloroticus                 ◦ green highland racer
+         |    |    |- ◦ Drymobius margaritiferus              ◦ speckled racer
+         |    |    |- ◦ Drymobius melanotropis                ◦ black forest racer
+         |    |    |- ◦ Drymobius rhombifer                   ◦ esmarald racer
+   8 mya |    |- Opheodrys                                    2 green snakes
+         |    |    |- • Opheodrys aestivus                    • rough green snake
+         |    |    |- • Opheodrys vernalis                    • smooth green snake / grass snake
+         |- unnamed                                          45 --
+         |    |- ◦ Scaphiophis albopunctatus                  ◦ african shovel-nosed snake
+         |    |- ◦ Scaphiophis raffreyi                       ◦ ethiopian shovel-nosed snake
+         |    |- Philothamnus                                25 --
+         |    |    |- ◦ Philothamnus angolensis               ◦ angola green snake / western green snake
+         |    |    |- ◦ Philothamnus battersbyi               ◦ battersby's green snake
+         |    |    |- ◦ Philothamnus belli                    ◦ --
+         |    |    |- ◦ Philothamnus bequaerti                ◦ bequaert's green snake
+         |    |    |- ◦ Philothamnus brunneus                 ◦ --
+         |    |    |- ◦ Philothamnus carinatus                ◦ thirteen-scaled green snake
+         |    |    |- ◦ Philothamnus dorsalis                 ◦ striped wood snake / striped green snake
+         |    |    |- ◦ Philothamnus girardi                  ◦ annoban wood snake / girard's green snake
+         |    |    |- ◦ Philothamnus heterodermus             ◦ variable green snake / emerald green snake
+         |    |    |- ◦ Philothamnus heterolepidotus          ◦ slender green snake
+         |    |    |- ◦ Philothamnus hoplogaster              ◦ green water snake / southeastern green snake
+         |    |    |- ◦ Philothamnus hughesi                  ◦ hughes's green snake
+         |    |    |- ◦ Philothamnus irregularis              ◦ irregular green snake / northern green bush snake
+         |    |    |- ◦ Philothamnus macrops                  ◦ large-eyed green snake / usambara green snake
+         |    |    |- ◦ Philothamnus mayombensis              ◦ mayombe bush snake
+         |    |    |- ◦ Philothamnus natalensis               ◦ natal green snake / eastern natal green snake
+         |    |    |- ◦ Philothamnus nitidus                  ◦ green bush snake / cameroons wood snake
+         |    |    |- ◦ Philothamnus occidentalis             ◦ western natal green snake / south african green snake
+         |    |    |- ◦ Philothamnus ornatus                  ◦ ornate green snake
+         |    |    |- ◦ Philothamnus pobeguini                ◦ --
+         |    |    |- ◦ Philothamnus punctatus                ◦ spotted green snake
+         |    |    |- ◦ Philothamnus ruandae                  ◦ rwanda green snake / rwanda forest green snake
+         |    |    |- ◦ Philothamnus semivariegatus           ◦ spotted bush snake
+         |    |    |- ◦ Philothamnus thomensis                ◦ são tomé wood snake
+         |    |    |- ◦ Philothamnus chifundera               ◦ --
+  30 mya |    |- Coelognathus                                 7 --
+         |    |    |- ◦ Coelognathus enganensis               ◦ enggano rat snake
+         |    |    |- ◦ Coelognathus erythrurus               ◦ philippine rat snake
+         |    |    |- ◦ Coelognathus flavolineatus            ◦ yellow-striped rat snake / black copper rat snake
+         |    |    |- • Coelognathus helena                   • trinket snake / common trinket snake
+         |    |    |- ◦ Coelognathus philippinus              ◦ reddish rat snake
+         |    |    |- ◦ Coelognathus radiatus                 ◦ radiated rat snake / copperhead rat snake / copper-headed trinket snake
+         |    |    |- ◦ Coelognathus subradiatus              ◦ indonesian rat snake
+  28 mya |    |- Gonyosoma                                    8 --
+         |    |    |- ◦ Gonyosoma boulengeri                  ◦ rhino snake / rhino rat snake / vietnamese longnose snake
+         |    |    |- ◦ Gonyosoma coeruleum                   ◦ --
+         |    |    |- ◦ Gonyosoma frenatum                    ◦ khasi hills trinket snake
+         |    |    |- ◦ Gonyosoma hainanense                  ◦ hainan rhino snake
+         |    |    |- ◦ Gonyosoma jansenii                    ◦ celebes rat snake / celebes black-tailed rat snake
+         |    |    |- ◦ Gonyosoma margaritatum                ◦ royal tree snake / rainbow tree snake
+         |    |    |- ◦ Gonyosoma oxycephalum                 ◦ red-tailed rader / red-tailed green rat snake / arboreal rat snake
+         |    |    |- ◦ Gonyosoma prasinum                    ◦ green rat snake / green trinket snake
+  13 mya |    |- Hapsidophrys                                 3 --
+         |    |    |- ◦ Hapsidophrys lineatus                 ◦ black-lined green snake
+         |    |    |- ◦ Hapsidophrys principis                ◦ --
+         |    |    |- ◦ Hapsidophrys smaragdinus              ◦ emerald snake
+         |- unnamed                                          82 --
+         |    |- ◦ Hemerophis socotrae                        ◦ socotran racer
+         |    |- Dolichophis                                  4 --
+         |    |    |- ◦ Dolichophis andreanus                 ◦ andreas's racer
+         |    |    |- ◦ Dolichophis caspius                   ◦ large whip snake / caspian whip snake
+         |    |    |- ◦ Dolichophis jugularis                 ◦ large whip snake / black whip snake
+         |    |    |- ◦ Dolichophis schmidti                  ◦ red-bellied racer / schmidt's whip snake
+         |    |- Hierophis                                    3 --
+         |    |    |- • Hierophis gemonensis                  • balkan whip snake
+         |    |    |- ◦ Hierophis cypriensis                  ◦ cyprus whip snake
+         |    |    |- • Hierophis viridiflavus                • green whip snake / western whip snake
+  16 mya |    |- Hemorrhois                                   4 --
+         |    |    |- ◦ Hemorrhois algirus                    ◦ algerian whip snake
+         |    |    |- ◦ Hemorrhois hippocrepis                ◦ horseshoe whip snake
+         |    |    |- ◦ Hemorrhois nummifer                   ◦ spotted whip snake
+         |    |    |- ◦ Hemorrhois ravergieri                 ◦ asian racer / leaden-colored racer / coin-marked snake
+  15 mya |    |- Platyceps                                   30 --
+         |    |    |- ◦ Platyceps afarensis                   ◦ afar racer
+         |    |    |- ◦ Platyceps atayevi                     ◦ --
+         |    |    |- ◦ Platyceps bholanathi                  ◦ sharma's racer / bhola nath's racer / nagarjuna racer / nagarjuna sagar racer
+         |    |    |- ◦ Platyceps brevis                      ◦ short racer
+         |    |    |- ◦ Platyceps collaris                    ◦ red whip snake / collared dwarf racer
+         |    |    |- ◦ Platyceps elegantissimus              ◦ elegant racer
+         |    |    |- ◦ Platyceps florulentus                 ◦ flowered racer
+         |    |    |- ◦ Platyceps gracilis                    ◦ slender racer / graceful racer
+         |    |    |- ◦ Platyceps insulanus                   ◦ sarso island racer
+         |    |    |- ◦ Platyceps josephi                     ◦ joseph's racer
+         |    |    |- ◦ Platyceps karelini                    ◦ spotted desert racer
+         |    |    |- ◦ Platyceps ladacensis                  ◦ braid snake / jan's cliff racer
+         |    |    |- ◦ Platyceps largeni                     ◦ dahlak racer
+         |    |    |- ◦ Platyceps messanai                    ◦ schätti's racer
+         |    |    |- ◦ Platyceps najadum                     ◦ dahl's whip snake / slender whip snake
+         |    |    |- ◦ Platyceps noeli                       ◦ brahui racer
+         |    |    |- ◦ Platyceps plinii                      ◦ banded racer / merrem's racer
+         |    |    |- ◦ Platyceps rhodorachis                 ◦ wadi racer / desert racer / common cliff racer
+         |    |    |- ◦ Platyceps rogersi                     ◦ roger's racer
+         |    |    |- ◦ Platyceps saharicus                   ◦ --
+         |    |    |- ◦ Platyceps schmidtleri                 ◦ --
+         |    |    |- ◦ Platyceps scortecci                   ◦ --
+         |    |    |- ◦ Platyceps sinai                       ◦ sinai racer / sinai banded racer
+         |    |    |- ◦ Platyceps sindhensis                  ◦ sindh racer
+         |    |    |- ◦ Platyceps somalicus                   ◦ audo racer / ogaden racer
+         |    |    |- ◦ Platyceps taylori                     ◦ taylor's racer
+         |    |    |- ◦ Platyceps thomasi                     ◦ thomas's semi-banded racer
+         |    |    |- ◦ Platyceps variabilis                  ◦ variable snake / variable racer
+         |    |    |- • Platyceps ventromaculatus             • glossy-bellied racer
+         |    |    |- ◦ Platyceps vittacaudatus               ◦ striped-tailed racer
+  13 mya |    |- Eirenis                                     23 --
+         |    |    |- ◦ Eirenis africanus                     ◦ african dwarf snake
+         |    |    |- ◦ Eirenis aurolineatus                  ◦ --
+         |    |    |- ◦ Eirenis barani                        ◦ baran's dwarf racer
+         |    |    |- ◦ Eirenis collaris                      ◦ collared dwarf racer
+         |    |    |- ◦ Eirenis coronella                     ◦ crowned dwarf racer
+         |    |    |- ◦ Eirenis coronelloides                 ◦ siniai dwarf racer
+         |    |    |- ◦ Eirenis decemlineatus                 ◦ narrow-striped dwarf racer
+         |    |    |- ◦ Eirenis eiselti                       ◦ eiselt's dwarf racer
+         |    |    |- ◦ Eirenis hakkariensis                  ◦ --
+         |    |    |- ◦ Eirenis kermanensis                   ◦ --
+         |    |    |- ◦ Eirenis levantinus                    ◦ --
+         |    |    |- ◦ Eirenis lineomaculatus                ◦ --
+         |    |    |- ◦ Eirenis medus                         ◦ --
+         |    |    |- ◦ Eirenis modestus                      ◦ dwarf snake / ring-headed dwarf snake
+         |    |    |- ◦ Eirenis nigrofasciatus                ◦ --
+         |    |    |- ◦ Eirenis occidentalis                  ◦ --
+         |    |    |- ◦ Eirenis persicus                      ◦ dark-headed dwarf racer
+         |    |    |- ◦ Eirenis punctatolineatus              ◦ dotted dwarf racer
+         |    |    |- ◦ Eirenis rafsanjanicus                 ◦ rafsanjan dwarf racer
+         |    |    |- ◦ Eirenis rechingeri                    ◦ rechinger's dwarf racer
+         |    |    |- ◦ Eirenis rothii                        ◦ roth's dwarf racer
+         |    |    |- ◦ Eirenis thospitis                     ◦ --
+         |    |    |- ◦ Eirenis yassujicus                    ◦ --
+  13 mya |    |- Lytorhynchus                                 7 --
+         |    |    |- ◦ Lytorhynchus diadema                  ◦ awl-headed snake / diademed sand snake / crowned leafnose snake
+         |    |    |- ◦ Lytorhynchus gaddi                    ◦ --
+         |    |    |- ◦ Lytorhynchus gasperetti               ◦ leviton's leafnose snake / leviton's awl-headed snake
+         |    |    |- ◦ Lytorhynchus kennedyi                 ◦ kennedy's leafnose snake
+         |    |    |- ◦ Lytorhynchus maynardi                 ◦ maynard's long-nosed sand snake
+         |    |    |- ◦ Lytorhynchus paradoxus                ◦ sindh awl-headed snake / sindh long-nosed sand snake
+         |    |    |- ◦ Lytorhynchus ridgewayi                ◦ derafshi snake
+  13 mya |    |- Spalerosophis                                6 --
+         |    |    |- ◦ Spalerosophis arenarius               ◦ red-spotted royal snake / red-spotted diadem snake
+         |    |    |- ◦ Spalerosophis atriceps                ◦ black-headed royal snake / fischer's royal snake
+         |    |    |- ◦ Spalerosophis diadema                 ◦ blotched royal snake / blotched diadem snake
+         |    |    |- ◦ Spalerosophis dolichospilus           ◦ werner's diadem snake
+         |    |    |- ◦ Spalerosophis josephscortec           ◦ scorteccii's diadem snake
+         |    |    |- ◦ Spalerosophis microlepis              ◦ zebra snake / jan's diadem snake
+   9 mya |    |- Macroprotodon                                4 false smooth snakes
+         |    |    |- ◦ Macroprotodon abubakeri               ◦ --
+         |    |    |- ◦ Macroprotodon brevis                  ◦ western false smooth snake / iberian false smooth snake
+         |    |    |- ◦ Macroprotodon cucullatus              ◦ false smooth snake
+         |    |    |- ◦ Macroprotodon mauritanicus            ◦ --
+         |- * Sonorini                                       14 --
+         |- * Colubrini                                     131 --
+         |- * Dispholodini                                   14 --
+         |- * Boigini / Lycodontini                         150 --
+         |- * Lampropeltini                                  53 --
