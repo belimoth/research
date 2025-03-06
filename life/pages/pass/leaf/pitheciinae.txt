@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Pitheciidae / Pitheciinae
+-----------------------------------------------------------------------------------------------------
+  11 mya |[ Pitheciinae ]                                    23 sakis, uakaris
+   7 mya |- Chiropotes                                        6 cuxiús / bearded sakis
+         |    |- • Chiropotes satanas                         • black bearded saki
+         |    |- ◦ Chiropotes chiropotes                      ◦ red-backed bearded saki
+         |    |- ◦ Chiropotes israelita                       ◦ brown-backed bearded saki
+         |    |- ◦ Chiropotes utahickae                       ◦ uta hick's bearded saki
+         |    |- • Chiropotes albinasus                       • white-nosed saki
+         |    |- ◦ Chiropotes sagulatus                       ◦ reddish-brown bearded saki
+   5 mya |- Pithecia                                         13 sakis; saki monkeys
+         |    |- ◦ Pithecia aequatorialis                     ◦ equatorial saki
+         |    |- ◦ Pithecia albicans                          ◦ white saki / buffy saki / white-footed saki
+         |    |- ◦ Pithecia cazuzai                           ◦ cazuza's saki
+         |    |- ◦ Pithecia chrysocephala                     ◦ golden-faced saki
+         |    |- ◦ Pithecia hirsuta                           ◦ hairy saki
+         |    |- ◦ Pithecia inusta                            ◦ burnished saki
+         |    |- ◦ Pithecia irrorata                          ◦ rio tapajós saki / gray's bald-faced saki
+         |    |- ◦ Pithecia isabela                           ◦ isabel's saki
+         |    |- ◦ Pithecia monachus                          ◦ monk saki
+         |    |- ◦ Pithecia milleri                           ◦ miller's saki
+         |    |- ◦ Pithecia napensis                          ◦ napo saki / napo monk saki
+         |    |- • Pithecia pithecia                          • white-faced saki
+         |    |- ◦ Pithecia vanzolinii                        ◦ vanzolini's bald-faced saki
+   3 mya |- Cacajao                                           4 uakaris
+         |    |- • Cacajao calvus                             • bald uakari / bald-headed uakari
+         |    |- ◦ Cacajao melanocephalus                     ◦ black-headed uakari / golden-backed uakari
+         |    |- ◦ Cacajao ayresii                            ◦ aracá uakari
+         |    |- ◦ Cacajao hosomi                             ◦ neblina uakari

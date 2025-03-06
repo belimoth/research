@@ -1,0 +1,8 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Cebidae
+-----------------------------------------------------------------------------------------------------
+         |[ Cebidae ]                                           --
+   6 mya |- Cebinae                                             capuchins
+   3 mya |    |- Sapajus                                        --
+   2 mya |    |- Cebus                                          --
+   2 mya |- Saimirinae                                          squirrel monkeys

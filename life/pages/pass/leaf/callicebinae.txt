@@ -1,0 +1,44 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Pitheciidae / Callicebinae
+-----------------------------------------------------------------------------------------------------
+   8 mya |[ Callicebinae ]                                   35 titis / titi monkeys
+         |- Callicebus                                        5 --
+         |    |- ◦ Callicebus barbarabrownae                  ◦ blond titi / northern bahian blond titi / barbara brown's titi
+         |    |- ◦ Callicebus coimbrai                        ◦ coimbra filho's titi
+         |    |- ◦ Callicebus melanochir                      ◦ coastal black-handed titi
+         |    |- ◦ Callicebus nigrifrons                      ◦ black-fronted titi
+         |    |- • Callicebus personatxus                     • atlantic titi
+   3 mya |- Plecturocebus                                    25 --
+         |    |- unnamed                                      6 --
+         |    |    |- • Plecturocebus donacophilus            • white-eared titi / bolivian titi / bolivian grey titi
+         |    |    |- ◦ Plecturocebus modestus                ◦ rio beni titi
+         |    |    |- ◦ Plecturocebus oenanthe                ◦ rio mayo titi
+         |    |    |- ◦ Plecturocebus olallae                 ◦ ollala brothers's titi
+         |    |    |- ◦ Plecturocebus pallescens              ◦ white-coated titi
+         |    |    |- ◦ Plecturocebus urubambensis            ◦ urubamba brown titi
+         |    |- unnamed                                     19 --
+         |    |    |- ◦ Plecturocebus baptista                ◦ baptista lake titi
+         |    |    |- ◦ Plecturocebus bernhardi               ◦ zog zog / prince bernhard's titi
+         |    |    |- ◦ Plecturocebus brunneus                ◦ brown titi
+         |    |    |- ◦ Plecturocebus cinerascens             ◦ ashy black titi
+         |    |    |- ◦ Plecturocebus parecis                 ◦ parecis titi
+         |    |    |- ◦ Plecturocebus hoffmannsi              ◦ hoffmanns's titi
+         |    |    |- ◦ Plecturocebus grovesi                 ◦ alta floresta titi
+         |    |    |- ◦ Plecturocebus miltoni                 ◦ milton's titi
+         |    |    |- ◦ Plecturocebus moloch                  ◦ red-bellied titi
+         |    |    |- ◦ Plecturocebus vieirai                 ◦ vieira's titi
+         |    |    |- ◦ Plecturocebus toppini                 ◦ toppin's titi
+         |    |    |- ◦ Plecturocebus aureipalatii            ◦ madidi titi
+         |    |    |- ◦ Plecturocebus caligatus               ◦ chestnut-bellied titi
+         |    |    |- ◦ Plecturocebus caquetensis             ◦ caquetá titi
+         |    |    |- • Plecturocebus cupreus                 • red titi / coppery titi
+         |    |    |- ◦ Plecturocebus discolor                ◦ white-tailed titi
+         |    |    |- ◦ Plecturocebus dubius                  ◦ hershkovitz's titi
+         |    |    |- ◦ Plecturocebus ornatus                 ◦ ornate titi
+         |    |    |- ◦ Plecturocebus stephennashi            ◦ stephen nash's titi
+   3 mya |- Cheracebus                                        5 --
+         |    |- ◦ Cheracebus lucifer                         ◦ lucifer titi
+         |    |- ◦ Cheracebus lugens                          • black titi / widow monkey
+         |    |- ◦ Cheracebus medemi                          ◦ colombian black-handed titi
+         |    |- ◦ Cheracebus regulus                         ◦ red-headed titi
+         |    |- ◦ Cheracebus torquatus                       ◦ collared titi

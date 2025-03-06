@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Strepsirhini
+-----------------------------------------------------------------------------------------------------
+  59 mya |[ Strepsirhini / Lemuriformes ]                       strepsirrhines; wet-nosed primates; non-tarsier primates
+         |- Lemuroidea                                          lemuroids / lemur family
+         |    |- † Archaeolemuridae                           † monkey lemurs / baboon lemurs
+         |    |- Cheirogaleidae                              42 cheirogaleids; dwarf and mouse lemurs
+         |    |    |- Cheirogaleus                           10 dwarf lemurs
+         |    |    |- Microcebus                             25 mouse lemurs
+         |    |    |- Mirza                                   2 giant mouse lemurs
+         |    |    |- Allocebus                               1 hairy-eared dwarf lemur
+         |    |    |- Phaner                                  4 fork-marked lemurs
+         |    |- Daubentoniidae / Daubentonia                   --
+         |    |    |- Daubentonia madagascariensis            1 aye-aye
+         |    |    |- † Daubentonia robusta                   † giant aye-aye
+         |    |- Indriidae                                      --
+         |    |    |- Indri                                     --
+         |    |    |- Avahi                                     --
+         |    |    |- Propithecus                               --
+         |    |- Lemuridae                                      --
+         |    |- Lepilemuridae                                  --
+         |    |- † Megaladapidae                              † --
+         |    |- † Palaeopropithecidae                        † --
+  39 mya |[ Lorisoidea / Lorisiformes ]                         lorisoids / loris family
+  36 mya |- Lorisidae                                           lorises, pottos, angwantibos
+         |    |- Perodicticinae                                 --
+         |    |    |- Arctocebus                              2 angwantibos
+         |    |    |- Perodicticus                            3 pottos
+         |    |[ Lorisinae ]                                    --
+         |    |- Loris                                        2 slender lorises
+         |    |- Nycticebus                                   8 slow lorises
+         |    |- Xanthonycticebus                             1 pygmy slow loris
+  28 mya |[ Galagidae ]                                         galagids; galagos / nagapies / bush babies
+         |- Euoticus                                          2 needle-clawed bushbabies
+         |- Galago                                            4 lesser bushbabies
+         |- Galagoides                                        3 western dwarf galagos
+         |- Otolemur                                          2 greater galagos
+         |- Paragalago                                        5 eastern dwarf galagos
+         |- Sciurocheirus                                     3 squirrel galagos

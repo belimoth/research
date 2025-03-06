@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Tarsiiformes
+-----------------------------------------------------------------------------------------------------
+         |[ Tarsiiformes ]                                   14 --
+         |[ Tarsioidea ]                                     14 --
+  22 mya |[ Tarsiidae ]                                      14 tarsiers
+         |- • Carlito syrichta                                • magô / mawumag / philippine tarsier
+         |- • Cephalopachus bancanus                          • western tarsier / horsfield's tarsier
+   7 mya |[ Tarsius ]                                        12 sulawesi tarsiers
+         |- ◦ Tarsius dentatus                                ◦ diana tarsier
+         |- ◦ Tarsius fuscus                                  ◦ makassar tarsie
+         |- ◦ Tarsius lariang                                 ◦ lariang tarsier
+         |- ◦ Tarsius niemitzi                                ◦ niemitz's tarsier
+         |- ◦ Tarsius pelengensis                             ◦ siling / lakasinding / peleng tarsier
+         |- ◦ Tarsius sangirensis                             ◦ higo / senggasi / sangihe tarsier
+         |- ◦ Tarsius spectrumgurskyae                        ◦ wusing / gursky's spectral tarsier
+         |- ◦ Tarsius supriatnai                              ◦ mimito / jatna's tarsier
+         |- ◦ Tarsius tarsier                                 ◦ spectral tarsier / selayar tarsier
+         |- ◦ Tarsius tumpara                                 ◦ tumpara / siau island tarsier
+         |- ◦ Tarsius pumilus                                 ◦ pygmy tarsier / mountain tarsier / lesser spectral tarsier
+         |- ◦ Tarsius wallacei                                ◦ wallace's tarsier

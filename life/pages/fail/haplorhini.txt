@@ -1,0 +1,6 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini
+-----------------------------------------------------------------------------------------------------
+  69 mya |[ Haplorhini ]                                        haplorhines; dry-nosed primates
+  43 mya |- * Simiiformes                                       simians / anthropoids / higher primates; monkeys, apes
+  22 mya |- * Tarsiiformes / Tarsioidea / Tarsiidae          14 tarsiers

@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Aotidae
+-----------------------------------------------------------------------------------------------------
+         |[ Aotidae ]                                        11 night monkeys
+   5 mya |- Aotus                                            11 --
+         |    |- unnamed group                                7 --
+         |    |    |- ◦ Aotus lemurinus                       ◦ gray-bellied night monkey
+         |    |    |- ◦ Aotus zonalis                         ◦ panamanian night monkey
+         |    |    |- ◦ Aotus griseimembra                    ◦ gray-handed night monkey
+         |    |    |- ◦ Aotus jorgehernandezi                 ◦ hernández-camacho's night monkey
+         |    |    |- ◦ Aotus brumbacki                       ◦ brumback's night monkey
+         |    |    |- ◦ Aotus trivirgatus                     ◦ three-striped night monkey
+         |    |    |- ◦ Aotus vociferans                      ◦ spix's night monkey
+         |    |- unnamed group                                4 --
+         |    |    |- ◦ Aotus azarae                          ◦ azara's night monkey
+         |    |    |- ◦ Aotus miconax                         ◦ peruvian night monkey
+         |    |    |- ◦ Aotus nancymaae                       ◦ nancy ma's night monkey
+         |    |    |- ◦ Aotus nigriceps                       ◦ black-headed night monkey

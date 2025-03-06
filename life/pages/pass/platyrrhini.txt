@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini
+-----------------------------------------------------------------------------------------------------
+  21 mya |[ Platyrrhini ]                                   160 new-world monkeys
+  17 mya |- * Pitheciidae                                       --
+  15 mya |- * Callitrichidae                                 63 marmosets, tamarins, lion tamarins
+  14 mya |- * Atelidae                                          --
+   6 mya |- * Cebidae                                           --
+   5 mya |- * Aotidae                                        11 night monkeys

@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Atelidae
+-----------------------------------------------------------------------------------------------------
+  14 mya |[ Atelidae ]                                          --
+         |- Alouattinae                                         howler monkeys
+         |    |- todo
+  11 mya |- Atelinae                                         11 atelines
+         |    |- • Lagothrix flavicauda                       • yellow-tailed woolly monkey
+         |    |- • Lagothrix lagothricha                      • common woolly monkey
+   5 mya |    |- Ateles                                       7 --
+         |    |    |- • Ateles paniscus                       • red-faced spider monkey
+         |    |    |- • Ateles belzebuth                      • white-bellied spider monkey
+         |    |    |- • Ateles chamek                         • peruvian spider monkey
+         |    |    |- • Ateles hybridus                       • brown spider monkey
+         |    |    |- • Ateles marginatus                     • white-cheeked spider monkey
+         |    |    |- • Ateles fusciceps                      • black-headed spider monkey
+         |    |    |- • Ateles geoffroyi                      • central american spider monkey
+   3 mya |    |- Brachyteles                                  2 muriquis / woolly spider monkeys
+         |    |    |- • Brachyteles arachnoides               • southern muriqui
+         |    |    |- • Brachyteles hypoxanthus               • northern muriqui

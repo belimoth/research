@@ -1,0 +1,64 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes / Platyrrhini / Callitrichidae
+-----------------------------------------------------------------------------------------------------
+  15 mya |[ Callitrichidae ]                                  63 --
+         |- Saguinus                                          12 tamarins
+         |    |- Saguinus                                      8 --
+         |    |    |- • Saguinus midas                         • midas tamarin / red-handed tamarin / golden-handed tamarin
+         |    |    |- • Saguinus niger                         • black tamarin / western black tamarin / western black-handed tamarin
+         |    |    |- ◦ Saguinus ursulus                       ◦ eastern black-handed tamarin
+         |    |    |- • Saguinus bicolor                       • pied tamarin
+         |    |    |- ◦ Saguinus martinsi                      ◦ martins's tamarin
+         |    |    |- • Saguinus leucopus                      • white-footed tamarin
+         |    |    |- • Saguinus oedipus                       • cotton-top tamarin
+         |    |    |- • Saguinus geoffroyi                     • red-crested tamarin / rufous-naped tamarin / panamanian tamarin
+         |    |- Tamarinus                                     4 --
+         |    |    |- • Saguinus mystax                        • moustached tamarin
+         |    |    |- ◦ Saguinus labiatus                      ◦ white-lipped tamarin / red-bellied tamarin
+         |    |    |- • Saguinus imperator                     • emperor tamarin
+         |    |    |- ◦ Saguinus inustus                       ◦ mottle-faced tamarin
+         |- Leontocebus                                       10 saddle-back taramins
+         |    |- ◦ Leontocebus nigricollis                     ◦ black-mantled tamarin
+         |    |- • Leontocebus fuscicollis                     • brown-mantled tamarin
+         |    |- ◦ Leontocebus leucogenys                      ◦ andean saddle-back tamarin
+         |    |- ◦ Leontocebus fuscus                          ◦ lesson's saddle-back tamarin
+         |    |- ◦ Leontocebus cruzlimai                       ◦ cruz lima's saddle-back tamarin
+         |    |- ◦ Leontocebus weddelli                        ◦ weddell's saddle-back tamarin
+         |    |- • Leontocebus tripartitus                     • golden-mantled tamarin
+         |    |- ◦ Leontocebus illigeri                        ◦ illiger's saddle-back tamarin
+         |    |- ◦ Leontocebus lagonotus                       ◦ red-mantled saddle-back tamarin
+         |    |- ◦ Leontocebus nigrifrons                      ◦ geoffroy's saddle-back tamarin
+         |- Leontopithecus                                     4 lion tamarins
+         |    |- • Leontopithecus rosali                       • golden lion tamarin / golden marmoset
+         |    |- • Leontopithecus chrysomela                   • golden-headed lion tamarin
+         |    |- • Leontopithecus chrysopygu                   • black lion tamarin
+         |    |- • Leontopithecus caissar                      • superagui lion tamarin
+         |- Callimico                                          1 --
+         |    |- • Callimico goeldii                           • goeldi's marmoset
+         |- Mico                                              16 --
+         |    |- ◦ Mico argentatus                             ◦ silvery marmoset
+         |    |- ◦ Mico humilis                                ◦ roosmalens' dwarf marmoset
+         |    |- ◦ Mico leucippe                               ◦ white marmoset
+         |    |- • Mico melanurus                              • black-tailed marmoset
+         |    |- • Mico schneideri                             • schneider's marmoset
+         |    |- ◦ Mico intermedia                             ◦ aripuanã marmoset / hershkovitz's marmoset
+         |    |- ◦ Mico emiliae                                ◦ emilia's marmoset
+         |    |- ◦ Mico nigriceps                              ◦ black-headed marmoset
+         |    |- ◦ Mico marcai                                 ◦ marca's marmoset / manicore marmoset
+         |    |- ◦ Mico humeralifer                            ◦ santarem marmoset / black-and-white tassel-ear marmoset
+         |    |- ◦ Mico chrysoleucos                           ◦ gold-and-white marmoset / gold-and-white tassel-ear marmoset
+         |    |- ◦ Mico mauesi                                 ◦ maués marmoset
+         |    |- ◦ Mico saterei                                ◦ sateré marmoset
+         |    |- ◦ Mico acariensis                             ◦ rio acarí marmoset
+         |    |- ◦ Mico rondoni                                ◦ rondônia marmoset
+         |    |- ◦ Mico munduruku                              ◦ munduruku marmoset
+         |- Cebuella                                           2 --
+         |    |- • Cebuella pygmaea                            • western pygmy marmoset
+         |    |- • Cebuella niveiventris                       • eastern pygmy marmoset
+   3 mya |- Callithrix                                         6 --
+         |    |- • Callithrix jacchus                          • common marmoset / white-tufted marmoset / white-tufted-ear marmoset
+         |    |- • Callithrix penicillata                      • black-tufted marmoset
+         |    |- ◦ Callithrix kuhlii                           ◦ wied's marmoset
+         |    |- ◦ Callithrix geoffroyi                        ◦ white-headed marmoset
+         |    |- • Callithrix aurita                           • buffy-tufted marmoset / buffy-tufted-ear marmoset
+         |    |- • Callithrix flaviceps                        • buffy-headed marmoset

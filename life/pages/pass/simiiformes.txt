@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates / Haplorhini / Simiiformes
+-----------------------------------------------------------------------------------------------------
+  43 mya |[ Simiiformes ]                                       simians / anthropoids / higher primates; monkeys, apes
+  21 mya |- * Platyrrhini                                   160 new-world monkeys
+         |[ Catarrhini ]                                        --
+         |- Cercopithecoidea                                138 old-world monkeys
+         |    |- todo                                           --
+         |[ Hominoidea ]                                        apes
+         |- Hylobatidae                                      20 gibbons

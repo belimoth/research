@@ -1,0 +1,6 @@
+-----------------------------------------------------------------------------------------------------
+Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Primates
+-----------------------------------------------------------------------------------------------------
+  74 mya |[ Primates ]                                          primates; lemurs, monkeys, apes
+  69 mya |- * Haplorhini                                        haplorhines; dry-nosed primates
+  59 mya |- * Strepsirhini / Lemuriformes                       strepsirrhines; wet-nosed primates; non-tarsier primates
