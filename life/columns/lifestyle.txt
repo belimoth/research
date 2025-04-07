@@ -1,0 +1,6 @@
+terrestrial
+fossorial
+arboreal
+
+freshwater
+saltwater

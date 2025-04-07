@@ -990,7 +990,88 @@ Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondyl
          |    |    |- Caridae                                   --
          |    |    |- Nemonychidae                              pine flower weevils
  117 mya |    |[ Gonatoceri / Curculionidae ]                   curculionids; true weevils (radiated with gymnosperms)
-         |    |-
+         |    |- Bagoinae
+         |    |- Bardinae
+         |    |- Brachycerinae
+         |    |- Ceutorhynchinae
+         |    |- Conoderinae
+         |    |- Cossoninae
+         |    |- Cryptorhynchinae
+         |    |- Curcolioninae
+         |    |- Cyclominae
+         |    |- Dryophthorinae
+         |    |- Entiminae
+         |    |- Hyperinae
+         |    |- Lixinae
+         |    |- Mesoptiliinae
+         |    |- Molytinae
+         |    |- Orobitidinae
+         |    |- Platypodinae                                   ambrosia beetles
+         |    |- Raymondionyminae                               --
+         |    |- Scolytinae                               6,000 bark beetles
+         |    |    |- Cortylini                                 --
+         |    |    |- Cryphalini                                --
+         |    |    |- Crypturgini                               --
+         |    |    |- Dryocoetini                               --
+         |    |    |- Hylastini                                 --
+         |    |    |- Hylesinini                                --
+         |    |    |- Hylurgini                                 --
+         |    |    |- Hypoborini                                --
+         |    |    |- Ipini                                     --
+         |    |    |    |- Acanthotomicus
+         |    |    |    |- Ips
+         |    |    |    |    |- ◦ Ips acuminatus              ◦ --
+         |    |    |    |    |- ◦ Ips amitinus                ◦ small spruce bark beetle
+         |    |    |    |    |- ◦ Ips apache                  ◦ --
+         |    |    |    |    |- ◦ Ips avulsus                 ◦ small southern pine engraver
+         |    |    |    |    |- ◦ Ips bonanseai               ◦ --
+         |    |    |    |    |- ◦ Ips borealis                ◦ northern engraver
+         |    |    |    |    |- ◦ Ips calligraphus            ◦ six-spined ips
+         |    |    |    |    |- ◦ Ips cembrae                 ◦ larch bark beetle
+         |    |    |    |    |- ◦ Ips chinensis               ◦ --
+         |    |    |    |    |- ◦ Ips confusus                ◦ piñon ips
+         |    |    |    |    |- ◦ Ips cribricollis            ◦ --
+         |    |    |    |    |- ◦ Ips duplicatus              ◦ northern bark beetle
+         |    |    |    |    |- ◦ Ips emarginatus             ◦ emarginate ips
+         |    |    |    |    |- ◦ Ips grandicollis            ◦ eastern five-spined ips
+         |    |    |    |    |- ◦ Ips hauseri                 ◦ kyrgyz mountain engraver
+         |    |    |    |    |- ◦ Ips hoppingi                ◦ --
+         |    |    |    |    |- ◦ Ips hunteri                 ◦ --
+         |    |    |    |    |- ◦ Ips integer                 ◦ --
+         |    |    |    |    |- ◦ Ips knausi                  ◦ --
+         |    |    |    |    |- ◦ Ips lecontei                ◦ arizona five-spined ips
+         |    |    |    |    |- ◦ Ips longifolia              ◦ --
+         |    |    |    |    |- ◦ Ips montanus                ◦ --
+         |    |    |    |    |- ◦ Ips nitidus                 ◦ qinghai spruce bark beetle
+         |    |    |    |    |- ◦ Ips paraconfusus            ◦ california five-spined ips
+         |    |    |    |    |- ◦ Ips perroti                 ◦ --
+         |    |    |    |    |- ◦ Ips perturbatus             ◦ northern spruce engraver
+         |    |    |    |    |- ◦ Ips pilifrons               ◦ --
+         |    |    |    |    |- ◦ Ips pini                    ◦ pine engraver
+         |    |    |    |    |- ◦ Ips plastographus           ◦ --
+         |    |    |    |    |- ◦ Ips schmutzenhoferi         ◦ --
+         |    |    |    |    |- ◦ Ips sexdentatus             ◦ --
+         |    |    |    |    |- ◦ Ips shangrila               ◦ --
+         |    |    |    |    |- ◦ Ips stebbingi               ◦ --
+         |    |    |    |    |- ◦ Ips subelongatus            ◦ oblong bark beetle
+         |    |    |    |    |- ◦ Ips tridens                 ◦ --
+         |    |    |    |    |- ◦ Ips typographus             ◦ european spruce bark beetle
+         |    |    |    |    |- ◦ Ips woodi                   ◦ --
+         |    |    |    |- Orthotomicus
+         |    |    |    |- Pityogenes
+         |    |    |    |- Pityokteines
+         |    |    |    |- Pseudips
+         |    |    |- Phloeosinini                              --
+         |    |    |- Phloeotribini                             --
+         |    |    |- Polygraphini                              --
+         |    |    |- Scolytini                                 --
+         |    |    |- Scolytoplatypodini                        --
+         |    |    |- Taphrorychini                             --
+         |    |    |- Thamnurgini                               --
+         |    |    |- Tomicini                                  --
+         |    |    |- Xyleborini                                --
+         |    |    |- Xyloterini                                --
+         |    |- Xiphaspidinae                                  --
 -----------------------------------------------------------------------------------------------------
 Opimoda / Protostomia / Ecdysozoa / Pancrustacea / Hexapoda / Insecta / Dicondylia / Pterygota / Neoptera / Coleoptera / Adephaga
 -----------------------------------------------------------------------------------------------------

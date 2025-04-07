@@ -3298,26 +3298,20 @@ Cephalopoda Nautilida Nautilina Nautilaceae Nautilaceae Nautilidae Nautilus viti
  274 mya |    |- * Oegopsida                                228 squids 4; oegopsids; neritic squids
  269 mya |[ Octopodiformes ]                                307 eight-limbed cephalopods
 
+Coleoidea Decapodiformes Spirulida Spirula spirula • ramshorn squid
 -----------------------------------------------------------------------------------------------------
-Opimoda / Protostomia / Mollusca / Cephalopoda / Spirulida
------------------------------------------------------------------------------------------------------
-         |[ Spirulida ]                                       1 ramshorn squids
-         |- • Spirula spirula                                 • ramshorn squid
------------------------------------------------------------------------------------------------------
-Opimoda / Protostomia / Mollusca / Cephalopoda / Sepiida
------------------------------------------------------------------------------------------------------
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepioloidea
+Coleoidea Decapodiformes Sepiida Sepiidae
          |[ Sepiida ]                                       116 cuttlefish
-         |- Sepiadariidae                                     8 --
-         |    |- Sepiadarium                                  5 --
-         |    |    |- ◦ Sepiadarium auritum                   ◦ --
-         |    |    |- • Sepiadarium austrinum                 • southern bottletail squid
-         |    |    |- ◦ Sepiadarium gracilis                  ◦ --
-         |    |    |- ◦ Sepiadarium kochi                     ◦ tropical bottletail squid
-         |    |    |- ◦ Sepiadarium nipponianum               ◦ --
-         |    |- Sepioloidea                                  3 --
-         |    |    |- • Sepioloidea lineolata                 • striped pyjama squid / striped dumpling squid
-         |    |    |- ◦ Sepioloidea magna                     ◦ --
-         |    |    |- ◦ Sepioloidea pacifica                  ◦ pacific bobtail squid
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium Sepiadarium auritum     ◦ --
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium Sepiadarium austrinum   • southern bottletail squid
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium Sepiadarium gracilis    ◦ --
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium Sepiadarium kochi       ◦ tropical bottletail squid
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepiadarium Sepiadarium nipponianum ◦ --
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepioloidea Sepioloidea lineolata   • striped pyjama squid / striped dumpling squid
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepioloidea Sepioloidea magna       ◦ --
+Coleoidea Decapodiformes Sepiida Sepiadariidae Sepioloidea Sepioloidea pacifica    ◦ pacific bobtail squid
   85 mya |- Sepiidae                                        108 --
          |    |- Metasepia                                    2 --
          |    |    |- • Metasepia pfefferi                    • flamboyant cuttlefish
@@ -3849,25 +3843,21 @@ Oegopsida     Chiroteuthoidea  Chiroteuthidae    --             --           -- 
 Oegopsida     Chiroteuthoidea  Chiroteuthidae    --             --           --             Planctoteuthis levimana         ◦ --
 Oegopsida     Chiroteuthoidea  Chiroteuthidae    --             --           --             Planctoteuthis lippula          ◦ --
 Oegopsida     Chiroteuthoidea  Chiroteuthidae    --             --           --             Planctoteuthis oligobessa       ◦ --
-Oegopsida     Chiroteuthoidea  Mastigoteuthidae                           15 whiplash squids
-         |    |    |- • Idioteuthis cordiformis               • --
-         |    |    |- ◦ Mastigopsis hjorti                    ◦ --
-         |    |    |- ◦ Mastigotragus pyrodes                 ◦ --
-         |    |    |- Echinoteuthis                           2 --
-         |    |    |    |- ◦ Echinoteuthis atlantica          ◦ --
-         |    |    |    |- ◦ Echinoteuthis famelica           ◦ --
-         |    |    |- Magnoteuthis                            3 --
-         |    |    |    |- ◦ Magnoteuthis magna               ◦ --
-         |    |    |    |- • Magnoteuthis microlucens         • "octosquid"
-         |    |    |    |- ◦ Magnoteuthis osheai              ◦ --
-         |    |    |- Mastigoteuthis                          7 --
-         |    |    |    |- ◦ Mastigoteuthis agassizii         ◦ --
-         |    |    |    |- ◦ Mastigoteuthis dentata           ◦ --
-         |    |    |    |- ◦ Mastigoteuthis flammea           ◦ flaming whiplash squid
-         |    |    |    |- ◦ Mastigoteuthis glaukopis         ◦ --
-         |    |    |    |- ◦ Mastigoteuthis grimaldii         ◦ --
-         |    |    |    |- ◦ Mastigoteuthis psychrophila      ◦ --
-         |    |    |    |- ◦ Mastigoteuthis schmidti          ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Idioteuthis cordiformis         • --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigopsis hjorti              ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigotragus pyrodes           ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Echinoteuthis atlantica          ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Echinoteuthis famelica           ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Magnoteuthis magna               ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Magnoteuthis microlucens         • "octosquid"
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Magnoteuthis osheai              ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis agassizii         ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis dentata           ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis flammea           ◦ flaming whiplash squid
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis glaukopis         ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis grimaldii         ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis psychrophila      ◦ --
+Oegopsida     Chiroteuthoidea  Mastigoteuthidae  --             --           --             Mastigoteuthis schmidti          ◦ --
 Oegopsida Chiroteuthoidea Magnapinnidae                                3 --
          |    |    |- • Magnapinna atlantica                  • atlantic bigfin squid
          |    |    |- • Magnapinna pacifica                   • pacific bigfin squid
@@ -11645,7 +11635,7 @@ Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodenti
 -----------------------------------------------------------------------------------------------------
          |[ Caviomorpha ]                                       new world hystricognaths
          |- Cavioidea                                         4 --
-         |    |- * Caviidae                                  17 cavy family
+         |    |[ Caviidae ]                                  17 cavy family
          |    |- * Hydrochoerinae                             4 --
          |    |- * Caviinae                                  11 --
    4 mya |    |- * Dolichotinae                               2 maras
@@ -11685,67 +11675,43 @@ Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodenti
 -----------------------------------------------------------------------------------------------------
 Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Hystricomorpha / Caviomorpha / Erethizontidae
 -----------------------------------------------------------------------------------------------------
-  20 mya |[ Erethizontidae ]                                 19 --
-         |- • Chaetomys subspinosus                           • bristle-spined rat
-         |[ Erethizontinae ]                                 18
-         |- • Erethizon dorsatum                              • north american porcupine
-         |[ Coendou ]                                        17 coendous / prehensile-tailed porcupines
-         |- • Coendou baturitensis                            • baturite porcupine
-         |- • Coendou bicolor                                 • bicolored-spined porcupine
-         |- • Coendou ichillus                                • streaked dwarf porcupine
-         |- • Coendou insidiosus                              • bahia porcupine
-         |- • Coendou melanurus                               • black-tailed hairy dwarf porcupine
-         |- • Coendou mexicanus                               • mexican hairy dwarf porcupine
-         |- • Coendou nycthemera                              • black dwarf porcupine
-         |- • Coendou longicaudatus                           • amazonian long-tailed porcupine
-         |- • Coendou prehensilis                             • brazilian porcupine
-         |- • Coendou pruinosus                               • frosted hairy dwarf porcupine
-         |- • Coendou quichua                                 • andean porcupine
-         |- • Coendou roosmalenorum                           • roosmalen's dwarf porcupine
-         |- • Coendou rufescens                               • stump-tailed porcupine
-         |- • Coendou sanctamartae                            • santa marta porcupine
-         |- • Coendou speratus                                • coandumirim
-         |- • Coendou spinosus                                • paraguaian hairy dwarf porcupine
-         |- • Coendou vestitus                                • brown hairy dwarf porcupine
-
-
-
-
------------------------------------------------------------------------------------------------------
-Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Hystricomorpha / Hydrochoerinae
------------------------------------------------------------------------------------------------------
-         |[ Hydrochoerinae ]                                  4 --
-         |- Hydrochoeerus                                     2 capybaras
-         |    |- • Hydrochoerus hydrochaeris                  • greater capybara
-         |    |- • Hydrochoerus isthmius                      • lesser capybara
- 11 mya  |[ Kerodon ]                                         2 --
-         |- • Kerodon acrobata                                • acrobatic cavy
-         |- • Kerodon rupestris                               • mocó / rock cavy
------------------------------------------------------------------------------------------------------
-Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Hystricomorpha / Caviinae
------------------------------------------------------------------------------------------------------
-         |[ Caviinae ]                                       11 --
-  10 mya |- Microcavia                                        3 mountain cavies
-         |    |- • Microcavia australis                       • southern mountain cavy
-         |    |- • Microcavia niata                           • andean mountain cavy
-         |    |- • Microcavia shiptoni                        • shipton's mountain cavy
-   6 mya |- Galea                                             3 yellow-toothd cavies
-         |    |- • Galea monasteriensis                       • muenster yellow-toothed cavy
-         |    |- • Galea musteloides                          • common yellow-toothed cavy
-         |    |- • Galea spixii                               • spix's yellow-toothed cavy
-   6 mya |[ Cavia ]                                           5 cavies / guinea pigs
-         |- • Cavia aperea                                    • brazilian guinea pig
-         |- • Cavia fulgida                                   • shiny guinea pig
-         |- • Cavia intermedia                                • intermediate guinea pig
-         |- • Cavia magna                                     • greater guinea pig
-         |- • Cavia tschudii                                  • montane guinea pig
-         |- • Cavia tschudii porcellus                        • domestic guinea pig (subspecies) (domesticated)
------------------------------------------------------------------------------------------------------
-Opimoda / Deuterostomia / Sarcopterygii / Synapsida / Euarchontoglires / Rodentia / Hystricomorpha / Dolichotinae
------------------------------------------------------------------------------------------------------
-   4 mya |[ Dolichotinae ]                                    2 maras
-         |- • Dolichotis patagonum                            • patagonian mara
-         |- • Pediolagus salinicola                           • chacoan mara
+Erethizontidae Chaetomyinae   Chaetomys subspinosus     • bristle-spined rat
+Erethizontidae Erethizontinae Erethizon dorsatum        • north american porcupine
+Erethizontidae Erethizontinae Coendou baturitensis      • baturite porcupine
+Erethizontidae Erethizontinae Coendou bicolor           • bicolored-spined porcupine
+Erethizontidae Erethizontinae Coendou ichillus          • streaked dwarf porcupine
+Erethizontidae Erethizontinae Coendou insidiosus        • bahia porcupine
+Erethizontidae Erethizontinae Coendou melanurus         • black-tailed hairy dwarf porcupine
+Erethizontidae Erethizontinae Coendou mexicanus         • mexican hairy dwarf porcupine
+Erethizontidae Erethizontinae Coendou nycthemera        • black dwarf porcupine
+Erethizontidae Erethizontinae Coendou longicaudatus     • amazonian long-tailed porcupine
+Erethizontidae Erethizontinae Coendou prehensilis       • brazilian porcupine
+Erethizontidae Erethizontinae Coendou pruinosus         • frosted hairy dwarf porcupine
+Erethizontidae Erethizontinae Coendou quichua           • andean porcupine
+Erethizontidae Erethizontinae Coendou roosmalenorum     • roosmalen's dwarf porcupine
+Erethizontidae Erethizontinae Coendou rufescens         • stump-tailed porcupine
+Erethizontidae Erethizontinae Coendou sanctamartae      • santa marta porcupine
+Erethizontidae Erethizontinae Coendou speratus          • coandumirim
+Erethizontidae Erethizontinae Coendou spinosus          • paraguaian hairy dwarf porcupine
+Erethizontidae Erethizontinae Coendou vestitus          • brown hairy dwarf porcupine
+Caviidae       Hydrochoerinae Hydrochoerus hydrochaeris • greater capybara
+Caviidae       Hydrochoerinae Hydrochoerus isthmius     • lesser capybara
+Caviidae       Hydrochoerinae Kerodon acrobata          • acrobatic cavy
+Caviidae       Hydrochoerinae Kerodon rupestris         • mocó / rock cavy
+Caviidae       Caviinae       Microcavia australis      • southern mountain cavy
+Caviidae       Caviinae       Microcavia niata          • andean mountain cavy
+Caviidae       Caviinae       Microcavia shiptoni       • shipton's mountain cavy
+Caviidae       Caviinae       Galea monasteriensis      • muenster yellow-toothed cavy
+Caviidae       Caviinae       Galea musteloides         • common yellow-toothed cavy
+Caviidae       Caviinae       Galea spixii              • spix's yellow-toothed cavy
+Caviidae       Caviinae       Cavia aperea              • brazilian guinea pig
+Caviidae       Caviinae       Cavia fulgida             • shiny guinea pig
+Caviidae       Caviinae       Cavia intermedia          • intermediate guinea pig
+Caviidae       Caviinae       Cavia magna               • greater guinea pig
+Caviidae       Caviinae       Cavia tschudii            • montane guinea pig
+Caviidae       Caviinae       Cavia tschudii porcellus  • domestic guinea pig (subspecies) (domesticated)
+Caviidae       Dolichotinae   Dolichotis patagonum      • patagonian mara
+Caviidae       Dolichotinae   Pediolagus salinicola     • chacoan mara
 
 
 
